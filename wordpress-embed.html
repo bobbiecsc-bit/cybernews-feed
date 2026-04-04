@@ -1,0 +1,415 @@
+<!-- 
+  CYBERSECURITY NEWS FEED — WordPress Custom HTML Block  (v3: paginated)
+  =======================================================================
+  Paste this entire block into a WordPress page using:
+    "+" → Custom HTML block
+
+  ONE THING TO CHANGE before publishing:
+  Find the line that reads:
+    const FEED_BASE = 'https://YOUR-PROJECT.vercel.app';
+  Replace it with your actual Vercel deployment URL (no trailing slash).
+
+  Page files served:
+    feed.json       page 1 (newest 50)
+    feed-2.json     page 2
+    ...
+    feed-5.json     page 5 (oldest 50, up to 250 total)
+-->
+
+<div id="csc-feed">
+
+  <!-- ── OPTIONAL: Top banner ad ─────────────────────────── -->
+  <!--
+  <div class="csc-ad-banner">YOUR AD CODE HERE</div>
+  -->
+
+  <!-- ── HEADER ──────────────────────────────────────────── -->
+  <div class="csc-header">
+    <h2 class="csc-title">Cybersecurity News</h2>
+    <p class="csc-subtitle">Aggregated from leading security sources · Updated every 6 hours</p>
+
+    <div class="csc-tabs" id="csc-tabs" role="tablist" aria-label="Filter by category">
+      <button class="csc-tab csc-tab--active" data-cat="all"           role="tab" aria-pressed="true">All</button>
+      <button class="csc-tab"                  data-cat="breach"        role="tab" aria-pressed="false">Breach</button>
+      <button class="csc-tab"                  data-cat="vulnerability" role="tab" aria-pressed="false">Vulnerability</button>
+      <button class="csc-tab"                  data-cat="malware"       role="tab" aria-pressed="false">Malware</button>
+      <button class="csc-tab"                  data-cat="threat"        role="tab" aria-pressed="false">Threat</button>
+    </div>
+
+    <input
+      id="csc-search"
+      class="csc-search"
+      type="search"
+      placeholder="Search articles…"
+      aria-label="Search cybersecurity news"
+    />
+  </div>
+
+  <!-- ── ARTICLE LIST ────────────────────────────────────── -->
+  <div id="csc-list" role="feed" aria-label="Cybersecurity news articles">
+    <p class="csc-status">Loading…</p>
+  </div>
+
+  <!-- ── PAGINATION ──────────────────────────────────────── -->
+  <nav class="csc-pagination" id="csc-pagination" aria-label="News feed pages">
+    <button class="csc-page-btn" id="csc-prev" disabled aria-label="Previous page">← Previous</button>
+    <span class="csc-page-info" id="csc-page-info"></span>
+    <button class="csc-page-btn" id="csc-next" disabled aria-label="Next page">Next →</button>
+  </nav>
+
+  <!-- ── FOOTER ──────────────────────────────────────────── -->
+  <p class="csc-footer">
+    <span id="csc-updated"></span>
+    <span aria-hidden="true"> · </span>
+    <a id="csc-feedlink" href="#" target="_blank" rel="noopener noreferrer">Feed source</a>
+    <span aria-hidden="true"> · </span>
+    Links open the original article on the source site.
+  </p>
+
+</div>
+
+
+<!-- ================================================================
+     STYLES — neutral, inherits WordPress theme
+     ================================================================ -->
+<style>
+#csc-feed {
+  max-width: 800px;
+  margin: 0 auto;
+}
+#csc-feed .csc-ad-banner {
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+#csc-feed .csc-title  { margin: 0 0 0.2em; }
+#csc-feed .csc-subtitle {
+  margin: 0 0 1em;
+  font-size: 0.82em;
+  opacity: 0.65;
+}
+#csc-feed .csc-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 0.75em;
+}
+#csc-feed .csc-tab {
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  padding: 4px 12px;
+  font-size: 0.78em;
+  font-weight: 600;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+  letter-spacing: 0.03em;
+  color: inherit;
+  font-family: inherit;
+}
+#csc-feed .csc-tab:hover        { opacity: 0.8; }
+#csc-feed .csc-tab--active      { opacity: 1; background: rgba(0,0,0,0.06); }
+#csc-feed .csc-search {
+  width: 100%;
+  padding: 7px 10px;
+  font-size: 0.88em;
+  font-family: inherit;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 3px;
+  background: transparent;
+  color: inherit;
+  margin-bottom: 1.1em;
+  box-sizing: border-box;
+}
+#csc-feed .csc-search:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 1px;
+}
+
+/* Articles */
+#csc-feed #csc-list { margin: 0; padding: 0; }
+#csc-feed .csc-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+#csc-feed .csc-item:last-child  { border-bottom: none; }
+#csc-feed .csc-item-title {
+  font-size: 0.97em;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+#csc-feed .csc-item-title:hover { text-decoration: underline; }
+#csc-feed .csc-item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75em;
+  opacity: 0.7;
+}
+#csc-feed .csc-source {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#csc-feed .csc-cat {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 2px;
+  font-size: 0.9em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+#csc-feed .csc-cat--breach        { background:#fde8ec; color:#b01c35; }
+#csc-feed .csc-cat--vulnerability { background:#fef0e0; color:#9a5000; }
+#csc-feed .csc-cat--malware       { background:#f0e8fc; color:#6a0aad; }
+#csc-feed .csc-cat--threat        { background:#fdeae8; color:#a02010; }
+#csc-feed .csc-item-summary {
+  font-size: 0.84em;
+  line-height: 1.5;
+  opacity: 0.75;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Pagination */
+#csc-feed .csc-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 1.4em;
+  padding-top: 1em;
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+#csc-feed .csc-page-btn {
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  padding: 6px 16px;
+  font-size: 0.82em;
+  font-weight: 600;
+  cursor: pointer;
+  color: inherit;
+  font-family: inherit;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+#csc-feed .csc-page-btn:hover:not(:disabled) { opacity: 1; }
+#csc-feed .csc-page-btn:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+#csc-feed .csc-page-info {
+  font-size: 0.8em;
+  opacity: 0.6;
+  text-align: center;
+  flex: 1;
+}
+
+/* Status / empty */
+#csc-feed .csc-status {
+  padding: 2em 0;
+  text-align: center;
+  opacity: 0.55;
+  font-size: 0.9em;
+}
+
+/* Footer */
+#csc-feed .csc-footer {
+  margin-top: 1em;
+  font-size: 0.75em;
+  opacity: 0.55;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  #csc-feed .csc-tab--active      { background: rgba(255,255,255,0.08); }
+  #csc-feed .csc-search           { border-color: rgba(255,255,255,0.2); }
+  #csc-feed .csc-item             { border-bottom-color: rgba(255,255,255,0.1); }
+  #csc-feed .csc-pagination       { border-top-color: rgba(255,255,255,0.1); }
+  #csc-feed .csc-cat--breach        { background:#4a0a18; color:#ff8fa3; }
+  #csc-feed .csc-cat--vulnerability { background:#3d2000; color:#ffb865; }
+  #csc-feed .csc-cat--malware       { background:#2a0a4a; color:#c97aff; }
+  #csc-feed .csc-cat--threat        { background:#3d0a00; color:#ff9080; }
+}
+</style>
+
+
+<!-- ================================================================
+     SCRIPT
+     ================================================================ -->
+<script>
+(function () {
+  'use strict';
+
+  // *** Replace with your Vercel project URL (no trailing slash) ***
+  const FEED_BASE = 'https://YOUR-PROJECT.vercel.app';
+
+  // Build the URL for a given 1-based page number
+  function pageUrl(n) {
+    return n === 1
+      ? FEED_BASE + '/feed.json'
+      : FEED_BASE + '/feed-' + n + '.json';
+  }
+
+  // ── State ──────────────────────────────────────────────────────
+  let pageArticles   = [];   // articles on the current page from the server
+  let currentPage    = 1;
+  let totalPages     = 1;
+  let activeCategory = 'all';
+  let searchQuery    = '';
+
+  // ── DOM ────────────────────────────────────────────────────────
+  const listEl    = document.getElementById('csc-list');
+  const tabs      = document.querySelectorAll('#csc-tabs .csc-tab');
+  const searchEl  = document.getElementById('csc-search');
+  const updatedEl = document.getElementById('csc-updated');
+  const feedLink  = document.getElementById('csc-feedlink');
+  const prevBtn   = document.getElementById('csc-prev');
+  const nextBtn   = document.getElementById('csc-next');
+  const pageInfo  = document.getElementById('csc-page-info');
+
+  // ── Helpers ────────────────────────────────────────────────────
+  function escHtml(str) {
+    const d = document.createElement('div');
+    d.textContent = String(str);
+    return d.innerHTML;
+  }
+
+  function fmtDate(iso) {
+    try {
+      return new Date(iso).toLocaleDateString('en-US', {
+        month: 'short', day: 'numeric', year: 'numeric'
+      });
+    } catch (_) { return ''; }
+  }
+
+  // ── Render current pageArticles with active filter/search ──────
+  function render() {
+    const q = searchQuery.trim().toLowerCase();
+
+    const visible = pageArticles.filter(a => {
+      const catOk    = activeCategory === 'all' || a.category === activeCategory;
+      const searchOk = !q ||
+        a.title.toLowerCase().includes(q) ||
+        (a.summary || '').toLowerCase().includes(q) ||
+        a.source.toLowerCase().includes(q);
+      return catOk && searchOk;
+    });
+
+    if (!visible.length) {
+      listEl.innerHTML = '<p class="csc-status">No articles match this filter on this page. Try another page or clear the filter.</p>';
+    } else {
+      listEl.innerHTML = visible.map(a => `
+        <div class="csc-item">
+          <a class="csc-item-title"
+             href="${escHtml(a.url)}"
+             target="_blank"
+             rel="noopener noreferrer nofollow"
+          >${escHtml(a.title)}</a>
+          <div class="csc-item-meta">
+            <span class="csc-source">${escHtml(a.source)}</span>
+            <span aria-hidden="true">·</span>
+            <span class="csc-cat csc-cat--${escHtml(a.category)}">${escHtml(a.category)}</span>
+            <span aria-hidden="true">·</span>
+            <time datetime="${escHtml(a.date)}">${fmtDate(a.date)}</time>
+          </div>
+          ${a.summary ? `<p class="csc-item-summary">${escHtml(a.summary)}</p>` : ''}
+        </div>
+      `).join('');
+    }
+
+    // Pagination controls
+    prevBtn.disabled = currentPage <= 1;
+    nextBtn.disabled = currentPage >= totalPages;
+    pageInfo.textContent = totalPages > 1
+      ? `Page ${currentPage} of ${totalPages}`
+      : '';
+  }
+
+  // ── Fetch a page from Vercel ───────────────────────────────────
+  async function loadPage(pageNum) {
+    listEl.innerHTML = '<p class="csc-status">Loading…</p>';
+    prevBtn.disabled = true;
+    nextBtn.disabled = true;
+
+    try {
+      const url = pageUrl(pageNum);
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+
+      pageArticles = data.articles || [];
+      currentPage  = data.page        || pageNum;
+      totalPages   = data.total_pages || 1;
+
+      if (data.updated) {
+        updatedEl.textContent = 'Last updated ' + fmtDate(data.updated);
+      }
+      feedLink.href = pageUrl(1);
+
+      // Reset search when changing page
+      searchEl.value = '';
+      searchQuery    = '';
+
+      render();
+
+      // Scroll back to top of the feed on page change
+      document.getElementById('csc-feed').scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+    } catch (err) {
+      listEl.innerHTML = `
+        <p class="csc-status">
+          Could not load the news feed.<br>
+          <small>${escHtml(String(err))}</small>
+        </p>`;
+      console.error('[CSC Feed]', err);
+      prevBtn.disabled = currentPage <= 1;
+      nextBtn.disabled = currentPage >= totalPages;
+    }
+  }
+
+  // ── Events ─────────────────────────────────────────────────────
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(t => {
+        t.classList.remove('csc-tab--active');
+        t.setAttribute('aria-pressed', 'false');
+      });
+      tab.classList.add('csc-tab--active');
+      tab.setAttribute('aria-pressed', 'true');
+      activeCategory = tab.dataset.cat;
+      render();
+    });
+  });
+
+  let debounce;
+  searchEl.addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => {
+      searchQuery = searchEl.value;
+      render();
+    }, 250);
+  });
+
+  prevBtn.addEventListener('click', () => {
+    if (currentPage > 1) loadPage(currentPage - 1);
+  });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentPage < totalPages) loadPage(currentPage + 1);
+  });
+
+  // ── Init ───────────────────────────────────────────────────────
+  loadPage(1);
+
+}());
+</script>

@@ -1,0 +1,39 @@
+name: Scrape Cybersecurity News
+
+on:
+  schedule:
+    # Runs every 6 hours: midnight, 6am, noon, 6pm UTC
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:   # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write      # Needed to commit feed files back to repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit updated feed files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Stage archive and all page files
+          git add archive.json feed.json feed-2.json feed-3.json feed-4.json feed-5.json
+          # Only commit if anything actually changed
+          git diff --staged --quiet || git commit -m "chore: update feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
