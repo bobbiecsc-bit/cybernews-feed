@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-06T07:26:12.291406+00:00",
+  "updated": "2026-04-06T13:04:16.075958+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 114,
+  "total_articles": 121,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e372d77f674f744348963bf9ced1e161fa98a787f58569d92de39517bda4815f",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list incl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-02T12:45:00+00:00"
+    },
+    {
+      "id": "25ae4a0b04661bfb7ac153ffe37e6f0469cad940bef9348a3f5232c5ddee7c5f",
+      "title": "Yokogawa CENTUM VP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP &gt;=R5.01.00| CENTUM VP &gt;=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equip",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "6730d0d762e22681bb54c7529c61084b0817e2775346cf26d9ba39154c114f48",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-3502&nbsp;TrueConf&nbsp;Client Download of Code Without Integrity Check Vulnerability&nbsp; This type of vulnerability is a fre",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "2a303f08db9fb4ccfb0b2a930502cd900aeb4d417f94140770f28ee97b71aff4",
+      "title": "Hitachi Energy Ellipse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "eb5d1b41f5ee007570ffbf795f7bd6deae378f7a19ba0dd639532c9c4bf6fbf1",
+      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+      "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023. \"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fr",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-02T11:42:00+00:00"
+    },
+    {
+      "id": "fc99c4de7c7814caf08067a95759738efbec7fdbae4a8b2ed157d6f0a5d77795",
+      "title": "Possible US Government iPhone Hacking Tool Leaked",
+      "url": "https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html",
+      "summary": "Wired writes (alternate source): Security researchers at Google on Tuesday released a report describing what they&#8217;re calling &#8220;Coruna,&#8221; a highly sophisticated iPhone hacking toolkit that includes five complete hacking techniques capable of bypassing all the defenses of an iPhone to ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-04-02T10:05:43+00:00"
+    },
+    {
+      "id": "805251aa0f2fc75d2b5d95a6bdc4c03b4f42462fb043f75d2489daa45da72761",
+      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware. According to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are l",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-02T09:51:00+00:00"
+    },
     {
       "id": "052d502b5aa0a94a3ef0a17dffaadc66d5648a267e6e4d2b44f9b9eb9010fda8",
       "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
@@ -391,69 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "28b6f42e062ec5197876927b392dc73feabde9828de870a8241afd609ddea378",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses si",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "ac03896d17cf8810520c25c42d4d4676c8cd068454d764fb5a5b34178208824a",
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn&rsquo;t even be touching. There&rsquo;s a little bit of everything in this one, too. Weird ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-26T11:45:00+00:00"
-    },
-    {
-      "id": "aa24b8d13161fb1c37bc8f2c1600332d6c027a767826c902e3d23b5d8ffee65c",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to t",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-25T12:00:00+00:00"
-    },
-    {
-      "id": "fa9cd66f91313167d1afd50a48f51dad353eb9d7d2ff101b31aa2a43a055bb31",
-      "title": "Grassroots DICOM (GDCM)",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted file, and when parsed, could result in a denial-of-service condition. The following versions of Grassroots DICOM (GDCM) are affected: Grassroots DICOM (GDCM) 3.2.2 (CVE-2026-3650) CVSS",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "ada55c81693e8ccc3df917c39ccada7c970fbbf9e6424ca73d1338042f4da6d5",
-      "title": "Pharos Controls Mosaic Show Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to execute arbitrary commands with root privileges. The following versions of Pharos Controls Mosaic Show Controller are affected: Mosaic Show Controller Firmware 2.15.3 (CVE-2026-2417) CVSS Vendo",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "682d7cc51b6219d513b25f294f96dbd80d63a4c78d70052d89df15949fde6110",
-      "title": "Schneider Electric EcoStruxure Foxboro DCS",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Foxboro DCS Control Software on Foxboro DCS workstations and servers. Control Core Services and all runtime software, like FCPs, FDCs, and FBMs, are not affected. The EcoStruxure Foxboro DCS ([https://www.se.com/ww/e",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "742b210d88d35c67b480934fb9d91818087566da6d446f31b22f9a79cc9bd184",
-      "title": "Schneider Electric Plant iT/Brewmaxx",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could risk privilege escalation, which could result in remote code execution. The following versions of Schneider Electric Plant iT/Brewmaxx are affected: Plant iT/Brewmaxx 9.60_and_above (CVE-2025-49844, CVE-2025-46817, CVE-2025-468",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
     }
   ]
 }
