@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-06T18:55:18.403474+00:00",
+  "updated": "2026-04-07T02:06:45.418680+00:00",
   "page": 1,
   "total_pages": 3,
-  "total_articles": 131,
+  "total_articles": 136,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a5cb0ddde02735eb7eb137817cce1f50947037702a8b1fb42c03946c83b0c7d3",
+      "title": "German authorities identify REvil and GangCrab ransomware bosses",
+      "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-06T23:54:04+00:00"
+    },
+    {
+      "id": "a071159eadb02ec76f7e4e5ce5210f74d13c2e25bbd5a87c49a6fc7ef7bb1ee2",
+      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-06T21:44:15+00:00"
+    },
+    {
+      "id": "69eb64e9cadf3116ca7f2efbfb68f1588f3ae87c523fcb70ed5c3c491a420a45",
+      "title": "Medusa ransomware group using zero-days to launch attacks within 24 hours of breach, Microsoft says",
+      "url": "https://therecord.media/medusa-ransomware-group-zero-days-microsoft",
+      "summary": "Microsoft said it has been alarmed to see how effective Medusa actors are, citing multiple cases where the group can move from initial access to data exfiltration and ransomware deployment within 24 hours.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-06T20:08:00+00:00"
+    },
+    {
+      "id": "66984a7c7b91ed3a4eaccfe63be8f1474133406506517f75aac164314fa6f931",
+      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-06T19:19:27+00:00"
+    },
+    {
+      "id": "b3473234824510341e2b2b02d6e5a9da7181985ab5137f44efc910ecd7345dd1",
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East. The&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-06T18:37:00+00:00"
+    },
     {
       "id": "c8a449ef69cd2007a57a48aae7af5c91d0609c0ee0f2ebe6028cdb23ce702be3",
       "title": "German police unmask two suspects linked to REvil ransomware gang",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-03T10:30:00+00:00"
-    },
-    {
-      "id": "2603c77365238ad4d8412ab95d86f1ca0992a65cfa018c246eb0d3abceeabcc0",
-      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
-      "url": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
-      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-03T09:46:06+00:00"
-    },
-    {
-      "id": "f4f12620f7979f46fd9dcdcc60a1106c745d78ada473b179208eeff8965f14e9",
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems. The&nbsp;malware&nbsp;has&nbsp;been found to conceal itself ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-03T09:10:00+00:00"
-    },
-    {
-      "id": "6ca7b5bfa84bd5da55849d4e414b46c5be7c24e6b31ac39dd68e095f0e9587e1",
-      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
-      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
-      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durabl",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-03T08:35:00+00:00"
-    },
-    {
-      "id": "b8ada83bae187db759141389d221743ee24c6878a42aaa74755c6924e2e0e709",
-      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
-      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
-      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-03T06:33:34+00:00"
-    },
-    {
-      "id": "9efc7dd2f8e2dbd2532a2647b3c33e6f224d5e92f9d051bcdb347c62a534d43a",
-      "title": "Claude Code leak used to push infostealer malware on GitHub",
-      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
-      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-02T20:30:55+00:00"
     }
   ]
 }

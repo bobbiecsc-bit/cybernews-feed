@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-06T18:55:18.403474+00:00",
+  "updated": "2026-04-07T02:06:45.418680+00:00",
   "page": 2,
   "total_pages": 3,
-  "total_articles": 131,
+  "total_articles": 136,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2603c77365238ad4d8412ab95d86f1ca0992a65cfa018c246eb0d3abceeabcc0",
+      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
+      "url": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
+      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T09:46:06+00:00"
+    },
+    {
+      "id": "f4f12620f7979f46fd9dcdcc60a1106c745d78ada473b179208eeff8965f14e9",
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems. The&nbsp;malware&nbsp;has&nbsp;been found to conceal itself ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-03T09:10:00+00:00"
+    },
+    {
+      "id": "6ca7b5bfa84bd5da55849d4e414b46c5be7c24e6b31ac39dd68e095f0e9587e1",
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durabl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-03T08:35:00+00:00"
+    },
+    {
+      "id": "b8ada83bae187db759141389d221743ee24c6878a42aaa74755c6924e2e0e709",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T06:33:34+00:00"
+    },
+    {
+      "id": "9efc7dd2f8e2dbd2532a2647b3c33e6f224d5e92f9d051bcdb347c62a534d43a",
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T20:30:55+00:00"
+    },
     {
       "id": "5a9dcd752491baf733bac646b1e7a90606275ea53a9ac920fc4fc36cffb18f96",
       "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-03-28T15:40:00+00:00"
-    },
-    {
-      "id": "3100a14f20dd56785d1d15da3457528accad6e920d6a088ccec4e4c65c60a8cc",
-      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to me",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T09:11:00+00:00"
-    },
-    {
-      "id": "f3c27614cea70cdd5ecf8d721d2a800b555c0d2dcd7cd2fc64972876c56efb81",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "adf98943f8a5b761e0806ca44f3b6b0844342d77408acb3a2e6ba9337266ef18",
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVS",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "81e28439bf9319c390ce8ddd3208d143a5bc7ac2e4d8eb50150fb419cf2af8e9",
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, includ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-27T17:22:00+00:00"
-    },
-    {
-      "id": "0bc9a4dd7e9b74c149d3b39576f1b20e505e167dbc77b60421b64bb51b6845d1",
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-03-27T16:53:00+00:00"
     }
   ]
 }

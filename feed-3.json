@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-06T18:55:18.403474+00:00",
+  "updated": "2026-04-07T02:06:45.418680+00:00",
   "page": 3,
   "total_pages": 3,
-  "total_articles": 131,
+  "total_articles": 136,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3100a14f20dd56785d1d15da3457528accad6e920d6a088ccec4e4c65c60a8cc",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to me",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-28T09:11:00+00:00"
+    },
+    {
+      "id": "f3c27614cea70cdd5ecf8d721d2a800b555c0d2dcd7cd2fc64972876c56efb81",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-28T07:07:00+00:00"
+    },
+    {
+      "id": "adf98943f8a5b761e0806ca44f3b6b0844342d77408acb3a2e6ba9337266ef18",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVS",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-28T07:07:00+00:00"
+    },
+    {
+      "id": "81e28439bf9319c390ce8ddd3208d143a5bc7ac2e4d8eb50150fb419cf2af8e9",
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, includ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-27T17:22:00+00:00"
+    },
+    {
+      "id": "0bc9a4dd7e9b74c149d3b39576f1b20e505e167dbc77b60421b64bb51b6845d1",
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-03-27T16:53:00+00:00"
+    },
     {
       "id": "618b9e23f5b23a3edc7aed1b337f82534876cc5e34c74ac6e1371aefa90703e4",
       "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
