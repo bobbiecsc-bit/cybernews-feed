@@ -1,10 +1,64 @@
 {
-  "updated": "2026-04-08T07:14:44.479202+00:00",
+  "updated": "2026-04-08T13:15:45.751775+00:00",
   "page": 3,
   "total_pages": 4,
-  "total_articles": 170,
+  "total_articles": 176,
   "page_size": 50,
   "articles": [
+    {
+      "id": "22e0cbee853af83f240d297c24863924d6e6311f6dda34934433f8025cae5d9e",
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T15:21:02+00:00"
+    },
+    {
+      "id": "58e88d4f91c2af820757b773682eb583bb73052ddd54e283bb6bbc25054a2c13",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The&nbsp;vulnerability, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-02T15:21:00+00:00"
+    },
+    {
+      "id": "3b31c7e781fd08df35a94621b8f470d647c2d2f84ae671d0b750d1b9a58cefe7",
+      "title": "Attempts to Exploit Exposed \"Vite\" Installs (CVE-2025-30208), (Thu, Apr 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/32860",
+      "summary": "From its GitHub repo: \"Vite (French word for \"quick\", pronounced /vi&#x3f;t/, like \"veet\") is a new breed of frontend build tooling that significantly improves the frontend development experience\" &#x5b;https://github.com/vitejs/vite&#x5d;.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:49:00+00:00"
+    },
+    {
+      "id": "57457630c5722c00b4f13d3976b05f48b092a5a9634fc55a9001a3558187fa5e",
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:01:11+00:00"
+    },
+    {
+      "id": "c75e646ee0168562aef3ba8c8f2aec6e2c7e3d4fd1831aa96f9fb3b4c16fe956",
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T13:33:11+00:00"
+    },
+    {
+      "id": "e372d77f674f744348963bf9ced1e161fa98a787f58569d92de39517bda4815f",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list incl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-02T12:45:00+00:00"
+    },
     {
       "id": "25ae4a0b04661bfb7ac153ffe37e6f0469cad940bef9348a3f5232c5ddee7c5f",
       "title": "Yokogawa CENTUM VP",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-03-27T08:07:00+00:00"
-    },
-    {
-      "id": "3d36a39e4cab17363460410961cb775d1941f18e2f9c671713874ff34ec6824f",
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, h",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-26T17:40:00+00:00"
-    },
-    {
-      "id": "ab29144bcf7820280710bd769a8cb346b539b7cd78a3a0036039abf0d6494e9e",
-      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
-      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-26T13:12:00+00:00"
-    },
-    {
-      "id": "533cd1a735e566ffc60633ac360988ea792f2cb227607ac58089fc5c58593821",
-      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" K",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-26T13:11:00+00:00"
-    },
-    {
-      "id": "80cd6b0f8d9f8731b8f28346299eace6a4d37110b769a9768457180caa7670d4",
-      "title": "OpenCode Systems OC Messaging and USSD Gateway",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and U",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "bac757e055cb4688e4fb2c5454dca128ab23c3ca2d7ef44bc7031e2b58850ea5",
-      "title": "PTC Windchill Product Lifecycle Management",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchi",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "28b6f42e062ec5197876927b392dc73feabde9828de870a8241afd609ddea378",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses si",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
     }
   ]
 }
