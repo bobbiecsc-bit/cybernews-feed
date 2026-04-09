@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-09T13:21:31.431022+00:00",
+  "updated": "2026-04-09T19:02:03.088703+00:00",
   "page": 2,
   "total_pages": 5,
-  "total_articles": 210,
+  "total_articles": 218,
   "page_size": 50,
   "articles": [
+    {
+      "id": "daaa08126e89e0115968319724f22570f84921294363d522836671d64b96092c",
+      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+      "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-07T22:03:01+00:00"
+    },
+    {
+      "id": "4c41249a7b10983caadc0020fb325d2c6c6a28229cdcdf89cb46f5014b446d42",
+      "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+      "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-07T20:41:52+00:00"
+    },
+    {
+      "id": "bcceba0665ad6b934f672a638fe0ca64cf036b4cb9db6e550bc873675249c179",
+      "title": "FBI, Pentagon warn of Iran hacking groups targeting operational technology",
+      "url": "https://therecord.media/fbi-pentagon-warn-iran-hacking-groups-target-ot",
+      "summary": "The advisory said Iranian actors are targeting local municipal governments, water and wastewater systems and the energy sector.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-07T20:26:00+00:00"
+    },
+    {
+      "id": "c7d9b345cddfb349ae253e492abcd15f6fc498bd68039a0d0576c19a78fcaa0c",
+      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
+      "url": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+      "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-07T19:39:18+00:00"
+    },
+    {
+      "id": "f2a9608b5edd84720b80f6759e04a9e307dad96e66fee1ad41570a76d285bbbd",
+      "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
+      "url": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
+      "summary": "New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands. The post Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-04-07T18:39:56+00:00"
+    },
+    {
+      "id": "57a7866d1e66298c7903b551b29c09abb4a4eb544b44f94f2a4a99f0234b8923",
+      "title": "A Little Bit Pivoting: What Web Shells are Attackers Looking for&#x3f;, (Tue, Apr 7th)",
+      "url": "https://isc.sans.edu/diary/rss/32874",
+      "summary": "Webshells remain a popular method for attackers to maintain persistence on a compromised web server. Many \"arbitrary file write\" and \"remote code execution\" vulnerabilities are used to drop small files on systems for later execution of additional payloads. The names of these files keep changing and ",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-07T18:28:16+00:00"
+    },
+    {
+      "id": "a43422fe0f90da63c3fff36152b8ab9579c1af4034537a7b449af25a3dd674b6",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens fr",
+      "source": "Krebs on Security",
+      "category": "breach",
+      "date": "2026-04-07T17:02:44+00:00"
+    },
+    {
+      "id": "9b8945e4ee562d45ed10deb397b6e42ddd262b79a8214bb2f61fd7f5f4b0543f",
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-07T17:02:05+00:00"
+    },
     {
       "id": "61aa63dbe4d1a709a14c0f941176490b5ebb3a91330c94cd1505614f349e7785",
       "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-06T11:40:56+00:00"
-    },
-    {
-      "id": "9b9f0ff45fe25b66e3fc6f01cf3f113241fa8b6430ba946ed903fcc80abf3cb4",
-      "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
-      "url": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
-      "summary": "The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign. The post North Korean Hackers Target High-Profile Node.js Maintainers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-06T11:02:36+00:00"
-    },
-    {
-      "id": "100bdf733cba26a8edeadf4387322a461d322024566f0f19fc1423c932e62640",
-      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-      "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-      "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro. Qilin at",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-06T10:07:00+00:00"
-    },
-    {
-      "id": "dc0807198886c2eba647bd0dd2a7626efdedc0d26a4e807cedaeead1d2e34c3b",
-      "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
-      "url": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
-      "summary": "The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely. The post Fortinet Rushes Emergency Fixes for Exploited Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-06T09:37:28+00:00"
-    },
-    {
-      "id": "a07afbe3fc4c308bd98e423df4f810b88a18408f49efbe8c6af4ae6b01f64a18",
-      "title": "How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)",
-      "url": "https://isc.sans.edu/diary/rss/32870",
-      "summary": "In one of his recent diaries, Johannes discussed how open redirects are actively being sought out by threat actors&#x5b;1&#x5d;, which made me wonder about how commonly these mechanisms are actually misused&#xe2;&#x20ac;&#xa6;&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-04-06T08:50:27+00:00"
-    },
-    {
-      "id": "8fa3b0e305709ecd22d7c96c1a47c3516588d3597b7938b540ea8a61003c0866",
-      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of the threat actors, who went by the alias UNKN, functioned as ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-06T06:59:00+00:00"
-    },
-    {
-      "id": "3e73213b65c0a33fb980f3f06a4d4f83f65c00cc18661c3b3542e148c4c81a42",
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotag",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-04-06T02:07:17+00:00"
-    },
-    {
-      "id": "b0835d83ca4dddc3e52280bbc935018a2c5009d7c87ad4a62d5192fd612bc590",
-      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
-      "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-05T18:45:17+00:00"
-    },
-    {
-      "id": "db193bce1a8a02d03fba7df1bce905eef688b4d978efd7879a84eb2a6672e910",
-      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-      "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;202",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-05T18:25:00+00:00"
     }
   ]
 }
