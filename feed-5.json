@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-10T07:23:52.595276+00:00",
+  "updated": "2026-04-10T13:03:45.526746+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 224,
+  "total_articles": 232,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0bc9a4dd7e9b74c149d3b39576f1b20e505e167dbc77b60421b64bb51b6845d1",
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-03-27T16:53:00+00:00"
+    },
+    {
+      "id": "618b9e23f5b23a3edc7aed1b337f82534876cc5e34c74ac6e1371aefa90703e4",
+      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
+      "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-27T13:57:00+00:00"
+    },
+    {
+      "id": "af5793328338cfdadf8c466a53d597d973b733a32b4e867cea5ef803912cedb6",
+      "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
+      "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+      "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-03-27T12:03:00+00:00"
+    },
+    {
+      "id": "92901df9b8d229e7cb4b2bd57b3e3c91fa8c1aa201161b2338541f0a48388f00",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant ri",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-27T12:00:00+00:00"
+    },
+    {
+      "id": "c64a82a49c965353345035aaadaf7a8b60eac7e3fecc94cd73aaf8f74d0853a2",
+      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
+      "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker. \"Bearlyfy (also known as Labub",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-03-27T10:04:00+00:00"
+    },
+    {
+      "id": "7885d7ddc153adc964ccc6571f0bbb525667422ef0c0354cfac9c827d9eedcf7",
+      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangGraph are open-source frameworks that are used to build appli",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-27T08:07:00+00:00"
+    },
+    {
+      "id": "3d36a39e4cab17363460410961cb775d1941f18e2f9c671713874ff34ec6824f",
+      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, h",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-03-26T17:40:00+00:00"
+    },
+    {
+      "id": "ab29144bcf7820280710bd769a8cb346b539b7cd78a3a0036039abf0d6494e9e",
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-03-26T13:12:00+00:00"
+    },
     {
       "id": "533cd1a735e566ffc60633ac360988ea792f2cb227607ac58089fc5c58593821",
       "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
