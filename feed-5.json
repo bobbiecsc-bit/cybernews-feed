@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-10T02:12:44.002396+00:00",
+  "updated": "2026-04-10T07:23:52.595276+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 222,
+  "total_articles": 224,
   "page_size": 50,
   "articles": [
+    {
+      "id": "533cd1a735e566ffc60633ac360988ea792f2cb227607ac58089fc5c58593821",
+      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
+      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
+      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" K",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-26T13:11:00+00:00"
+    },
+    {
+      "id": "80cd6b0f8d9f8731b8f28346299eace6a4d37110b769a9768457180caa7670d4",
+      "title": "OpenCode Systems OC Messaging and USSD Gateway",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and U",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-26T12:00:00+00:00"
+    },
     {
       "id": "bac757e055cb4688e4fb2c5454dca128ab23c3ca2d7ef44bc7031e2b58850ea5",
       "title": "PTC Windchill Product Lifecycle Management",

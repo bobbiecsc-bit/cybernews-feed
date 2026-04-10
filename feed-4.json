@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-10T02:12:44.002396+00:00",
+  "updated": "2026-04-10T07:23:52.595276+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 222,
+  "total_articles": 224,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3b31c7e781fd08df35a94621b8f470d647c2d2f84ae671d0b750d1b9a58cefe7",
+      "title": "Attempts to Exploit Exposed \"Vite\" Installs (CVE-2025-30208), (Thu, Apr 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/32860",
+      "summary": "From its GitHub repo: \"Vite (French word for \"quick\", pronounced /vi&#x3f;t/, like \"veet\") is a new breed of frontend build tooling that significantly improves the frontend development experience\" &#x5b;https://github.com/vitejs/vite&#x5d;.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:49:00+00:00"
+    },
+    {
+      "id": "57457630c5722c00b4f13d3976b05f48b092a5a9634fc55a9001a3558187fa5e",
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:01:11+00:00"
+    },
     {
       "id": "c75e646ee0168562aef3ba8c8f2aec6e2c7e3d4fd1831aa96f9fb3b4c16fe956",
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-03-26T13:12:00+00:00"
-    },
-    {
-      "id": "533cd1a735e566ffc60633ac360988ea792f2cb227607ac58089fc5c58593821",
-      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" K",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-26T13:11:00+00:00"
-    },
-    {
-      "id": "80cd6b0f8d9f8731b8f28346299eace6a4d37110b769a9768457180caa7670d4",
-      "title": "OpenCode Systems OC Messaging and USSD Gateway",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-privileged user to gain access to SMS messages outside of their authorized tenant scope via a crafted company or tenant identifier parameter. The following versions of OpenCode Systems OC Messaging and U",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
     }
   ]
 }
