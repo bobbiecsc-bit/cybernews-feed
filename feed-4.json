@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-09T19:02:03.088703+00:00",
+  "updated": "2026-04-10T02:12:44.002396+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 218,
+  "total_articles": 222,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c75e646ee0168562aef3ba8c8f2aec6e2c7e3d4fd1831aa96f9fb3b4c16fe956",
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T13:33:11+00:00"
+    },
+    {
+      "id": "e372d77f674f744348963bf9ced1e161fa98a787f58569d92de39517bda4815f",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list incl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-02T12:45:00+00:00"
+    },
+    {
+      "id": "25ae4a0b04661bfb7ac153ffe37e6f0469cad940bef9348a3f5232c5ddee7c5f",
+      "title": "Yokogawa CENTUM VP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP &gt;=R5.01.00| CENTUM VP &gt;=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equip",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "6730d0d762e22681bb54c7529c61084b0817e2775346cf26d9ba39154c114f48",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-3502&nbsp;TrueConf&nbsp;Client Download of Code Without Integrity Check Vulnerability&nbsp; This type of vulnerability is a fre",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
     {
       "id": "2a303f08db9fb4ccfb0b2a930502cd900aeb4d417f94140770f28ee97b71aff4",
       "title": "Hitachi Energy Ellipse",
@@ -418,42 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "bac757e055cb4688e4fb2c5454dca128ab23c3ca2d7ef44bc7031e2b58850ea5",
-      "title": "PTC Windchill Product Lifecycle Management",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchi",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "28b6f42e062ec5197876927b392dc73feabde9828de870a8241afd609ddea378",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses si",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-26T12:00:00+00:00"
-    },
-    {
-      "id": "ac03896d17cf8810520c25c42d4d4676c8cd068454d764fb5a5b34178208824a",
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn&rsquo;t even be touching. There&rsquo;s a little bit of everything in this one, too. Weird ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-26T11:45:00+00:00"
-    },
-    {
-      "id": "aa24b8d13161fb1c37bc8f2c1600332d6c027a767826c902e3d23b5d8ffee65c",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to t",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-25T12:00:00+00:00"
     }
   ]
 }
