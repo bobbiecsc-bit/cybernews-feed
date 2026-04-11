@@ -1,72 +1,459 @@
 {
-  "updated": "2026-04-05T04:32:31.760602+00:00",
-  "page": 3,
-  "total_pages": 3,
-  "total_articles": 107,
+  "updated": "2026-04-11T12:52:14.110949+00:00",
+  "page": 4,
+  "total_pages": 5,
+  "total_articles": 241,
   "page_size": 50,
   "articles": [
     {
-      "id": "ac033941ae08aa26daa1c1328fa5e4b033bf637ca9124108915a2bbe05818409",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20131 Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management Deserialization of Untrusted Dat",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-19T12:00:00+00:00"
-    },
-    {
-      "id": "c80e05337bbe9edbf4e2b54a926a58117df9b4755c0bfb556741966e84a4ad92",
-      "title": "Schneider Electric Modicon Controllers M241, M251, M258, and LMC058",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may risk a Cross-site Scripting or an open redirect attack which could result in an account takeover scenario or the execution of code in the user browser. The following versions of Schneider Electric Modicon Controllers M241, M251, M25",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-19T12:00:00+00:00"
-    },
-    {
-      "id": "7aacdab66589f4d57e2b08466bce0702938b0d67f590f3f2cb40439ff536825c",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organi",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-03-11T00:32:51+00:00"
-    },
-    {
-      "id": "033c45f2573010948ac70b2d4cb991d89b47f0b3713b9827ae6efb663dc536c8",
-      "title": "Who is the Kimwolf Botmaster “Dort”?",
-      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distrib",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-02-28T12:01:57+00:00"
-    },
-    {
-      "id": "976a0eb52d2949f4374af307bc347b87f96c9a9dbe5b73cc005705ab86edadbc",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses clever",
-      "source": "Krebs on Security",
+      "id": "3ea9b0c959774c01d3a106813626af42c62af63f5920a62e049bce6f1183378b",
+      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
+      "summary": "The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&nbsp;as UNC1069. Maintainer Jason Saayman said the attackers tailored their social engineerin",
+      "source": "The Hacker News",
       "category": "threat",
-      "date": "2026-02-20T20:00:30+00:00"
+      "date": "2026-04-03T11:04:00+00:00"
     },
     {
-      "id": "24d5868677c3fa93f141f106ecaeaf229f01e781a17fb202250ececd746d9b43",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "source": "Krebs on Security",
+      "id": "4023885f3def8d4f462c17f3c4230e44d65c8e0c216e6d540e1d000b11952d28",
+      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
+      "url": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
+      "summary": "The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underpre",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-03T11:00:00+00:00"
+    },
+    {
+      "id": "082ab1079dca22a16240ed79c231eae430e7e7fa80846e5cb3f2b89ff993cfc5",
+      "title": "Mobile Attack Surface Expands as Enterprises Lose Control",
+      "url": "https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/",
+      "summary": "Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk. The post Mobile Attack Surface Expands as Enterprises Lose Control appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T11:00:00+00:00"
+    },
+    {
+      "id": "65a2c8545a31241f5dc98224616fc626a4085a10daec84c417b0dfe2852d0bce",
+      "title": "React2Shell Exploited in Large-Scale Credential Harvesting Campaign",
+      "url": "https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/",
+      "summary": "Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems. The post React2Shell Exploited in Large-Scale Credential Harvesting Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T10:55:13+00:00"
+    },
+    {
+      "id": "bf82c05964540394774efa9921d13a9afa1719d429bb09891408879df56c0f9f",
+      "title": "T-Mobile Sets the Record Straight on Latest Data Breach Filing",
+      "url": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
+      "summary": "The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek. The post T-Mobile Sets the Record Straight on Latest Data Breach Filing appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T10:30:00+00:00"
+    },
+    {
+      "id": "2603c77365238ad4d8412ab95d86f1ca0992a65cfa018c246eb0d3abceeabcc0",
+      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
+      "url": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
+      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T09:46:06+00:00"
+    },
+    {
+      "id": "f4f12620f7979f46fd9dcdcc60a1106c745d78ada473b179208eeff8965f14e9",
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems. The&nbsp;malware&nbsp;has&nbsp;been found to conceal itself ",
+      "source": "The Hacker News",
       "category": "malware",
-      "date": "2026-02-10T21:49:53+00:00"
+      "date": "2026-04-03T09:10:00+00:00"
     },
     {
-      "id": "71d4e6b9e20557a3de7d1c31b85262e99bc3e5abb800c62a9f9b5e64f157a1ee",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More &#187;",
-      "source": "Krebs on Security",
+      "id": "6ca7b5bfa84bd5da55849d4e414b46c5be7c24e6b31ac39dd68e095f0e9587e1",
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durabl",
+      "source": "The Hacker News",
       "category": "threat",
-      "date": "2026-02-02T16:15:16+00:00"
+      "date": "2026-04-03T08:35:00+00:00"
+    },
+    {
+      "id": "b8ada83bae187db759141389d221743ee24c6878a42aaa74755c6924e2e0e709",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T06:33:34+00:00"
+    },
+    {
+      "id": "9efc7dd2f8e2dbd2532a2647b3c33e6f224d5e92f9d051bcdb347c62a534d43a",
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T20:30:55+00:00"
+    },
+    {
+      "id": "5a9dcd752491baf733bac646b1e7a90606275ea53a9ac920fc4fc36cffb18f96",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "summary": "A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-02T19:30:00+00:00"
+    },
+    {
+      "id": "e65e829b37d81da7a671c0673fed22c9c51491e472433dbcaf3c7b85a38694a4",
+      "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
+      "url": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
+      "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T19:03:39+00:00"
+    },
+    {
+      "id": "686d32b39a3f9c28937fa23463fab53fbd45fab7544d22e96ec72289788c99ae",
+      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
+      "url": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
+      "summary": "Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI. The post Critical Vulnerability in Claude Code Emerges Days After Source Leak appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-02T18:00:55+00:00"
+    },
+    {
+      "id": "e9867e2edc3f28786a95b1c3bd42feac9c9d9083839c1066b8bd7f2555ec2c3f",
+      "title": "US Bans All Foreign-Made Consumer Routers",
+      "url": "https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html",
+      "summary": "This is for new routers; you don&#8217;t have to throw away your existing ones: The Executive Branch determination noted that foreign-produced routers (1) introduce &#8220;a supply chain vulnerability that could disrupt the U.S. economy, critical infrastructure, and national defense&#8221; and (2) p",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-04-02T17:28:27+00:00"
+    },
+    {
+      "id": "3b117be09282b90ac2eb665b2135a747533e859bd36aee9f032b345e9ef02f67",
+      "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
+      "url": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
+      "summary": "The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors. The post Apple Rolls Out DarkSword Exploit Protection to More Devices appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-02T16:18:07+00:00"
+    },
+    {
+      "id": "22e0cbee853af83f240d297c24863924d6e6311f6dda34934433f8025cae5d9e",
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T15:21:02+00:00"
+    },
+    {
+      "id": "58e88d4f91c2af820757b773682eb583bb73052ddd54e283bb6bbc25054a2c13",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The&nbsp;vulnerability, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-02T15:21:00+00:00"
+    },
+    {
+      "id": "3b31c7e781fd08df35a94621b8f470d647c2d2f84ae671d0b750d1b9a58cefe7",
+      "title": "Attempts to Exploit Exposed \"Vite\" Installs (CVE-2025-30208), (Thu, Apr 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/32860",
+      "summary": "From its GitHub repo: \"Vite (French word for \"quick\", pronounced /vi&#x3f;t/, like \"veet\") is a new breed of frontend build tooling that significantly improves the frontend development experience\" &#x5b;https://github.com/vitejs/vite&#x5d;.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:49:00+00:00"
+    },
+    {
+      "id": "57457630c5722c00b4f13d3976b05f48b092a5a9634fc55a9001a3558187fa5e",
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "url": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T14:01:11+00:00"
+    },
+    {
+      "id": "c75e646ee0168562aef3ba8c8f2aec6e2c7e3d4fd1831aa96f9fb3b4c16fe956",
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T13:33:11+00:00"
+    },
+    {
+      "id": "e372d77f674f744348963bf9ced1e161fa98a787f58569d92de39517bda4815f",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list incl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-02T12:45:00+00:00"
+    },
+    {
+      "id": "25ae4a0b04661bfb7ac153ffe37e6f0469cad940bef9348a3f5232c5ddee7c5f",
+      "title": "Yokogawa CENTUM VP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP &gt;=R5.01.00| CENTUM VP &gt;=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equip",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "6730d0d762e22681bb54c7529c61084b0817e2775346cf26d9ba39154c114f48",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-3502&nbsp;TrueConf&nbsp;Client Download of Code Without Integrity Check Vulnerability&nbsp; This type of vulnerability is a fre",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "2a303f08db9fb4ccfb0b2a930502cd900aeb4d417f94140770f28ee97b71aff4",
+      "title": "Hitachi Energy Ellipse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "eb5d1b41f5ee007570ffbf795f7bd6deae378f7a19ba0dd639532c9c4bf6fbf1",
+      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+      "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023. \"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fr",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-02T11:42:00+00:00"
+    },
+    {
+      "id": "fc99c4de7c7814caf08067a95759738efbec7fdbae4a8b2ed157d6f0a5d77795",
+      "title": "Possible US Government iPhone Hacking Tool Leaked",
+      "url": "https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html",
+      "summary": "Wired writes (alternate source): Security researchers at Google on Tuesday released a report describing what they&#8217;re calling &#8220;Coruna,&#8221; a highly sophisticated iPhone hacking toolkit that includes five complete hacking techniques capable of bypassing all the defenses of an iPhone to ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-04-02T10:05:43+00:00"
+    },
+    {
+      "id": "805251aa0f2fc75d2b5d95a6bdc4c03b4f42462fb043f75d2489daa45da72761",
+      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+      "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware. According to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are l",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-02T09:51:00+00:00"
+    },
+    {
+      "id": "052d502b5aa0a94a3ef0a17dffaadc66d5648a267e6e4d2b44f9b9eb9010fda8",
+      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+      "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
+      "summary": "Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&nbsp;as DarkSword. \"We enabled the availability of iOS 18.7.7&nbsp;for more devices on April 1",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-02T07:09:00+00:00"
+    },
+    {
+      "id": "e2062459f78527bfa4acdf2d2aea4959b206287fe77baa74e6ff7f79736e2bf8",
+      "title": "Malicious Script That Gets Rid of ADS, (Wed, Apr 1st)",
+      "url": "https://isc.sans.edu/diary/rss/32854",
+      "summary": "Today, most malware are called &#xe2;&#x20ac;&#x153;fileless&#xe2;&#x20ac;&#x9d; because they try to reduce their footprint on the infected computer filesystem to the bare minimum. But they need to write something&#xe2;&#x20ac;&#xa6; think about persistence. They can use the registry as an alternati",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-01T20:09:43+00:00"
+    },
+    {
+      "id": "afa4abdefad93d505aea9f3ebcbe566cbbbcc1f05d13eb36387b52fb7430a7bb",
+      "title": "Is “Hackback” Official US Cybersecurity Strategy?",
+      "url": "https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html",
+      "summary": "The 2026 US &#8220;Cyber Strategy for America&#8221; document is mostly the same thing we&#8217;ve seen out of the White House for over a decade, but with a more aggressive tone. But one sentence stood out: &#8220;We will unleash the private sector by creating incentives to identify and disrupt adve",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-04-01T16:57:35+00:00"
+    },
+    {
+      "id": "d3a3b72f9f64520868b39836da9ecf72dd3a41aadf4260b9c395c35849939997",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "url": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of the attacks, the threat actors, tracked as UAC-0255, sent ema",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-01T16:10:00+00:00"
+    },
+    {
+      "id": "3ceb58adb5cfc9c6fa07ea422b62f2528234da60796e707b0c4516fd17c26fd1",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling re",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-01T14:10:00+00:00"
+    },
+    {
+      "id": "a8ea24fec647278993910a227c778ff2e9983b6d130fed8a23617e49f6bf0807",
+      "title": "TeamPCP Supply Chain Campaign: Update 005 - First Confirmed Victim Disclosure, Post-Compromise Cloud Enumeration Documented, and Axios Attribution Narrows, (Wed, Apr 1st)",
+      "url": "https://isc.sans.edu/diary/rss/32856",
+      "summary": "This is the fifth update to the TeamPCP supply chain campaign threat intelligence report, \"When the Security Scanner Became the Weapon\" (v3.0, March 25, 2026). Update 004 covered developments through March 30, including the Databricks investigation, dual ransomware operations, and AstraZeneca data r",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-01T13:08:26+00:00"
+    },
+    {
+      "id": "e074e4776b92dd2a439bcb7b2726fcbbc6dc49d9a4f93e3c700d3c1804d1a0ff",
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracke",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-01T12:36:00+00:00"
+    },
+    {
+      "id": "5c1bebd3828236b9225dad0fd161be3bbd0ff49b04df651ee47c271bb011a70c",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-01T12:00:00+00:00"
+    },
+    {
+      "id": "c07d44cae33ffdf33bf6decf88fba4c0b9a578cead501570988f27ab94dcdea2",
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-01T11:42:00+00:00"
+    },
+    {
+      "id": "9b5c7d78c3da74b0e03e28138d8c5c1eef6e745f509d56c65e35eec9f24cdc1e",
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+      "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-01T10:58:00+00:00"
+    },
+    {
+      "id": "0cfe07d75767cc1b2db40d8be0bd42fb65997be0eb88ecbab562644f14b2ea52",
+      "title": "A Taxonomy of Cognitive Security",
+      "url": "https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html",
+      "summary": "Last week, I listened to a fascinating talk by K. Melton on cognitive security, cognitive hacking, and reality pentesting. The slides from the talk are here, but&#8212;even better&#8212;Menton has a long essay laying out the basic concepts and ideas. The whole thing is important and well worth readi",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-04-01T09:59:07+00:00"
+    },
+    {
+      "id": "bcbf906e5643242068debf226b74826906c4846f9be6142361ef01a26480e41f",
+      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-01T07:44:00+00:00"
+    },
+    {
+      "id": "941259e5f922de11b3c85195d0c431ed576ec4bfdff260bbeb1a0ae2b3090348",
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shar",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-01T06:12:00+00:00"
+    },
+    {
+      "id": "f4b57f9aa08eddf10af8b081b1561595b59863a0638b703e4b284dc9ba2540bd",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T16:03:00+00:00"
+    },
+    {
+      "id": "2fa7673cfe536cc88c96c82cdc4aa8c3026b6124061ddd15fd625d2b2061ca4f",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Pa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T13:09:00+00:00"
+    },
+    {
+      "id": "2e5d31329dd196e58fa11a672676c1ef5334de9b9f2d4643a3897879a659d0e2",
+      "title": "Anritsu Remote Spectrum Monitor",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS271",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-31T12:00:00+00:00"
+    },
+    {
+      "id": "592af0ee79f9a4e687fb99b26458fa40e687e23ac42b1d4a07f915d11b330057",
+      "title": "PX4 Autopilot",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-31T12:00:00+00:00"
+    },
+    {
+      "id": "dd94868bea6f2e3fe0f3d4756c86cb4b9c37aa2204fbc99372a6aadf6c40b644",
+      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T11:50:00+00:00"
+    },
+    {
+      "id": "09209671b584e20b0581651229da82b6221bbd355a401d7ff6facf45dabe71c8",
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocu",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-03-31T11:46:00+00:00"
+    },
+    {
+      "id": "e45e53fb9982e3d0d3e0181b6e82964de23767930c2843a6c9bf034123ccad7b",
+      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+      "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inje",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-03-31T06:08:00+00:00"
+    },
+    {
+      "id": "03bfa65cfa4a1d1766a04d58fddffdeae71045cec7c0a570d9d0dba1f046363a",
+      "title": "TeamPCP Supply Chain Campaign: Update 004 - Databricks Investigating Alleged Compromise, TeamPCP Runs Dual Ransomware Operations, and AstraZeneca Data Released, (Mon, Mar 30th)",
+      "url": "https://isc.sans.edu/diary/rss/32846",
+      "summary": "This is the fourth update to the TeamPCP supply chain campaign threat intelligence report,&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;\"When the Security Scanner Became the Weapon\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;(",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-03-31T00:52:44+00:00"
+    },
+    {
+      "id": "6e82204822f85cfac9ff76a14df2f8250ba1f9e4c3c01d4fe14ba7876f0ac1e2",
+      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+      "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaki",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-30T18:05:00+00:00"
+    },
+    {
+      "id": "e4e2c62e3f7377ada9885118f7bd787846ee0ab24b91302d2e71b0788eefadcc",
+      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+      "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+      "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-03-30T15:47:00+00:00"
     }
   ]
 }

@@ -1,72 +1,459 @@
 {
-  "updated": "2026-04-05T04:32:31.760602+00:00",
+  "updated": "2026-04-11T12:52:14.110949+00:00",
   "page": 3,
-  "total_pages": 3,
-  "total_articles": 107,
+  "total_pages": 5,
+  "total_articles": 241,
   "page_size": 50,
   "articles": [
     {
-      "id": "ac033941ae08aa26daa1c1328fa5e4b033bf637ca9124108915a2bbe05818409",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20131 Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management Deserialization of Untrusted Dat",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-19T12:00:00+00:00"
+      "id": "38e7d8eecb4192d3802f75c6457fb7eb76b2c4a46805c02d88f6244a89693bf8",
+      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
+      "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
+      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a&nbsp;host. The efforts have been&nbsp;codenamed GPUBreach, GDDRHammer,&nbsp;and GeF",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-07T08:38:00+00:00"
     },
     {
-      "id": "c80e05337bbe9edbf4e2b54a926a58117df9b4755c0bfb556741966e84a4ad92",
-      "title": "Schneider Electric Modicon Controllers M241, M251, M258, and LMC058",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may risk a Cross-site Scripting or an open redirect attack which could result in an account takeover scenario or the execution of code in the user browser. The following versions of Schneider Electric Modicon Controllers M241, M251, M25",
-      "source": "CISA Alerts",
+      "id": "ce89979ed276f0232d7017b1cf95f69eb376aa93586af965f607f1186a77b8c3",
+      "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
+      "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
+      "summary": "A&nbsp;China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing&nbsp;systems. \"The threat actor's high operational tempo",
+      "source": "The Hacker News",
       "category": "vulnerability",
-      "date": "2026-03-19T12:00:00+00:00"
+      "date": "2026-04-07T06:35:00+00:00"
     },
     {
-      "id": "7aacdab66589f4d57e2b08466bce0702938b0d67f590f3f2cb40439ff536825c",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organi",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-03-11T00:32:51+00:00"
+      "id": "9e6b0ee025438d6e121025eedf5262a6b0d427ba846f17e8537d20cfefb41d99",
+      "title": "Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack",
+      "url": "https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/",
+      "summary": "The high-end casino and hotel operator has likely paid a ransom to avoid a data leak. The post Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-07T06:05:54+00:00"
     },
     {
-      "id": "033c45f2573010948ac70b2d4cb991d89b47f0b3713b9827ae6efb663dc536c8",
-      "title": "Who is the Kimwolf Botmaster “Dort”?",
-      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distrib",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-02-28T12:01:57+00:00"
+      "id": "f3e2832baa07b2b843a0289de0764572204a81238d067abd054d74978c1d28b6",
+      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+      "url": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+      "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in question&nbsp;is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remot",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-07T05:56:00+00:00"
     },
     {
-      "id": "976a0eb52d2949f4374af307bc347b87f96c9a9dbe5b73cc005705ab86edadbc",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses clever",
-      "source": "Krebs on Security",
+      "id": "a5cb0ddde02735eb7eb137817cce1f50947037702a8b1fb42c03946c83b0c7d3",
+      "title": "German authorities identify REvil and GandCrab ransomware bosses",
+      "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-06T23:54:04+00:00"
+    },
+    {
+      "id": "ca37b6dc3ead58709eb8c79539a3972086b31450ea8c5cd7c3108281b518df18",
+      "title": "Cyberattack on telecom giant Rostelecom disrupts internet services across Russia",
+      "url": "https://therecord.media/rostelecom-cyberattack-disrupts-russian-internet-access",
+      "summary": "A “large-scale” distributed denial-of-service (DDoS) attack targeted the network of Russian state-run telecom giant Rostelecom on Monday evening, temporarily disrupting online banking, government platforms and other digital services across dozens of cities.",
+      "source": "The Record",
       "category": "threat",
-      "date": "2026-02-20T20:00:30+00:00"
+      "date": "2026-04-06T23:00:00+00:00"
     },
     {
-      "id": "24d5868677c3fa93f141f106ecaeaf229f01e781a17fb202250ececd746d9b43",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "id": "a071159eadb02ec76f7e4e5ce5210f74d13c2e25bbd5a87c49a6fc7ef7bb1ee2",
+      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-06T21:44:15+00:00"
+    },
+    {
+      "id": "69eb64e9cadf3116ca7f2efbfb68f1588f3ae87c523fcb70ed5c3c491a420a45",
+      "title": "Medusa ransomware group using zero-days to launch attacks within 24 hours of breach, Microsoft says",
+      "url": "https://therecord.media/medusa-ransomware-group-zero-days-microsoft",
+      "summary": "Microsoft said it has been alarmed to see how effective Medusa actors are, citing multiple cases where the group can move from initial access to data exfiltration and ransomware deployment within 24 hours.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-06T20:08:00+00:00"
+    },
+    {
+      "id": "66984a7c7b91ed3a4eaccfe63be8f1474133406506517f75aac164314fa6f931",
+      "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-06T19:19:27+00:00"
+    },
+    {
+      "id": "b3473234824510341e2b2b02d6e5a9da7181985ab5137f44efc910ecd7345dd1",
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East. The&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-06T18:37:00+00:00"
+    },
+    {
+      "id": "c8a449ef69cd2007a57a48aae7af5c91d0609c0ee0f2ebe6028cdb23ce702be3",
+      "title": "German police unmask two suspects linked to REvil ransomware gang",
+      "url": "https://therecord.media/german-police-unmask-suspects-linked-revil-gandcrab",
+      "summary": "The suspects were named as Daniil Shchukin, a 31-year-old Russian national believed to have used the alias UNKN (UNKNOWN), and Anatoly Kravchuk, a 43-year-old Ukraine-born Russian citizen who investigators say worked as a developer for the group.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-04-06T18:34:00+00:00"
+    },
+    {
+      "id": "6d966f0f2bd59b7054553bfdf8b89297b186aa8fa814670c6160f643e58bf062",
+      "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
+      "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-06T16:56:01+00:00"
+    },
+    {
+      "id": "c4d3dd18d6625effb0376fc0dc9ae80257a94248268998f08bf895aaf0cfdca3",
+      "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+      "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+      "summary": "Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea. The&nbsp;attack chain,&nbsp;per Fortinet FortiGuard&nbsp;Labs, inv",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-06T16:24:00+00:00"
+    },
+    {
+      "id": "cc088f0319b8b1bac4b19347ac506e77c8a1954627b5b13945adeee6788f2364",
+      "title": "Singapore, US warn of latest Fortinet bug being exploited in wild",
+      "url": "https://therecord.media/singapore-us-warn-of-fortinet-bug-exploited",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Thursday to apply the hotfix.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-04-06T16:20:00+00:00"
+    },
+    {
+      "id": "e457bbe69d33e90f87c8b3ab42eb0f65f1157c8f36f09487db6202f8a771c29d",
+      "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-06T16:02:14+00:00"
+    },
+    {
+      "id": "9a98fe611e39af18b2749c73a6bfe0ab01f5350b880724925cc6a188424e0e65",
+      "title": "Google DeepMind Researchers Map Web Attacks Against AI Agents",
+      "url": "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/",
+      "summary": "A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content. The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-06T15:32:54+00:00"
+    },
+    {
+      "id": "9c1486669523ada591d17117e258020a8fa006a1c8d4b423473e83631436bd9a",
+      "title": "Why Simple Breach Monitoring is No Longer Enough",
+      "url": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
+      "summary": "Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-06T14:02:12+00:00"
+    },
+    {
+      "id": "e4657c85456a926c2c0c6d92bc8fc407b1eb05c952eba52531f085926ac1ec38",
+      "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
+      "url": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
+      "summary": "Your attack surface no&nbsp;longer lives&nbsp;on one operating system, and neither do the campaigns targeting&nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC&nbsp;wo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-06T13:00:00+00:00"
+    },
+    {
+      "id": "2611bf1c3fbf84d194bb15ebe494436d5cd99a8b862df769485c537db83fd7e4",
+      "title": "⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
+      "url": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
+      "summary": "This&nbsp;week had real hits. The&nbsp;key software got tampered with. Active&nbsp;bugs showed up in the tools people use every day. Some&nbsp;attacks didn’t even need much effort because the path was already&nbsp;there. One weak spot now spreads wider than before. What&nbsp;starts small can reach a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-06T12:46:00+00:00"
+    },
+    {
+      "id": "9ddbf5c307281977386f3652ee37b8734478ddab6f1b16a5dea0aa757284d4f3",
+      "title": "Hackers threaten to leak data after cyberattack on German party Die Linke",
+      "url": "https://therecord.media/hackers-threaten-to-leak-german-political-party-data",
+      "summary": "Die Linke confirmed in late March that its IT infrastructure had been hit by what it described as a “serious cyberattack.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-06T12:29:00+00:00"
+    },
+    {
+      "id": "17e8fb2127a0ecb2124511826e2ec6a8cbf93a1f2fb6a9c10ab9234349a33c95",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and p",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-06T12:00:00+00:00"
+    },
+    {
+      "id": "35768df7e6244a520141f106bde1f25936091bc7975d0394733733d6cd512302",
+      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+      "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+      "summary": "The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI&nbsp;agents. In&nbsp;March 2026, the TeamPCP threat&nbsp;act",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-06T11:45:00+00:00"
+    },
+    {
+      "id": "d491992fae9d82593bcaf05cb8beea31d9001dec8245b0ff7de58da42e39dc97",
+      "title": "Guardarian Users Targeted With Malicious Strapi NPM Packages",
+      "url": "https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/",
+      "summary": "Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials. The post Guardarian Users Targeted With Malicious Strapi NPM Packages appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-06T11:40:56+00:00"
+    },
+    {
+      "id": "9b9f0ff45fe25b66e3fc6f01cf3f113241fa8b6430ba946ed903fcc80abf3cb4",
+      "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
+      "url": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
+      "summary": "The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign. The post North Korean Hackers Target High-Profile Node.js Maintainers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-06T11:02:36+00:00"
+    },
+    {
+      "id": "100bdf733cba26a8edeadf4387322a461d322024566f0f19fc1423c932e62640",
+      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+      "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+      "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro. Qilin at",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-06T10:07:00+00:00"
+    },
+    {
+      "id": "dc0807198886c2eba647bd0dd2a7626efdedc0d26a4e807cedaeead1d2e34c3b",
+      "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
+      "url": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
+      "summary": "The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely. The post Fortinet Rushes Emergency Fixes for Exploited Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-06T09:37:28+00:00"
+    },
+    {
+      "id": "a07afbe3fc4c308bd98e423df4f810b88a18408f49efbe8c6af4ae6b01f64a18",
+      "title": "How often are redirects used in phishing in 2026&#x3f;, (Mon, Apr 6th)",
+      "url": "https://isc.sans.edu/diary/rss/32870",
+      "summary": "In one of his recent diaries, Johannes discussed how open redirects are actively being sought out by threat actors&#x5b;1&#x5d;, which made me wonder about how commonly these mechanisms are actually misused&#xe2;&#x20ac;&#xa6;&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-06T08:50:27+00:00"
+    },
+    {
+      "id": "8fa3b0e305709ecd22d7c96c1a47c3516588d3597b7938b540ea8a61003c0866",
+      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of the threat actors, who went by the alias UNKN, functioned as ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-06T06:59:00+00:00"
+    },
+    {
+      "id": "3e73213b65c0a33fb980f3f06a4d4f83f65c00cc18661c3b3542e148c4c81a42",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotag",
       "source": "Krebs on Security",
       "category": "malware",
-      "date": "2026-02-10T21:49:53+00:00"
+      "date": "2026-04-06T02:07:17+00:00"
     },
     {
-      "id": "71d4e6b9e20557a3de7d1c31b85262e99bc3e5abb800c62a9f9b5e64f157a1ee",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More &#187;",
-      "source": "Krebs on Security",
+      "id": "b0835d83ca4dddc3e52280bbc935018a2c5009d7c87ad4a62d5192fd612bc590",
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-05T18:45:17+00:00"
+    },
+    {
+      "id": "db193bce1a8a02d03fba7df1bce905eef688b4d978efd7879a84eb2a6672e910",
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;202",
+      "source": "The Hacker News",
       "category": "threat",
-      "date": "2026-02-02T16:15:16+00:00"
+      "date": "2026-04-05T18:25:00+00:00"
+    },
+    {
+      "id": "10ee70a496fd1ebfa096aa83ac8a57f0e7f851acae07a5958c5bf8582ff37763",
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-05T14:17:23+00:00"
+    },
+    {
+      "id": "6c619c60f949c251cae21975d2d4982e99abf6b8c6c34c53de0e490949a09224",
+      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+      "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&nbsp;implant. \"Every packag",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-05T05:07:00+00:00"
+    },
+    {
+      "id": "ea48c77b90e90c857913de3538a19af28227e595c29082faa81dc7b5a54f52cb",
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild. The&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privile",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-05T04:32:00+00:00"
+    },
+    {
+      "id": "68cabf3e4ea0703a302ac39a69e4d66896d94cfec0381824d9f7bd33502e20ff",
+      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-04T20:30:42+00:00"
+    },
+    {
+      "id": "ece35b683fe646e793df390fce4dc27510ff7d4c1f2a62012ab17cb0c930e745",
+      "title": "Device code phishing attacks surge 37x as new kits spread online",
+      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+      "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-04T14:17:38+00:00"
+    },
+    {
+      "id": "2586841327ce82fa261a993453b7d773f525c3e7500eac5b5246381bec375e05",
+      "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
+      "url": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
+      "summary": "Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information. The post European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-04T10:31:00+00:00"
+    },
+    {
+      "id": "0f7034ca378af97a1bbacd1156eff892152271b1470eaa132f5e17fab66cb318",
+      "title": "CISA gives agencies two weeks to patch video conferencing bug exploited by Chinese hackers",
+      "url": "https://therecord.media/trueconf-cyberattack-cisa-hackers",
+      "summary": "A bug in a popular line of video conferencing software is being exploited by hackers, prompting the U.S. government to order all agencies to patch the vulnerability within two weeks.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-03T19:45:00+00:00"
+    },
+    {
+      "id": "6698d2b375fd0fff650c4093eae400dd58a73f0f7d413315f5cd73b849c92c0e",
+      "title": "EU cyber agency attributes major data breach to TeamPCP hacking group",
+      "url": "https://therecord.media/european-commission-cyberattack-teampcp",
+      "summary": "The European Union’s cybersecurity agency said the hacking group TeamPCP was behind a massive recent data breach at the European Commission.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-03T18:15:00+00:00"
+    },
+    {
+      "id": "950b935ebf5ff7e9d67e09ca8ae3b010ef896ff7e34ecaff5b0e53ad6b367a1f",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T17:41:11+00:00"
+    },
+    {
+      "id": "4e718ba655225952a9a252148faf7be2f736edd351e8866ab3e151b4ce6f8fe4",
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region. The campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDe",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-03T17:34:00+00:00"
+    },
+    {
+      "id": "6639769897d38659d99e2a0280fd14b0e5776079967bac6dc61253efba34902e",
+      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+      "summary": "The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T16:36:44+00:00"
+    },
+    {
+      "id": "c32575bb95606b8c9bc174eae59a95e7ea98dbec542c63439fc277ffa1f4b06c",
+      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+      "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+      "summary": "Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team. \"Instead of exposing command execution through URL parameters or ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-03T15:32:00+00:00"
+    },
+    {
+      "id": "f5c3121afbe77c1959998521b0c567c5a053c3b8be0b9bac815233e784b7b22c",
+      "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
+      "summary": "Multi-extortion ransomware relies on stolen data to pressure victims with public leaks. Penta Security explains how its D.AMO platform keeps exfiltrated files encrypted and useless to attackers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T14:05:15+00:00"
+    },
+    {
+      "id": "de2b9c01433f3ff829708f5f65ca1dc43da3167abd0deaaf7d467e7e456ec23b",
+      "title": "Massachusetts emergency communications system impacted by cyberattack",
+      "url": "https://therecord.media/massachusetts-emergency-alert-cyberattack",
+      "summary": "An emergency communications system used across a handful of small towns in northern Massachusetts was impacted by a cyberattack.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-03T14:00:00+00:00"
+    },
+    {
+      "id": "02ccaea16ee73f4e98666c97c99a19bb3f91d664981944f05b36d3c0a354caf6",
+      "title": "Ukraine warns Russian hackers are revisiting past breaches to prepare new attacks",
+      "url": "https://therecord.media/ukraine-warns-russian-hackers-revisiting-old-attacks",
+      "summary": "In a new report, CERT-UA said attackers are revisiting previously breached infrastructure to check whether access is still available, whether exploited vulnerabilities have been patched and whether previously obtained credentials remain valid.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-03T13:20:00+00:00"
+    },
+    {
+      "id": "b1b779501c6e1480c980021b059a79f3521d87e2d51bb89d2767b3e01222f982",
+      "title": "TeamPCP Supply Chain Campaign: Update 006 - CERT-EU Confirms European Commission Cloud Breach, Sportradar Details Emerge, and Mandiant Quantifies Campaign at 1,000&#x2b; SaaS Environments, (Fri, Apr 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/32864",
+      "summary": "This is the sixth update to the TeamPCP supply chain campaign threat intelligence report,&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;\"When the Security Scanner Became the Weapon\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;(v",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-03T13:18:01+00:00"
+    },
+    {
+      "id": "3a8a7e4382c47826e22543dc25676fdf15603081b79bf87b3b7edbe6ea54fe2d",
+      "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
+      "url": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
+      "summary": "A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads. The post TrueConf Zero-Day Exploited in Asian Government Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T12:47:16+00:00"
+    },
+    {
+      "id": "27310e87a25e16404afe8ce83fafcadad0d0c62bd0a12d0f87d38ffc0f1a3300",
+      "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
+      "url": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident. The post In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T12:30:53+00:00"
+    },
+    {
+      "id": "e40f0dcc84b11dba5d6574cdb396d6d41474c02b833f1675ececadd6e21cbeed",
+      "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
+      "url": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
+      "summary": "The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server. The post Critical ShareFile Flaws Lead to Unauthenticated RCE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T12:12:22+00:00"
     }
   ]
 }
