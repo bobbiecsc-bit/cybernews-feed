@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-12T02:22:47.455021+00:00",
+  "updated": "2026-04-12T07:10:31.787749+00:00",
   "page": 4,
   "total_pages": 5,
-  "total_articles": 241,
+  "total_articles": 243,
   "page_size": 50,
   "articles": [
+    {
+      "id": "27310e87a25e16404afe8ce83fafcadad0d0c62bd0a12d0f87d38ffc0f1a3300",
+      "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
+      "url": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident. The post In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T12:30:53+00:00"
+    },
+    {
+      "id": "e40f0dcc84b11dba5d6574cdb396d6d41474c02b833f1675ececadd6e21cbeed",
+      "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
+      "url": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
+      "summary": "The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server. The post Critical ShareFile Flaws Lead to Unauthenticated RCE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T12:12:22+00:00"
+    },
     {
       "id": "3ea9b0c959774c01d3a106813626af42c62af63f5920a62e049bce6f1183378b",
       "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
@@ -436,24 +454,6 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-03-31T00:52:44+00:00"
-    },
-    {
-      "id": "6e82204822f85cfac9ff76a14df2f8250ba1f9e4c3c01d4fe14ba7876f0ac1e2",
-      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-      "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
-      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaki",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-30T18:05:00+00:00"
-    },
-    {
-      "id": "e4e2c62e3f7377ada9885118f7bd787846ee0ab24b91302d2e71b0788eefadcc",
-      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-      "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-03-30T15:47:00+00:00"
     }
   ]
 }

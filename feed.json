@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-12T02:22:47.455021+00:00",
+  "updated": "2026-04-12T07:10:31.787749+00:00",
   "page": 1,
   "total_pages": 5,
-  "total_articles": 241,
+  "total_articles": 243,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5df88131d4e4dcc385ab75af512e0bb8e880ae1b3816bf45a80604ac7804e272",
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT. Th",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-12T05:54:00+00:00"
+    },
+    {
+      "id": "30e27c7923da9101c1ac8eca07ecc32dd0fe8649bc396df221f127725d9e1e34",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-12T04:25:00+00:00"
+    },
     {
       "id": "7e08f909e7be509b9f459b7acde2bc176b0e3267893a9a10bffb23f5b059f07f",
       "title": "UK government threatens tech bosses with jail time if they do not adequately fight nudification tools",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-04-08T21:46:27+00:00"
-    },
-    {
-      "id": "1148ff4275f922300a8783dc4b58bd97d2a991ac0d700beebc72778802391da5",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-08T18:55:43+00:00"
-    },
-    {
-      "id": "85f1e4ce06524605549ece12876b7af75c8b9138dd2fbeee99bd66d0efc789e7",
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-08T18:15:27+00:00"
     }
   ]
 }
