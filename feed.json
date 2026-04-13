@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-13T13:21:02.300079+00:00",
+  "updated": "2026-04-13T19:12:05.959590+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cad9400150d21f1c100472a7a292f1730bca97f866bdeaa67bad9c196cf2bffc",
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-13T17:39:10+00:00"
+    },
+    {
+      "id": "304547bd3a2bfe4599908638145887e6d8087bdfc1b63c37dff8509d8b1a5f2b",
+      "title": "New Booking.com data breach forces reservation PIN resets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+      "summary": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-13T17:30:10+00:00"
+    },
+    {
+      "id": "485ee17397254117e5dfc2916fd62a5ece5377ead1b64f0cb30bf4b12699d90d",
+      "title": "On Anthropic’s Mythos Preview and Project Glasswing",
+      "url": "https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html",
+      "summary": "The cybersecurity industry is obsessing over Anthropic&#8217;s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is not releasing it to the general public because of its cyberattack capabilities, and has launched Project Glasswing to run the model against a w",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-04-13T16:52:57+00:00"
+    },
+    {
+      "id": "5ec6ca76b8c4954dd16613f572b490292f2689a2ee8cc1c6ab007de50cf429f1",
+      "title": "FBI, Indonesia take down W3LL phishing tool",
+      "url": "https://therecord.media/phishing-takedown-indonesia-fbi",
+      "summary": "A widely used phishing tool that allowed hackers to create fake websites that looked like legitimate login portals for just $500 was disrupted by the FBI and law enforcement agencies in Indonesia.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-13T16:45:00+00:00"
+    },
+    {
+      "id": "7b5869a584d6f1d4b4599e948a02099b313af019b231dfc4c36c2701917cc0e4",
+      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+      "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-13T15:37:05+00:00"
+    },
+    {
+      "id": "9f3c7f29bcbc08945f808c6b2db249df43a65d6efffcd7ef7e42acb8ebe90462",
+      "title": "Booking.com Says Hackers Accessed User Information",
+      "url": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
+      "summary": "The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. The post Booking.com Says Hackers Accessed User Information appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-13T14:25:07+00:00"
+    },
+    {
+      "id": "033db71abdda26c6eae65d8e96a4a1079c5f5e0b9feefbdb0ba06297089c68e2",
+      "title": "Hackers claim breach of Rockstar Games via cloud analytics platform",
+      "url": "https://therecord.media/rockstar-hackers-cyberattack-cloud",
+      "summary": "The ShinyHunters cybercrime group has claimed responsibility for breaching systems linked to video game developer Rockstar Games, threatening to release stolen data if a ransom is not paid.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-13T14:15:00+00:00"
+    },
+    {
+      "id": "d0e02208d97a5e99b802d8d25c41121fc558be4155bd9bc9b5a1ca9cb3bf42a1",
+      "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+      "url": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-13T14:05:15+00:00"
+    },
     {
       "id": "2184c1b3e583af33f6181b7ab232a4e8073110df3c33457f3994288f022dd1e8",
       "title": "Scans for EncystPHP Webshell, (Mon, Apr 13th)",
@@ -13,6 +85,15 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-04-13T13:02:50+00:00"
+    },
+    {
+      "id": "401af785e1093fa9a1125f358a55bcf2f2fad6cc3f49b7f06618754ddde81814",
+      "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+      "url": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+      "summary": "Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&nbsp;is one of tho",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-13T13:01:00+00:00"
     },
     {
       "id": "57a5d0f07c3b61994fff9c395974297bbba3c117d3751406f9e8808236b78958",
@@ -24,10 +105,19 @@
       "date": "2026-04-13T12:34:06+00:00"
     },
     {
+      "id": "b758ea49084e7307686ea69d0622684fe01900d57be484ac9b6b54733c18f210",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-2152",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-13T12:00:00+00:00"
+    },
+    {
       "id": "72c59f7c36dd94904ee656399934c20a96d403770e4c1cd3b535487c3e236305",
       "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
       "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's ",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-13T11:41:00+00:00"
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-09T14:02:12+00:00"
-    },
-    {
-      "id": "60fbf122510620d1f3ed9ecb947ce8255ebbb96afd82ac4e5a06aed6629ff241",
-      "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
-      "url": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
-      "summary": "RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation. The post Apple Intelligence AI Guardrails Bypassed in New Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-09T13:43:07+00:00"
-    },
-    {
-      "id": "d749c39bec9990c5c7f5e38cbd32a4d5ca5d08e687151f42e0867af4312bfb8e",
-      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-      "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't. This&nbsp;one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinki",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-09T12:57:00+00:00"
-    },
-    {
-      "id": "029aeb10a153ba8317be544adb8989b4e0cf4b923250ad2e4afa2f5c5560669c",
-      "title": "Webinar: From noise to signal - What threat actors are targeting next",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
-      "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn those early warning signs into proactive defensive action before an intrusion begins. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-09T12:20:28+00:00"
-    },
-    {
-      "id": "4016fda8d2e2a22fbe0663e69d86023d479d804799e204c779cd3685fd560fd7",
-      "title": "Cryptocurrency ATM giant Bitcoin Depot reports $3.6 million stolen in cyberattack",
-      "url": "https://therecord.media/crypto-atm-bitcoin-depot-reports-cyberattack",
-      "summary": "Bitcoin Depot filed a notice with the Securities Exchange Commission (SEC) explaining that a threat actor “gained access to certain systems and obtained control of credentials associated with the company’s digital asset settlement accounts.”",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-09T12:10:00+00:00"
-    },
-    {
-      "id": "20a327816b6f37a7aeed4a070c96b3f03c0318754b28ed0ef94b439ad24ef455",
-      "title": "Contemporary Controls BASC 20T",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The following versions of Contemporary Controls BASC",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-09T12:00:00+00:00"
-    },
-    {
-      "id": "9b5fc939bbe58d8e6d168965719c350bf32742f57e6d55a66662750a30f45852",
-      "title": "GPL Odorizers GPL750",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odorizers GPL750 are affected: GPL750 (XL4) &",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-09T12:00:00+00:00"
-    },
-    {
-      "id": "36f1e113ec814a52c3af8e619eb7ce4dac669f21056a69305b88ad22af71e542",
-      "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
-      "summary": "The bugs could allow attackers to modify protected resources and escalate their privileges to administrator. The post Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-09T11:58:52+00:00"
-    },
-    {
-      "id": "96766918cbd3828f15f13f037dcfc88e005e9b0ac698b438860f863b5c6b131c",
-      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-      "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-      "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025. The finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"In",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-09T11:15:00+00:00"
-    },
-    {
-      "id": "709f2eafef2fb38f10510df793b8b2111649e43f6d80e55c425394385fe023c7",
-      "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
-      "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
-      "summary": "An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&nbsp;from Access&nbsp;Now, Lookout,&nbsp;and SMEX",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-09T10:40:00+00:00"
-    },
-    {
-      "id": "8e793b4f519b56f81ccda119e3881219be2fd5d5f72be18f8e85c79fc5d5b2f7",
-      "title": "Eurail says December data breach impacts 300,000 individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-      "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-09T10:31:54+00:00"
     }
   ]
 }
