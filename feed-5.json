@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-13T07:58:52.845348+00:00",
+  "updated": "2026-04-13T13:21:02.300079+00:00",
   "page": 5,
   "total_pages": 5,
-  "total_articles": 246,
+  "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bcbf906e5643242068debf226b74826906c4846f9be6142361ef01a26480e41f",
+      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069. \"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-01T07:44:00+00:00"
+    },
+    {
+      "id": "941259e5f922de11b3c85195d0c431ed576ec4bfdff260bbeb1a0ae2b3090348",
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shar",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-01T06:12:00+00:00"
+    },
+    {
+      "id": "f4b57f9aa08eddf10af8b081b1561595b59863a0638b703e4b284dc9ba2540bd",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T16:03:00+00:00"
+    },
+    {
+      "id": "2fa7673cfe536cc88c96c82cdc4aa8c3026b6124061ddd15fd625d2b2061ca4f",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Pa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T13:09:00+00:00"
+    },
+    {
+      "id": "2e5d31329dd196e58fa11a672676c1ef5334de9b9f2d4643a3897879a659d0e2",
+      "title": "Anritsu Remote Spectrum Monitor",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS271",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-31T12:00:00+00:00"
+    },
+    {
+      "id": "592af0ee79f9a4e687fb99b26458fa40e687e23ac42b1d4a07f915d11b330057",
+      "title": "PX4 Autopilot",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-03-31T12:00:00+00:00"
+    },
+    {
+      "id": "dd94868bea6f2e3fe0f3d4756c86cb4b9c37aa2204fbc99372a6aadf6c40b644",
+      "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-03-31T11:50:00+00:00"
+    },
     {
       "id": "09209671b584e20b0581651229da82b6221bbd355a401d7ff6facf45dabe71c8",
       "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
@@ -391,33 +454,6 @@
       "source": "Krebs on Security",
       "category": "vulnerability",
       "date": "2026-02-28T12:01:57+00:00"
-    },
-    {
-      "id": "976a0eb52d2949f4374af307bc347b87f96c9a9dbe5b73cc005705ab86edadbc",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses clever",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-02-20T20:00:30+00:00"
-    },
-    {
-      "id": "24d5868677c3fa93f141f106ecaeaf229f01e781a17fb202250ececd746d9b43",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-02-10T21:49:53+00:00"
-    },
-    {
-      "id": "71d4e6b9e20557a3de7d1c31b85262e99bc3e5abb800c62a9f9b5e64f157a1ee",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More &#187;",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-02-02T16:15:16+00:00"
     }
   ]
 }

@@ -1,15 +1,78 @@
 {
-  "updated": "2026-04-13T07:58:52.845348+00:00",
-  "total": 246,
+  "updated": "2026-04-13T13:21:02.300079+00:00",
+  "total": 250,
   "articles": [
+    {
+      "id": "2184c1b3e583af33f6181b7ab232a4e8073110df3c33457f3994288f022dd1e8",
+      "title": "Scans for EncystPHP Webshell, (Mon, Apr 13th)",
+      "url": "https://isc.sans.edu/diary/rss/32892",
+      "summary": "Last week, I wrote about attackers scanning for various webshells, hoping to find some that do not require authentication or others that use well-known credentials. But some attackers are paying attention and are deploying webshells with more difficult-to-guess credentials. Today, I noticed some sca",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-13T13:02:50+00:00"
+    },
+    {
+      "id": "57a5d0f07c3b61994fff9c395974297bbba3c117d3751406f9e8808236b78958",
+      "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
+      "url": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
+      "summary": "The AI giant is taking action after determining that a macOS code signing certificate may have been compromised. The post OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-13T12:34:06+00:00"
+    },
+    {
+      "id": "72c59f7c36dd94904ee656399934c20a96d403770e4c1cd3b535487c3e236305",
+      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+      "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-13T11:41:00+00:00"
+    },
+    {
+      "id": "f30aec65c6beb4aea26dfcdf8b45e46acb4f33cc410449a5b7a3efd4d0a00163",
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "summary": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT. The post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-13T10:52:57+00:00"
+    },
+    {
+      "id": "377e05af8e1986ea70ae86e4dc0c6b15cca8b341f899cc6cf6cc8b89a0b0ce1e",
+      "title": "Fake Claude Website Distributes PlugX RAT",
+      "url": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
+      "summary": "The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself. The post Fake Claude Website Distributes PlugX RAT appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-04-13T09:52:50+00:00"
+    },
+    {
+      "id": "e1221ad60fe2573b7af548aa57a673dea6460c4fc260ab200858f0a6b4602a45",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delive",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-13T09:15:00+00:00"
+    },
     {
       "id": "58fb044e431d19781cf88c881cc0cbb13c35369f20b90b21698ec0cfcef46dd7",
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
       "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-      "summary": "OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies o",
+      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS a",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-13T06:50:00+00:00"
+    },
+    {
+      "id": "4e63bd0e62ff6f06e6a766e64507848adfddcb892a1909e42b0b7a9aaf3febc8",
+      "title": "Hack at Dutch gym chain Basic-Fit exposes customer data in several EU countries",
+      "url": "https://therecord.media/dutch-gym-chain-basic-fit-hit-by-hackers",
+      "summary": "Unknown hackers breached the systems of European gym chain Basic-Fit and downloaded personal data belonging to members across several countries, the company has announced.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-12T23:00:00+00:00"
     },
     {
       "id": "30aef2bba1238c3529515e87a1ba4378fe18e09d57df908a45d2b78b2e597cab",
@@ -2188,33 +2251,6 @@
       "source": "Krebs on Security",
       "category": "vulnerability",
       "date": "2026-02-28T12:01:57+00:00"
-    },
-    {
-      "id": "976a0eb52d2949f4374af307bc347b87f96c9a9dbe5b73cc005705ab86edadbc",
-      "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses clever",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-02-20T20:00:30+00:00"
-    },
-    {
-      "id": "24d5868677c3fa93f141f106ecaeaf229f01e781a17fb202250ececd746d9b43",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-02-10T21:49:53+00:00"
-    },
-    {
-      "id": "71d4e6b9e20557a3de7d1c31b85262e99bc3e5abb800c62a9f9b5e64f157a1ee",
-      "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… Read More &#187;",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-02-02T16:15:16+00:00"
     }
   ]
 }
