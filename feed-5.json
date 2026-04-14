@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-14T02:13:50.012797+00:00",
+  "updated": "2026-04-14T07:27:00.684202+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6730d0d762e22681bb54c7529c61084b0817e2775346cf26d9ba39154c114f48",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-3502&nbsp;TrueConf&nbsp;Client Download of Code Without Integrity Check Vulnerability&nbsp; This type of vulnerability is a fre",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
+    {
+      "id": "2a303f08db9fb4ccfb0b2a930502cd900aeb4d417f94140770f28ee97b71aff4",
+      "title": "Hitachi Energy Ellipse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-02T12:00:00+00:00"
+    },
     {
       "id": "eb5d1b41f5ee007570ffbf795f7bd6deae378f7a19ba0dd639532c9c4bf6fbf1",
       "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-03-26T11:45:00+00:00"
-    },
-    {
-      "id": "aa24b8d13161fb1c37bc8f2c1600332d6c027a767826c902e3d23b5d8ffee65c",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to t",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-25T12:00:00+00:00"
-    },
-    {
-      "id": "fa9cd66f91313167d1afd50a48f51dad353eb9d7d2ff101b31aa2a43a055bb31",
-      "title": "Grassroots DICOM (GDCM)",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted file, and when parsed, could result in a denial-of-service condition. The following versions of Grassroots DICOM (GDCM) are affected: Grassroots DICOM (GDCM) 3.2.2 (CVE-2026-3650) CVSS",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
     }
   ]
 }
