@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-14T13:19:58.676545+00:00",
+  "updated": "2026-04-14T19:10:11.891207+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f4f12620f7979f46fd9dcdcc60a1106c745d78ada473b179208eeff8965f14e9",
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems. The&nbsp;malware&nbsp;has&nbsp;been found to conceal itself ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-03T09:10:00+00:00"
+    },
+    {
+      "id": "6ca7b5bfa84bd5da55849d4e414b46c5be7c24e6b31ac39dd68e095f0e9587e1",
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "url": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1,&nbsp;2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durabl",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-03T08:35:00+00:00"
+    },
+    {
+      "id": "b8ada83bae187db759141389d221743ee24c6878a42aaa74755c6924e2e0e709",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-03T06:33:34+00:00"
+    },
+    {
+      "id": "9efc7dd2f8e2dbd2532a2647b3c33e6f224d5e92f9d051bcdb347c62a534d43a",
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "summary": "Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-02T20:30:55+00:00"
+    },
+    {
+      "id": "5a9dcd752491baf733bac646b1e7a90606275ea53a9ac920fc4fc36cffb18f96",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "summary": "A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-02T19:30:00+00:00"
+    },
+    {
+      "id": "e65e829b37d81da7a671c0673fed22c9c51491e472433dbcaf3c7b85a38694a4",
+      "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
+      "url": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
+      "summary": "The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-02T19:03:39+00:00"
+    },
+    {
+      "id": "686d32b39a3f9c28937fa23463fab53fbd45fab7544d22e96ec72289788c99ae",
+      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
+      "url": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
+      "summary": "Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI. The post Critical Vulnerability in Claude Code Emerges Days After Source Leak appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-02T18:00:55+00:00"
+    },
     {
       "id": "e9867e2edc3f28786a95b1c3bd42feac9c9d9083839c1066b8bd7f2555ec2c3f",
       "title": "US Bans All Foreign-Made Consumer Routers",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-03-28T09:11:00+00:00"
-    },
-    {
-      "id": "f3c27614cea70cdd5ecf8d721d2a800b555c0d2dcd7cd2fc64972876c56efb81",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "adf98943f8a5b761e0806ca44f3b6b0844342d77408acb3a2e6ba9337266ef18",
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVS",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "81e28439bf9319c390ce8ddd3208d143a5bc7ac2e4d8eb50150fb419cf2af8e9",
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, includ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-27T17:22:00+00:00"
-    },
-    {
-      "id": "0bc9a4dd7e9b74c149d3b39576f1b20e505e167dbc77b60421b64bb51b6845d1",
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-03-27T16:53:00+00:00"
-    },
-    {
-      "id": "618b9e23f5b23a3edc7aed1b337f82534876cc5e34c74ac6e1371aefa90703e4",
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-27T13:57:00+00:00"
-    },
-    {
-      "id": "af5793328338cfdadf8c466a53d597d973b733a32b4e867cea5ef803912cedb6",
-      "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
-      "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
-      "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-27T12:03:00+00:00"
-    },
-    {
-      "id": "92901df9b8d229e7cb4b2bd57b3e3c91fa8c1aa201161b2338541f0a48388f00",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant ri",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-27T12:00:00+00:00"
     }
   ]
 }

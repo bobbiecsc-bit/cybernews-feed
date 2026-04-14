@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-14T13:19:58.676545+00:00",
+  "updated": "2026-04-14T19:10:11.891207+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "fdf202733f1707b9675b22dbc27e10740d832fa043a3f9186427748fb66eb0be",
+      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
+      "url": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
+      "summary": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count. The post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-14T18:14:37+00:00"
+    },
+    {
+      "id": "d4c09a58cda7b08f868dc32674a67779441a3bbbd8d046baae3a16397a192427",
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-14T18:07:07+00:00"
+    },
+    {
+      "id": "a0d9f1fb8a48bc04ae4fab6a4a1b2b7d1ec0d0ca0e112c4e7a0760d479789811",
+      "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
+      "url": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
+      "summary": "Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant. The post Adobe Patches 55 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-14T16:48:03+00:00"
+    },
+    {
+      "id": "b900c39f1815dd5d1a8ed4b60efa801fe54d8991be11d7ed73ae70bef855e342",
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-14T15:57:00+00:00"
+    },
+    {
+      "id": "e932151f912bd84b46e1d745f180da03d285247679b3e6d6273bd3eb42e17c33",
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "url": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent br",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-14T14:30:00+00:00"
+    },
+    {
+      "id": "44c6a5e1ab34af42d0e02a85dae19ce3dbdbd08baebc7ebf16ce06aa820bddb0",
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "url": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-14T14:02:12+00:00"
+    },
     {
       "id": "15bdf2c3e8fc2cb0d207e5b229803c5ef7b0b2d111f47ed223f62c7ff361f557",
       "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
@@ -19,6 +73,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-14T12:43:30+00:00"
+    },
+    {
+      "id": "af9b2167e2af3fadbf7b62648d261230e418388ee26985c78d3547c177ee740f",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability&nbsp; These typ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-14T12:00:00+00:00"
     },
     {
       "id": "4574403b9578c4e2f9e70006a98d270dc2891d0bb84a124c0cb6a2fa46cd4c95",
@@ -96,7 +159,7 @@
       "id": "3e11903e5ad4ca9af7804054a76c245975ddd95a816e7012af2ef55b6483bc35",
       "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
       "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection v",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on&nbsp;Monday added half a dozen security flaws to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows&nbsp;- CVE-2026-21643 (CVSS score: 9.1) -&nbs",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-14T05:39:00+00:00"
@@ -2188,69 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-03-28T09:11:00+00:00"
-    },
-    {
-      "id": "f3c27614cea70cdd5ecf8d721d2a800b555c0d2dcd7cd2fc64972876c56efb81",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "adf98943f8a5b761e0806ca44f3b6b0844342d77408acb3a2e6ba9337266ef18",
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVS",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T07:07:00+00:00"
-    },
-    {
-      "id": "81e28439bf9319c390ce8ddd3208d143a5bc7ac2e4d8eb50150fb419cf2af8e9",
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, includ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-27T17:22:00+00:00"
-    },
-    {
-      "id": "0bc9a4dd7e9b74c149d3b39576f1b20e505e167dbc77b60421b64bb51b6845d1",
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-03-27T16:53:00+00:00"
-    },
-    {
-      "id": "618b9e23f5b23a3edc7aed1b337f82534876cc5e34c74ac6e1371aefa90703e4",
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "url": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-27T13:57:00+00:00"
-    },
-    {
-      "id": "af5793328338cfdadf8c466a53d597d973b733a32b4e867cea5ef803912cedb6",
-      "title": "AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion",
-      "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
-      "summary": "Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-27T12:03:00+00:00"
-    },
-    {
-      "id": "92901df9b8d229e7cb4b2bd57b3e3c91fa8c1aa201161b2338541f0a48388f00",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant ri",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-27T12:00:00+00:00"
     }
   ]
 }

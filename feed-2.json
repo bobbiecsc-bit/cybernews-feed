@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-14T13:19:58.676545+00:00",
+  "updated": "2026-04-14T19:10:11.891207+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "31e66c59ed0c25708637821b34f84e8417452689a8910c551b3bd3aacd94123a",
+      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+      "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&nbsp;machine. The technique has been discovered in an Open VSX ext",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-10T13:23:00+00:00"
+    },
+    {
+      "id": "657026195ccdc9589fb9b29e5fcd8c420e3b0d2c6a681553facdbf873bff4e69",
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-10T13:12:42+00:00"
+    },
+    {
+      "id": "3f4203d673bcf038bb3174e5feb98d07d8af71501f3eb528bb996aaa1d0d9f99",
+      "title": "UK says it exposed Russian submarine activity near undersea cables",
+      "url": "https://therecord.media/uk-says-it-exposed-russian-submarine-activity",
+      "summary": "A Russian attack submarine and vessels from the country’s Main Directorate of Deep Sea Research (GUGI) were involved in what the UK Ministry of Defence called “nefarious activity over critical undersea infrastructure elsewhere.”",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-10T13:03:00+00:00"
+    },
+    {
+      "id": "dea084feebaded61f46f9c38e59aa0908f5d525e60c812897ea54b97aedf2f3e",
+      "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
+      "url": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
+      "summary": "The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption. The post Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-10T12:41:08+00:00"
+    },
+    {
+      "id": "6c04a4021eadf2186ade2e26542c41e6e0b88a6232563b87a6f04dd2763d55a6",
+      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-10T11:56:14+00:00"
+    },
+    {
+      "id": "692272d735c72f896edac78f257eb507f313622b05ace28e23b1404dcdc1cb37",
+      "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
+      "url": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
+      "summary": "Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks. The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-10T11:53:45+00:00"
+    },
+    {
+      "id": "cb4ada4d40118d7ef45393d9a427ecb3e110ccdc83ee52aa8b031f870da71d74",
+      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
+      "url": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
+      "summary": "The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers. The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-10T10:44:45+00:00"
+    },
     {
       "id": "28b3c64dbc56f47c4325ef8836b6c7a0491e11adf481a404f7d4f27044de221a",
       "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
@@ -391,69 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-04-08T17:10:00+00:00"
-    },
-    {
-      "id": "e8f8587adeaf7732210e268eb0e0c5a58cdd005b170441e53ac8482708ebb23f",
-      "title": "Two prominent Egyptian journalists targeted with elaborate spearphishing campaign",
-      "url": "https://therecord.media/two-egyptian-journalists-targeted-spearphishing-campaign",
-      "summary": "Digital civil rights nonprofit Access Now released a report on the findings with the mobile security company Lookout on Wednesday, saying they saw evidence the hackers may “use the methods and infrastructure associated with the attacks to deliver spyware and exfiltrate data.”",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-08T16:44:00+00:00"
-    },
-    {
-      "id": "7499d029ef6ab422fbbdcbc58da83ca3d0a8467fa113359eb085d9fba23dc4e9",
-      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
-      "url": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
-      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-08T16:30:00+00:00"
-    },
-    {
-      "id": "77539baf0265af78c2f23b07ff1c6b6291e0c604c518d8de6bf7b76a49516896",
-      "title": "Data Leakage Vulnerability Patched in OpenSSL",
-      "url": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
-      "summary": "A total of seven vulnerabilities, most of which can be exploited for DoS attacks, have been patched in OpenSSL. The post Data Leakage Vulnerability Patched in OpenSSL appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-08T15:37:48+00:00"
-    },
-    {
-      "id": "71e3205269f41c4fbe1132b512525e1105b5e6482f6e26e6150ae09f7a4dcb4a",
-      "title": "CIA director quietly elevated agency’s cyber espionage division",
-      "url": "https://therecord.media/cia-director-elevated-agency-cyber-espionage-division",
-      "summary": "The Center for Cyber Intelligence, which had resided within the CIA's Directorate of Digital Innovation since 2015, was promoted to a full-fledged mission center last October.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-08T14:37:00+00:00"
-    },
-    {
-      "id": "60eedc1f0d49f9cd1cba9b20df9f8b5875c90ea004f5ba0fdcb6d77bb7ae2601",
-      "title": "RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years",
-      "url": "https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/",
-      "summary": "The vulnerability requires authentication for successful exploitation, but another flaw exposes the Jolokia API without authentication. The post RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-08T14:30:27+00:00"
-    },
-    {
-      "id": "abc8fee95791727bb6c8c2128756dc987bb906047aca695d194453a266656a10",
-      "title": "More Honeypot Fingerprinting Scans, (Wed, Apr 8th)",
-      "url": "https://isc.sans.edu/diary/rss/32878",
-      "summary": "One question that often comes up when I talk about honeypots: Are attackers able to figure out if they are connected to a honeypot&#x3f; The answer is pretty simple: Yes&#x21;&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-04-08T14:23:28+00:00"
-    },
-    {
-      "id": "dd8352ddbf4eb5bc495b1333e5cb8d341f8deffc8308f2401d86b2c701d4df1a",
-      "title": "Is a $30,000 GPU Good at Password Cracking?",
-      "url": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
-      "summary": "A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-08T14:00:10+00:00"
     }
   ]
 }
