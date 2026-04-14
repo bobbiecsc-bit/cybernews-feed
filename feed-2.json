@@ -1,10 +1,91 @@
 {
-  "updated": "2026-04-14T07:27:00.684202+00:00",
+  "updated": "2026-04-14T13:19:58.676545+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "28b3c64dbc56f47c4325ef8836b6c7a0491e11adf481a404f7d4f27044de221a",
+      "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
+      "url": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
+      "summary": "Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild. The post Critical Marimo Flaw Exploited Hours After Public Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-10T09:12:48+00:00"
+    },
+    {
+      "id": "270b5565490f14e6d461631bb0533c111ad55a094f7cd9bbca36e0e6dfe6ee73",
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "summary": "A critical security vulnerability&nbsp;in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according&nbsp;to findings from&nbsp;Sysdig. The vulnerability in question&nbsp;is CVE-2026-39987 (CVSS score: 9.3), a pre-authenti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-10T07:37:00+00:00"
+    },
+    {
+      "id": "8cd2c331c3e769e47ffa62aeea8609eabdc8657b42ab5ecd04790486105cfe1f",
+      "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
+      "url": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
+      "summary": "The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago. The post Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-10T07:33:16+00:00"
+    },
+    {
+      "id": "97b694829fb3e7751ca9c7a2339c62a1835969b3e241e41cffbf8a490829a902",
+      "title": "Obfuscated JavaScript or Nothing, (Thu, Apr 9th)",
+      "url": "https://isc.sans.edu/diary/rss/32884",
+      "summary": "I spotted an interesting piece of JavaScript code that was delivered via a phishing email in a RAR archive. The file was called &#xe2;&#x20ac;&#x153;cbmjlzan.JS&#xe2;&#x20ac;&#x9d; (SHA256:a8ba9ba93b4509a86e3d7dd40fd0652c2743e32277760c5f7942b788b74c5285) and is only identified as malicious by 15 AV&",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-10T06:40:46+00:00"
+    },
+    {
+      "id": "e8d45ef6fa2e6d28b50a791e8fc420898dc9414b20a48d242e026755c7168d53",
+      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
+      "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
+      "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a po",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-10T06:28:00+00:00"
+    },
+    {
+      "id": "64bfeea339d0054b59f44ee5e4e3b8b037cc26f21041fe51fe5ab8aec3fcd12f",
+      "title": "Dutch hospitals face disruptions after ransomware attack on software provider ChipSoft",
+      "url": "https://therecord.media/chipsoft-ransomware-attack-disrupts-dutch-hospitals",
+      "summary": "A ransomware attack on Dutch healthcare software vendor ChipSoft has forced the company to disable parts of its digital services used by hospitals and patients across the Netherlands, the national cybersecurity center for the healthcare sector said.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-04-09T23:00:00+00:00"
+    },
+    {
+      "id": "ec3bd017ede6ceaf05cdd97edb4ab8ed0016746165340f8931d3007d1a6f8f45",
+      "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+      "summary": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-09T22:04:31+00:00"
+    },
+    {
+      "id": "4fa879a4fc5ddf18f2b2fc189ef9584590bc0617479d8288fa7948f8a82b1505",
+      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
+      "url": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
+      "summary": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-09T21:37:04+00:00"
+    },
+    {
+      "id": "28dd82d6463b5722ee1eeb5240d60706436cb5e3bcf311e38b276603a98dae8e",
+      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+      "summary": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-09T19:46:44+00:00"
+    },
     {
       "id": "2a9ae0687e859480b49e48a7f882e0b110b60e55bc4afd530f3dfcfdfacccbc2",
       "title": "Google Chrome adds infostealer protection against session cookie theft",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-04-08T14:00:10+00:00"
-    },
-    {
-      "id": "6b414d8e994298aa2db08c49ad293eac87bfd77a966cd1f9f9c3a52a8407ccf0",
-      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
-      "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
-      "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite&nbsp;codenamed PRISMEX. \"PRISMEX combines advanced steganography, component object m",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-08T13:50:00+00:00"
-    },
-    {
-      "id": "1775ca294b5422d991787a25ef8dcd2c7b6fc421e84abfa9db97819e090e2c1a",
-      "title": "Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption",
-      "url": "https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/",
-      "summary": "Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack. The post Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-08T12:31:39+00:00"
-    },
-    {
-      "id": "6d81ab338cc3794ed063bda28c9aa3141986ba377e873314463712d48f843bf7",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-08T12:00:00+00:00"
-    },
-    {
-      "id": "119a7d5f49b95184bcdf408831114c847931f7e57f29efcb1ad207a70bbcb696",
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "url": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity Enterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&nbsp;systems.&nbsp; The result is Id",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-08T11:30:00+00:00"
-    },
-    {
-      "id": "a3e8d29d67516f1ea5af555f2a2776eb882674a2fdb989de82e840dec405e2b6",
-      "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
-      "url": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
-      "summary": "The vulnerability allows hackers to upload arbitrary files to a site’s server and achieve remote code execution. The post Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-08T11:20:23+00:00"
-    },
-    {
-      "id": "c4441db9ad733c5383ab7bef6d0832a75da2251dc4dcb2259a67ff6cabb58eaf",
-      "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
-      "url": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
-      "summary": "The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks. The post US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-08T10:54:14+00:00"
-    },
-    {
-      "id": "4ad28f84ee160a81f012d1b53044968c2000dbbac16459ce53830a643d745296",
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
-      "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude Mythos,&nbsp;to find and address security vulnerabilities. The model will&nbsp;be used by&nbsp;a smal",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-08T09:16:00+00:00"
-    },
-    {
-      "id": "dd7601c31a1ceda0936fbb3333a7e2ca5e8193d15596d3279a4413c5021fd53a",
-      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
-      "url": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
-      "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. \"The threat actor's packages were designed to impersonate legitimate developer tooling [...], while quietly functio",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-08T07:47:00+00:00"
-    },
-    {
-      "id": "0f7fdb279162bf9317862b1b47a35fda420d78a0a93c9b7ea4dd726c9b4f27fb",
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&nbsp;agencies warned&nbsp;Tuesday. \"These attacks have led to diminished PLC fun",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-08T04:23:00+00:00"
     }
   ]
 }
