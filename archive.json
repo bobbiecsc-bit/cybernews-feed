@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-13T19:12:05.959590+00:00",
+  "updated": "2026-04-14T02:13:50.012797+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d5523212ce18fef07b772bd91520bf3747696905b4b1e97860e2c609a96cfc6f",
+      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
+      "url": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
+      "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-13T21:50:01+00:00"
+    },
+    {
+      "id": "0f9d8ec716362392e34ca60efc82fca0e3342562b764ae40035912864f673910",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-13T20:08:10+00:00"
+    },
+    {
+      "id": "8adeaf70dd8b48785cded0c3bc4ac1ac89f6d5e162ce7e58418b17f533c52c4a",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-13T19:56:03+00:00"
+    },
     {
       "id": "cad9400150d21f1c100472a7a292f1730bca97f866bdeaa67bad9c196cf2bffc",
       "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
@@ -19,6 +46,15 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-13T17:30:10+00:00"
+    },
+    {
+      "id": "a66474a8174fc52e9442e627568a864fc9614b0729d0b2cdf79cc8b6fae5717e",
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "url": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+      "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well a",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-13T17:15:00+00:00"
     },
     {
       "id": "485ee17397254117e5dfc2916fd62a5ece5377ead1b64f0cb30bf4b12699d90d",
@@ -2215,42 +2251,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "ada55c81693e8ccc3df917c39ccada7c970fbbf9e6424ca73d1338042f4da6d5",
-      "title": "Pharos Controls Mosaic Show Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to execute arbitrary commands with root privileges. The following versions of Pharos Controls Mosaic Show Controller are affected: Mosaic Show Controller Firmware 2.15.3 (CVE-2026-2417) CVSS Vendo",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "682d7cc51b6219d513b25f294f96dbd80d63a4c78d70052d89df15949fde6110",
-      "title": "Schneider Electric EcoStruxure Foxboro DCS",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure Foxboro DCS Control Software on Foxboro DCS workstations and servers. Control Core Services and all runtime software, like FCPs, FDCs, and FBMs, are not affected. The EcoStruxure Foxboro DCS ([https://www.se.com/ww/e",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "742b210d88d35c67b480934fb9d91818087566da6d446f31b22f9a79cc9bd184",
-      "title": "Schneider Electric Plant iT/Brewmaxx",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-083-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could risk privilege escalation, which could result in remote code execution. The following versions of Schneider Electric Plant iT/Brewmaxx are affected: Plant iT/Brewmaxx 9.60_and_above (CVE-2025-49844, CVE-2025-46817, CVE-2025-468",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-24T12:00:00+00:00"
-    },
-    {
-      "id": "3afa557828d2a11647bc20becced26d331dc0e1d65b2ba28641f2c889cc92053",
-      "title": "Russian Intelligence Services Target Commercial Messaging Application Accounts",
-      "url": "https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts",
-      "summary": "CISA and the Federal Bureau of Investigation released a Public Service Announcement (PSA) warning about ongoing phishing campaigns by cyber actors associated with the Russian Intelligence Services targeting commercial messaging applications (CMAs). These campaigns aim to bypass encryption to comprom",
-      "source": "CISA Alerts",
-      "category": "threat",
-      "date": "2026-03-20T12:00:00+00:00"
     }
   ]
 }
