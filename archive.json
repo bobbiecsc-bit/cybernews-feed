@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-14T19:10:11.891207+00:00",
+  "updated": "2026-04-15T02:10:35.263783+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b73c71af5f501c548b45a941d60927088f29cc6942bf8d49c052f38cafcb392d",
+      "title": "Scanning for AI Models, (Tue, Apr 14th)",
+      "url": "https://isc.sans.edu/diary/rss/32896",
+      "summary": "Starting March 10, 2026, my DShield sensor started getting probe for various AI models such as claude, openclaw, huggingface, etc. Reviewing the data already reported by other DShield sensors to ISC, the DShield database shows reporting of these probes started that day and has been active ever since",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-15T00:19:53+00:00"
+    },
+    {
+      "id": "777b68454fccd405c1c666ac1285948b9db49494f57c33de26e848e13a7d8450",
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+      "summary": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-14T22:23:33+00:00"
+    },
+    {
+      "id": "0f72a83ff7b70ebe9eddb78be3c8c667cf916213dbb8ba27e3da5322846ee11f",
+      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
+      "url": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+      "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-14T21:58:31+00:00"
+    },
+    {
+      "id": "92369a098e94ccf8c639dd2adb5921e4a95343a6b98b49cf60936217ac693059",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-04-14T21:47:59+00:00"
+    },
+    {
+      "id": "0ae8a0d73158c3192a8fb31ff70e69aad9866103379e00adc752ec7ec779ad1a",
+      "title": "New ‘JanaWare’ ransomware targeting Turkish citizens as cybercriminal ecosystem fragments",
+      "url": "https://therecord.media/new-janaware-ransomware-targeting-turkey",
+      "summary": "The researchers said the ransomware operation has been ongoing since 2020 and is associated with a strain of malware that enforces execution constraints based on system locale and external IP geolocation.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-04-14T19:35:00+00:00"
+    },
     {
       "id": "fdf202733f1707b9675b22dbc27e10740d832fa043a3f9186427748fb66eb0be",
       "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-03-30T13:56:00+00:00"
-    },
-    {
-      "id": "b7ea608912fcadda10a0c5dd5f3d87796256f90d9aee635bed288a0b76dc0c60",
-      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-      "url": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-      "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 m",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-30T13:00:00+00:00"
-    },
-    {
-      "id": "077e4d5f763df908200d0e9730b0f27c10822b7121f7d4836c0ec651910f3fa3",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-03-30T12:00:00+00:00"
-    },
-    {
-      "id": "2436e41221c1cb1cf3ebe06ef7eca0f1eb5c7282e62a3c5517e20518cd0d5381",
-      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-      "url": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-      "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-03-30T07:00:00+00:00"
-    },
-    {
-      "id": "61bc3bc246e66ac7bc47cd565f7a35e71b6f4f50ceb6c4448a64fb2315603539",
-      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-      "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website tha",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-03-28T15:40:00+00:00"
-    },
-    {
-      "id": "3100a14f20dd56785d1d15da3457528accad6e920d6a088ccec4e4c65c60a8cc",
-      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
-      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
-      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to me",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-28T09:11:00+00:00"
     }
   ]
 }
