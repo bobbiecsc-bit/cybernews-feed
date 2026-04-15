@@ -1,10 +1,64 @@
 {
-  "updated": "2026-04-15T07:27:23.783086+00:00",
+  "updated": "2026-04-15T13:19:25.436716+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "02ccaea16ee73f4e98666c97c99a19bb3f91d664981944f05b36d3c0a354caf6",
+      "title": "Ukraine warns Russian hackers are revisiting past breaches to prepare new attacks",
+      "url": "https://therecord.media/ukraine-warns-russian-hackers-revisiting-old-attacks",
+      "summary": "In a new report, CERT-UA said attackers are revisiting previously breached infrastructure to check whether access is still available, whether exploited vulnerabilities have been patched and whether previously obtained credentials remain valid.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-03T13:20:00+00:00"
+    },
+    {
+      "id": "b1b779501c6e1480c980021b059a79f3521d87e2d51bb89d2767b3e01222f982",
+      "title": "TeamPCP Supply Chain Campaign: Update 006 - CERT-EU Confirms European Commission Cloud Breach, Sportradar Details Emerge, and Mandiant Quantifies Campaign at 1,000&#x2b; SaaS Environments, (Fri, Apr 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/32864",
+      "summary": "This is the sixth update to the TeamPCP supply chain campaign threat intelligence report,&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;\"When the Security Scanner Became the Weapon\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;(v",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-03T13:18:01+00:00"
+    },
+    {
+      "id": "3a8a7e4382c47826e22543dc25676fdf15603081b79bf87b3b7edbe6ea54fe2d",
+      "title": "TrueConf Zero-Day Exploited in Asian Government Attacks",
+      "url": "https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/",
+      "summary": "A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads. The post TrueConf Zero-Day Exploited in Asian Government Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T12:47:16+00:00"
+    },
+    {
+      "id": "27310e87a25e16404afe8ce83fafcadad0d0c62bd0a12d0f87d38ffc0f1a3300",
+      "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
+      "url": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident. The post In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-03T12:30:53+00:00"
+    },
+    {
+      "id": "e40f0dcc84b11dba5d6574cdb396d6d41474c02b833f1675ececadd6e21cbeed",
+      "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
+      "url": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
+      "summary": "The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server. The post Critical ShareFile Flaws Lead to Unauthenticated RCE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-03T12:12:22+00:00"
+    },
+    {
+      "id": "3ea9b0c959774c01d3a106813626af42c62af63f5920a62e049bce6f1183378b",
+      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
+      "summary": "The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&nbsp;as UNC1069. Maintainer Jason Saayman said the attackers tailored their social engineerin",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-03T11:04:00+00:00"
+    },
     {
       "id": "4023885f3def8d4f462c17f3c4230e44d65c8e0c216e6d540e1d000b11952d28",
       "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-03-31T11:50:00+00:00"
-    },
-    {
-      "id": "09209671b584e20b0581651229da82b6221bbd355a401d7ff6facf45dabe71c8",
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "url": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocu",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-03-31T11:46:00+00:00"
-    },
-    {
-      "id": "e45e53fb9982e3d0d3e0181b6e82964de23767930c2843a6c9bf034123ccad7b",
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-      "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inje",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-03-31T06:08:00+00:00"
-    },
-    {
-      "id": "03bfa65cfa4a1d1766a04d58fddffdeae71045cec7c0a570d9d0dba1f046363a",
-      "title": "TeamPCP Supply Chain Campaign: Update 004 - Databricks Investigating Alleged Compromise, TeamPCP Runs Dual Ransomware Operations, and AstraZeneca Data Released, (Mon, Mar 30th)",
-      "url": "https://isc.sans.edu/diary/rss/32846",
-      "summary": "This is the fourth update to the TeamPCP supply chain campaign threat intelligence report,&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;\"When the Security Scanner Became the Weapon\"&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;(",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-03-31T00:52:44+00:00"
-    },
-    {
-      "id": "6e82204822f85cfac9ff76a14df2f8250ba1f9e4c3c01d4fe14ba7876f0ac1e2",
-      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-      "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
-      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaki",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-03-30T18:05:00+00:00"
-    },
-    {
-      "id": "e4e2c62e3f7377ada9885118f7bd787846ee0ab24b91302d2e71b0788eefadcc",
-      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-      "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. \"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-03-30T15:47:00+00:00"
-    },
-    {
-      "id": "b75bd02d59e6b8f609f6605e45cbebe5749c17ad561a8417523b18956da1fc5d",
-      "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-      "url": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-      "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention. There's a bit of everything ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-03-30T13:56:00+00:00"
     }
   ]
 }
