@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-15T19:13:05.447787+00:00",
+  "updated": "2026-04-16T02:26:46.077746+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b0835d83ca4dddc3e52280bbc935018a2c5009d7c87ad4a62d5192fd612bc590",
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is actively exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-05T18:45:17+00:00"
+    },
+    {
+      "id": "db193bce1a8a02d03fba7df1bce905eef688b4d978efd7879a84eb2a6672e910",
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;202",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-05T18:25:00+00:00"
+    },
+    {
+      "id": "10ee70a496fd1ebfa096aa83ac8a57f0e7f851acae07a5958c5bf8582ff37763",
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-05T14:17:23+00:00"
+    },
+    {
+      "id": "6c619c60f949c251cae21975d2d4982e99abf6b8c6c34c53de0e490949a09224",
+      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+      "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&nbsp;implant. \"Every packag",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-05T05:07:00+00:00"
+    },
+    {
+      "id": "ea48c77b90e90c857913de3538a19af28227e595c29082faa81dc7b5a54f52cb",
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild. The&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privile",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-05T04:32:00+00:00"
+    },
     {
       "id": "68cabf3e4ea0703a302ac39a69e4d66896d94cfec0381824d9f7bd33502e20ff",
       "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
@@ -409,51 +454,6 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-04-01T20:09:43+00:00"
-    },
-    {
-      "id": "afa4abdefad93d505aea9f3ebcbe566cbbbcc1f05d13eb36387b52fb7430a7bb",
-      "title": "Is “Hackback” Official US Cybersecurity Strategy?",
-      "url": "https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html",
-      "summary": "The 2026 US &#8220;Cyber Strategy for America&#8221; document is mostly the same thing we&#8217;ve seen out of the White House for over a decade, but with a more aggressive tone. But one sentence stood out: &#8220;We will unleash the private sector by creating incentives to identify and disrupt adve",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-04-01T16:57:35+00:00"
-    },
-    {
-      "id": "d3a3b72f9f64520868b39836da9ecf72dd3a41aadf4260b9c395c35849939997",
-      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-      "url": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of the attacks, the threat actors, tracked as UAC-0255, sent ema",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-01T16:10:00+00:00"
-    },
-    {
-      "id": "3ceb58adb5cfc9c6fa07ea422b62f2528234da60796e707b0c4516fd17c26fd1",
-      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling re",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-01T14:10:00+00:00"
-    },
-    {
-      "id": "a8ea24fec647278993910a227c778ff2e9983b6d130fed8a23617e49f6bf0807",
-      "title": "TeamPCP Supply Chain Campaign: Update 005 - First Confirmed Victim Disclosure, Post-Compromise Cloud Enumeration Documented, and Axios Attribution Narrows, (Wed, Apr 1st)",
-      "url": "https://isc.sans.edu/diary/rss/32856",
-      "summary": "This is the fifth update to the TeamPCP supply chain campaign threat intelligence report, \"When the Security Scanner Became the Weapon\" (v3.0, March 25, 2026). Update 004 covered developments through March 30, including the Databricks investigation, dual ransomware operations, and AstraZeneca data r",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-04-01T13:08:26+00:00"
-    },
-    {
-      "id": "e074e4776b92dd2a439bcb7b2726fcbbc6dc49d9a4f93e3c700d3c1804d1a0ff",
-      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-      "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
-      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracke",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-01T12:36:00+00:00"
     }
   ]
 }
