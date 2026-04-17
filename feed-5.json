@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-17T13:13:21.350983+00:00",
+  "updated": "2026-04-17T18:56:26.270400+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "80bc2958ff74558cec03053e38027cfea2e1b93a5983cf4e1b2e4548a7bd9e8e",
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to steal Microsoft account credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-07T15:51:22+00:00"
+    },
+    {
+      "id": "af09e20eee176f30333f8bddf682e9fcfabdf273653c043941f33c78b244559f",
+      "title": "Critical Flowise Vulnerability in Attacker Crosshairs",
+      "url": "https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/",
+      "summary": "The improper validation of user-supplied JavaScript code allows attackers to execute arbitrary code and access the file system. The post Critical Flowise Vulnerability in Attacker Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-07T15:34:51+00:00"
+    },
+    {
+      "id": "2dfa187bf1992857cd86dd4263a7ce548abe5f64bbb77bcdd538827624dbf7fe",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances. The vulnerability, tracked&nbsp;as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix&nbsp;for CVE-2024-4111",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-07T15:15:00+00:00"
+    },
+    {
+      "id": "6fa972a5204fbabe6e9ad78a47dbd0e3412b8442a9de68e0d2b66ebdb227a1db",
+      "title": "Severe StrongBox Vulnerability Patched in Android",
+      "url": "https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/",
+      "summary": "A critical DoS vulnerability in the Framework component of Android has also been fixed with the latest update. The post Severe StrongBox Vulnerability Patched in Android appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-07T14:23:51+00:00"
+    },
+    {
+      "id": "223178f4d65f72fb1c7fd40b5ddec2831544704ae4e366e43d958006880d3ce6",
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+      "url": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "summary": "Automated pentesting tools deliver strong early results, then quickly plateau. Picus Security explains how the \"PoC cliff\" leaves major attack surfaces untested and creates a dangerous validation gap. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-07T14:01:11+00:00"
+    },
     {
       "id": "34c9d4b650b6875de767f7dc7c4ca111aeac88d587fc6f09c1d77d85bb55db3e",
       "title": "UK exposes Russian cyber unit hacking home routers to hijack internet traffic",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-04-04T20:30:42+00:00"
-    },
-    {
-      "id": "ece35b683fe646e793df390fce4dc27510ff7d4c1f2a62012ab17cb0c930e745",
-      "title": "Device code phishing attacks surge 37x as new kits spread online",
-      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-04T14:17:38+00:00"
-    },
-    {
-      "id": "2586841327ce82fa261a993453b7d773f525c3e7500eac5b5246381bec375e05",
-      "title": "European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack",
-      "url": "https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/",
-      "summary": "Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information. The post European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-04T10:31:00+00:00"
-    },
-    {
-      "id": "0f7034ca378af97a1bbacd1156eff892152271b1470eaa132f5e17fab66cb318",
-      "title": "CISA gives agencies two weeks to patch video conferencing bug exploited by Chinese hackers",
-      "url": "https://therecord.media/trueconf-cyberattack-cisa-hackers",
-      "summary": "A bug in a popular line of video conferencing software is being exploited by hackers, prompting the U.S. government to order all agencies to patch the vulnerability within two weeks.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-03T19:45:00+00:00"
-    },
-    {
-      "id": "6698d2b375fd0fff650c4093eae400dd58a73f0f7d413315f5cd73b849c92c0e",
-      "title": "EU cyber agency attributes major data breach to TeamPCP hacking group",
-      "url": "https://therecord.media/european-commission-cyberattack-teampcp",
-      "summary": "The European Union’s cybersecurity agency said the hacking group TeamPCP was behind a massive recent data breach at the European Commission.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-03T18:15:00+00:00"
-    },
-    {
-      "id": "950b935ebf5ff7e9d67e09ca8ae3b010ef896ff7e34ecaff5b0e53ad6b367a1f",
-      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
-      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-03T17:41:11+00:00"
     }
   ]
 }
