@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-16T19:08:17.101408+00:00",
+  "updated": "2026-04-17T02:14:34.084075+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "61bbb2b4848c210bae911b1bd1767a31a61393a4d52fad5abfca12235185c827",
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "url": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-16T22:04:53+00:00"
+    },
+    {
+      "id": "fd5a03253786b736e78e0f1dd6b860a697e0a61fff0e35a7195023afd5074187",
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-16T20:19:31+00:00"
+    },
     {
       "id": "1f34bbf5dd2b4cf2a48308b46ef3ca455e15eb50e223f1bf5ccf5222e3d47d07",
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
@@ -106,6 +124,15 @@
       "title": "AVEVA Pipeline Simulation",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation &lt;=2025_SP1_build_7.1.9497.635",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-16T12:00:00+00:00"
+    },
+    {
+      "id": "49cecfe891afc29523d389dcd2eea4277fc79d5dd22b5686e5b983cab7ef0930",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses sign",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-16T12:00:00+00:00"
@@ -2224,33 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-04-03T11:00:00+00:00"
-    },
-    {
-      "id": "65a2c8545a31241f5dc98224616fc626a4085a10daec84c417b0dfe2852d0bce",
-      "title": "React2Shell Exploited in Large-Scale Credential Harvesting Campaign",
-      "url": "https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/",
-      "summary": "Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems. The post React2Shell Exploited in Large-Scale Credential Harvesting Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-03T10:55:13+00:00"
-    },
-    {
-      "id": "bf82c05964540394774efa9921d13a9afa1719d429bb09891408879df56c0f9f",
-      "title": "T-Mobile Sets the Record Straight on Latest Data Breach Filing",
-      "url": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
-      "summary": "The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek. The post T-Mobile Sets the Record Straight on Latest Data Breach Filing appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-03T10:30:00+00:00"
-    },
-    {
-      "id": "2603c77365238ad4d8412ab95d86f1ca0992a65cfa018c246eb0d3abceeabcc0",
-      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
-      "url": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
-      "summary": "The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults. The post North Korean Hackers Drain $285 Million From Drift in 10 Seconds appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-03T09:46:06+00:00"
     }
   ]
 }

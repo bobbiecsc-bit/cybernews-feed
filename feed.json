@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-16T19:08:17.101408+00:00",
+  "updated": "2026-04-17T02:14:34.084075+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "61bbb2b4848c210bae911b1bd1767a31a61393a4d52fad5abfca12235185c827",
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "url": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "summary": "A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-16T22:04:53+00:00"
+    },
+    {
+      "id": "fd5a03253786b736e78e0f1dd6b860a697e0a61fff0e35a7195023afd5074187",
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-16T20:19:31+00:00"
+    },
     {
       "id": "1f34bbf5dd2b4cf2a48308b46ef3ca455e15eb50e223f1bf5ccf5222e3d47d07",
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
@@ -109,6 +127,15 @@
       "title": "AVEVA Pipeline Simulation",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation &lt;=2025_SP1_build_7.1.9497.635",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-16T12:00:00+00:00"
+    },
+    {
+      "id": "49cecfe891afc29523d389dcd2eea4277fc79d5dd22b5686e5b983cab7ef0930",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses sign",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-16T12:00:00+00:00"
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-04-14T22:23:33+00:00"
-    },
-    {
-      "id": "0f72a83ff7b70ebe9eddb78be3c8c667cf916213dbb8ba27e3da5322846ee11f",
-      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
-      "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-14T21:58:31+00:00"
-    },
-    {
-      "id": "92369a098e94ccf8c639dd2adb5921e4a95343a6b98b49cf60936217ac693059",
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-04-14T21:47:59+00:00"
-    },
-    {
-      "id": "0ae8a0d73158c3192a8fb31ff70e69aad9866103379e00adc752ec7ec779ad1a",
-      "title": "New ‘JanaWare’ ransomware targeting Turkish citizens as cybercriminal ecosystem fragments",
-      "url": "https://therecord.media/new-janaware-ransomware-targeting-turkey",
-      "summary": "The researchers said the ransomware operation has been ongoing since 2020 and is associated with a strain of malware that enforces execution constraints based on system locale and external IP geolocation.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-04-14T19:35:00+00:00"
     }
   ]
 }
