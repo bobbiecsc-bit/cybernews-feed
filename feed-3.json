@@ -1,10 +1,100 @@
 {
-  "updated": "2026-04-17T07:28:43.242471+00:00",
+  "updated": "2026-04-17T13:13:21.350983+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "72c59f7c36dd94904ee656399934c20a96d403770e4c1cd3b535487c3e236305",
+      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+      "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-13T11:41:00+00:00"
+    },
+    {
+      "id": "f30aec65c6beb4aea26dfcdf8b45e46acb4f33cc410449a5b7a3efd4d0a00163",
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "summary": "Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT. The post CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-13T10:52:57+00:00"
+    },
+    {
+      "id": "377e05af8e1986ea70ae86e4dc0c6b15cca8b341f899cc6cf6cc8b89a0b0ce1e",
+      "title": "Fake Claude Website Distributes PlugX RAT",
+      "url": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
+      "summary": "The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself. The post Fake Claude Website Distributes PlugX RAT appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-04-13T09:52:50+00:00"
+    },
+    {
+      "id": "e1221ad60fe2573b7af548aa57a673dea6460c4fc260ab200858f0a6b4602a45",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delive",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-13T09:15:00+00:00"
+    },
+    {
+      "id": "58fb044e431d19781cf88c881cc0cbb13c35369f20b90b21698ec0cfcef46dd7",
+      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-13T06:50:00+00:00"
+    },
+    {
+      "id": "4e63bd0e62ff6f06e6a766e64507848adfddcb892a1909e42b0b7a9aaf3febc8",
+      "title": "Hack at Dutch gym chain Basic-Fit exposes customer data in several EU countries",
+      "url": "https://therecord.media/dutch-gym-chain-basic-fit-hit-by-hackers",
+      "summary": "Unknown hackers breached the systems of European gym chain Basic-Fit and downloaded personal data belonging to members across several countries, the company has announced.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-12T23:00:00+00:00"
+    },
+    {
+      "id": "30aef2bba1238c3529515e87a1ba4378fe18e09d57df908a45d2b78b2e597cab",
+      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-12T14:20:31+00:00"
+    },
+    {
+      "id": "d3ce752fa35fdcdead71b6609b4091807c47e84d19eb9c4693d8833e4206b5b1",
+      "title": "Adobe Patches Reader Zero-Day Exploited for Months",
+      "url": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
+      "summary": "The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution. The post Adobe Patches Reader Zero-Day Exploited for Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-12T07:45:26+00:00"
+    },
+    {
+      "id": "5df88131d4e4dcc385ab75af512e0bb8e880ae1b3816bf45a80604ac7804e272",
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT. Th",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-12T05:54:00+00:00"
+    },
+    {
+      "id": "30e27c7923da9101c1ac8eca07ecc32dd0fe8649bc396df221f127725d9e1e34",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-12T04:25:00+00:00"
+    },
     {
       "id": "7e08f909e7be509b9f459b7acde2bc176b0e3267893a9a10bffb23f5b059f07f",
       "title": "UK government threatens tech bosses with jail time if they do not adequately fight nudification tools",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-04-09T09:22:35+00:00"
-    },
-    {
-      "id": "f90c087ee5a528a70ea5531566ec08c858df5ea56afe0cccdaec09041dcba07a",
-      "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
-      "url": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
-      "summary": "Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability. The post Adobe Reader Zero-Day Exploited for Months: Researcher appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-09T08:44:51+00:00"
-    },
-    {
-      "id": "7f4c24cbc94023b49d2234a8d5e14c2a1e9daa496bca533ee7c5c26885dfc769",
-      "title": "300,000 People Impacted by Eurail Data Breach",
-      "url": "https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/",
-      "summary": "In December 2025, hackers stole names and passport numbers from the European travel company’s network. The post 300,000 People Impacted by Eurail Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-09T08:28:05+00:00"
-    },
-    {
-      "id": "976cafdc026bbad606f26cfb4020e131234a729a9815e16e1a5e4bf418fc1f17",
-      "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
-      "summary": "Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-09T07:44:55+00:00"
-    },
-    {
-      "id": "24066e7b91d99ab4a73c6229c71601866a10bc2be0d2bc050f76905f350a7b9a",
-      "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
-      "url": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
-      "summary": "A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. The post $3.6 Million Stolen in Bitcoin Depot Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-09T06:41:40+00:00"
-    },
-    {
-      "id": "aae99212f444420d442203ac29bb82b6876f6aeebae6b00e4dc798eacb53bf84",
-      "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
-      "url": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
-      "summary": "Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. The post Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-09T01:22:35+00:00"
-    },
-    {
-      "id": "2f191400306f9748fabbe63019eef1c9e814f70c2557e5d4965de7a2020ce1a5",
-      "title": "Cybercriminals target accountants to drain Russian firms’ bank accounts",
-      "url": "https://therecord.media/cybercriminals-hack-russian-accountants-to-steal-millions",
-      "summary": "Cybercriminals have stolen millions from Russian companies by hacking accountants’ computers and disguising transfers as salary payments, with the largest confirmed theft exceeding 14 million rubles.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-08T23:00:00+00:00"
-    },
-    {
-      "id": "2e7a58b8243406108854a7440f92828f83a3d12e1da6e736fa522bea16c9d164",
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-08T22:34:26+00:00"
-    },
-    {
-      "id": "9c5d430fbe0afd96460084d7280ef7e943f380e2bda01df40e1c44111819ebc9",
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-08T21:46:27+00:00"
-    },
-    {
-      "id": "1148ff4275f922300a8783dc4b58bd97d2a991ac0d700beebc72778802391da5",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-08T18:55:43+00:00"
-    },
-    {
-      "id": "85f1e4ce06524605549ece12876b7af75c8b9138dd2fbeee99bd66d0efc789e7",
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-08T18:15:27+00:00"
     }
   ]
 }
