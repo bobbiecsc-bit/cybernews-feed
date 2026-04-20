@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-20T02:27:30.303722+00:00",
+  "updated": "2026-04-20T08:02:32.235403+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0f9d8ec716362392e34ca60efc82fca0e3342562b764ae40035912864f673910",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-13T20:08:10+00:00"
+    },
+    {
+      "id": "8adeaf70dd8b48785cded0c3bc4ac1ac89f6d5e162ce7e58418b17f533c52c4a",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-13T19:56:03+00:00"
+    },
+    {
+      "id": "cad9400150d21f1c100472a7a292f1730bca97f866bdeaa67bad9c196cf2bffc",
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-13T17:39:10+00:00"
+    },
     {
       "id": "304547bd3a2bfe4599908638145887e6d8087bdfc1b63c37dff8509d8b1a5f2b",
       "title": "New Booking.com data breach forces reservation PIN resets",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-04-09T17:25:00+00:00"
-    },
-    {
-      "id": "4317c7b1bcb59307aa9ba0aa0c8d11689d66c1f926f56e30c0bef35f375fdb3b",
-      "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-      "url": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-      "summary": "A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. \"LucidRook is a sophisticated stager that embeds a L",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-09T16:23:00+00:00"
-    },
-    {
-      "id": "e512893b5a66ba6bbe4826147a54511f5b8e6fb0f6471a5f6d74b21487721cb8",
-      "title": "Russia accuses former Radio Free Europe journalist of aiding cyberattacks for Ukraine",
-      "url": "https://therecord.media/russia-accuses-radio-free-europe-journalist-aiding-ukraine-cyberattack",
-      "summary": "In a statement to state-owned media, the FSB said the suspect joined a Telegram channel controlled by the Security Service of Ukraine (SBU) and passed information about a local print publication covering Russia’s war in Ukraine.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-09T15:02:00+00:00"
-    },
-    {
-      "id": "73d243b380ff9459ef28f575a009b21dd0714e2e150d8a54bed7a68f816478a9",
-      "title": "When attackers already have the keys, MFA is just another door to open",
-      "url": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-      "summary": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-09T14:02:12+00:00"
     }
   ]
 }
