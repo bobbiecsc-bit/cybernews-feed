@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-22T13:21:13.340459+00:00",
+  "updated": "2026-04-22T19:09:41.676361+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "60e0ff4f72e36a2d295fe26435083db056f3df62974f320698c3164b7c31a534",
+      "title": "Sweden says pro-Russian hackers attempted to breach thermal power plant",
+      "url": "https://therecord.media/sweden-hackers-russia-power-plant",
+      "summary": "A suspected pro-Russian hacker group attempted to disrupt operations at a thermal power plant in western Sweden last year, a Swedish defense official said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-15T12:15:00+00:00"
+    },
+    {
+      "id": "d3a1c92a303a942f4f5e361d4fd472bac0404fc119483c34a2aba869772687f5",
+      "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
+      "url": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
+      "summary": "The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions. The post Two Vulnerabilities Patched in Ivanti Neurons for ITSM appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-15T11:38:21+00:00"
+    },
+    {
+      "id": "003152b283f2cd57beb884637963e22d078f8105c29514ca0e38c61161c594cf",
+      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
+      "url": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
+      "summary": "Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems. The post $10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-15T10:58:12+00:00"
+    },
+    {
+      "id": "e400df007cf418f1a181d87cea3bff6e837aea092bbcd749e488cc532fb7c476",
+      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+      "url": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "summary": "The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests. The post Fortinet Patches Critical FortiSandbox Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-15T09:37:24+00:00"
+    },
+    {
+      "id": "40ea1bec8d26b7a87ed357041434a75bcfd64320976b2e51934246db7f485b56",
+      "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+      "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+      "summary": "Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild. Of these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three ar",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-15T08:40:00+00:00"
+    },
+    {
+      "id": "b73c71af5f501c548b45a941d60927088f29cc6942bf8d49c052f38cafcb392d",
+      "title": "Scanning for AI Models, (Tue, Apr 14th)",
+      "url": "https://isc.sans.edu/diary/rss/32896",
+      "summary": "Starting March 10, 2026, my DShield sensor started getting probe for various AI models such as claude, openclaw, huggingface, etc. Reviewing the data already reported by other DShield sensors to ISC, the DShield database shows reporting of these probes started that day and has been active ever since",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-04-15T00:19:53+00:00"
+    },
+    {
+      "id": "777b68454fccd405c1c666ac1285948b9db49494f57c33de26e848e13a7d8450",
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
+      "summary": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-14T22:23:33+00:00"
+    },
+    {
+      "id": "0f72a83ff7b70ebe9eddb78be3c8c667cf916213dbb8ba27e3da5322846ee11f",
+      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
+      "url": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+      "summary": "The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-14T21:58:31+00:00"
+    },
     {
       "id": "92369a098e94ccf8c639dd2adb5921e4a95343a6b98b49cf60936217ac693059",
       "title": "Patch Tuesday, April 2026 Edition",
@@ -382,78 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-04-12T23:00:00+00:00"
-    },
-    {
-      "id": "30aef2bba1238c3529515e87a1ba4378fe18e09d57df908a45d2b78b2e597cab",
-      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-12T14:20:31+00:00"
-    },
-    {
-      "id": "d3ce752fa35fdcdead71b6609b4091807c47e84d19eb9c4693d8833e4206b5b1",
-      "title": "Adobe Patches Reader Zero-Day Exploited for Months",
-      "url": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
-      "summary": "The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution. The post Adobe Patches Reader Zero-Day Exploited for Months appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-12T07:45:26+00:00"
-    },
-    {
-      "id": "5df88131d4e4dcc385ab75af512e0bb8e880ae1b3816bf45a80604ac7804e272",
-      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
-      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
-      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT. Th",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-12T05:54:00+00:00"
-    },
-    {
-      "id": "30e27c7923da9101c1ac8eca07ecc32dd0fe8649bc396df221f127725d9e1e34",
-      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
-      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-12T04:25:00+00:00"
-    },
-    {
-      "id": "7e08f909e7be509b9f459b7acde2bc176b0e3267893a9a10bffb23f5b059f07f",
-      "title": "UK government threatens tech bosses with jail time if they do not adequately fight nudification tools",
-      "url": "https://therecord.media/uk-threatens-tech-bosses-with-jail-ai-nudification",
-      "summary": "A U.K. communications regulator, Ofcom, has said it will be cracking down on the spread of the images in the aftermath of the Grok scandal, which led to millions of “nudified” images of women and children to be circulated worldwide.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-10T17:35:00+00:00"
-    },
-    {
-      "id": "bdb849dd443bb5359593fe0e8a49b1f7af20d65f9a0e7c7a67bea5474cb7058b",
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-10T15:52:45+00:00"
-    },
-    {
-      "id": "fa5674bb7422191b02782aa2e0763b84fb89f63111847d5a9953b52a9124e276",
-      "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-      "url": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware. The post In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-10T14:44:53+00:00"
-    },
-    {
-      "id": "beca9d8cb17b47c07661eedafd3d56fc5e68f4825fc4980e25b6f4eb18c6b4ed",
-      "title": "Florida investigates OpenAI for role ChatGPT may have played in deadly shooting",
-      "url": "https://therecord.media/florida-investigates-openai-chatgpt-deadly-shooting",
-      "summary": "Last week, the family of one of two victims in the attack announced it plans to sue OpenAI because the gunman allegedly constantly communicated with ChatGPT in the days leading to the shootings.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-10T14:07:00+00:00"
     }
   ]
 }

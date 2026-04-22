@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-22T13:21:13.340459+00:00",
+  "updated": "2026-04-22T19:09:41.676361+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "77ab2e8fd5256b4cc7823db86fb95fe1223ac03da2012b39d81726f984a46c71",
+      "title": "Hackers deployed wiper malware in destructive attacks on Venezuela’s energy sector",
+      "url": "https://therecord.media/hackers-venezuela-wiper-malware-oil",
+      "summary": "Hackers deployed a previously unknown wiper malware against Venezuela’s energy and utilities sector in an attack that appears to have been designed to destroy systems.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-22T19:00:00+00:00"
+    },
+    {
+      "id": "5ffe18bcf5715a9f1d16c78b8bb6a8c5b47adc00c9d57b068191d76e592a7cf0",
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-22T18:52:29+00:00"
+    },
+    {
+      "id": "0cd9568184756e946370ce32c8c11d52e5585dc0d37475387a083af049c246c6",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alp",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-22T17:55:00+00:00"
+    },
+    {
+      "id": "69eea6c1976f898fe8f642ab8a53c2296bffed03a1c0eb5d2e79e19779379d77",
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "url": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens. The supply chain worm has been detected by both Socket and StepSecurity, with the companies tracking the activi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-22T17:33:00+00:00"
+    },
+    {
+      "id": "a5d8aed385d6bfcc98bd5574e782584285d4ed2a691d6916b1d4351fb6b131da",
+      "title": "French police arrest suspected hacker behind dozens of data breaches",
+      "url": "https://therecord.media/french-hacker-cyberattacks-arrest",
+      "summary": "French authorities have arrested a suspected hacker believed to be behind dozens of data breaches targeting public institutions, sports federations and private organizations across the country.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-22T15:30:00+00:00"
+    },
+    {
+      "id": "d04ed9688bab50f9f348f46a6564f981e4bf9c774903f5243a6604cb7f2871f3",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "url": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailboxes as a covert command-and-control (C2) channel, allowing ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-22T15:28:00+00:00"
+    },
+    {
+      "id": "c0f7608a0ad8c1aab90f8855400fa393942740a5fa22fb65afc49af25a6549c1",
+      "title": "After Bluesky, Mastodon Targeted in DDoS Attack",
+      "url": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
+      "summary": "The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours. The post After Bluesky, Mastodon Targeted in DDoS Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-04-22T14:26:00+00:00"
+    },
+    {
+      "id": "04db021dd02bd05ae573e0f177bbd29212e9fa83aef9764401d2fb05b0327fcf",
+      "title": "China’s cyber capabilities now equal to the US, warns Dutch intelligence",
+      "url": "https://therecord.media/china-cyber-capabilities-match-us-dutch-intel-says",
+      "summary": "Dutch intelligence says the threat from Beijing is now largely going unmet and is so sophisticated its operations are regularly missed by intelligence agencies and cybersecurity defenders.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-22T13:33:00+00:00"
+    },
     {
       "id": "c9f4dcff8a2449ef8eebee1e2a2ee97bdd87a6ea1c5456f9a3a1cfd20b86415e",
       "title": "New npm supply-chain attack self-spreads to steal auth tokens",
@@ -159,7 +231,7 @@
       "id": "f7a5838d6f1d5b80899f70a81a0e3cd6996d639a62d755fec261be4389357378",
       "title": "French govt agency confirms breach as hacker offers to sell data",
       "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+      "summary": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-21T21:46:04+00:00"
@@ -2179,78 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-04-08T23:00:00+00:00"
-    },
-    {
-      "id": "2e7a58b8243406108854a7440f92828f83a3d12e1da6e736fa522bea16c9d164",
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-08T22:34:26+00:00"
-    },
-    {
-      "id": "9c5d430fbe0afd96460084d7280ef7e943f380e2bda01df40e1c44111819ebc9",
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-08T21:46:27+00:00"
-    },
-    {
-      "id": "1148ff4275f922300a8783dc4b58bd97d2a991ac0d700beebc72778802391da5",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-08T18:55:43+00:00"
-    },
-    {
-      "id": "85f1e4ce06524605549ece12876b7af75c8b9138dd2fbeee99bd66d0efc789e7",
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-08T18:15:27+00:00"
-    },
-    {
-      "id": "446f367d59efede50ffe57a51f23815063796336da1b915a8fbdda7fb43b040a",
-      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-      "url": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-      "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyon",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-08T17:51:00+00:00"
-    },
-    {
-      "id": "5e808181df6058a861ba5a851f6fb759b77b9026ac7d3e4df5a9d8811807a2cb",
-      "title": "Passport numbers for more than 300,000 leaked during December Eurail data breach",
-      "url": "https://therecord.media/eurail-reports-data-breach-impacting-over-300000",
-      "summary": "In February, a hacker claimed the attack and said they stole 1.3 TB of data that included source code, database backups and Zendesk support tickets.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-08T17:46:00+00:00"
-    },
-    {
-      "id": "2323f1e9aa6734a4fb9208dd456006126ecbbd4b21916368b8c56047f9f274b2",
-      "title": "Breach exposes sensitive LAPD files stored in city attorney system",
-      "url": "https://therecord.media/breach-exposes-lapd-files-city-attorney-systems",
-      "summary": "The LA Times reported that social media posts allegedly featuring information about the stolen material — some of which have since been taken down — revealed there were 7.7 terabytes of data available for download.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-08T17:42:00+00:00"
-    },
-    {
-      "id": "5a3a6ba2c7189ef4bf5ed0f28e4bbb179164371bdfacbf1b641d3e1054d20b87",
-      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
-      "url": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
-      "summary": "Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-08T17:26:40+00:00"
     }
   ]
 }
