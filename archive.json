@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23T19:03:55.525068+00:00",
+  "updated": "2026-04-24T02:25:48.980322+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d7312dc237e2373f6eec55c95552a00417e55e5b971faeb663c72d337cc6d299",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-23T21:33:45+00:00"
+    },
+    {
+      "id": "2d962fc0fbd9e729eaeb54c9c0c5f95babaf6c9d07bbcb86eb2e05f83dd89e63",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-23T19:21:01+00:00"
+    },
+    {
+      "id": "5db37cc136d3efdac9594371364c5b935d6b258d42a84ebc7efb63cdfaf38f66",
+      "title": "CISA: US agency breached through Cisco vulnerability, FIRESTARTER backdoor allowed access through March",
+      "url": "https://therecord.media/cisa-us-agency-breached-cisco-vulnerability-backdoor",
+      "summary": "CISA said the unnamed department was infected with malware called “FIRESTARTER” that allowed the hackers to return to the Cisco device in March without re-exploiting the original vulnerabilities.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-23T19:03:00+00:00"
+    },
     {
       "id": "5d821765ebe031a2a9ddcb1356d9ff3dba726a9d54927b6915e5b7467afd89a7",
       "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
@@ -2224,33 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-10T12:41:08+00:00"
-    },
-    {
-      "id": "6c04a4021eadf2186ade2e26542c41e6e0b88a6232563b87a6f04dd2763d55a6",
-      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-10T11:56:14+00:00"
-    },
-    {
-      "id": "692272d735c72f896edac78f257eb507f313622b05ace28e23b1404dcdc1cb37",
-      "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
-      "url": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
-      "summary": "Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks. The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-10T11:53:45+00:00"
-    },
-    {
-      "id": "cb4ada4d40118d7ef45393d9a427ecb3e110ccdc83ee52aa8b031f870da71d74",
-      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-      "url": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-      "summary": "The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers. The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-10T10:44:45+00:00"
     }
   ]
 }
