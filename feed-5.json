@@ -1,10 +1,64 @@
 {
-  "updated": "2026-04-24T07:59:03.645486+00:00",
+  "updated": "2026-04-24T13:17:55.557155+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "92369a098e94ccf8c639dd2adb5921e4a95343a6b98b49cf60936217ac693059",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-04-14T21:47:59+00:00"
+    },
+    {
+      "id": "0ae8a0d73158c3192a8fb31ff70e69aad9866103379e00adc752ec7ec779ad1a",
+      "title": "New ‘JanaWare’ ransomware targeting Turkish citizens as cybercriminal ecosystem fragments",
+      "url": "https://therecord.media/new-janaware-ransomware-targeting-turkey",
+      "summary": "The researchers said the ransomware operation has been ongoing since 2020 and is associated with a strain of malware that enforces execution constraints based on system locale and external IP geolocation.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-04-14T19:35:00+00:00"
+    },
+    {
+      "id": "fdf202733f1707b9675b22dbc27e10740d832fa043a3f9186427748fb66eb0be",
+      "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
+      "url": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
+      "summary": "Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count. The post Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-14T18:14:37+00:00"
+    },
+    {
+      "id": "d4c09a58cda7b08f868dc32674a67779441a3bbbd8d046baae3a16397a192427",
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-14T18:07:07+00:00"
+    },
+    {
+      "id": "a0d9f1fb8a48bc04ae4fab6a4a1b2b7d1ec0d0ca0e112c4e7a0760d479789811",
+      "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
+      "url": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
+      "summary": "Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant. The post Adobe Patches 55 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-14T16:48:03+00:00"
+    },
+    {
+      "id": "b900c39f1815dd5d1a8ed4b60efa801fe54d8991be11d7ed73ae70bef855e342",
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-14T15:57:00+00:00"
+    },
     {
       "id": "e932151f912bd84b46e1d745f180da03d285247679b3e6d6273bd3eb42e17c33",
       "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-04-10T14:07:00+00:00"
-    },
-    {
-      "id": "cc0ed71e7bf41ba8ed835bd6c618e24f408fa0d93f33960fad05e5c9dc31a34c",
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "url": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-10T14:01:11+00:00"
-    },
-    {
-      "id": "7741f4b8e1fccf97fc440b8641066d5de66603be80dfb5a18dfc395bd50b93bd",
-      "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
-      "url": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
-      "summary": "A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device. The post Juniper Networks Patches Dozens of Junos OS Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-10T13:44:17+00:00"
-    },
-    {
-      "id": "31e66c59ed0c25708637821b34f84e8417452689a8910c551b3bd3aacd94123a",
-      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-      "url": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&nbsp;machine. The technique has been discovered in an Open VSX ext",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-10T13:23:00+00:00"
-    },
-    {
-      "id": "657026195ccdc9589fb9b29e5fcd8c420e3b0d2c6a681553facdbf873bff4e69",
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-10T13:12:42+00:00"
-    },
-    {
-      "id": "3f4203d673bcf038bb3174e5feb98d07d8af71501f3eb528bb996aaa1d0d9f99",
-      "title": "UK says it exposed Russian submarine activity near undersea cables",
-      "url": "https://therecord.media/uk-says-it-exposed-russian-submarine-activity",
-      "summary": "A Russian attack submarine and vessels from the country’s Main Directorate of Deep Sea Research (GUGI) were involved in what the UK Ministry of Defence called “nefarious activity over critical undersea infrastructure elsewhere.”",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-10T13:03:00+00:00"
-    },
-    {
-      "id": "dea084feebaded61f46f9c38e59aa0908f5d525e60c812897ea54b97aedf2f3e",
-      "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
-      "url": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
-      "summary": "The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption. The post Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-10T12:41:08+00:00"
     }
   ]
 }
