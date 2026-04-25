@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-25T07:11:03.283895+00:00",
+  "updated": "2026-04-25T12:58:56.533305+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dfef76e77c82e4c717775ddaa4a97df924d4a9ebf0077d561a4715e77abc9aee",
+      "title": "Hardy Barth Salia EV Charge Controller",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Hardy Barth Salia EV Charge Controller are affected: Salia Board Firmware &lt;=2.3.81 (CVE-2025-5873, CVE-2",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "7bb1868d139f7a422dcc438d5fd9069403f480c32128f396424f1782846326b3",
+      "title": "Siemens SINEC NMS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03",
+      "summary": "View CSAF Summary Siemens SINEC NMS when used with User Management Component (UMC) contains an authentication bypass vulnerability due to insufficient validation of user identity. This could allow an unauthenticated remote attacker to bypass authentication and gain unauthorized access to the applica",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
     {
       "id": "14535858a81d6f86ec2689ca69d754e1bac23ec062a55e37945baa4899ff47fc",
       "title": "Zero Motorcycles Firmware",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "malware",
       "date": "2026-04-17T18:45:00+00:00"
-    },
-    {
-      "id": "54a02d622685fa51631cd0a6c30c03903db68fff37b9b314cae7f629d5055305",
-      "title": "Four arrested in latest ‘PowerOFF’ DDoS-for-hire takedown",
-      "url": "https://therecord.media/ddos-hire-europol-doj-crackdown",
-      "summary": "More than 20 countries participated in a coordinated takedown of platforms selling cheap access to distributed denial-of-service (DDoS) attacks.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T18:30:00+00:00"
-    },
-    {
-      "id": "f3e6d9ac18ffb6739faa0d7808022395cb598ee0fefff28d1115ff5eabb477a3",
-      "title": "Ukraine confirms suspected APT28 campaign targeting prosecutors, anti-corruption agencies",
-      "url": "https://therecord.media/ukraine-confirms-suspected-apt28-campaign-targeting-prosecutors",
-      "summary": "The intrusions exploited vulnerabilities in the open-source Roundcube webmail platform that allow attackers to execute malicious code when a victim simply opens an email in their inbox.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T14:12:00+00:00"
     }
   ]
 }
