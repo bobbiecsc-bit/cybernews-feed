@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-24T18:44:38.775151+00:00",
+  "updated": "2026-04-25T02:07:33.438677+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e0a427cb5692cb02cbc5458988b79dfe611dffff40b5dac8f7125dd1d31586cc",
+      "title": "Siemens SINEC NMS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-09",
+      "summary": "View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens has released a new version for SINEC NMS and recommends to updat",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "3f8abd5af5507fb5e243c530a77d2b0f8df34ec3e4463e2c2ab06e17fec42bfa",
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-11",
+      "summary": "View CSAF Summary Industrial Edge Management contains an authorization bypass vulnerability that could be exploited by an unauthenticated remote attacker to circumvent authentication and to access connected Industrial Edge Devices through the remote connection feature. Siemens has released new versi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "cecfa3c8cd0c78a00c7510bbe59f6c08bfcc7d47417c550ee64ab66f07fe6208",
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-08",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains a vulnerability that could allow an attacker to achieve arbitrary code execution and to create a denial of service condition. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and re",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
     {
       "id": "1f5eb5ca8dbebe959841d0f2f930941db6cab47887e1f75f1836c246191b0e81",
       "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-17T14:01:11+00:00"
-    },
-    {
-      "id": "753b14c11ee2e6326a93be3e8144296f5a24f26a4eb2202485fe3c31ac9deee3",
-      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-17T13:21:00+00:00"
-    },
-    {
-      "id": "4c7889ab0c7520a906015865fecd173c164f1e7f2232747b6647d2351b0ea89e",
-      "title": "In defeat for Trump, House extends electronic spying program for just 10 days",
-      "url": "https://therecord.media/fisa--trump-congress-extension-surveillance",
-      "summary": "The House passed stopgap legislation to extend a warrantless government surveillance power for 10 days, following a failed lobbying campaign by the Trump administration.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T13:15:00+00:00"
-    },
-    {
-      "id": "fc0061a9749418bd50be9a763b89e2af52d32762c005ec49200072718150e7f4",
-      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-17T12:20:28+00:00"
     }
   ]
 }
