@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-26T13:00:32.813085+00:00",
+  "updated": "2026-04-26T18:50:22.197894+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0679edf3c0aee9a02601ccac60420eae09b041f0caf2437b0c7291d68935531e",
+      "title": "Siemens TPM 2.0",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to perform an out-of-bound read, potentially leading to information disclosure or denial of service of the TPM. Siemens has released new versions for several affected products and recommends to update to",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
     {
       "id": "1e903513facf28afc114b43d242f64dac0ec981a3d2764561480ffdbef9f3053",
       "title": "SenseLive X3050",
@@ -445,15 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-18T06:01:00+00:00"
-    },
-    {
-      "id": "427525cbff84602ed0a01dd7e7f38039f74a15c865c867c1634abc9eb3296a84",
-      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-      "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-17T19:10:19+00:00"
     }
   ]
 }
