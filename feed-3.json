@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-27T13:46:28.647103+00:00",
+  "updated": "2026-04-27T19:15:42.930739+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e51bd93a3173d41bf4815b2b9e3ff4d5fd6733d5780331d099e5afed4b0cdc0b",
+      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-22T10:00:00+00:00"
+    },
+    {
+      "id": "3e30555aedd12966f0cc6e1a1f50c38567fa5e48e76631aebfb4d54172de2445",
+      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
+      "url": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
+      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-22T09:53:05+00:00"
+    },
+    {
+      "id": "b5c0f3f63261716d9ad1239356419d92289c2c5788a0ae8a8b63119e98d87a9a",
+      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has bee",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-22T09:29:00+00:00"
+    },
+    {
+      "id": "0878fdfa672a183079e3a5e6f231e3ec2a29e652940af77b42edd28f0d8b370c",
+      "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
+      "url": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
+      "summary": "The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws. The post Oracle Patches 450 Vulnerabilities With April 2026 CPU appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-22T08:41:10+00:00"
+    },
+    {
+      "id": "3f315239893e51d78aa5b1cf2ccc49120271524f4d39b551d6e5f04f445596bd",
+      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
+      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-22T08:08:16+00:00"
+    },
+    {
+      "id": "2c4e9dd2b6d9cf9cb2169df9137e0072780f0744644ed92305409560421e492c",
+      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+      "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, a",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-22T07:58:00+00:00"
+    },
+    {
+      "id": "64c8458c46d8535c5a5e7719850a4726e817c8f27c8096f371f8d6dbc8eeff1f",
+      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+      "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system. \"Sandbox escape vulnerability in Terrarium allows arbitrary code execut",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-22T07:16:00+00:00"
+    },
+    {
+      "id": "a79a0f8eb9e837f3fa28fe3e2e877d0363d7d4d9cab4ecdd04c0e15ba88a007b",
+      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+      "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-22T06:53:02+00:00"
+    },
     {
       "id": "f7a5838d6f1d5b80899f70a81a0e3cd6996d639a62d755fec261be4389357378",
       "title": "French govt agency confirms breach as hacker offers to sell data",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-04-20T14:01:11+00:00"
-    },
-    {
-      "id": "df190a49c315bac0142f31c35ec1a9a99fcfbc6f91a2da670ac4437395d1cbff",
-      "title": "Bluesky blames app outage on ‘sophisticated’ DDoS attack",
-      "url": "https://therecord.media/bluesky-blames-app-outage-on-ddos",
-      "summary": "The decentralized social network said the incident began on April 15, when the company received reports of intermittent outages affecting the app.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-20T13:57:00+00:00"
-    },
-    {
-      "id": "b9a1fbfa7735ae44e6d6cda56e2a9c41d267aec8fb3783a5826ace506877a5af",
-      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-      "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-      "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push pay",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-20T13:41:00+00:00"
-    },
-    {
-      "id": "8914d2b3ddf92a8149ac2bbf2a24efab9d43120875dbf0682ccd8158f985b0db",
-      "title": "British Scattered Spider Hacker Pleads Guilty in the US",
-      "url": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
-      "summary": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals. The post British Scattered Spider Hacker Pleads Guilty in the US appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-20T12:21:16+00:00"
-    },
-    {
-      "id": "46e33681c12b6e3705b09ace7194de8aa61330b44ae861e53c37fc4251e97e37",
-      "title": "British hacker tied to Scattered Spider campaign pleads guilty in $8M scheme",
-      "url": "https://therecord.media/hacker-scattered-spider-guilty-plea",
-      "summary": "A British hacker pleaded guilty in U.S. federal court to participating in a sweeping cybercrime campaign that siphoned at least $8 million in cryptocurrency from companies and individuals, federal prosecutors said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-20T12:00:00+00:00"
-    },
-    {
-      "id": "786b95e1d12ebd089bb71b71da355b114fcea62c8ad12096ee9fbb5ab5fddf37",
-      "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environment",
-      "source": "CISA Alerts",
-      "category": "threat",
-      "date": "2026-04-20T12:00:00+00:00"
-    },
-    {
-      "id": "04b7acc924753abc6b178182bc16c05d0a9e5efe0b7fa74c524fd24f3f3cd737",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Ken",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-20T12:00:00+00:00"
-    },
-    {
-      "id": "79138c2a3fd7eb8d4174b0c9cc2c6d1ee244cb04464479b4e659c00fc57ac2b5",
-      "title": "Hackers Abuse QEMU for Defense Evasion",
-      "url": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
-      "summary": "The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools. The post Hackers Abuse QEMU for Defense Evasion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-20T11:35:29+00:00"
-    },
-    {
-      "id": "d4129890f92c9b2fbb9123a3a44c57dc09f00b80a9d065279a886379a7556c2a",
-      "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
-      "url": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
-      "summary": "A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. The post Bluesky Disrupted by Sophisticated DDoS Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-20T11:06:59+00:00"
     }
   ]
 }

@@ -1,10 +1,82 @@
 {
-  "updated": "2026-04-27T13:46:28.647103+00:00",
+  "updated": "2026-04-27T19:15:42.930739+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d821765ebe031a2a9ddcb1356d9ff3dba726a9d54927b6915e5b7467afd89a7",
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-23T18:59:39+00:00"
+    },
+    {
+      "id": "e596426b42b8dbd19652deac5f33630f3039d82351b966195000fa675a47036e",
+      "title": "Surveillance companies exploiting telecom system to spy on targets’ locations, research shows",
+      "url": "https://therecord.media/surveillance-companies-exploiting-telecom-systems-to-track-location",
+      "summary": "The campaigns exploited a weakness in telecom infrastructure to allow the unnamed vendors to secretly pose as real cellular providers and pinpoint victims’ locations.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-23T18:43:00+00:00"
+    },
+    {
+      "id": "e2acd5f2cca3f62bbb8740f28daec0c8a5bbcefde0e1f742f558942f5f83ae93",
+      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
+      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk e",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-23T18:16:00+00:00"
+    },
+    {
+      "id": "bda9277a359b8cadc2f1efcb4cc84bb3b2cb23b631ec1d91be60dc20d470ff2e",
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+      "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-23T16:05:12+00:00"
+    },
+    {
+      "id": "fe76085a3aa5dcb00e793ba054f1bbb455dd1c2c1adb06d11d6b925dadf5bc7b",
+      "title": "China-linked hackers targeted Mongolian government using Slack, Discord for covert communications",
+      "url": "https://therecord.media/china-linked-hackers-target-mongolian-gov-slack-discord",
+      "summary": "The group, which researchers at cybersecurity firm ESET named GopherWhisper, has been active since at least November 2023 and was discovered in January 2025 after investigators found a previously unknown backdoor on the network of a Mongolian government institution.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-23T16:03:00+00:00"
+    },
+    {
+      "id": "a7b42b7f11960178081291adcabdfed793b835c34734f8297eeb5e9f76eadc1c",
+      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-23T14:16:21+00:00"
+    },
+    {
+      "id": "0629b22e3b73ebe1e19d598f2809ad5ce2ed15b788fc09328d28410b9c5641f6",
+      "title": "Regular Password Resets Aren’t as Safe as You Think",
+      "url": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
+      "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-23T14:10:20+00:00"
+    },
+    {
+      "id": "9bc3905581f3f4a4aad290e86e5a275e93b53b654b523f0efd664106b8ac476b",
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket. \"The affected package version appears to be @bitwarden/cli@2026.4.0, a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-23T13:42:00+00:00"
+    },
     {
       "id": "3994189809d809c14ff056f104fe75b920297c22114e2e1c6e11bc6d6b79c9d9",
       "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-22T10:49:52+00:00"
-    },
-    {
-      "id": "e51bd93a3173d41bf4815b2b9e3ff4d5fd6733d5780331d099e5afed4b0cdc0b",
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-22T10:00:00+00:00"
-    },
-    {
-      "id": "3e30555aedd12966f0cc6e1a1f50c38567fa5e48e76631aebfb4d54172de2445",
-      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
-      "url": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
-      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:53:05+00:00"
-    },
-    {
-      "id": "b5c0f3f63261716d9ad1239356419d92289c2c5788a0ae8a8b63119e98d87a9a",
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has bee",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:29:00+00:00"
-    },
-    {
-      "id": "0878fdfa672a183079e3a5e6f231e3ec2a29e652940af77b42edd28f0d8b370c",
-      "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
-      "url": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
-      "summary": "The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws. The post Oracle Patches 450 Vulnerabilities With April 2026 CPU appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T08:41:10+00:00"
-    },
-    {
-      "id": "3f315239893e51d78aa5b1cf2ccc49120271524f4d39b551d6e5f04f445596bd",
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-22T08:08:16+00:00"
-    },
-    {
-      "id": "2c4e9dd2b6d9cf9cb2169df9137e0072780f0744644ed92305409560421e492c",
-      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "url": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, a",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-22T07:58:00+00:00"
-    },
-    {
-      "id": "64c8458c46d8535c5a5e7719850a4726e817c8f27c8096f371f8d6dbc8eeff1f",
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "url": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system. \"Sandbox escape vulnerability in Terrarium allows arbitrary code execut",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-22T07:16:00+00:00"
-    },
-    {
-      "id": "a79a0f8eb9e837f3fa28fe3e2e877d0363d7d4d9cab4ecdd04c0e15ba88a007b",
-      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
-      "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-22T06:53:02+00:00"
     }
   ]
 }
