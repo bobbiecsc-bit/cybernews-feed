@@ -1,10 +1,109 @@
 {
-  "updated": "2026-04-28T13:59:04.129617+00:00",
+  "updated": "2026-04-28T19:28:40.195487+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7bb1868d139f7a422dcc438d5fd9069403f480c32128f396424f1782846326b3",
+      "title": "Siemens SINEC NMS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03",
+      "summary": "View CSAF Summary Siemens SINEC NMS when used with User Management Component (UMC) contains an authentication bypass vulnerability due to insufficient validation of user identity. This could allow an unauthenticated remote attacker to bypass authentication and gain unauthorized access to the applica",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "14535858a81d6f86ec2689ca69d754e1bac23ec062a55e37945baa4899ff47fc",
+      "title": "Zero Motorcycles Firmware",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to pair via Bluetooth with a motorcycle, gaining unauthorized access to all Bluetooth functions, including changing the firmware. The following versions of Zero Motorcycles Firmware are affected: Zero Motorcycles",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "e0a427cb5692cb02cbc5458988b79dfe611dffff40b5dac8f7125dd1d31586cc",
+      "title": "Siemens SINEC NMS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-09",
+      "summary": "View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens has released a new version for SINEC NMS and recommends to updat",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "3f8abd5af5507fb5e243c530a77d2b0f8df34ec3e4463e2c2ab06e17fec42bfa",
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-11",
+      "summary": "View CSAF Summary Industrial Edge Management contains an authorization bypass vulnerability that could be exploited by an unauthenticated remote attacker to circumvent authentication and to access connected Industrial Edge Devices through the remote connection feature. Siemens has released new versi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "cecfa3c8cd0c78a00c7510bbe59f6c08bfcc7d47417c550ee64ab66f07fe6208",
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller (SAC)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-08",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains a vulnerability that could allow an attacker to achieve arbitrary code execution and to create a denial of service condition. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and re",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "1f5eb5ca8dbebe959841d0f2f930941db6cab47887e1f75f1836c246191b0e81",
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "url": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-21T11:30:00+00:00"
+    },
+    {
+      "id": "6fbbc6cccdd1769947d31cab9d77fdcc00ee11392a4aa9749b7e5f986702b2df",
+      "title": "Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/",
+      "summary": "CISA expanded the KEV catalog with eight flaws, but five of them have been flagged as exploited before. The post Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-21T11:19:45+00:00"
+    },
+    {
+      "id": "fe2480b3158e2eaf078a19ba8d3eccf590e51ce3e0c9717388a4063269cae1b1",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-21T11:17:51+00:00"
+    },
+    {
+      "id": "df9279b73b19f33d771a09d9f8d84c1c310330dc69e172b647ff6a49324129b7",
+      "title": "Mexican Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
+      "summary": "Grupo Seguritech is a Mexican surveillance company that is expanding into the US.",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-04-21T11:04:59+00:00"
+    },
+    {
+      "id": "121770529df2065a1abdc69ee23ce49a0170d0eb0e96012f241bff148444e4ba",
+      "title": "Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000",
+      "url": "https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/",
+      "summary": "Data breaches were disclosed by Southern Illinois Dermatology, Saint Anthony Hospital, and North Texas Behavioral Health Authority. The post Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-21T11:02:29+00:00"
+    },
+    {
+      "id": "f631bb9c6a02e1f1277f53adc1284f06b9bca83817dc50739fe49f3bf7bc7e7f",
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sani",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-21T10:22:00+00:00"
+    },
     {
       "id": "51f27992fb2f5b8826f5a85fe8256f677ead9aba4573457f4e21f8b6d561b310",
       "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
@@ -355,105 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-04-17T18:30:00+00:00"
-    },
-    {
-      "id": "f3e6d9ac18ffb6739faa0d7808022395cb598ee0fefff28d1115ff5eabb477a3",
-      "title": "Ukraine confirms suspected APT28 campaign targeting prosecutors, anti-corruption agencies",
-      "url": "https://therecord.media/ukraine-confirms-suspected-apt28-campaign-targeting-prosecutors",
-      "summary": "The intrusions exploited vulnerabilities in the open-source Roundcube webmail platform that allow attackers to execute malicious code when a victim simply opens an email in their inbox.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T14:12:00+00:00"
-    },
-    {
-      "id": "935973fd6ea63039de4df337a8fa473e23e7807b55be69ba6ff0878c90b65da4",
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "summary": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-17T14:01:11+00:00"
-    },
-    {
-      "id": "753b14c11ee2e6326a93be3e8144296f5a24f26a4eb2202485fe3c31ac9deee3",
-      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-17T13:21:00+00:00"
-    },
-    {
-      "id": "4c7889ab0c7520a906015865fecd173c164f1e7f2232747b6647d2351b0ea89e",
-      "title": "In defeat for Trump, House extends electronic spying program for just 10 days",
-      "url": "https://therecord.media/fisa--trump-congress-extension-surveillance",
-      "summary": "The House passed stopgap legislation to extend a warrantless government surveillance power for 10 days, following a failed lobbying campaign by the Trump administration.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T13:15:00+00:00"
-    },
-    {
-      "id": "fc0061a9749418bd50be9a763b89e2af52d32762c005ec49200072718150e7f4",
-      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-17T12:20:28+00:00"
-    },
-    {
-      "id": "5d5b8fc966f4cba04af9654438cc987987aff36f227299809888c4e55f437ec8",
-      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
-      "url": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million. The post In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested appear",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-17T12:00:00+00:00"
-    },
-    {
-      "id": "6641bdeaeb2b54f53d51a1b2ef0ad28ffc4ade60d2f80603b72856b51cd4ebc4",
-      "title": "Another DraftKings Hacker Sentenced to Prison",
-      "url": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
-      "summary": "Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack. The post Another DraftKings Hacker Sentenced to Prison appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-17T10:45:13+00:00"
-    },
-    {
-      "id": "e0aa0a7720d572fdfd9accb3b2424f3ecd6ae9348c625a1009d82aed4765d0d6",
-      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
-      "summary": "The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April. The post Recent Apache ActiveMQ Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-17T09:50:22+00:00"
-    },
-    {
-      "id": "c1cdb77f348de584d75d61eb357714196a8b492c8ed6e3b836fab8fb55d30460",
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "summary": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-17T09:30:15+00:00"
-    },
-    {
-      "id": "640634bf33a19590fd20a8a8ab73b8878f002d06c9e637b0049bd4d8b8ac8054",
-      "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
-      "url": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
-      "summary": "Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies. The post Two North Korean IT Worker Scheme Facilitators Jailed in the US appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-17T09:21:02+00:00"
-    },
-    {
-      "id": "ba45c16781ac3ae9c89e02effa0f91045a53ff1bb83aeda084ca2d9a36259481",
-      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
-      "url": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
-      "summary": "The malware is configured to operate on systems associated with Israeli water treatment and desalination plants. The post ZionSiphon Malware Targets ICS in Water Facilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-17T08:30:00+00:00"
     }
   ]
 }
