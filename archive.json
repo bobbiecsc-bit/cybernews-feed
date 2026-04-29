@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-29T08:11:46.243911+00:00",
+  "updated": "2026-04-29T13:49:32.015936+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "300bcf5e085cdb698bbd224ed89761d8f0293c6d6945b4ee728b52a32230e566",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-29T13:05:14+00:00"
+    },
+    {
+      "id": "e01841c80e3702a60c0289d9a03be05d0f7e2ff9b91141217388938886c2dbbe",
+      "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
+      "url": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
+      "summary": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it. The post Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T13:04:05+00:00"
+    },
+    {
+      "id": "abec34e8e0f3717a63cb90e78b841dcfbbe27093d96eeff2cac9454b34784572",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-29T12:41:17+00:00"
+    },
+    {
+      "id": "166f482f3e6fc964f67d9539bb4586d59a01667a907e35d2c95ccf450d6433d7",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Activ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-29T12:02:00+00:00"
+    },
+    {
+      "id": "4ce5635fd0c920e62b1772b3ebefa07951083a9e6216015f64aabf9ee486b848",
+      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
+      "url": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
+      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-29T11:03:03+00:00"
+    },
+    {
+      "id": "7ba97251f8ecb9b8c79097a5a77508adb07243f03fb9e190ac0ce56f4c10e865",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-29T10:29:31+00:00"
+    },
+    {
+      "id": "916120648218aa89058fb22f93b1999fe25253e0b6713932e899042904b3e59d",
+      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+      "url": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:54:17+00:00"
+    },
+    {
+      "id": "75d6fd475f24166becd12495ae8ede70a131ba47b9df7850354f003261552145",
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue ha",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:37:00+00:00"
+    },
+    {
+      "id": "e9674f9835f356aec9472dd9bc30f0a1d34442258ac35e34abe29cff1e194e31",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T08:46:00+00:00"
+    },
     {
       "id": "20116a42a4880ce1f935a7f5c4eb32e64e9feb02769978626db60151ac89cad3",
       "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
@@ -2170,87 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-16T10:35:09+00:00"
-    },
-    {
-      "id": "a8c00f147954d352c0c03e7715689085557663d4597511581c5c8f611f187ddd",
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrenc",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-16T10:20:00+00:00"
-    },
-    {
-      "id": "f0a85a926fb53bd139218f24da75df57f6de2120d39c91f14cd5e68da20ad4c8",
-      "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
-      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
-      "summary": "The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS. The post Cisco Patches Critical Vulnerabilities in Webex, ISE appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-16T10:04:31+00:00"
-    },
-    {
-      "id": "1ddf853f4fcca065d5703390756869a7f6b013f34817bbd52719f65ad95c24ac",
-      "title": "Ransomware Hits Automotive Data Expert Autovista",
-      "url": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
-      "summary": "The automotive analysis and data company is working with external experts to investigate the attack. The post Ransomware Hits Automotive Data Expert Autovista appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-16T09:30:16+00:00"
-    },
-    {
-      "id": "ea68ea783d4181f19bd11a2b5f3ca24a140027acb15112a1741dc1bc50fa2af8",
-      "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
-      "url": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
-      "summary": "A researcher has disclosed the details of the AI attack method he has named ‘Comment and Control’. The post Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-16T08:33:54+00:00"
-    },
-    {
-      "id": "72b459230ae6ea5f40f4bc710ce5fb57a36fe2814bf4e92053348df0be594b5a",
-      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
-      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
-      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based we",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-16T06:20:00+00:00"
-    },
-    {
-      "id": "e9ada79b0ef39f187493432764df030b7a8d55b8491b4237240ca360b54891fa",
-      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-      "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-15T22:35:09+00:00"
-    },
-    {
-      "id": "9f93c5233276d8166d7291a21b6a0fbf62864639f427f8531de031f2517924d2",
-      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
-      "url": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-      "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-15T21:57:17+00:00"
-    },
-    {
-      "id": "05a385dbe5c226bbd7ef59acc7388955d22c8d0679c8fff61e47b4ecf72c5a01",
-      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-      "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-15T20:33:50+00:00"
-    },
-    {
-      "id": "58cb4b3b164fc74130a47334ccfdee984e5a8afccc1df5a7e24437aa8105b2fc",
-      "title": "NIST to limit work on CVE entries as submissions surge",
-      "url": "https://therecord.media/nist-to-limit-work-on-cve-entries-surge",
-      "summary": "NIST said it will only add details and information to the records of vulnerabilities that meet a certain threshold — changing a longstanding mission to categorize every CVE, which stands for cybersecurity vulnerabilities and exposures.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-04-15T20:11:00+00:00"
     }
   ]
 }

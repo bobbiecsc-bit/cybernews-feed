@@ -1,10 +1,91 @@
 {
-  "updated": "2026-04-29T08:11:46.243911+00:00",
+  "updated": "2026-04-29T13:49:32.015936+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "300bcf5e085cdb698bbd224ed89761d8f0293c6d6945b4ee728b52a32230e566",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-29T13:05:14+00:00"
+    },
+    {
+      "id": "e01841c80e3702a60c0289d9a03be05d0f7e2ff9b91141217388938886c2dbbe",
+      "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
+      "url": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
+      "summary": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it. The post Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T13:04:05+00:00"
+    },
+    {
+      "id": "abec34e8e0f3717a63cb90e78b841dcfbbe27093d96eeff2cac9454b34784572",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-29T12:41:17+00:00"
+    },
+    {
+      "id": "166f482f3e6fc964f67d9539bb4586d59a01667a907e35d2c95ccf450d6433d7",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "url": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Activ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-29T12:02:00+00:00"
+    },
+    {
+      "id": "4ce5635fd0c920e62b1772b3ebefa07951083a9e6216015f64aabf9ee486b848",
+      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
+      "url": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
+      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-29T11:03:03+00:00"
+    },
+    {
+      "id": "7ba97251f8ecb9b8c79097a5a77508adb07243f03fb9e190ac0ce56f4c10e865",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-29T10:29:31+00:00"
+    },
+    {
+      "id": "916120648218aa89058fb22f93b1999fe25253e0b6713932e899042904b3e59d",
+      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+      "url": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:54:17+00:00"
+    },
+    {
+      "id": "75d6fd475f24166becd12495ae8ede70a131ba47b9df7850354f003261552145",
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue ha",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:37:00+00:00"
+    },
+    {
+      "id": "e9674f9835f356aec9472dd9bc30f0a1d34442258ac35e34abe29cff1e194e31",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T08:46:00+00:00"
+    },
     {
       "id": "20116a42a4880ce1f935a7f5c4eb32e64e9feb02769978626db60151ac89cad3",
       "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-04-27T13:01:38+00:00"
-    },
-    {
-      "id": "bbf92600f12e1ad6b313e98d956f6441993b03ac8049949fb91b23aba14e7775",
-      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
-      "url": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
-      "summary": "Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-27T13:00:09+00:00"
-    },
-    {
-      "id": "fe82d78d234c54b6011d69825fe8da56aaa9c7023d9d750f2fc5ce68fc1aed97",
-      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
-      "url": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-      "summary": "A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators. The post OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-27T12:29:18+00:00"
-    },
-    {
-      "id": "76015ee9a0c3f0b7dee358edfff1a777a5b28092c53653b257248bb0e0626269",
-      "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
-      "url": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
-      "summary": "The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified. The post Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-27T12:08:19+00:00"
-    },
-    {
-      "id": "070e48890236d15973b17e55852f8c99911f277099be55f04ca16d5497218de7",
-      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-      "url": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-      "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious questions about how quickly organizations can validate, priori",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-27T11:58:00+00:00"
-    },
-    {
-      "id": "a0d3ca422f3f6c8c9d9e3d9085ee7f2afed8b53901356b6b217c05a0e629ad69",
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-27T11:54:00+00:00"
-    },
-    {
-      "id": "b8b132b7a7062afc5a4e49f03732dd3e0dbf90e2aef4d28f9fbec302e0f28f69",
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has been identified as cloned versions of their legitimate counte",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-27T11:23:00+00:00"
-    },
-    {
-      "id": "a054670e22a9334d62e910f1254453e73a368915b856291ef5902696118a8644",
-      "title": "Energy and Water Management Firm Itron Hacked",
-      "url": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-      "summary": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13. The post Energy and Water Management Firm Itron Hacked appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-27T11:18:59+00:00"
-    },
-    {
-      "id": "300e4e41db0ccc102f9c612ef44324c917b8a75a9c5e196bb68a529d858e1fff",
-      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
-      "url": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-      "summary": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access. The post UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-27T10:44:55+00:00"
-    },
-    {
-      "id": "f4aa12b2b8961987ba6ea21f00c8d2aedce176ea1ba04157196cee838dae8e4c",
-      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
-      "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-      "summary": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages. The post Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-27T10:10:14+00:00"
     }
   ]
 }
