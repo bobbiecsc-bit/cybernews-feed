@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-28T19:28:40.195487+00:00",
+  "updated": "2026-04-29T02:39:33.935120+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d17f5e6fe5f123651b4fe038b2bd9c77c3e9c9ea3d019d0ca0d0204e7623cf13",
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-28T21:25:57+00:00"
+    },
+    {
+      "id": "4d2f994efa6be65a3805a66785ad1cff9d0dc6c53d9a4fe4df4789b727b66920",
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-28T21:07:23+00:00"
+    },
     {
       "id": "a6b007e0ae0c55ce571f00f311014308ae18d19521694417205c3ed2fd48c98e",
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
@@ -208,6 +226,15 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-28T05:50:00+00:00"
+    },
+    {
+      "id": "a7b386e23d334555d1c76c310e78d8e2f27f35336f49d51dbbe0d9d76f910031",
+      "title": "China-linked hackers led phishing campaigns targeting journalists and activists, researchers say",
+      "url": "https://therecord.media/china-linked-hackers-led-phishing-campaigns-journalists",
+      "summary": "The aim of the campaigns was to steal credentials and likely enable “follow-on operations in the interest of the Chinese government,” the report said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-28T04:00:00+00:00"
     },
     {
       "id": "75879c3cead9ff2ddeccf2d3253021adb8473781db0ac4fc94c750702ec71fb4",
@@ -2224,33 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-04-15T17:09:00+00:00"
-    },
-    {
-      "id": "597fdd17667c6d7d04128dd77c65b200b40d3e11c58a5556478b08f9120104c4",
-      "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
-      "url": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
-      "summary": "In what was Sweden’s first public mention of the attack, the country’s minister for civil defense said it targeted a heating plant in western Sweden. The post Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-15T16:46:48+00:00"
-    },
-    {
-      "id": "49d43c42deb5807e683ea304fe07dfd069e07c789cb75c58f758061c29cc0c2d",
-      "title": "UK warns businesses to address cyber risks amid Anthropic AI panic",
-      "url": "https://therecord.media/anthropic-mythos-uk-cyber-risk",
-      "summary": "The British government warned businesses to strengthen their cyber defenses amid concerns prompted by the release of Anthropic's Mythos over how artificial intelligence could reshape the threat landscape.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-15T16:00:00+00:00"
-    },
-    {
-      "id": "1271d9ea36373600ca1dbd9926c2236fddf8c30ea9ac4958bb78612c3e5398e0",
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-15T14:51:05+00:00"
     }
   ]
 }

@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-28T19:28:40.195487+00:00",
+  "updated": "2026-04-29T02:39:33.935120+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0679edf3c0aee9a02601ccac60420eae09b041f0caf2437b0c7291d68935531e",
+      "title": "Siemens TPM 2.0",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to perform an out-of-bound read, potentially leading to information disclosure or denial of service of the TPM. Siemens has released new versions for several affected products and recommends to update to",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "1e903513facf28afc114b43d242f64dac0ec981a3d2764561480ffdbef9f3053",
+      "title": "SenseLive X3050",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to take complete control of the device. The following versions of SenseLive X3050 are affected: X3050 V1.523 (CVE-2026-40630, CVE-2026-25720, CVE-2026-35503, CVE-2026-39462, CVE-2026-27843, CVE-2026-40431, CVE",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
+    {
+      "id": "dfef76e77c82e4c717775ddaa4a97df924d4a9ebf0077d561a4715e77abc9aee",
+      "title": "Hardy Barth Salia EV Charge Controller",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Hardy Barth Salia EV Charge Controller are affected: Salia Board Firmware &lt;=2.3.81 (CVE-2025-5873, CVE-2",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
     {
       "id": "7bb1868d139f7a422dcc438d5fd9069403f480c32128f396424f1782846326b3",
       "title": "Siemens SINEC NMS",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-18T06:01:00+00:00"
-    },
-    {
-      "id": "427525cbff84602ed0a01dd7e7f38039f74a15c865c867c1634abc9eb3296a84",
-      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-      "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-17T19:10:19+00:00"
-    },
-    {
-      "id": "e389ed8d20418b58fc52f66880ac6ce0468c74958a8031498eb0c9c99b147a4e",
-      "title": "Ransomware attack continues to disrupt healthcare in London nearly two years later",
-      "url": "https://therecord.media/ransomware-nhs-cyberattack-disruption",
-      "summary": "More than 18 months after a ransomware attack disrupted care at hospitals in South East London, documents show at least one NHS trust is still working without fully restored systems and managing large backlogs of delayed test results.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-04-17T18:45:00+00:00"
-    },
-    {
-      "id": "54a02d622685fa51631cd0a6c30c03903db68fff37b9b314cae7f629d5055305",
-      "title": "Four arrested in latest ‘PowerOFF’ DDoS-for-hire takedown",
-      "url": "https://therecord.media/ddos-hire-europol-doj-crackdown",
-      "summary": "More than 20 countries participated in a coordinated takedown of platforms selling cheap access to distributed denial-of-service (DDoS) attacks.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-17T18:30:00+00:00"
     }
   ]
 }
