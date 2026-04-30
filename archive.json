@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-30T02:40:57.830495+00:00",
+  "updated": "2026-04-30T08:16:15.715956+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "189a840154728ba11ea0cf944841653f599fc9cd98c82e839e98db7aa19cb4a7",
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. \"The vulnerability allowed an unprivi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-30T07:07:00+00:00"
+    },
     {
       "id": "f2d751c833cb5720a4d31c0d066490a95c4e7c7d03cceb2ee3bfe70bb96532e0",
       "title": "Official SAP npm packages compromised to steal credentials",
@@ -132,7 +141,7 @@
       "id": "75d6fd475f24166becd12495ae8ede70a131ba47b9df7850354f003261552145",
       "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
       "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue ha",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert publish",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-29T09:37:00+00:00"
@@ -2239,15 +2248,6 @@
       "title": "Horner Automation Cscape and XL4, XL7 PLC",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabil",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-16T12:00:00+00:00"
-    },
-    {
-      "id": "3635a491cd294ceeb73ec6cab4b1ed9236c9d0b297555011f63c3949f78b0626",
-      "title": "Delta Electronics ASDA-Soft",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft &lt;=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft St",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-16T12:00:00+00:00"
