@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-30T08:16:15.715956+00:00",
+  "updated": "2026-04-30T13:48:31.785679+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d77d4cbc36dcc658d9fe6ffb0724cc99daa02d97d7793bc20f07d63589f98231",
+      "title": "Moldova’s health insurance agency reports possible data leak after cyberattack",
+      "url": "https://therecord.media/moldova-health-insurance-agency-reports-possible-data-leak-cyberattack",
+      "summary": "The agency said the incident occurred several weeks ago and that technical assessments indicated a possible theft of limited information.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-30T13:37:00+00:00"
+    },
+    {
+      "id": "92e8dd9ac5e46caed623e3b972b2e93b3fcb20f5d1f696bdc26723f30e7761fd",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-30T12:36:00+00:00"
+    },
+    {
+      "id": "0d91769c8c0f35ce4c999ac0604c58aa4007b993d0d701f29c26e50115cb25b0",
+      "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+      "url": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+      "summary": "An attacker could have planted a malicious configuration to execute commands outside the sandbox. The post Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:34:05+00:00"
+    },
+    {
+      "id": "f9a2bbd9ceb8bf9ec0af83dc5132035df1e1e7524310be9685c413b7b3eb17db",
+      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+      "url": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+      "summary": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution. The post EnOcean SmartServer Flaws Expose Buildings to Remote Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-30T11:57:31+00:00"
+    },
+    {
+      "id": "8a65c6af6eb4e623431c395ce9174b33b1f7c5ea3d903ab3b8099f52f141ecae",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:40:31+00:00"
+    },
+    {
+      "id": "a1de0bbeb37bfb05dfa8ebf6793718cfbd97171a4cae563a135081e2928b39bd",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrat",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-30T11:30:00+00:00"
+    },
+    {
+      "id": "454c55ac8e41309a87dffd76ddba618d88add6ece036b9fd41cfb9c714ca035f",
+      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+      "url": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+      "summary": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers. The post Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:10:30+00:00"
+    },
+    {
+      "id": "87e300113fc1fd6e669c92103f08fa4594bce5b2d5836d1249d7e798e44fa81a",
+      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+      "url": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+      "summary": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions. The post &#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T10:06:00+00:00"
+    },
+    {
+      "id": "ea092c43e901df86fac8272a613a344ea99bea37b057572fd34d2730e9946525",
+      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori. \"An unprivileg",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-30T09:24:00+00:00"
+    },
+    {
+      "id": "10d636181ee3f2e0d4e4ae2a4ab934c1bc8637d0e9a48ad646b63c66c5bdc281",
+      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
+      "url": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
+      "summary": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom. The post Sandhills Medical Says Ransomware Breach Affects 170,000 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-30T08:35:59+00:00"
+    },
     {
       "id": "189a840154728ba11ea0cf944841653f599fc9cd98c82e839e98db7aa19cb4a7",
       "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
@@ -42,7 +132,7 @@
       "id": "14d346846999fd4a87739c779fca588a47610181a86470fc91d1ec622bdb978c",
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-H",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security,&nbsp;SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – cal",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-29T16:26:00+00:00"
@@ -2161,96 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-04-16T20:19:31+00:00"
-    },
-    {
-      "id": "1f34bbf5dd2b4cf2a48308b46ef3ca455e15eb50e223f1bf5ccf5222e3d47d07",
-      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-      "url": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-      "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least December&nbsp;2025. \"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-16T17:52:00+00:00"
-    },
-    {
-      "id": "ceb9bc44125f4c2fcb538eaf9c835dcb3584d4f8c9d7b7cce7857d956e833773",
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
-      "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-16T16:58:06+00:00"
-    },
-    {
-      "id": "7e0c95d6ead8f2be105796cc1d4304b2e97cd7eaed9155515c1e6ffa6855aac4",
-      "title": "Google expands Gemini AI use to fight malicious ads on its platform",
-      "url": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
-      "summary": "Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade detection. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-16T15:24:14+00:00"
-    },
-    {
-      "id": "fe558fe7481c9a167540cc3f6174952d25b65c85a444599a42425dd958884894",
-      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
-      "summary": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-16T14:09:11+00:00"
-    },
-    {
-      "id": "13f8055dca9f11a8aacaa02774f3fff71679a4fd16f9eb0d5f205e35aa96956d",
-      "title": "Cargo thieving hackers running sophisticated remote access campaigns, researchers find",
-      "url": "https://therecord.media/cargo-thieving-hackers-running-sophisticated-campaigns",
-      "summary": "Losses from cargo theft in North America rose to $6.6 billion in 2025, driven largely by digital attacks, according to the fleet management company Geotab.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-16T13:16:00+00:00"
-    },
-    {
-      "id": "a21e720ee0072cd47b2fdb651e9503729eab95c24ccfcf6f057b4f5edbef7644",
-      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-      "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's day",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-16T13:05:00+00:00"
-    },
-    {
-      "id": "ab89949df8e2c2bed09b390f590402df51f2f0fe644d5dc508e8c2705de52ffe",
-      "title": "Data Breach at Tennessee Hospital Affects 337,000",
-      "url": "https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/",
-      "summary": "Cookeville Regional Medical Center was targeted last year by the Rhysida ransomware group, which stole 500GB of data. The post Data Breach at Tennessee Hospital Affects 337,000 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-16T12:40:36+00:00"
-    },
-    {
-      "id": "2193ffc5f765ca3baa941ba6f2094d26eb7f70bab9f357684a86e8dc19d171ed",
-      "title": "Artemis Emerges From Stealth With $70 Million in Funding",
-      "url": "https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/",
-      "summary": "The startup is leveraging AI to prevent AI-powered attacks across applications, users, machines, and cloud workloads. The post Artemis Emerges From Stealth With $70 Million in Funding appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-16T12:22:02+00:00"
-    },
-    {
-      "id": "b3fa698f53eadfd1d12faf69a20505f41503b61e0b7ca54d7f4fffc8a1787bbe",
-      "title": "Ukrainian emergency services and hospitals hit by espionage campaign using new AgingFly malware",
-      "url": "https://therecord.media/aging-fly-espionage-campaign-targets-ukraine-emergency-services",
-      "summary": "Hackers have targeted Ukrainian hospitals and local government bodies in a new espionage campaign using a malware tool dubbed AgingFly, researchers say.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-16T12:00:00+00:00"
-    },
-    {
-      "id": "2f3e2456a1bb014f8e4ed115a97cc3022606ddc446c0e4e051be3ee57d554d19",
-      "title": "Horner Automation Cscape and XL4, XL7 PLC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabil",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-16T12:00:00+00:00"
     }
   ]
 }

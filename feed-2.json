@@ -1,10 +1,100 @@
 {
-  "updated": "2026-04-30T08:16:15.715956+00:00",
+  "updated": "2026-04-30T13:48:31.785679+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c3fa253135db031c9614c0e60dcf8f93a11b39d7c5c9e406516c39587ab82ee6",
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks agains",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-28T07:57:00+00:00"
+    },
+    {
+      "id": "d827c41da181d21160f648a7d6e082350cbacddace58b5f0801d44129b87e080",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-28T06:37:00+00:00"
+    },
+    {
+      "id": "0be119ca2e6deb1b7f905a54b78030cf90df92e6e29070e97fa65a8e7ec3bd81",
+      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+      "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+      "summary": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic. The post Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-28T06:35:19+00:00"
+    },
+    {
+      "id": "6db1518869ef846061a6f821330a4ef3f6f1c9e12b98dbb9f59a26562785b833",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-28T05:50:00+00:00"
+    },
+    {
+      "id": "a7b386e23d334555d1c76c310e78d8e2f27f35336f49d51dbbe0d9d76f910031",
+      "title": "China-linked hackers led phishing campaigns targeting journalists and activists, researchers say",
+      "url": "https://therecord.media/china-linked-hackers-led-phishing-campaigns-journalists",
+      "summary": "The aim of the campaigns was to steal credentials and likely enable “follow-on operations in the interest of the Chinese government,” the report said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-28T04:00:00+00:00"
+    },
+    {
+      "id": "75879c3cead9ff2ddeccf2d3253021adb8473781db0ac4fc94c750702ec71fb4",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-27T23:11:01+00:00"
+    },
+    {
+      "id": "91d477646cef574ebed755a931ec0baa748d2b63eb213e7d1edfa418b19f535e",
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-27T21:41:01+00:00"
+    },
+    {
+      "id": "c340c8edb6510b5022bbcacc3a714f277691254047ea8fc4bac480c3ce087f0c",
+      "title": "Disinformation campaign targeted Tibetan parliament-in-exile elections",
+      "url": "https://therecord.media/disinformation-campaign-targeted-tibetan-elections",
+      "summary": "The operation, identified by the Digital Forensic Research Lab (DFRLab), was part of Spamouflage, a long-running influence network linked to Beijing.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-27T15:28:00+00:00"
+    },
+    {
+      "id": "f8027890548aad253ee302cc307599921dbcb39a190ab9b4138375844025a822",
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-27T15:17:37+00:00"
+    },
+    {
+      "id": "25b917a2eb62551f70e80a27a28b8cf67d18a4ac71ad0ddc8bac5f9761ad4538",
+      "title": "Italy extradites alleged Chinese state hacker to US",
+      "url": "https://therecord.media/chinese-hacker-italy-extradited",
+      "summary": "A Chinese national accused of being a member of a state-backed hacking group that allegedly broke into systems to steal COVID-19 vaccine information has been extradited to the U.S. from Milan.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-27T15:15:00+00:00"
+    },
     {
       "id": "c0b3e295b05599b86202f1e6eae05fc0a7dba6f8b15d2630a8643333b2232c57",
       "title": "Home security giant ADT data breach affects 5.5 million people",
@@ -364,96 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-04-24T11:13:55+00:00"
-    },
-    {
-      "id": "ed9a44e4c2e42e4fa2b882880829d66287fe96591afb87541ef10601a685c5af",
-      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
-      "url": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
-      "summary": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw. The post Vulnerabilities Patched in CrowdStrike, Tenable Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-24T09:49:27+00:00"
-    },
-    {
-      "id": "8ccdf0a58bc535bd5298df9f87024770d85432d568425325185cff8c4e88acfb",
-      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-      "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-      "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-24T09:29:00+00:00"
-    },
-    {
-      "id": "bf90acdae567632a227c69f0d48134eb5212c57e373fa736b2b45629dffca94b",
-      "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
-      "url": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
-      "summary": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm. The post Bitwarden NPM Package Hit in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-24T08:07:02+00:00"
-    },
-    {
-      "id": "a7af71ea4aa1d6d4c118462376eee3a04e1b0af0f1ce625a4217f9451daf7abe",
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relat",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-24T07:24:00+00:00"
-    },
-    {
-      "id": "d7312dc237e2373f6eec55c95552a00417e55e5b971faeb663c72d337cc6d299",
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-23T21:33:45+00:00"
-    },
-    {
-      "id": "2d962fc0fbd9e729eaeb54c9c0c5f95babaf6c9d07bbcb86eb2e05f83dd89e63",
-      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-23T19:21:01+00:00"
-    },
-    {
-      "id": "5db37cc136d3efdac9594371364c5b935d6b258d42a84ebc7efb63cdfaf38f66",
-      "title": "CISA: US agency breached through Cisco vulnerability, FIRESTARTER backdoor allowed access through March",
-      "url": "https://therecord.media/cisa-us-agency-breached-cisco-vulnerability-backdoor",
-      "summary": "CISA said the unnamed department was infected with malware called “FIRESTARTER” that allowed the hackers to return to the Cisco device in March without re-exploiting the original vulnerabilities.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-23T19:03:00+00:00"
-    },
-    {
-      "id": "5d821765ebe031a2a9ddcb1356d9ff3dba726a9d54927b6915e5b7467afd89a7",
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-23T18:59:39+00:00"
-    },
-    {
-      "id": "e596426b42b8dbd19652deac5f33630f3039d82351b966195000fa675a47036e",
-      "title": "Surveillance companies exploiting telecom system to spy on targets’ locations, research shows",
-      "url": "https://therecord.media/surveillance-companies-exploiting-telecom-systems-to-track-location",
-      "summary": "The campaigns exploited a weakness in telecom infrastructure to allow the unnamed vendors to secretly pose as real cellular providers and pinpoint victims’ locations.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-23T18:43:00+00:00"
-    },
-    {
-      "id": "e2acd5f2cca3f62bbb8740f28daec0c8a5bbcefde0e1f742f558942f5f83ae93",
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk e",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-23T18:16:00+00:00"
     }
   ]
 }

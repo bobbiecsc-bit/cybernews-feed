@@ -1,10 +1,100 @@
 {
-  "updated": "2026-04-30T08:16:15.715956+00:00",
+  "updated": "2026-04-30T13:48:31.785679+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d77d4cbc36dcc658d9fe6ffb0724cc99daa02d97d7793bc20f07d63589f98231",
+      "title": "Moldova’s health insurance agency reports possible data leak after cyberattack",
+      "url": "https://therecord.media/moldova-health-insurance-agency-reports-possible-data-leak-cyberattack",
+      "summary": "The agency said the incident occurred several weeks ago and that technical assessments indicated a possible theft of limited information.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-30T13:37:00+00:00"
+    },
+    {
+      "id": "92e8dd9ac5e46caed623e3b972b2e93b3fcb20f5d1f696bdc26723f30e7761fd",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-30T12:36:00+00:00"
+    },
+    {
+      "id": "0d91769c8c0f35ce4c999ac0604c58aa4007b993d0d701f29c26e50115cb25b0",
+      "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+      "url": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+      "summary": "An attacker could have planted a malicious configuration to execute commands outside the sandbox. The post Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:34:05+00:00"
+    },
+    {
+      "id": "f9a2bbd9ceb8bf9ec0af83dc5132035df1e1e7524310be9685c413b7b3eb17db",
+      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+      "url": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+      "summary": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution. The post EnOcean SmartServer Flaws Expose Buildings to Remote Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-30T11:57:31+00:00"
+    },
+    {
+      "id": "8a65c6af6eb4e623431c395ce9174b33b1f7c5ea3d903ab3b8099f52f141ecae",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:40:31+00:00"
+    },
+    {
+      "id": "a1de0bbeb37bfb05dfa8ebf6793718cfbd97171a4cae563a135081e2928b39bd",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrat",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-30T11:30:00+00:00"
+    },
+    {
+      "id": "454c55ac8e41309a87dffd76ddba618d88add6ece036b9fd41cfb9c714ca035f",
+      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+      "url": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+      "summary": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers. The post Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:10:30+00:00"
+    },
+    {
+      "id": "87e300113fc1fd6e669c92103f08fa4594bce5b2d5836d1249d7e798e44fa81a",
+      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+      "url": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+      "summary": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions. The post &#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T10:06:00+00:00"
+    },
+    {
+      "id": "ea092c43e901df86fac8272a613a344ea99bea37b057572fd34d2730e9946525",
+      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori. \"An unprivileg",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-30T09:24:00+00:00"
+    },
+    {
+      "id": "10d636181ee3f2e0d4e4ae2a4ab934c1bc8637d0e9a48ad646b63c66c5bdc281",
+      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
+      "url": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
+      "summary": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom. The post Sandhills Medical Says Ransomware Breach Affects 170,000 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-30T08:35:59+00:00"
+    },
     {
       "id": "189a840154728ba11ea0cf944841653f599fc9cd98c82e839e98db7aa19cb4a7",
       "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
@@ -45,7 +135,7 @@
       "id": "14d346846999fd4a87739c779fca588a47610181a86470fc91d1ec622bdb978c",
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-H",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security,&nbsp;SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – cal",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-29T16:26:00+00:00"
@@ -364,96 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-04-28T08:25:41+00:00"
-    },
-    {
-      "id": "c3fa253135db031c9614c0e60dcf8f93a11b39d7c5c9e406516c39587ab82ee6",
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks agains",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-28T07:57:00+00:00"
-    },
-    {
-      "id": "d827c41da181d21160f648a7d6e082350cbacddace58b5f0801d44129b87e080",
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T06:37:00+00:00"
-    },
-    {
-      "id": "0be119ca2e6deb1b7f905a54b78030cf90df92e6e29070e97fa65a8e7ec3bd81",
-      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
-      "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
-      "summary": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic. The post Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-28T06:35:19+00:00"
-    },
-    {
-      "id": "6db1518869ef846061a6f821330a4ef3f6f1c9e12b98dbb9f59a26562785b833",
-      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T05:50:00+00:00"
-    },
-    {
-      "id": "a7b386e23d334555d1c76c310e78d8e2f27f35336f49d51dbbe0d9d76f910031",
-      "title": "China-linked hackers led phishing campaigns targeting journalists and activists, researchers say",
-      "url": "https://therecord.media/china-linked-hackers-led-phishing-campaigns-journalists",
-      "summary": "The aim of the campaigns was to steal credentials and likely enable “follow-on operations in the interest of the Chinese government,” the report said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-28T04:00:00+00:00"
-    },
-    {
-      "id": "75879c3cead9ff2ddeccf2d3253021adb8473781db0ac4fc94c750702ec71fb4",
-      "title": "Robinhood account creation flaw abused to send phishing emails",
-      "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-27T23:11:01+00:00"
-    },
-    {
-      "id": "91d477646cef574ebed755a931ec0baa748d2b63eb213e7d1edfa418b19f535e",
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-27T21:41:01+00:00"
-    },
-    {
-      "id": "c340c8edb6510b5022bbcacc3a714f277691254047ea8fc4bac480c3ce087f0c",
-      "title": "Disinformation campaign targeted Tibetan parliament-in-exile elections",
-      "url": "https://therecord.media/disinformation-campaign-targeted-tibetan-elections",
-      "summary": "The operation, identified by the Digital Forensic Research Lab (DFRLab), was part of Spamouflage, a long-running influence network linked to Beijing.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-27T15:28:00+00:00"
-    },
-    {
-      "id": "f8027890548aad253ee302cc307599921dbcb39a190ab9b4138375844025a822",
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-27T15:17:37+00:00"
-    },
-    {
-      "id": "25b917a2eb62551f70e80a27a28b8cf67d18a4ac71ad0ddc8bac5f9761ad4538",
-      "title": "Italy extradites alleged Chinese state hacker to US",
-      "url": "https://therecord.media/chinese-hacker-italy-extradited",
-      "summary": "A Chinese national accused of being a member of a state-backed hacking group that allegedly broke into systems to steal COVID-19 vaccine information has been extradited to the U.S. from Milan.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-27T15:15:00+00:00"
     }
   ]
 }

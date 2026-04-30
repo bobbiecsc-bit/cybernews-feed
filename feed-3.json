@@ -1,10 +1,100 @@
 {
-  "updated": "2026-04-30T08:16:15.715956+00:00",
+  "updated": "2026-04-30T13:48:31.785679+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ed9a44e4c2e42e4fa2b882880829d66287fe96591afb87541ef10601a685c5af",
+      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
+      "summary": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw. The post Vulnerabilities Patched in CrowdStrike, Tenable Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-24T09:49:27+00:00"
+    },
+    {
+      "id": "8ccdf0a58bc535bd5298df9f87024770d85432d568425325185cff8c4e88acfb",
+      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+      "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+      "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-24T09:29:00+00:00"
+    },
+    {
+      "id": "bf90acdae567632a227c69f0d48134eb5212c57e373fa736b2b45629dffca94b",
+      "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
+      "url": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
+      "summary": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm. The post Bitwarden NPM Package Hit in Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-04-24T08:07:02+00:00"
+    },
+    {
+      "id": "a7af71ea4aa1d6d4c118462376eee3a04e1b0af0f1ce625a4217f9451daf7abe",
+      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relat",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-24T07:24:00+00:00"
+    },
+    {
+      "id": "d7312dc237e2373f6eec55c95552a00417e55e5b971faeb663c72d337cc6d299",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-23T21:33:45+00:00"
+    },
+    {
+      "id": "2d962fc0fbd9e729eaeb54c9c0c5f95babaf6c9d07bbcb86eb2e05f83dd89e63",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-23T19:21:01+00:00"
+    },
+    {
+      "id": "5db37cc136d3efdac9594371364c5b935d6b258d42a84ebc7efb63cdfaf38f66",
+      "title": "CISA: US agency breached through Cisco vulnerability, FIRESTARTER backdoor allowed access through March",
+      "url": "https://therecord.media/cisa-us-agency-breached-cisco-vulnerability-backdoor",
+      "summary": "CISA said the unnamed department was infected with malware called “FIRESTARTER” that allowed the hackers to return to the Cisco device in March without re-exploiting the original vulnerabilities.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-23T19:03:00+00:00"
+    },
+    {
+      "id": "5d821765ebe031a2a9ddcb1356d9ff3dba726a9d54927b6915e5b7467afd89a7",
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-23T18:59:39+00:00"
+    },
+    {
+      "id": "e596426b42b8dbd19652deac5f33630f3039d82351b966195000fa675a47036e",
+      "title": "Surveillance companies exploiting telecom system to spy on targets’ locations, research shows",
+      "url": "https://therecord.media/surveillance-companies-exploiting-telecom-systems-to-track-location",
+      "summary": "The campaigns exploited a weakness in telecom infrastructure to allow the unnamed vendors to secretly pose as real cellular providers and pinpoint victims’ locations.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-04-23T18:43:00+00:00"
+    },
+    {
+      "id": "e2acd5f2cca3f62bbb8740f28daec0c8a5bbcefde0e1f742f558942f5f83ae93",
+      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
+      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk e",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-23T18:16:00+00:00"
+    },
     {
       "id": "bda9277a359b8cadc2f1efcb4cc84bb3b2cb23b631ec1d91be60dc20d470ff2e",
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
@@ -364,96 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-04-22T12:45:00+00:00"
-    },
-    {
-      "id": "36718b6026417b672bc2374bcfb82411694b4182831242c893ea3bb195292afb",
-      "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
-      "url": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
-      "summary": "Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files. The post New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-22T12:10:28+00:00"
-    },
-    {
-      "id": "836c620f1e32b74a2a4dfcaf0fe113768b2719a1faba8aed6793c1c0cd2ede96",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber a",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-22T12:00:00+00:00"
-    },
-    {
-      "id": "deab0c01328eb76a79ee19476d5317ed05d9a15efdadffc7c2596747c06931fb",
-      "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-      "url": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-      "summary": "The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication. The post Mirai Botnet Targets Flaw in Discontinued D-Link Routers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T11:44:07+00:00"
-    },
-    {
-      "id": "bd5c8a4c1c170ed6efa10a6d05447f1dbf094d3cc8d76b19aa347a5679036758",
-      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-      "url": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-      "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-22T11:30:00+00:00"
-    },
-    {
-      "id": "235d7ce1cce0518250029fc9d23a9a4fbfb509a300700b657a99d663cd0e9215",
-      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-      "url": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-      "summary": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T11:27:46+00:00"
-    },
-    {
-      "id": "3dde21942fa674ad4f1bc0604c6c1ecd36b82853ede1d4e257cb1f3873499b7b",
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector i",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-22T10:55:00+00:00"
-    },
-    {
-      "id": "4d27046455275a7c51e2d1e2a277a556b26a8defeeac2d8d761006a4e2d91a0a",
-      "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
-      "url": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
-      "summary": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-22T10:49:52+00:00"
-    },
-    {
-      "id": "e51bd93a3173d41bf4815b2b9e3ff4d5fd6733d5780331d099e5afed4b0cdc0b",
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-22T10:00:00+00:00"
-    },
-    {
-      "id": "3e30555aedd12966f0cc6e1a1f50c38567fa5e48e76631aebfb4d54172de2445",
-      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
-      "url": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
-      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:53:05+00:00"
-    },
-    {
-      "id": "b5c0f3f63261716d9ad1239356419d92289c2c5788a0ae8a8b63119e98d87a9a",
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has bee",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:29:00+00:00"
     }
   ]
 }
