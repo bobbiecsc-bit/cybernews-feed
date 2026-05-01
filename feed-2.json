@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-01T02:47:14.961658+00:00",
+  "updated": "2026-05-01T08:08:17.920465+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d17f5e6fe5f123651b4fe038b2bd9c77c3e9c9ea3d019d0ca0d0204e7623cf13",
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-28T21:25:57+00:00"
+    },
+    {
+      "id": "4d2f994efa6be65a3805a66785ad1cff9d0dc6c53d9a4fe4df4789b727b66920",
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-28T21:07:23+00:00"
+    },
     {
       "id": "a6b007e0ae0c55ce571f00f311014308ae18d19521694417205c3ed2fd48c98e",
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-04-27T06:33:00+00:00"
-    },
-    {
-      "id": "4279beb58d72651b91d62cd2eab15b2570438688b7a44252c3b59daa7460f347",
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-26T14:22:34+00:00"
-    },
-    {
-      "id": "f35dcb6162e87db3b46c7fe6b8a808dc1b013ef00836c174958239c2bb793d56",
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-25T15:07:44+00:00"
     }
   ]
 }
