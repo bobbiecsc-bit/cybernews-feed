@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-01T08:08:17.920465+00:00",
+  "updated": "2026-05-01T13:14:02.542282+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bf55a6393b5a2f791c9eb40c965cb1763e7bb1d9b437737bba8270ea347363a3",
+      "title": "Cyber spies target Russian aviation firms to steal satellite and GPS data",
+      "url": "https://therecord.media/russia-cyber-espionage-aviation",
+      "summary": "A cyber-espionage group has been targeting Russian government agencies and companies in the aviation industry to steal sensitive geospatial data.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-05-01T13:00:00+00:00"
+    },
+    {
+      "id": "b47ea351f68b934ab6295210f72f61590cdd5dc02dc5549626ad997121e3fe11",
+      "title": "Nearly every Linux system built since 2017 vulnerable to ‘Copy Fail’ flaw",
+      "url": "https://therecord.media/linux-vulnerability-copy-fail-patch",
+      "summary": "Security researchers and European cybersecurity officials are urging administrators to address the risk posed by a newly discovered security flaw that has been hiding in the Linux operating system for nearly a decade.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-01T12:15:00+00:00"
+    },
+    {
+      "id": "a4584b6a100659c23af4cc1a290906a197d1bf01aeda9b88a06f5a8e8c5056fc",
+      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
+      "url": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
+      "summary": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. The post Two US Security Experts Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-01T11:37:03+00:00"
+    },
+    {
+      "id": "5f9941de53e660be90e07b5790122fc3c35078e5f86627bf3d1a7a79e98b9601",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the r",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-01T09:56:00+00:00"
+    },
+    {
+      "id": "25d2b395aceff83f446a46d0735e26e26ed844538dd0aade81525c509b7b0070",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has p",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-01T09:43:00+00:00"
+    },
+    {
+      "id": "fabe26f7ed57e7d2a849c00515e13386ee146214a6435fe816014da4802c9772",
+      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-01T08:41:57+00:00"
+    },
+    {
+      "id": "7b0940e3d91a2d918402e90da868ee8e2388406949c8b58dddf0bdcb71bdc85c",
+      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
+      "url": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
+      "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-01T08:11:20+00:00"
+    },
     {
       "id": "e5bbbf6f84b8c80f161ba1bf096a19973bbff89c88e6b3593e6dacf180418f6f",
       "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
@@ -2188,69 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-20T03:35:00+00:00"
-    },
-    {
-      "id": "99e3b0263f29bee85ccb4c35fddc29ff1264cd11db586e2def6fc5b3195fcae7",
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-19T17:32:45+00:00"
-    },
-    {
-      "id": "c96c03573ddea255fbab5909fc1da9719ee5b63777e21180a786009e499417de",
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-18T15:09:44+00:00"
-    },
-    {
-      "id": "19153e9ad0ad7a27d228df00af6d42fec0d87c6eea398a9f55b0d1047e407b77",
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "url": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-18T13:45:54+00:00"
-    },
-    {
-      "id": "604900ba9eed5e59fd9ce048d2b9b90ba88ceeacc1d51ee83d095cc6d280c2bf",
-      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-      "url": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-      "summary": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption. The post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-18T10:30:00+00:00"
-    },
-    {
-      "id": "03d03a98cd84110644358d03cc3a6c3e35bf5b62701e6e8f099907ef319b6af7",
-      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API to",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-18T08:07:00+00:00"
-    },
-    {
-      "id": "0deea639d528e3aa2af64e8563d825cd492f107882e7d443e7363f17b4890385",
-      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell victim to what it described as a large-scale cyber attack that b",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-18T07:59:00+00:00"
-    },
-    {
-      "id": "3a1c748cc80d02ee92d746b2d06c3b04fc940fa4426715d7849274027e5b4c26",
-      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-      "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting TBK DVR devices has been found to exploi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-18T06:01:00+00:00"
     }
   ]
 }

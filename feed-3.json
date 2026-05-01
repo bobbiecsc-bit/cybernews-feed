@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-01T08:08:17.920465+00:00",
+  "updated": "2026-05-01T13:14:02.542282+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a0d3ca422f3f6c8c9d9e3d9085ee7f2afed8b53901356b6b217c05a0e629ad69",
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-04-27T11:54:00+00:00"
+    },
+    {
+      "id": "b8b132b7a7062afc5a4e49f03732dd3e0dbf90e2aef4d28f9fbec302e0f28f69",
+      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has been identified as cloned versions of their legitimate counte",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-27T11:23:00+00:00"
+    },
+    {
+      "id": "a054670e22a9334d62e910f1254453e73a368915b856291ef5902696118a8644",
+      "title": "Energy and Water Management Firm Itron Hacked",
+      "url": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
+      "summary": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13. The post Energy and Water Management Firm Itron Hacked appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-27T11:18:59+00:00"
+    },
+    {
+      "id": "300e4e41db0ccc102f9c612ef44324c917b8a75a9c5e196bb68a529d858e1fff",
+      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
+      "url": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
+      "summary": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access. The post UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-04-27T10:44:55+00:00"
+    },
+    {
+      "id": "f4aa12b2b8961987ba6ea21f00c8d2aedce176ea1ba04157196cee838dae8e4c",
+      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
+      "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
+      "summary": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages. The post Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-27T10:10:14+00:00"
+    },
+    {
+      "id": "946dffe5ce023e4388eaa1c1ee4194a77d19cf5d46fa7f30cf1530cba946646a",
+      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+      "url": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+      "summary": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10. The post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-27T08:39:28+00:00"
+    },
+    {
+      "id": "ab6cca51152d48de6f7cac0f28f7b440c8f0caaa518ce90aded5d16be3e15c5a",
+      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+      "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-27T06:33:00+00:00"
+    },
     {
       "id": "4279beb58d72651b91d62cd2eab15b2570438688b7a44252c3b59daa7460f347",
       "title": "American utility firm Itron discloses breach of internal IT network",
@@ -391,69 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "006343ba36a67ae12bb0e2b65053b7bbb5d2835438ba165d182aa591a716b8fe",
-      "title": "Yadea T5 Electric Bicycle",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electric Bicycle vers:all/* (CVE-2025-70994) CVSS Vendor Equipment Vu",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "f82c59d80a8bd84519a8e2cb17bb7295a8247fee8a2d65ea9244264f294faa2f",
-      "title": "Milesight Cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD &lt;=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "5b5d42d304fec9a5093cbf5a4dcbb9fb5e38d7b0409ae63e27a407643e857da9",
-      "title": "Intrado 911 Emergency Gateway (EGW)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read, modify, or delete files. The following versions of Intrado 911 Emergency Gateway (EGW) are affected: Emergency Gateway 7.x (CVE-2026-6074) Emergency Gateway 6.x (CVE-2026-6074) Emergency Gateway 5.x (CVE",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "4a7777ad9c154a61662e82d916792d6a6683d1c80e5ac63f28d068a51f52db09",
-      "title": "SpiceJet Online Booking System",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "8bdf83ea87f19365d46d7be880a942822aa712f9b18cabb2cfe387f5f9773b88",
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:30:00+00:00"
-    },
-    {
-      "id": "17f4bead590e121dc2b4b7e6ef05c1081d20c865bc23f863b28dfbae7964b6e1",
-      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-      "url": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-      "summary": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust. The post The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:06:44+00:00"
-    },
-    {
-      "id": "2b173a2886bfa46db7cdeb92ed1257d6c04461d7c0d1833acdd24b2a033c933e",
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:05:57+00:00"
     }
   ]
 }

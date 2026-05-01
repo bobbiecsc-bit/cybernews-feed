@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-01T08:08:17.920465+00:00",
+  "updated": "2026-05-01T13:14:02.542282+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4ce5635fd0c920e62b1772b3ebefa07951083a9e6216015f64aabf9ee486b848",
+      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
+      "url": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
+      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-29T11:03:03+00:00"
+    },
+    {
+      "id": "7ba97251f8ecb9b8c79097a5a77508adb07243f03fb9e190ac0ce56f4c10e865",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-29T10:29:31+00:00"
+    },
+    {
+      "id": "916120648218aa89058fb22f93b1999fe25253e0b6713932e899042904b3e59d",
+      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+      "url": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:54:17+00:00"
+    },
+    {
+      "id": "75d6fd475f24166becd12495ae8ede70a131ba47b9df7850354f003261552145",
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert publish",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T09:37:00+00:00"
+    },
+    {
+      "id": "e9674f9835f356aec9472dd9bc30f0a1d34442258ac35e34abe29cff1e194e31",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T08:46:00+00:00"
+    },
+    {
+      "id": "20116a42a4880ce1f935a7f5c4eb32e64e9feb02769978626db60151ac89cad3",
+      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
+      "url": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
+      "summary": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server. The post Critical GitHub Vulnerability Exposed Millions of Repositories appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-29T06:27:49+00:00"
+    },
+    {
+      "id": "224f620bcb737f36b1a64ab26727c5a94b63be610033a2191a1f722604b2b288",
+      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-29T05:34:00+00:00"
+    },
     {
       "id": "d17f5e6fe5f123651b4fe038b2bd9c77c3e9c9ea3d019d0ca0d0204e7623cf13",
       "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-27T11:58:00+00:00"
-    },
-    {
-      "id": "a0d3ca422f3f6c8c9d9e3d9085ee7f2afed8b53901356b6b217c05a0e629ad69",
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-27T11:54:00+00:00"
-    },
-    {
-      "id": "b8b132b7a7062afc5a4e49f03732dd3e0dbf90e2aef4d28f9fbec302e0f28f69",
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has been identified as cloned versions of their legitimate counte",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-27T11:23:00+00:00"
-    },
-    {
-      "id": "a054670e22a9334d62e910f1254453e73a368915b856291ef5902696118a8644",
-      "title": "Energy and Water Management Firm Itron Hacked",
-      "url": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-      "summary": "Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13. The post Energy and Water Management Firm Itron Hacked appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-27T11:18:59+00:00"
-    },
-    {
-      "id": "300e4e41db0ccc102f9c612ef44324c917b8a75a9c5e196bb68a529d858e1fff",
-      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
-      "url": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-      "summary": "The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access. The post UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-27T10:44:55+00:00"
-    },
-    {
-      "id": "f4aa12b2b8961987ba6ea21f00c8d2aedce176ea1ba04157196cee838dae8e4c",
-      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
-      "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-      "summary": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages. The post Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-27T10:10:14+00:00"
-    },
-    {
-      "id": "946dffe5ce023e4388eaa1c1ee4194a77d19cf5d46fa7f30cf1530cba946646a",
-      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-      "url": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-      "summary": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10. The post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-27T08:39:28+00:00"
-    },
-    {
-      "id": "ab6cca51152d48de6f7cac0f28f7b440c8f0caaa518ce90aded5d16be3e15c5a",
-      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-      "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-27T06:33:00+00:00"
     }
   ]
 }

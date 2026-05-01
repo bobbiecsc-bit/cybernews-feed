@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-01T08:08:17.920465+00:00",
+  "updated": "2026-05-01T13:14:02.542282+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b301662bdfc1350209ce384332f442ccb2ecfbbc28bfd46bcf33a6c70a4d4932",
+      "title": "Cloud platform Vercel says company breached through third-party AI tool",
+      "url": "https://therecord.media/cloud-platform-vercel-says-company-breached-through-ai-tool",
+      "summary": "Vercel released a statement acknowledging a breach and warning a “limited subset of customers” that their Vercel credentials were compromised.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-21T13:10:00+00:00"
+    },
+    {
+      "id": "a66ba9fcb7234a6c1a019c0806097f97859904e758b53505e3de19723739f13a",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "url": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage.&nbsp; The root cause of slow MTTR is almost never \"not enough ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-21T13:00:00+00:00"
+    },
+    {
+      "id": "8d078ec93058a149773b89a4ca3cd48fa64fab8d8578c08fb271a36b546e4913",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "url": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:45:00+00:00"
+    },
+    {
+      "id": "3286471bd18c12d37516d2b76227950caafff95322396c8730a22c3d46adf9e7",
+      "title": "Unsecured Perforce Servers Expose Sensitive Data From Major Orgs",
+      "url": "https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/",
+      "summary": "Things are improving, but a researcher has still identified over 1,500 Perforce P4 instances allowing attackers to read files on the server. The post Unsecured Perforce Servers Expose Sensitive Data From Major Orgs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-04-21T12:37:49+00:00"
+    },
+    {
+      "id": "041aa702529bbe86813665c29d3b84a89c2f7505e3562faa8a6948a3eba9f2ea",
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:30:50+00:00"
+    },
+    {
+      "id": "270bbc18a09436ecd102b486fdb172504e3e15d3fb29e1d6e6e4da2c241fb3dd",
+      "title": "Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster",
+      "url": "https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/",
+      "summary": "The security defects could be exploited for remote code execution, OS command injection, and WAF detection bypass. The post Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:14:26+00:00"
+    },
+    {
+      "id": "90c8e219d533a318f1293f696d4b1f9a6045a1dfb35d23e8a06b830fa9fd581c",
+      "title": "Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-02",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P) contains a vulnerability that could allow an attacker to escalate their own privileges. Siemens has released a new version for RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P) and recommends to update to the latest ve",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-21T12:00:00+00:00"
+    },
     {
       "id": "0679edf3c0aee9a02601ccac60420eae09b041f0caf2437b0c7291d68935531e",
       "title": "Siemens TPM 2.0",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-04-20T03:35:00+00:00"
-    },
-    {
-      "id": "99e3b0263f29bee85ccb4c35fddc29ff1264cd11db586e2def6fc5b3195fcae7",
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-19T17:32:45+00:00"
-    },
-    {
-      "id": "c96c03573ddea255fbab5909fc1da9719ee5b63777e21180a786009e499417de",
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-18T15:09:44+00:00"
-    },
-    {
-      "id": "19153e9ad0ad7a27d228df00af6d42fec0d87c6eea398a9f55b0d1047e407b77",
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "url": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "summary": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-18T13:45:54+00:00"
-    },
-    {
-      "id": "604900ba9eed5e59fd9ce048d2b9b90ba88ceeacc1d51ee83d095cc6d280c2bf",
-      "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-      "url": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-      "summary": "Threat actors are reusing Tycoon 2FA tools across other phishing kits following the platform’s disruption. The post Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-18T10:30:00+00:00"
-    },
-    {
-      "id": "03d03a98cd84110644358d03cc3a6c3e35bf5b62701e6e8f099907ef319b6af7",
-      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API to",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-18T08:07:00+00:00"
-    },
-    {
-      "id": "0deea639d528e3aa2af64e8563d825cd492f107882e7d443e7363f17b4890385",
-      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell victim to what it described as a large-scale cyber attack that b",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-18T07:59:00+00:00"
-    },
-    {
-      "id": "3a1c748cc80d02ee92d746b2d06c3b04fc940fa4426715d7849274027e5b4c26",
-      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-      "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting TBK DVR devices has been found to exploi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-04-18T06:01:00+00:00"
     }
   ]
 }
