@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T19:07:42.976932+00:00",
+  "updated": "2026-05-02T02:29:26.137627+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
@@ -13,6 +13,15 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-05-01T19:01:21+00:00"
+    },
+    {
+      "id": "c476d0bc25b01350bc08e8173c0567dc55e604c2ca9d6c21ef7f864d66c67496",
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back throu",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-01T18:09:00+00:00"
     },
     {
       "id": "f3a097225ce947ef0788b410bd74a4a9255cd14d31080046c703a7735acb67d6",
@@ -121,6 +130,15 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-05-01T12:15:00+00:00"
+    },
+    {
+      "id": "425b802e31af364cd201c9e1edf378bfd7ce84d24f4cf710d3578398b58abce5",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-01T12:00:00+00:00"
     },
     {
       "id": "a4584b6a100659c23af4cc1a290906a197d1bf01aeda9b88a06f5a8e8c5056fc",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-30T09:24:00+00:00"
-    },
-    {
-      "id": "10d636181ee3f2e0d4e4ae2a4ab934c1bc8637d0e9a48ad646b63c66c5bdc281",
-      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
-      "url": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
-      "summary": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom. The post Sandhills Medical Says Ransomware Breach Affects 170,000 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-30T08:35:59+00:00"
-    },
-    {
-      "id": "189a840154728ba11ea0cf944841653f599fc9cd98c82e839e98db7aa19cb4a7",
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. \"The vulnerability allowed an unprivi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-30T07:07:00+00:00"
     }
   ]
 }
