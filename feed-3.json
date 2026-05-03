@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-03T13:03:39.217618+00:00",
+  "updated": "2026-05-03T18:55:56.825268+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6db1518869ef846061a6f821330a4ef3f6f1c9e12b98dbb9f59a26562785b833",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-28T05:50:00+00:00"
+    },
+    {
+      "id": "a7b386e23d334555d1c76c310e78d8e2f27f35336f49d51dbbe0d9d76f910031",
+      "title": "China-linked hackers led phishing campaigns targeting journalists and activists, researchers say",
+      "url": "https://therecord.media/china-linked-hackers-led-phishing-campaigns-journalists",
+      "summary": "The aim of the campaigns was to steal credentials and likely enable “follow-on operations in the interest of the Chinese government,” the report said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-28T04:00:00+00:00"
+    },
     {
       "id": "75879c3cead9ff2ddeccf2d3253021adb8473781db0ac4fc94c750702ec71fb4",
       "title": "Robinhood account creation flaw abused to send phishing emails",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-04-24T08:07:02+00:00"
-    },
-    {
-      "id": "a7af71ea4aa1d6d4c118462376eee3a04e1b0af0f1ce625a4217f9451daf7abe",
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relat",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-24T07:24:00+00:00"
-    },
-    {
-      "id": "d7312dc237e2373f6eec55c95552a00417e55e5b971faeb663c72d337cc6d299",
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-23T21:33:45+00:00"
     }
   ]
 }

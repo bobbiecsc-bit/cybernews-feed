@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-03T13:03:39.217618+00:00",
+  "updated": "2026-05-03T18:55:56.825268+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a7af71ea4aa1d6d4c118462376eee3a04e1b0af0f1ce625a4217f9451daf7abe",
+      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relat",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-04-24T07:24:00+00:00"
+    },
+    {
+      "id": "d7312dc237e2373f6eec55c95552a00417e55e5b971faeb663c72d337cc6d299",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-23T21:33:45+00:00"
+    },
     {
       "id": "2d962fc0fbd9e729eaeb54c9c0c5f95babaf6c9d07bbcb86eb2e05f83dd89e63",
       "title": "Bitwarden CLI npm package compromised to steal developer credentials",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-04-22T11:44:07+00:00"
-    },
-    {
-      "id": "bd5c8a4c1c170ed6efa10a6d05447f1dbf094d3cc8d76b19aa347a5679036758",
-      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-      "url": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-      "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-22T11:30:00+00:00"
-    },
-    {
-      "id": "235d7ce1cce0518250029fc9d23a9a4fbfb509a300700b657a99d663cd0e9215",
-      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-      "url": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-      "summary": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T11:27:46+00:00"
     }
   ]
 }
