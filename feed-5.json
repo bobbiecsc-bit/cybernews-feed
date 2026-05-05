@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-05T02:30:24.517191+00:00",
+  "updated": "2026-05-05T08:05:28.025793+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "05ed037e843175b15551a66a680cbe70785dd3102ee2495f911742bd2415aaee",
+      "title": "Apple Patches Exploited Notification Flaw, (Thu, Apr 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/32922",
+      "summary": "Apple yesterday released iOS/iPadOS 26.4.2 and iOS/iPadOS 18.7.8. This update fixes a single Notification Services vulnerability, CVE-2026-28950:&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-04-23T10:18:30+00:00"
+    },
+    {
+      "id": "bb49a239bf0d2dfc26ff91b4ee14020d1969c878b72dbc3aab25f3040b0713ac",
+      "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
+      "url": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
+      "summary": "Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. The post AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-23T10:09:40+00:00"
+    },
     {
       "id": "0df993572c3bfbbc9d7a220a5e8957bcb46d69f7a45659fd74d2809aa2f90a09",
       "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
@@ -433,24 +451,6 @@
       "title": "Siemens TPM 2.0",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01",
       "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to perform an out-of-bound read, potentially leading to information disclosure or denial of service of the TPM. Siemens has released new versions for several affected products and recommends to update to",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-21T12:00:00+00:00"
-    },
-    {
-      "id": "1e903513facf28afc114b43d242f64dac0ec981a3d2764561480ffdbef9f3053",
-      "title": "SenseLive X3050",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to take complete control of the device. The following versions of SenseLive X3050 are affected: X3050 V1.523 (CVE-2026-40630, CVE-2026-25720, CVE-2026-35503, CVE-2026-39462, CVE-2026-27843, CVE-2026-40431, CVE",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-21T12:00:00+00:00"
-    },
-    {
-      "id": "dfef76e77c82e4c717775ddaa4a97df924d4a9ebf0077d561a4715e77abc9aee",
-      "title": "Hardy Barth Salia EV Charge Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Hardy Barth Salia EV Charge Controller are affected: Salia Board Firmware &lt;=2.3.81 (CVE-2025-5873, CVE-2",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-21T12:00:00+00:00"
