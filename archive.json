@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-05T13:48:05.695518+00:00",
+  "updated": "2026-05-05T19:14:49.210385+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "221197dbec76f2583889ea14ee7406684703c8854f6dc2babd41afed8352154e",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-05T17:34:09+00:00"
+    },
+    {
+      "id": "8c98ecf969a5a0446dc6613381c8d156af85c14d6a5fa602fc5a0c2ac5dbfb41",
+      "title": "Conti, Akira ransomware affiliate given 8-year sentence",
+      "url": "https://therecord.media/conti-akira-ransomware-affiliate-sentenced",
+      "summary": "Deniss Zolotarjovs pleaded guilty in July 2025 to money laundering and wire fraud charges after being arrested in the country of Georgia.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-05-05T17:33:00+00:00"
+    },
+    {
+      "id": "b1549cb1931e689b113572a8110a66ca8a434f25acd81a9e03a18ce6d79dfa2a",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been des",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-05T16:19:00+00:00"
+    },
+    {
+      "id": "951945cca159c3181a6a1cfbc86c503ec36cc4e6bba9ff4a0e5272ccfb11e9d3",
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging t",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-05T16:07:00+00:00"
+    },
+    {
+      "id": "40c9533aa45e1d0984726913f6ef88a12a86b3d49c911f8f9f96de9642f60065",
+      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
+      "url": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
+      "summary": "The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM. The post Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-05T14:45:04+00:00"
+    },
+    {
+      "id": "c4a2a3c264cd0a58602c5e1d61ad2c05a5bb29be4ee893697357b7b6ad7958d5",
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, w",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-05T14:19:00+00:00"
+    },
+    {
+      "id": "e2113ca7f73f1ee86d416104dd99b435cc4408be75ecf9c064c71516a9fefb2a",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-05T14:00:10+00:00"
+    },
     {
       "id": "96257f55b459fcf66522004253dbc5f0107d83df32de00b5c00b2196a6ccd99f",
       "title": "Hacker Conversations: Joey Melo on Hacking AI",
@@ -37,6 +100,51 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-05T12:39:36+00:00"
+    },
+    {
+      "id": "71bd298f4954515a436cf2ef7bc27251a69a61b0a7d3ec6a119738534325e45d",
+      "title": "ABB B&R Automation Studio",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&amp;R Automation Studio e",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "549754a71ba3d1196a1e2a5c7fd8d7c7df0a6ce296c3e68cfc09ba9c8648d9de",
+      "title": "ABB B&R Automation Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&amp;R Autom",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "7058bfde475b03e6a3dcaa6202419aba42ec1fcfa5df00d763b33b28dfab27b4",
+      "title": "Hitachi Energy PCM600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "ec239789792d8fda35c620d8fc383fca63f55fb8c530cbdbb04bb8d2aa323c39",
+      "title": "Johnson Controls CEM AC2000",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-2166",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "e6f9420c889840c737f8a1db2f159fe9ff50a00148f762c6077fb6e5884d9ef4",
+      "title": "ABB B&R PVI",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data o",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
     },
     {
       "id": "9501fe2f6cdcea1ed75b8c6433a9c1b306e2a3c15800440880f0c919ae45417c",
@@ -303,7 +411,7 @@
       "id": "21b52b5b8f05c7d5d3e42fec59959b263de5bdb8268736f6727e09d3fcd48b0d",
       "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
       "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, follow",
+      "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mim",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-04T11:57:00+00:00"
@@ -2143,114 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-04-22T12:45:00+00:00"
-    },
-    {
-      "id": "36718b6026417b672bc2374bcfb82411694b4182831242c893ea3bb195292afb",
-      "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
-      "url": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
-      "summary": "Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files. The post New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-04-22T12:10:28+00:00"
-    },
-    {
-      "id": "836c620f1e32b74a2a4dfcaf0fe113768b2719a1faba8aed6793c1c0cd2ede96",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber a",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-22T12:00:00+00:00"
-    },
-    {
-      "id": "deab0c01328eb76a79ee19476d5317ed05d9a15efdadffc7c2596747c06931fb",
-      "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-      "url": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-      "summary": "The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication. The post Mirai Botnet Targets Flaw in Discontinued D-Link Routers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T11:44:07+00:00"
-    },
-    {
-      "id": "bd5c8a4c1c170ed6efa10a6d05447f1dbf094d3cc8d76b19aa347a5679036758",
-      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-      "url": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-      "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-22T11:30:00+00:00"
-    },
-    {
-      "id": "235d7ce1cce0518250029fc9d23a9a4fbfb509a300700b657a99d663cd0e9215",
-      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-      "url": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-      "summary": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T11:27:46+00:00"
-    },
-    {
-      "id": "3dde21942fa674ad4f1bc0604c6c1ecd36b82853ede1d4e257cb1f3873499b7b",
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector i",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-22T10:55:00+00:00"
-    },
-    {
-      "id": "4d27046455275a7c51e2d1e2a277a556b26a8defeeac2d8d761006a4e2d91a0a",
-      "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
-      "url": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
-      "summary": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-22T10:49:52+00:00"
-    },
-    {
-      "id": "e51bd93a3173d41bf4815b2b9e3ff4d5fd6733d5780331d099e5afed4b0cdc0b",
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-22T10:00:00+00:00"
-    },
-    {
-      "id": "3e30555aedd12966f0cc6e1a1f50c38567fa5e48e76631aebfb4d54172de2445",
-      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
-      "url": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
-      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:53:05+00:00"
-    },
-    {
-      "id": "b5c0f3f63261716d9ad1239356419d92289c2c5788a0ae8a8b63119e98d87a9a",
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has bee",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-22T09:29:00+00:00"
-    },
-    {
-      "id": "0878fdfa672a183079e3a5e6f231e3ec2a29e652940af77b42edd28f0d8b370c",
-      "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
-      "url": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
-      "summary": "The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws. The post Oracle Patches 450 Vulnerabilities With April 2026 CPU appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-22T08:41:10+00:00"
-    },
-    {
-      "id": "3f315239893e51d78aa5b1cf2ccc49120271524f4d39b551d6e5f04f445596bd",
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-22T08:08:16+00:00"
     }
   ]
 }
