@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-06T14:02:39.935961+00:00",
+  "updated": "2026-05-06T19:42:48.024655+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bbe967841d8792cd8ea1c61479efc884eeec5988d05ee74823ef8a34145a3480",
+      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
+      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-05T09:27:14+00:00"
+    },
+    {
+      "id": "106d5821eb5e5d8ef6022ced447a21235af83a57e47e90db45c5fde8d70e2043",
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have pr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-05T09:07:00+00:00"
+    },
+    {
+      "id": "ca1775ab83ddfc802fc2ca8204168add34464b2b106c2631b77a56c315768d72",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-05T09:04:13+00:00"
+    },
+    {
+      "id": "21e426f0318f44dce6117f70363b633e3c3e2f9bc6e41314e2faf22ed9814b0e",
+      "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
+      "url": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
+      "summary": "The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year. The post WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-05T09:01:14+00:00"
+    },
+    {
+      "id": "61b0c3aba331e894800deb035023def00d042511df0720d9ad5982c7fd8a4e89",
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Wea",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-05T07:37:00+00:00"
+    },
+    {
+      "id": "edbc17efc243363da7052a757f2e924eca0ddb4b76327bb7a0c599c97e3acf07",
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 1",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-05T06:35:00+00:00"
+    },
+    {
+      "id": "0a1b8c5b01d4486c9642841c4c443745bf04c7775b783ca1fe25d1269fbf39ae",
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-04T22:12:57+00:00"
+    },
     {
       "id": "c26330b8c6546aa23f8e8da060aa712ccb74cf792b087e6406a3a7fa8564e623",
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-01T09:56:00+00:00"
-    },
-    {
-      "id": "25d2b395aceff83f446a46d0735e26e26ed844538dd0aade81525c509b7b0070",
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has p",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-01T09:43:00+00:00"
-    },
-    {
-      "id": "fabe26f7ed57e7d2a849c00515e13386ee146214a6435fe816014da4802c9772",
-      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-01T08:41:57+00:00"
-    },
-    {
-      "id": "7b0940e3d91a2d918402e90da868ee8e2388406949c8b58dddf0bdcb71bdc85c",
-      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
-      "url": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
-      "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-01T08:11:20+00:00"
-    },
-    {
-      "id": "e5bbbf6f84b8c80f161ba1bf096a19973bbff89c88e6b3593e6dacf180418f6f",
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-01T07:47:11+00:00"
-    },
-    {
-      "id": "f5f79ad807f04a1842ec9991801985eac9e0bf4d425ce82f675c0f679b736007",
-      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-      "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-      "summary": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-01T07:33:40+00:00"
-    },
-    {
-      "id": "619ceed71a7dc996e7fd46eb4fc30854eb39c87c0c9995a946028e79affc57bf",
-      "title": "Hackers earning millions from hijacked cargo, FBI says",
-      "url": "https://therecord.media/hackers-earning-millions-from-hijacked-cargo-fbi",
-      "summary": "In an advisory this week, FBI officials said cyber actors have spent the last two years breaking into the systems of brokers and carriers — allowing them to pose as victim companies and post fraudulent listings on freight delivery message boards.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-30T20:22:00+00:00"
-    },
-    {
-      "id": "5ff4d795f50b5d43c878d323642fdb60146a280cd624c3599e236e3708e52a5e",
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-30T18:58:50+00:00"
     }
   ]
 }

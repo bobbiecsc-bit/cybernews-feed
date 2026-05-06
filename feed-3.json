@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-06T14:02:39.935961+00:00",
+  "updated": "2026-05-06T19:42:48.024655+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "25d2b395aceff83f446a46d0735e26e26ed844538dd0aade81525c509b7b0070",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has p",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-01T09:43:00+00:00"
+    },
+    {
+      "id": "fabe26f7ed57e7d2a849c00515e13386ee146214a6435fe816014da4802c9772",
+      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-01T08:41:57+00:00"
+    },
+    {
+      "id": "7b0940e3d91a2d918402e90da868ee8e2388406949c8b58dddf0bdcb71bdc85c",
+      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
+      "url": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
+      "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-01T08:11:20+00:00"
+    },
+    {
+      "id": "e5bbbf6f84b8c80f161ba1bf096a19973bbff89c88e6b3593e6dacf180418f6f",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-01T07:47:11+00:00"
+    },
+    {
+      "id": "f5f79ad807f04a1842ec9991801985eac9e0bf4d425ce82f675c0f679b736007",
+      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
+      "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
+      "summary": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-01T07:33:40+00:00"
+    },
+    {
+      "id": "619ceed71a7dc996e7fd46eb4fc30854eb39c87c0c9995a946028e79affc57bf",
+      "title": "Hackers earning millions from hijacked cargo, FBI says",
+      "url": "https://therecord.media/hackers-earning-millions-from-hijacked-cargo-fbi",
+      "summary": "In an advisory this week, FBI officials said cyber actors have spent the last two years breaking into the systems of brokers and carriers — allowing them to pose as victim companies and post fraudulent listings on freight delivery message boards.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-04-30T20:22:00+00:00"
+    },
+    {
+      "id": "5ff4d795f50b5d43c878d323642fdb60146a280cd624c3599e236e3708e52a5e",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-04-30T18:58:50+00:00"
+    },
     {
       "id": "e7b577762321ab05941f5864e8df61ae7803a739f3aa0700a36da7abf21a2e65",
       "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-04-29T09:37:00+00:00"
-    },
-    {
-      "id": "e9674f9835f356aec9472dd9bc30f0a1d34442258ac35e34abe29cff1e194e31",
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-29T08:46:00+00:00"
-    },
-    {
-      "id": "20116a42a4880ce1f935a7f5c4eb32e64e9feb02769978626db60151ac89cad3",
-      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-      "url": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-      "summary": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server. The post Critical GitHub Vulnerability Exposed Millions of Repositories appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-29T06:27:49+00:00"
-    },
-    {
-      "id": "224f620bcb737f36b1a64ab26727c5a94b63be610033a2191a1f722604b2b288",
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-29T05:34:00+00:00"
-    },
-    {
-      "id": "d17f5e6fe5f123651b4fe038b2bd9c77c3e9c9ea3d019d0ca0d0204e7623cf13",
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-28T21:25:57+00:00"
-    },
-    {
-      "id": "4d2f994efa6be65a3805a66785ad1cff9d0dc6c53d9a4fe4df4789b727b66920",
-      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-28T21:07:23+00:00"
-    },
-    {
-      "id": "a6b007e0ae0c55ce571f00f311014308ae18d19521694417205c3ed2fd48c98e",
-      "title": "Video service Vimeo confirms Anodot breach exposed user data",
-      "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-      "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-04-28T19:04:22+00:00"
-    },
-    {
-      "id": "00d19ac5ef1170ec8099b4fa067dc019d08294209281ecf34b629402e8542a77",
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command. The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T18:19:00+00:00"
     }
   ]
 }

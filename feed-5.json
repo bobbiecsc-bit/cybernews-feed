@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-06T14:02:39.935961+00:00",
+  "updated": "2026-05-06T19:42:48.024655+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f4aa12b2b8961987ba6ea21f00c8d2aedce176ea1ba04157196cee838dae8e4c",
+      "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
+      "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
+      "summary": "A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages. The post Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-27T10:10:14+00:00"
+    },
+    {
+      "id": "946dffe5ce023e4388eaa1c1ee4194a77d19cf5d46fa7f30cf1530cba946646a",
+      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+      "url": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+      "summary": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10. The post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-27T08:39:28+00:00"
+    },
+    {
+      "id": "ab6cca51152d48de6f7cac0f28f7b440c8f0caaa518ce90aded5d16be3e15c5a",
+      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+      "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-27T06:33:00+00:00"
+    },
+    {
+      "id": "4279beb58d72651b91d62cd2eab15b2570438688b7a44252c3b59daa7460f347",
+      "title": "American utility firm Itron discloses breach of internal IT network",
+      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-04-26T14:22:34+00:00"
+    },
+    {
+      "id": "f35dcb6162e87db3b46c7fe6b8a808dc1b013ef00836c174958239c2bb793d56",
+      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
+      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-04-25T15:07:44+00:00"
+    },
+    {
+      "id": "5ec0c3158d77ddf4519f63b4f7260cda2f4d1d03439a52bc4ead2026f011fbc5",
+      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
+      "url": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
+      "summary": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors. The post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-04-25T10:50:00+00:00"
+    },
+    {
+      "id": "c6e97fcdc96bc669e6322c9896948ce80e8617ba720882ea5b5cae83861813ca",
+      "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
+      "url": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
+      "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges. According to a new report published by SentinelOne, the previously undocumented cyber sabotage",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-04-25T09:26:00+00:00"
+    },
     {
       "id": "ff05588d14075472b75f981b9c45dfc7f75b921921e869ef8f276f263d1aa060",
       "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
@@ -391,69 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "8bdf83ea87f19365d46d7be880a942822aa712f9b18cabb2cfe387f5f9773b88",
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:30:00+00:00"
-    },
-    {
-      "id": "17f4bead590e121dc2b4b7e6ef05c1081d20c865bc23f863b28dfbae7964b6e1",
-      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-      "url": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-      "summary": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust. The post The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:06:44+00:00"
-    },
-    {
-      "id": "2b173a2886bfa46db7cdeb92ed1257d6c04461d7c0d1833acdd24b2a033c933e",
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-23T11:05:57+00:00"
-    },
-    {
-      "id": "e8b5e11bbc563d9046136efdcc15f482cbc8966ef7a02854da0ce66c3482c1da",
-      "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
-      "url": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
-      "summary": "The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses. The post Luxury Cosmetics Giant Rituals Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-23T11:04:51+00:00"
-    },
-    {
-      "id": "05ed037e843175b15551a66a680cbe70785dd3102ee2495f911742bd2415aaee",
-      "title": "Apple Patches Exploited Notification Flaw, (Thu, Apr 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/32922",
-      "summary": "Apple yesterday released iOS/iPadOS 26.4.2 and iOS/iPadOS 18.7.8. This update fixes a single Notification Services vulnerability, CVE-2026-28950:&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-04-23T10:18:30+00:00"
-    },
-    {
-      "id": "bb49a239bf0d2dfc26ff91b4ee14020d1969c878b72dbc3aab25f3040b0713ac",
-      "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
-      "url": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
-      "summary": "Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. The post AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-23T10:09:40+00:00"
-    },
-    {
-      "id": "0df993572c3bfbbc9d7a220a5e8957bcb46d69f7a45659fd74d2809aa2f90a09",
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-04-23T09:04:00+00:00"
     }
   ]
 }
