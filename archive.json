@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T19:42:48.024655+00:00",
+  "updated": "2026-05-07T02:37:06.383194+00:00",
   "total": 250,
   "articles": [
     {
@@ -10,6 +10,33 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-07T00:12:00+00:00"
+    },
+    {
+      "id": "9cc5e6acd057f5e06698a88c16724834817c075aedb5d6123470e94a62876556",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-06T21:36:06+00:00"
+    },
+    {
+      "id": "95266815b7afedf58cdcc54a17c11d29381c8d102c8b05c150fc79fecf1dea91",
+      "title": "Palo Alto warns of critical software bug used in firewall attacks",
+      "url": "https://therecord.media/palo-alto-warns-of-critical-software-bug-firewalls",
+      "summary": "A patch for the bug, tracked as CVE-2026-0300, has not been published yet and Palo Alto Networks said it will be included in releases over the next two weeks.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-06T20:33:00+00:00"
+    },
+    {
+      "id": "3a5aed8fa86c47fcee264e8377adb9e086225097a6c23ac418e0e4b19e0b3a17",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the mal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-06T20:21:00+00:00"
     },
     {
       "id": "d07794f5c7bf42573e17be70a8286b4f4b2432f90f8d473f6c4c377416446270",
@@ -2221,33 +2248,6 @@
       "title": "Yadea T5 Electric Bicycle",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electric Bicycle vers:all/* (CVE-2025-70994) CVSS Vendor Equipment Vu",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "f82c59d80a8bd84519a8e2cb17bb7295a8247fee8a2d65ea9244264f294faa2f",
-      "title": "Milesight Cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD &lt;=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "5b5d42d304fec9a5093cbf5a4dcbb9fb5e38d7b0409ae63e27a407643e857da9",
-      "title": "Intrado 911 Emergency Gateway (EGW)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read, modify, or delete files. The following versions of Intrado 911 Emergency Gateway (EGW) are affected: Emergency Gateway 7.x (CVE-2026-6074) Emergency Gateway 6.x (CVE-2026-6074) Emergency Gateway 5.x (CVE",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-23T12:00:00+00:00"
-    },
-    {
-      "id": "4a7777ad9c154a61662e82d916792d6a6683d1c80e5ac63f28d068a51f52db09",
-      "title": "SpiceJet Online Booking System",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-04-23T12:00:00+00:00"
