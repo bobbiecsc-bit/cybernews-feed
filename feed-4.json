@@ -1,10 +1,100 @@
 {
-  "updated": "2026-05-07T14:00:43.945970+00:00",
+  "updated": "2026-05-07T19:40:42.622595+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "321117b3777573aa44a22164025ee9c5c18b9e6849bf44658df15a072fb58be9",
+      "title": "ABB PCM600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PCM600 &gt;=1.5|&lt;=2.13&nbsp; CVSS Vendor Equipment Vulnerabili",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "id": "0bc0230b83007d9f23dd5375b55d3bab33083b17193b01f7f614f73e4c79e241",
+      "title": "ABB Edgenius Management Portal",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versio",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "id": "8e2940c02b690e78e3db9ff6e7d7558ef2ab1bd77ab67dd4f5f227749939bfaf",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel &amp; WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "id": "fee86091f5322e26a1047a521e68f0fe1269956fa01ed7d83d0754946947e8ab",
+      "title": "ABB Ability Symphony Plus Engineering",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If an attacker gains access to a site’s S+ Client Server network,",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "id": "276da0de34db233bdccf4a5f702d0b86066aa6fe393ce5d7717438af1019bf49",
+      "title": "ABB System 800xA, Symphony Plus IEC 61850",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
+      "summary": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication typically supports MMS and GOOSE protocols. Some ABB products s",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-04-30T12:00:00+00:00"
+    },
+    {
+      "id": "f9a2bbd9ceb8bf9ec0af83dc5132035df1e1e7524310be9685c413b7b3eb17db",
+      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+      "url": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+      "summary": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution. The post EnOcean SmartServer Flaws Expose Buildings to Remote Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-04-30T11:57:31+00:00"
+    },
+    {
+      "id": "8a65c6af6eb4e623431c395ce9174b33b1f7c5ea3d903ab3b8099f52f141ecae",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:40:31+00:00"
+    },
+    {
+      "id": "a1de0bbeb37bfb05dfa8ebf6793718cfbd97171a4cae563a135081e2928b39bd",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrat",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-04-30T11:30:00+00:00"
+    },
+    {
+      "id": "454c55ac8e41309a87dffd76ddba618d88add6ece036b9fd41cfb9c714ca035f",
+      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+      "url": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+      "summary": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers. The post Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T11:10:30+00:00"
+    },
+    {
+      "id": "87e300113fc1fd6e669c92103f08fa4594bce5b2d5836d1249d7e798e44fa81a",
+      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+      "url": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+      "summary": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions. The post &#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-04-30T10:06:00+00:00"
+    },
     {
       "id": "ea092c43e901df86fac8272a613a344ea99bea37b057572fd34d2730e9946525",
       "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
@@ -364,96 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-04-28T10:54:57+00:00"
-    },
-    {
-      "id": "7bce9c98f5c12b499addd285d3ee7285ae5add75f6e3d33b4bbe2dd395a4e269",
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic’s new model, Claude Myt",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T10:30:00+00:00"
-    },
-    {
-      "id": "b1b1dbdff54d621428e32502494cc68e6f379e825c75f970dcbb518e8c0c94cb",
-      "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
-      "url": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
-      "summary": "The threat detection startup will invest in accelerating its engineering and go-to-market efforts. The post Spectrum Security Emerges From Stealth Mode With $19 Million appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-04-28T08:25:41+00:00"
-    },
-    {
-      "id": "c3fa253135db031c9614c0e60dcf8f93a11b39d7c5c9e406516c39587ab82ee6",
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp; Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks agains",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-28T07:57:00+00:00"
-    },
-    {
-      "id": "d827c41da181d21160f648a7d6e082350cbacddace58b5f0801d44129b87e080",
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T06:37:00+00:00"
-    },
-    {
-      "id": "0be119ca2e6deb1b7f905a54b78030cf90df92e6e29070e97fa65a8e7ec3bd81",
-      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
-      "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
-      "summary": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic. The post Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-28T06:35:19+00:00"
-    },
-    {
-      "id": "6db1518869ef846061a6f821330a4ef3f6f1c9e12b98dbb9f59a26562785b833",
-      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-28T05:50:00+00:00"
-    },
-    {
-      "id": "a7b386e23d334555d1c76c310e78d8e2f27f35336f49d51dbbe0d9d76f910031",
-      "title": "China-linked hackers led phishing campaigns targeting journalists and activists, researchers say",
-      "url": "https://therecord.media/china-linked-hackers-led-phishing-campaigns-journalists",
-      "summary": "The aim of the campaigns was to steal credentials and likely enable “follow-on operations in the interest of the Chinese government,” the report said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-28T04:00:00+00:00"
-    },
-    {
-      "id": "75879c3cead9ff2ddeccf2d3253021adb8473781db0ac4fc94c750702ec71fb4",
-      "title": "Robinhood account creation flaw abused to send phishing emails",
-      "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-27T23:11:01+00:00"
-    },
-    {
-      "id": "91d477646cef574ebed755a931ec0baa748d2b63eb213e7d1edfa418b19f535e",
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-04-27T21:41:01+00:00"
-    },
-    {
-      "id": "c340c8edb6510b5022bbcacc3a714f277691254047ea8fc4bac480c3ce087f0c",
-      "title": "Disinformation campaign targeted Tibetan parliament-in-exile elections",
-      "url": "https://therecord.media/disinformation-campaign-targeted-tibetan-elections",
-      "summary": "The operation, identified by the Digital Forensic Research Lab (DFRLab), was part of Spamouflage, a long-running influence network linked to Beijing.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-04-27T15:28:00+00:00"
     }
   ]
 }
