@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-08T13:26:50.817063+00:00",
+  "updated": "2026-05-08T19:13:25.615761+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b47ea351f68b934ab6295210f72f61590cdd5dc02dc5549626ad997121e3fe11",
+      "title": "Nearly every Linux system built since 2017 vulnerable to ‘Copy Fail’ flaw",
+      "url": "https://therecord.media/linux-vulnerability-copy-fail-patch",
+      "summary": "Security researchers and European cybersecurity officials are urging administrators to address the risk posed by a newly discovered security flaw that has been hiding in the Linux operating system for nearly a decade.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-01T12:15:00+00:00"
+    },
+    {
+      "id": "425b802e31af364cd201c9e1edf378bfd7ce84d24f4cf710d3578398b58abce5",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-01T12:00:00+00:00"
+    },
+    {
+      "id": "a4584b6a100659c23af4cc1a290906a197d1bf01aeda9b88a06f5a8e8c5056fc",
+      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
+      "url": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
+      "summary": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. The post Two US Security Experts Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-01T11:37:03+00:00"
+    },
+    {
+      "id": "5f9941de53e660be90e07b5790122fc3c35078e5f86627bf3d1a7a79e98b9601",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the r",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-01T09:56:00+00:00"
+    },
+    {
+      "id": "25d2b395aceff83f446a46d0735e26e26ed844538dd0aade81525c509b7b0070",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has p",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-01T09:43:00+00:00"
+    },
+    {
+      "id": "fabe26f7ed57e7d2a849c00515e13386ee146214a6435fe816014da4802c9772",
+      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-01T08:41:57+00:00"
+    },
     {
       "id": "7b0940e3d91a2d918402e90da868ee8e2388406949c8b58dddf0bdcb71bdc85c",
       "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-04-29T12:02:00+00:00"
-    },
-    {
-      "id": "4ce5635fd0c920e62b1772b3ebefa07951083a9e6216015f64aabf9ee486b848",
-      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
-      "url": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
-      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-04-29T11:03:03+00:00"
-    },
-    {
-      "id": "7ba97251f8ecb9b8c79097a5a77508adb07243f03fb9e190ac0ce56f4c10e865",
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-04-29T10:29:31+00:00"
-    },
-    {
-      "id": "916120648218aa89058fb22f93b1999fe25253e0b6713932e899042904b3e59d",
-      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
-      "url": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
-      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-29T09:54:17+00:00"
-    },
-    {
-      "id": "75d6fd475f24166becd12495ae8ede70a131ba47b9df7850354f003261552145",
-      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert publish",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-29T09:37:00+00:00"
-    },
-    {
-      "id": "e9674f9835f356aec9472dd9bc30f0a1d34442258ac35e34abe29cff1e194e31",
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-29T08:46:00+00:00"
-    },
-    {
-      "id": "20116a42a4880ce1f935a7f5c4eb32e64e9feb02769978626db60151ac89cad3",
-      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-      "url": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-      "summary": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server. The post Critical GitHub Vulnerability Exposed Millions of Repositories appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-29T06:27:49+00:00"
     }
   ]
 }

@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-08T13:26:50.817063+00:00",
+  "updated": "2026-05-08T19:13:25.615761+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cdc190d2a1c8869ccc6ef407630a7f8c7a1c44ccbb57ce65fb023ecee3c42883",
+      "title": "DarkSword Malware",
+      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
+      "summary": "DarkSword is a sophisticated piece of malware&#8212;probably government designed&#8212;that targets iOS. Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered p",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-05-05T10:42:03+00:00"
+    },
+    {
+      "id": "b416052517ebc9b7242023039640f0f8ddb69c3ec7706cbc3b411cda1a56c5f6",
+      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+      "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-05T10:30:00+00:00"
+    },
+    {
+      "id": "a39b8585ea276105f35102ab4e1b2c334da16112277a3e0bb86f1c7615fe2923",
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-05T10:13:17+00:00"
+    },
+    {
+      "id": "2ca22590b27057de94f6883e84de118cfc5e93dda9b6705a7ba120824a30ec87",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-05T10:03:52+00:00"
+    },
+    {
+      "id": "bbe967841d8792cd8ea1c61479efc884eeec5988d05ee74823ef8a34145a3480",
+      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
+      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-05T09:27:14+00:00"
+    },
+    {
+      "id": "106d5821eb5e5d8ef6022ced447a21235af83a57e47e90db45c5fde8d70e2043",
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have pr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-05T09:07:00+00:00"
+    },
     {
       "id": "ca1775ab83ddfc802fc2ca8204168add34464b2b106c2631b77a56c315768d72",
       "title": "ScarCruft hackers push BirdCall Android malware via game platform",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-05-01T13:00:00+00:00"
-    },
-    {
-      "id": "b47ea351f68b934ab6295210f72f61590cdd5dc02dc5549626ad997121e3fe11",
-      "title": "Nearly every Linux system built since 2017 vulnerable to ‘Copy Fail’ flaw",
-      "url": "https://therecord.media/linux-vulnerability-copy-fail-patch",
-      "summary": "Security researchers and European cybersecurity officials are urging administrators to address the risk posed by a newly discovered security flaw that has been hiding in the Linux operating system for nearly a decade.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-01T12:15:00+00:00"
-    },
-    {
-      "id": "425b802e31af364cd201c9e1edf378bfd7ce84d24f4cf710d3578398b58abce5",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-01T12:00:00+00:00"
-    },
-    {
-      "id": "a4584b6a100659c23af4cc1a290906a197d1bf01aeda9b88a06f5a8e8c5056fc",
-      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
-      "url": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
-      "summary": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. The post Two US Security Experts Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-01T11:37:03+00:00"
-    },
-    {
-      "id": "5f9941de53e660be90e07b5790122fc3c35078e5f86627bf3d1a7a79e98b9601",
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the r",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-01T09:56:00+00:00"
-    },
-    {
-      "id": "25d2b395aceff83f446a46d0735e26e26ed844538dd0aade81525c509b7b0070",
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has p",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-01T09:43:00+00:00"
-    },
-    {
-      "id": "fabe26f7ed57e7d2a849c00515e13386ee146214a6435fe816014da4802c9772",
-      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-01T08:41:57+00:00"
     }
   ]
 }

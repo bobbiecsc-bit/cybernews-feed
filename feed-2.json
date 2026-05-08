@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-08T13:26:50.817063+00:00",
+  "updated": "2026-05-08T19:13:25.615761+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bd77bbb5f2380f49a6a550e1a7fa26fbb36998f65d71c2c6e0a9ff50e664c7b1",
+      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
+      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-07T04:15:00+00:00"
+    },
+    {
+      "id": "ce4f9fee7b708c46bc26e4d8d4e3517dfb31e20e506f108567f425ee1a6619a8",
+      "title": "North Korean hackers targeted ethnic Koreans in China with Android ‘BirdCall’ malware",
+      "url": "https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china",
+      "summary": "Researchers at cybersecurity firm ESET attributed the campaign to APT37 and said the hackers used a backdoor attached to a suite of card games from a company called Sqgame.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-07T00:12:00+00:00"
+    },
+    {
+      "id": "9cc5e6acd057f5e06698a88c16724834817c075aedb5d6123470e94a62876556",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-06T21:36:06+00:00"
+    },
+    {
+      "id": "95266815b7afedf58cdcc54a17c11d29381c8d102c8b05c150fc79fecf1dea91",
+      "title": "Palo Alto warns of critical software bug used in firewall attacks",
+      "url": "https://therecord.media/palo-alto-warns-of-critical-software-bug-firewalls",
+      "summary": "A patch for the bug, tracked as CVE-2026-0300, has not been published yet and Palo Alto Networks said it will be included in releases over the next two weeks.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-06T20:33:00+00:00"
+    },
+    {
+      "id": "3a5aed8fa86c47fcee264e8377adb9e086225097a6c23ac418e0e4b19e0b3a17",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the mal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-06T20:21:00+00:00"
+    },
+    {
+      "id": "d07794f5c7bf42573e17be70a8286b4f4b2432f90f8d473f6c4c377416446270",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-06T18:38:38+00:00"
+    },
     {
       "id": "7f7e51ad49554273fcd6072c72aba1e3311bfa72d081078e880cc89f25bdfe96",
       "title": "New Cisco DoS flaw requires manual reboot to revive devices",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-05-05T10:55:00+00:00"
-    },
-    {
-      "id": "cdc190d2a1c8869ccc6ef407630a7f8c7a1c44ccbb57ce65fb023ecee3c42883",
-      "title": "DarkSword Malware",
-      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
-      "summary": "DarkSword is a sophisticated piece of malware&#8212;probably government designed&#8212;that targets iOS. Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered p",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-05-05T10:42:03+00:00"
-    },
-    {
-      "id": "b416052517ebc9b7242023039640f0f8ddb69c3ec7706cbc3b411cda1a56c5f6",
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-05T10:30:00+00:00"
-    },
-    {
-      "id": "a39b8585ea276105f35102ab4e1b2c334da16112277a3e0bb86f1c7615fe2923",
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-05T10:13:17+00:00"
-    },
-    {
-      "id": "2ca22590b27057de94f6883e84de118cfc5e93dda9b6705a7ba120824a30ec87",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-05T10:03:52+00:00"
-    },
-    {
-      "id": "bbe967841d8792cd8ea1c61479efc884eeec5988d05ee74823ef8a34145a3480",
-      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-05T09:27:14+00:00"
-    },
-    {
-      "id": "106d5821eb5e5d8ef6022ced447a21235af83a57e47e90db45c5fde8d70e2043",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have pr",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-05T09:07:00+00:00"
     }
   ]
 }
