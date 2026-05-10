@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-10T08:04:28.511190+00:00",
+  "updated": "2026-05-10T13:12:03.763804+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c84897c4060cb4fe735d6c616347d8e771c53d865b32f0dc6bc5bcdc94faa780",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-10T12:41:00+00:00"
+    },
     {
       "id": "b81fa31519f7da4e7b43c4b4f2259c3a1d7710f3a1d99143a7ee95a20af0c9df",
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-07T10:57:59+00:00"
-    },
-    {
-      "id": "63c86aab5f53ca58e4d55ff7df1b47ae42c579cfd51d32dfb20c2cb6ec75e577",
-      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
-      "url": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
-      "summary": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue. The post Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T10:39:34+00:00"
     }
   ]
 }
