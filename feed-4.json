@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-11T14:43:49.117848+00:00",
+  "updated": "2026-05-11T19:43:18.418521+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "896440e717b88841d231e5ee06fef88432fa139d8011514615a26f22f1cca367",
+      "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
+      "url": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
+      "summary": "CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing. The post Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-04T10:42:33+00:00"
+    },
+    {
+      "id": "7542df669331b524f2bf01b5652d6c23fcbfaf4ba21de6b4762e6708d6d1133a",
+      "title": "Hacking Polymarket",
+      "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
+      "summary": "Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates assassination), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have thre",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-05-04T09:46:31+00:00"
+    },
+    {
+      "id": "cf23c500d3beede880512143f8879cf332d9d97c140994343690f26292f6a6c8",
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed v",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-04T09:27:00+00:00"
+    },
+    {
+      "id": "7d4f23a8cbc5452e79ebc5cffd861573a21d5b9861de90e94de0c7c87984f619",
+      "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
+      "url": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+      "summary": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access. The post Over 40,000 Servers Compromised in Ongoing cPanel Exploitation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-04T08:25:04+00:00"
+    },
     {
       "id": "986cf77835f9668c68555b9aa8616b7e0b654ee675ca07f7ed124178a925f0c7",
       "title": "Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-04-30T12:34:05+00:00"
-    },
-    {
-      "id": "eab714ae5f2b6fe20781b580f8cca3aaafa9e336b5eb022ed96fd530d574d887",
-      "title": "ABB Ability OPTIMAX",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The following versions of ABB Ability OPTIMAX are affected: ABB Ability OPTIMAX 6.1 v",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-30T12:00:00+00:00"
-    },
-    {
-      "id": "321117b3777573aa44a22164025ee9c5c18b9e6849bf44658df15a072fb58be9",
-      "title": "ABB PCM600",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PCM600 &gt;=1.5|&lt;=2.13&nbsp; CVSS Vendor Equipment Vulnerabili",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-30T12:00:00+00:00"
-    },
-    {
-      "id": "0bc0230b83007d9f23dd5375b55d3bab33083b17193b01f7f614f73e4c79e241",
-      "title": "ABB Edgenius Management Portal",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versio",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-30T12:00:00+00:00"
-    },
-    {
-      "id": "8e2940c02b690e78e3db9ff6e7d7558ef2ab1bd77ab67dd4f5f227749939bfaf",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new&nbsp;vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-41940&nbsp;WebPros cPanel &amp; WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-04-30T12:00:00+00:00"
     }
   ]
 }

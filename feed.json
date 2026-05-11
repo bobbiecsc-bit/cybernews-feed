@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-11T14:43:49.117848+00:00",
+  "updated": "2026-05-11T19:43:18.418521+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f69a535e4a6c7aa3a6b4cfb869984b48731092f81044ec93489dcd36bbf0f5a6",
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-11T18:30:00+00:00"
+    },
+    {
+      "id": "c431a6ce8cbfce66b5d57fcf87899d41f67ce35def6bc89e2bbb7ea1df33103b",
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-11T17:54:00+00:00"
+    },
+    {
+      "id": "5a38a188af401d841c445035cbe3de15aa326749dfed9c6f711d51def674aa38",
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and e",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-11T15:45:00+00:00"
+    },
+    {
+      "id": "2652101b1ca41960a6a7a170f7fe1878c847df05267a69a56f2a6b109fd3d779",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-11T15:26:26+00:00"
+    },
     {
       "id": "f9fee73416d220b16ecd95fb2b6f3fdac96236b87ce3755d72f995c6bb725a81",
       "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-07T22:36:54+00:00"
-    },
-    {
-      "id": "6dd85779642de87c0be4aa649bfdd52e82441fc36d8b7129e833aa27bcbeb4ec",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T22:06:52+00:00"
-    },
-    {
-      "id": "2b4040f38c475e1ee854fc949be9dc12e6b4bc1d73d48dc87675379be91df05b",
-      "title": "Iranian government hackers using Chaos ransomware as cover, researchers say",
-      "url": "https://therecord.media/iran-government-hackers-use-chaos-ransomware-as-cover",
-      "summary": "Incident responders from cybersecurity firm Rapid7 published a report about a recent intrusion that initially appeared to be a Chaos ransomware attack but was later discovered to be an attack attributed to MuddyWater, an Iranian APT group tied to the country’s Ministry of Intelligence and Security (",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-07T21:30:00+00:00"
-    },
-    {
-      "id": "492baf58663679beb353733fe6e6d7799fa236dd81eef99a83ea9b4e5d500fc1",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:35:50+00:00"
-    },
-    {
-      "id": "21b7b82c9dc8dafdbe8df16777d3e5dc77f6a845c55a65b9e42ff1360d3bebb7",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:00:59+00:00"
     }
   ]
 }
