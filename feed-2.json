@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-11T02:51:20.526286+00:00",
+  "updated": "2026-05-11T09:35:03.650693+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5ebc1cda4fcd0023dda6e4abb5522138b55fa774a155d19b4ec824c370362934",
+      "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
+      "url": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
+      "summary": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control. The post Webinar Today: Securing Identity Across Humans, Machines and AI appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-07T12:00:00+00:00"
+    },
+    {
+      "id": "acf8a288003f2e00de6842d4bb1646bc071272fa87315ec4a1731124a517f794",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability&nbsp; This type of vulnerability is a frequent attack vector for ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-07T12:00:00+00:00"
+    },
+    {
+      "id": "cd5929e27fabc40d0d26dadea37695fa038efef68cf699598fc4fdb6bca3eba2",
+      "title": "MAXHUB Pivot Client Application",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivot client application are affected: MAXHUB Pivot client applicat",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-07T12:00:00+00:00"
+    },
+    {
+      "id": "2f7a3d626692d32d9a752b04f38976d29f26f68d459333c244db83701cae6734",
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-07T11:33:00+00:00"
+    },
+    {
+      "id": "94beed3d197d63d769881120630be245f2d790a1c20420a081bec4a38f995d9d",
+      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
+      "url": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
+      "summary": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions. The post Cisco Patches High-Severity Vulnerabilities in Enterprise Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-07T11:24:01+00:00"
+    },
     {
       "id": "8d93ec8f4d84dd6970031942a9d73d2a13b209c7a717ba3e918c1bb8a2367c66",
       "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
@@ -409,51 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "549754a71ba3d1196a1e2a5c7fd8d7c7df0a6ce296c3e68cfc09ba9c8648d9de",
-      "title": "ABB B&R Automation Runtime",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&amp;R Autom",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "7058bfde475b03e6a3dcaa6202419aba42ec1fcfa5df00d763b33b28dfab27b4",
-      "title": "Hitachi Energy PCM600",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "ec239789792d8fda35c620d8fc383fca63f55fb8c530cbdbb04bb8d2aa323c39",
-      "title": "Johnson Controls CEM AC2000",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-2166",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "e6f9420c889840c737f8a1db2f159fe9ff50a00148f762c6077fb6e5884d9ef4",
-      "title": "ABB B&R PVI",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data o",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "9501fe2f6cdcea1ed75b8c6433a9c1b306e2a3c15800440880f0c919ae45417c",
-      "title": "Critical Remote Code Execution Vulnerability Patched in Android",
-      "url": "https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/",
-      "summary": "CVE-2026-0073 affects Android’s System component and it can be exploited without any user interaction. The post Critical Remote Code Execution Vulnerability Patched in Android appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-05T11:58:44+00:00"
     }
   ]
 }
