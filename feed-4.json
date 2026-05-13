@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-12T19:46:41.873962+00:00",
+  "updated": "2026-05-13T02:48:46.114241+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "549754a71ba3d1196a1e2a5c7fd8d7c7df0a6ce296c3e68cfc09ba9c8648d9de",
+      "title": "ABB B&R Automation Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&amp;R Autom",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "7058bfde475b03e6a3dcaa6202419aba42ec1fcfa5df00d763b33b28dfab27b4",
+      "title": "Hitachi Energy PCM600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
+    {
+      "id": "ec239789792d8fda35c620d8fc383fca63f55fb8c530cbdbb04bb8d2aa323c39",
+      "title": "Johnson Controls CEM AC2000",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-2166",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-05T12:00:00+00:00"
+    },
     {
       "id": "e6f9420c889840c737f8a1db2f159fe9ff50a00148f762c6077fb6e5884d9ef4",
       "title": "ABB B&R PVI",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-01T17:52:06+00:00"
-    },
-    {
-      "id": "98f1ad48b212c4a3850b1b02410e9ddaee943f2b838b2f3d6571fe4890e69199",
-      "title": "Story retracted",
-      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-01T16:26:28+00:00"
-    },
-    {
-      "id": "8862b1934fc2257a71c6608cd6e84fed0c401298b6462a8c5974a832511447af",
-      "title": "Federal agencies must patch cPanel bug by Sunday, CISA says",
-      "url": "https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug",
-      "summary": "Incident responders at Rapid7 said successful exploitation of CVE-2026-41940 “grants an attacker control over the cPanel host system, its configurations and databases, and websites it manages.”",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-01T16:20:00+00:00"
-    },
-    {
-      "id": "537e5ab609189da47eabd5766b41bf0748667e82bde5b663aaac7100408e1712",
-      "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
-      "url": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT. The post In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability appeared first on SecurityW",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-01T15:01:27+00:00"
     }
   ]
 }
