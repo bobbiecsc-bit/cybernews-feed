@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-13T14:26:39.375383+00:00",
+  "updated": "2026-05-13T19:50:50.485334+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7e97d7afedeeb5c2eb52fb71de9b6f3ab1bea618ea16840cc0235aea7c410d3a",
+      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
+      "url": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
+      "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-13T17:13:36+00:00"
+    },
+    {
+      "id": "0e4efbafc42d2d013787d2c9e42a90dd2a1202740e57e1b4ed1d6d58c3dde62b",
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-13T16:37:49+00:00"
+    },
+    {
+      "id": "dd18732726275826834fc24beef7b7e4bf0b5c8d70f975e925194b194b27a619",
+      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
+      "url": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
+      "summary": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-13T16:01:00+00:00"
+    },
+    {
+      "id": "c67f462a69c858d7f1d06b5c4859d0d5c004ab41af6bde9977a8558488a1024a",
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-13T15:45:56+00:00"
+    },
+    {
+      "id": "d075ee3936dbdbe0af647ca2a1112deff93ba0805bc53d60a2978c0fcc36a92a",
+      "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
+      "url": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
+      "summary": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss. The post Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-13T14:50:20+00:00"
+    },
     {
       "id": "417ed0237deba98b485860f1238b5621fdd8d5b8d6e9e856e76147a0b86568b4",
       "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
@@ -70,9 +115,9 @@
     },
     {
       "id": "681af4294cd5103c447ac5718d2340954da0e9af74602db4a2def83b89e92c51",
-      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
       "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time yo",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece o",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-13T11:52:43+00:00"
@@ -409,51 +454,6 @@
       "source": "Schneier on Security",
       "category": "vulnerability",
       "date": "2026-05-12T11:06:12+00:00"
-    },
-    {
-      "id": "a9c42e9a42c1155fd73f9b6110966c6a2e12105701edacf165f705455baa350a",
-      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
-      "url": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
-      "summary": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-12T10:10:33+00:00"
-    },
-    {
-      "id": "ca69ec3053feeff8b59af523478fdd00bf80436c03712977ae9bc6551cf864e0",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-12T09:23:56+00:00"
-    },
-    {
-      "id": "bf4145a899ec9e41ebb0f3fd74a5a7f7c6b3c56bee85ac45fc90e44bebc14a14",
-      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-      "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-12T07:37:00+00:00"
-    },
-    {
-      "id": "db295b9a019f6c6dcce38113367554809c2c37aabdcfaf445c7dcd59459ccc31",
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues. \"Daybreak combines the intellig",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-12T06:55:00+00:00"
-    },
-    {
-      "id": "b545435b9df2ee3dd0f4cef53227760709f9a44e446e4c7db479ec068a0d2e42",
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-11T22:03:06+00:00"
     }
   ]
 }
