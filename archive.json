@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-13T02:48:46.114241+00:00",
+  "updated": "2026-05-13T08:40:49.326522+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d092629a44c5c3d7db168a1990a6d3c4014723c53b2c5dc59a025bf5936aa01c",
+      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
+      "url": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
+      "summary": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users. The post Hundreds of Malicious Packages Force RubyGems to Suspend Registrations appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-13T07:30:36+00:00"
+    },
+    {
+      "id": "0c6fb55ad8b86011aca5a54e5da3faf546c9961fd9c6ed88d7e22bcf126a0206",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for inve",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-13T06:55:42+00:00"
+    },
     {
       "id": "35bf5b947d3c4b98226af8cbf844940b8865edee5306263c30648d82a2794ac4",
       "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
@@ -105,7 +123,7 @@
       "id": "bf9d5851a6323b07564bbd6231db6d77190a9d3145268683d623e2572d59546b",
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
       "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for softwar",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software",
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-12T14:47:00+00:00"
@@ -2233,24 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-04-30T08:35:59+00:00"
-    },
-    {
-      "id": "189a840154728ba11ea0cf944841653f599fc9cd98c82e839e98db7aa19cb4a7",
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. \"The vulnerability allowed an unprivi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-04-30T07:07:00+00:00"
-    },
-    {
-      "id": "f2d751c833cb5720a4d31c0d066490a95c4e7c7d03cceb2ee3bfe70bb96532e0",
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-29T22:43:44+00:00"
     }
   ]
 }
