@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-13T19:50:50.485334+00:00",
+  "updated": "2026-05-14T02:50:35.541458+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a6001f4e5eace5badefd2d1e8ccf2ecb12c9ccf0517334fc2e74cb9882d5cb34",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-12T11:29:36+00:00"
+    },
+    {
+      "id": "e67caac468c786840c54db5d4d212d1626f8626fb33cb2b187a3a96dcb418954",
+      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
+      "url": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
+      "summary": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-12T11:15:51+00:00"
+    },
+    {
+      "id": "f6956d3e9be98cd2b53a9c248249507a174b469b30ffce7c7c88a8ef842ce0d2",
+      "title": "Copy.Fail Linux Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+      "summary": "This is the worst Linux vulnerability in years. TL;DR copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC. It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time strai",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-05-12T11:06:12+00:00"
+    },
     {
       "id": "a9c42e9a42c1155fd73f9b6110966c6a2e12105701edacf165f705455baa350a",
       "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-08T10:30:00+00:00"
-    },
-    {
-      "id": "aa100fb1f40f8b6cd52252bb37d241dcb48e335b2f972da1143d405f2e5db353",
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-08T08:41:00+00:00"
-    },
-    {
-      "id": "0c830d314efdea13882831b9f8eb00226b05299ab0fee2dfecdbfb6f11f5bddf",
-      "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
-      "url": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
-      "summary": "The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more. The post &#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-08T08:32:34+00:00"
-    },
-    {
-      "id": "c31c558ffff755aede2edec900f8f2b8af95e90c8ca1a06403180d97ae27dce9",
-      "title": "Ransomware Group Takes Credit for Trellix Hack",
-      "url": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
-      "summary": "RansomHouse has published several screenshots to demonstrate access to internal Trellix services. The post Ransomware Group Takes Credit for Trellix Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-08T07:58:04+00:00"
     }
   ]
 }
