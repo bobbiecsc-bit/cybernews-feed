@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-14T02:50:35.541458+00:00",
+  "updated": "2026-05-14T08:34:04.019127+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-14T07:34:19+00:00"
+    },
+    {
+      "id": "6be4313af3deb95af4add011b4b72f0a7aba054b292b784809a13df81c3f3f8d",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T07:06:15+00:00"
+    },
+    {
+      "id": "5739d199c291b77a9d474cc28df49a61a784fb624c75ba56b7415e2418a3c40b",
+      "title": "Simple bypass of the link preview function in Outlook Junk folder, (Thu, May 14th)",
+      "url": "https://isc.sans.edu/diary/rss/32990",
+      "summary": "Besides serving as a place where Microsoft Outlook places suspected spam, the Outlook Junk folder has one additional function that can be quite helpful when it comes to identifying malicious messages. Any e-mail placed in this folder is stripped of all formatting, and destinations of all links inclu",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-05-14T06:08:25+00:00"
+    },
+    {
+      "id": "af295a22300399e4d588ebd02c095ccfbf62ae1ac28d98f8fa59f587f2fb0e21",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T06:00:09+00:00"
+    },
     {
       "id": "108c944a2ccf1e7a4be39341090b703d70e8083bbd77f2bbc93b4be923d315c2",
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-04-30T18:57:55+00:00"
-    },
-    {
-      "id": "4be1659776844f3ac5e3df1d21eae373a5ccf7049a84d21c321096423f32e6a2",
-      "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
-      "url": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
-      "summary": "Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation. The post AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-04-30T18:54:15+00:00"
-    },
-    {
-      "id": "f5ecda5671c7b1c1c1d6fa0b1d350db612270a7887cb39a6349d9709bc26fea4",
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-04-30T16:32:18+00:00"
-    },
-    {
-      "id": "31bd688d7cff32ca604052f20e1c9956f78f43e05b309fa222538ad68bdaa7cd",
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 an",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-04-30T16:31:00+00:00"
-    },
-    {
-      "id": "6bb98b5c97b0f3574b7033b854d423e03f67ea1796dba3df6994a2d627d708ac",
-      "title": "France investigates 15-year-old over alleged hack of national ID agency",
-      "url": "https://therecord.media/france-investigates-teen-over-national-id-agency-hack",
-      "summary": "The minor was taken into police custody on April 25 on suspicion of involvement in a data breach affecting the National Agency for Secure Documents (ANTS), which processes applications for passports, national identity cards, residence permits and driver’s licenses.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-04-30T16:28:00+00:00"
     }
   ]
 }

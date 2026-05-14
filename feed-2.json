@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-14T02:50:35.541458+00:00",
+  "updated": "2026-05-14T08:34:04.019127+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "55b87a30848e2faccfc241d60b9e741b6879c50d51ff4134d7be7fafbcd38391",
+      "title": "ABB AC500 V3 Multiple Vulnerabilities",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
+      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilities could bypass the user management and read visualization fil",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-12T12:00:00+00:00"
+    },
+    {
+      "id": "43e003f77f77c492d0d9f36e8b4d7b04cc9fdbe02e9a732e7f822e4d7939694d",
+      "title": "ABB Automation Builder Gateway for Windows",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-04",
+      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. The Windows gateway is accessible remotely by default. Unauthenticated attackers can therefore search for PLCs, but the user management of the PLCs prevents the actual access to th",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-12T12:00:00+00:00"
+    },
+    {
+      "id": "b679a0efe37b278169fc251d7eb91aa4c9204144da0b6063c7ef33ae1a4550f5",
+      "title": "Fuji Electric Tellus",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. The following versions of Fuji Electric Tellus are affected: Tell",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-12T12:00:00+00:00"
+    },
+    {
+      "id": "f9795c5690a3aefc912ba645044f04dff267fd2a99b65d6eb73801bf48c2db51",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-12T11:46:00+00:00"
+    },
     {
       "id": "a6001f4e5eace5badefd2d1e8ccf2ecb12c9ccf0517334fc2e74cb9882d5cb34",
       "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-08T11:46:06+00:00"
-    },
-    {
-      "id": "08af9064449f843c4dc0b5d458255d59af4165799c9526f76ef75d88f39dc96c",
-      "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
-      "url": "https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/",
-      "summary": "Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust. The post AI Firm Braintrust Prompts API Key Rotation After Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-08T11:14:01+00:00"
-    },
-    {
-      "id": "6bf774706ae35dabf2e015eff8abf06f44d20909d49b9517bb3445e7cd5f95b6",
-      "title": "Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom",
-      "url": "https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/",
-      "summary": "A system that thousands of schools and universities use went offline due to a cyberattack, creating chaos as students tried to study for finals. The post Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-08T10:43:57+00:00"
-    },
-    {
-      "id": "b2cdd627b59416fa10cd018dece5ab2c3f862a38502009e0ccd3e3d07d6dcf5a",
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-08T10:42:22+00:00"
-    },
-    {
-      "id": "e4d79628adbaa9c2461ecd9793a6388e297efd93d8fae20869342ab221f2134a",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live e",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-08T10:30:00+00:00"
     }
   ]
 }
