@@ -1,10 +1,91 @@
 {
-  "updated": "2026-05-14T08:34:04.019127+00:00",
+  "updated": "2026-05-14T14:03:36.571252+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "28e3f1fb606edd9c8b857615f36123d578fd334b0763d4c1e0b6fbafefacfdc6",
+      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+      "url": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-14T13:44:46+00:00"
+    },
+    {
+      "id": "09c69640fa723bb90d944e54bc28c6a5e9c3131cfe67c14f066597bfabb2bf65",
+      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+      "url": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+      "summary": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared fir",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-14T13:00:00+00:00"
+    },
+    {
+      "id": "1e80b9662a6d9493c10fb1a128f1d2ea4cc90dd1c9364a88cc4263ec80d9b432",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-14T12:12:40+00:00"
+    },
+    {
+      "id": "58012a3d930793e52de316c8be04e226a43d731cb6a20ca83729c7705db45731",
+      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-14T12:11:15+00:00"
+    },
+    {
+      "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentica",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T11:40:14+00:00"
+    },
+    {
+      "id": "81c12717b607fd473d9947105a83b0a12709ade9e3bb90d7c626ece0c044c2a3",
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable res",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T11:30:00+00:00"
+    },
+    {
+      "id": "51c3b5b2246f7f42b39702098043748f4165e166b9ab8c383ffb52e5865c0fc3",
+      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
+      "url": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
+      "summary": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-14T09:45:53+00:00"
+    },
+    {
+      "id": "793b3080561d3715ee10ba306c056220f5a99bd96d31dd75a3ecc20ddf9dc0fc",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T09:25:50+00:00"
+    },
+    {
+      "id": "3f3b97f1aa94249e99b924cb4878298b0b6fdc02dae08bcb5b938e343359883c",
+      "title": "High-Severity Vulnerability Patched in VMware Fusion",
+      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-14T08:42:25+00:00"
+    },
     {
       "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-12T14:30:00+00:00"
-    },
-    {
-      "id": "01328c82134c3e0dd639cdde13e81c4d53fe6d158f8279e3c14953df2b18e0e3",
-      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
-      "url": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
-      "summary": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development. The post Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-12T13:46:49+00:00"
-    },
-    {
-      "id": "6b5502f1ae2be6bf24c28e83372f2472afd3e7dfe4ae89f65c31d133da529124",
-      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
-      "url": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
-      "summary": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals. The post Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Pla",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T13:26:46+00:00"
-    },
-    {
-      "id": "92798b4639d06e0ad8b2cec3b745a1b3b4021ebb56399be2b7a796a4e0e1fcbf",
-      "title": "Instructure pays ransom after Canvas incident as Congress announces investigation",
-      "url": "https://therecord.media/instructure-pays-ransom-canvas-incident-congress-investigation",
-      "summary": "The company said its agreement with the hackers involved their data being “returned” to them and digital confirmation of data destruction.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-12T13:01:00+00:00"
-    },
-    {
-      "id": "cb5f9b5d8536c09f33ac97cf4104f40cef07ac5d347b8eba3eb61b17d8b02e26",
-      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
-      "url": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
-      "summary": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware. The post West Pharmaceutical Services Hit by Disruptive Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T12:59:49+00:00"
-    },
-    {
-      "id": "ea160e3abda77a30108028b610bdb6241d02d6da44014d142467d358a928234f",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency walle",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-12T12:50:00+00:00"
-    },
-    {
-      "id": "f9502992de010a031b7cf7a021fe2b1230cf6755a08e396999845620df1a9c5c",
-      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
-      "url": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
-      "summary": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:13:41+00:00"
-    },
-    {
-      "id": "9ca9b26be0b23bbc29033879ace9c6e7ccb27ac55509c9040e916c2775646f45",
-      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potenti",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "1a42b8b3947afe27a60db25236b861f0a0b29ddcd76d67c064aac297026a81c8",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.28.x (CVE-2026-35504) PowerSY",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "ea26b4b27876460e84e078bf015a40029cce5278eacb027bc822fb31c31a85b3",
-      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
-      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with access to local network who successfully exploited this vulnerabilit",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
     }
   ]
 }

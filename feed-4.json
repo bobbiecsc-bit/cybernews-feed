@@ -1,10 +1,91 @@
 {
-  "updated": "2026-05-14T08:34:04.019127+00:00",
+  "updated": "2026-05-14T14:03:36.571252+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "95266815b7afedf58cdcc54a17c11d29381c8d102c8b05c150fc79fecf1dea91",
+      "title": "Palo Alto warns of critical software bug used in firewall attacks",
+      "url": "https://therecord.media/palo-alto-warns-of-critical-software-bug-firewalls",
+      "summary": "A patch for the bug, tracked as CVE-2026-0300, has not been published yet and Palo Alto Networks said it will be included in releases over the next two weeks.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-06T20:33:00+00:00"
+    },
+    {
+      "id": "3a5aed8fa86c47fcee264e8377adb9e086225097a6c23ac418e0e4b19e0b3a17",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the mal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-06T20:21:00+00:00"
+    },
+    {
+      "id": "d07794f5c7bf42573e17be70a8286b4f4b2432f90f8d473f6c4c377416446270",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-06T18:38:38+00:00"
+    },
+    {
+      "id": "7f7e51ad49554273fcd6072c72aba1e3311bfa72d081078e880cc89f25bdfe96",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-06T18:06:21+00:00"
+    },
+    {
+      "id": "b42377796b185c9864a6a020ef365268e1473934250d9e1fe84ca0848593d966",
+      "title": "New CISA initiative aims for critical infrastructure to operate offline during cyberattacks",
+      "url": "https://therecord.media/cisa-initiative-aims-for-critical-infrastructure-to-operate-during-cyberattacks",
+      "summary": "The initiative, named CI Fortify, focuses on isolation and recovery efforts that would see critical infrastructure organizations proactively disconnect from third-party dependencies and find ways to operate without reliable telecommunications and internet.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-05-06T17:26:00+00:00"
+    },
+    {
+      "id": "4e8fc402b3265421a1b04caa2c691754634cb400c9381c8564d18f6673a30772",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-06T16:43:30+00:00"
+    },
+    {
+      "id": "3f908606f724d88dc200b055370df2b76e9b9ed02be98f39f976966ef4346374",
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-06T14:04:14+00:00"
+    },
+    {
+      "id": "ef778c931fde5a4f2ebf82dea13945ed4629c3b0e6d568b6ce6a056cbd2be6cc",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-06T13:02:52+00:00"
+    },
+    {
+      "id": "39a94d546ae87165fc072b44ff691c45b75742d7e5c527e1117b379f419ff7a1",
+      "title": "Iranian APT Intrusion Masquerades as Chaos Ransomware Attack",
+      "url": "https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/",
+      "summary": "Likely perpetrated by MuddyWater, the attack combined social engineering, persistence, credential harvesting, and data theft. The post Iranian APT Intrusion Masquerades as Chaos Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-06T13:00:00+00:00"
+    },
     {
       "id": "1c07d8a6e6a90e1d54312a9f56d508b7abdbe2f00c2e7b97eddbb75d645efc94",
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-05T10:13:17+00:00"
-    },
-    {
-      "id": "2ca22590b27057de94f6883e84de118cfc5e93dda9b6705a7ba120824a30ec87",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-05T10:03:52+00:00"
-    },
-    {
-      "id": "bbe967841d8792cd8ea1c61479efc884eeec5988d05ee74823ef8a34145a3480",
-      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-05T09:27:14+00:00"
-    },
-    {
-      "id": "106d5821eb5e5d8ef6022ced447a21235af83a57e47e90db45c5fde8d70e2043",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have pr",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-05T09:07:00+00:00"
-    },
-    {
-      "id": "ca1775ab83ddfc802fc2ca8204168add34464b2b106c2631b77a56c315768d72",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-05T09:04:13+00:00"
-    },
-    {
-      "id": "21e426f0318f44dce6117f70363b633e3c3e2f9bc6e41314e2faf22ed9814b0e",
-      "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
-      "url": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
-      "summary": "The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year. The post WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-05T09:01:14+00:00"
-    },
-    {
-      "id": "61b0c3aba331e894800deb035023def00d042511df0720d9ad5982c7fd8a4e89",
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Wea",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-05T07:37:00+00:00"
-    },
-    {
-      "id": "edbc17efc243363da7052a757f2e924eca0ddb4b76327bb7a0c599c97e3acf07",
-      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-      "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 1",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-05T06:35:00+00:00"
-    },
-    {
-      "id": "0a1b8c5b01d4486c9642841c4c443745bf04c7775b783ca1fe25d1269fbf39ae",
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-04T22:12:57+00:00"
-    },
-    {
-      "id": "c26330b8c6546aa23f8e8da060aa712ccb74cf792b087e6406a3a7fa8564e623",
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-04T18:06:00+00:00"
     }
   ]
 }
