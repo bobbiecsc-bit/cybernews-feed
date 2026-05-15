@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-15T02:51:18.117363+00:00",
+  "updated": "2026-05-15T08:45:25.122382+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b4040f38c475e1ee854fc949be9dc12e6b4bc1d73d48dc87675379be91df05b",
+      "title": "Iranian government hackers using Chaos ransomware as cover, researchers say",
+      "url": "https://therecord.media/iran-government-hackers-use-chaos-ransomware-as-cover",
+      "summary": "Incident responders from cybersecurity firm Rapid7 published a report about a recent intrusion that initially appeared to be a Chaos ransomware attack but was later discovered to be an attack attributed to MuddyWater, an Iranian APT group tied to the country’s Ministry of Intelligence and Security (",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-07T21:30:00+00:00"
+    },
+    {
+      "id": "492baf58663679beb353733fe6e6d7799fa236dd81eef99a83ea9b4e5d500fc1",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-07T18:35:50+00:00"
+    },
+    {
+      "id": "21b7b82c9dc8dafdbe8df16777d3e5dc77f6a845c55a65b9e42ff1360d3bebb7",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-07T18:00:59+00:00"
+    },
+    {
+      "id": "dc3fb0a98005dbb506df29824720ec82ec66735cc8a28047a24c44efa30fd4d8",
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-07T17:55:00+00:00"
+    },
     {
       "id": "69dabe680ebbd93e432120f2c02dea8c844f4b0ef69d2c1e8551ec59e68b295b",
       "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-05T22:01:39+00:00"
-    },
-    {
-      "id": "290b294f812bb4eb512c9eb480379f4e169cd37a1e7b8f5080c5d270380f71b4",
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-05T21:20:23+00:00"
-    },
-    {
-      "id": "d9aeea291c1de751b5298e7dc37dfbba9bdf068ac9a7cbf5dc2764989e48f685",
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-05T19:21:18+00:00"
-    },
-    {
-      "id": "221197dbec76f2583889ea14ee7406684703c8854f6dc2babd41afed8352154e",
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-05T17:34:09+00:00"
-    },
-    {
-      "id": "8c98ecf969a5a0446dc6613381c8d156af85c14d6a5fa602fc5a0c2ac5dbfb41",
-      "title": "Conti, Akira ransomware affiliate given 8-year sentence",
-      "url": "https://therecord.media/conti-akira-ransomware-affiliate-sentenced",
-      "summary": "Deniss Zolotarjovs pleaded guilty in July 2025 to money laundering and wire fraud charges after being arrested in the country of Georgia.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-05T17:33:00+00:00"
     }
   ]
 }
