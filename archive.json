@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-15T14:00:08.591420+00:00",
+  "updated": "2026-05-15T19:25:57.761788+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "09cad3c84ab78d3c6bab7b1f002092326fd326034000e54b677025c55e8159d7",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-15T17:47:25+00:00"
+    },
+    {
+      "id": "4a26b33b7d4985a0cbe684c92982d30bead06ca645a8192e515c16ea60adb85f",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-15T17:10:42+00:00"
+    },
+    {
+      "id": "309cba5eea4a5d7d4e6502645c1ce5aefd40f0bcb26ad82842d272bf5e10f32a",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is asses",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-15T17:10:25+00:00"
+    },
+    {
+      "id": "4060511e877a98608648f4898015dbb64c2af6919d8c539be8cfec112ffce93b",
+      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
+      "url": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws appeared first",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T14:52:16+00:00"
+    },
+    {
+      "id": "84eb2799ddb4d5361d390e703ab018f142a70deba4bbc76cddf5b6975688f92b",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-15T14:02:12+00:00"
+    },
+    {
+      "id": "ac72c445faae58d6a913e1dae41fd9ef116f78af5ba87d4bd14423350e1829c0",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-15T13:35:04+00:00"
+    },
     {
       "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
       "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
@@ -19,6 +73,15 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-15T12:06:53+00:00"
+    },
+    {
+      "id": "8f5dc67818fcdfd752027ca5dfe5dd9d67c3601756e072cf6c85ce10404ab83e",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-15T12:00:00+00:00"
     },
     {
       "id": "a931aa43ccfeef80ed6c013c344c23a6dcda880f605ae6a75bfd17671681a431",
@@ -2188,69 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-04T22:12:57+00:00"
-    },
-    {
-      "id": "c26330b8c6546aa23f8e8da060aa712ccb74cf792b087e6406a3a7fa8564e623",
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-04T18:06:00+00:00"
-    },
-    {
-      "id": "3185608dc087cb48c1f6e3cdc73afbd47e79312172f33c0091e271ca1da4d636",
-      "title": "Trellix Source Code Repository Breached",
-      "url": "https://www.securityweek.com/trellix-source-code-repository-breached/",
-      "summary": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. The post Trellix Source Code Repository Breached appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-04T17:23:54+00:00"
-    },
-    {
-      "id": "9c255f4ef9cf7610092bf64df21dae9b0fcaeb619b71dfea17e0fcf302ded8d7",
-      "title": "Educational company Instructure reports cyber incident",
-      "url": "https://therecord.media/infrastructure-education-company-canvas-incident",
-      "summary": "By Saturday, Infrastructure’s chief information security officer Steve Proud confirmed that the hackers gained access to information about users at some educational institutions, including names, email addresses, student ID numbers and messages between users.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-04T17:19:00+00:00"
-    },
-    {
-      "id": "b746b969193e6b379b55dc0e2de9a27b527d65cb5aaaf8d59e1904994ec7bf9b",
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file mo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-04T16:34:00+00:00"
-    },
-    {
-      "id": "b90760a0d9b5b542d82a4cfc6dbb52ae17ed69df08585bf457676ce59146acf0",
-      "title": "Trellix discloses data breach after source code repository hack",
-      "url": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-04T16:25:07+00:00"
-    },
-    {
-      "id": "70622ad9804edfc1890458cba33e5d91e84d3e7d94c589f4173e0cd9665da90f",
-      "title": "Ransomware group claims breach of pro-Orbán Hungarian media firm",
-      "url": "https://therecord.media/ransomware-group-claims-breach-of-pro-orban-media-firm",
-      "summary": "Mediaworks confirmed the incident on Friday, warning that “a significant amount of illegally obtained data may have come into the possession of unauthorized persons.\"",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-04T15:23:00+00:00"
-    },
-    {
-      "id": "4916cb0f8e1b9b656ba6d0e20272a54167ea8e915db0d254d333998ebcf5027c",
-      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupat",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-04T14:23:00+00:00"
     }
   ]
 }
