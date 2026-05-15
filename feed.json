@@ -1,10 +1,82 @@
 {
-  "updated": "2026-05-15T08:45:25.122382+00:00",
+  "updated": "2026-05-15T14:00:08.591420+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
+      "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
+      "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
+      "summary": "Cisco released a patch for the vulnerability on Thursday, writing in an advisory that it could “allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.”",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-15T13:16:00+00:00"
+    },
+    {
+      "id": "5e3df754a317c86a521bdc113a9092976db8b4e362d9150a0af86a6c15e678e3",
+      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
+      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-15T12:06:53+00:00"
+    },
+    {
+      "id": "a931aa43ccfeef80ed6c013c344c23a6dcda880f605ae6a75bfd17671681a431",
+      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T11:06:55+00:00"
+    },
+    {
+      "id": "42e8c65fa106c99e54cfa51bf87c223ba81456fcf063faaf733504d2b1ffa76a",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-15T11:00:00+00:00"
+    },
+    {
+      "id": "ef5e7bcddb85ecdcdfdca478a2ae27051b08bddacebbe655d34bc908f01f1209",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identifica",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-15T10:54:44+00:00"
+    },
+    {
+      "id": "6d47f69e3dd508ef36c3438ff94df7711ba927192a63a22f026c99e0453a7fd5",
+      "title": "OpenAI Hit by TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+      "summary": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T10:37:00+00:00"
+    },
+    {
+      "id": "1dd6030edd7b4de4b939f6b7461e3471ad9b9c0dc28f26fd936836e116b320f5",
+      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
+      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
+      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T09:47:09+00:00"
+    },
+    {
+      "id": "3e8a4c15a7e65ae9d07cda7a3b2395916173542ea43cd60412b0ea006ce1de0c",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-15T09:40:42+00:00"
+    },
     {
       "id": "a9fdecd3ea617473fcf516914b1cf91461b2ac83750573482c6de6eb3496946c",
       "title": "Chrome 148 Update Patches Critical Vulnerabilities",
@@ -288,7 +360,7 @@
       "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentica",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authen",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-14T11:40:14+00:00"
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-13T21:59:33+00:00"
-    },
-    {
-      "id": "74ce925ad673b472fed47d72709a4cc1fe295f425a87801eb77df4bed01db22b",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-13T20:23:50+00:00"
-    },
-    {
-      "id": "7e97d7afedeeb5c2eb52fb71de9b6f3ab1bea618ea16840cc0235aea7c410d3a",
-      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-      "url": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-      "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-13T17:13:36+00:00"
-    },
-    {
-      "id": "0e4efbafc42d2d013787d2c9e42a90dd2a1202740e57e1b4ed1d6d58c3dde62b",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-13T16:37:49+00:00"
-    },
-    {
-      "id": "dd18732726275826834fc24beef7b7e4bf0b5c8d70f975e925194b194b27a619",
-      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-      "url": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-      "summary": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-13T16:01:00+00:00"
-    },
-    {
-      "id": "c67f462a69c858d7f1d06b5c4859d0d5c004ab41af6bde9977a8558488a1024a",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-13T15:45:56+00:00"
-    },
-    {
-      "id": "d075ee3936dbdbe0af647ca2a1112deff93ba0805bc53d60a2978c0fcc36a92a",
-      "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
-      "url": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
-      "summary": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss. The post Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-13T14:50:20+00:00"
-    },
-    {
-      "id": "417ed0237deba98b485860f1238b5621fdd8d5b8d6e9e856e76147a0b86568b4",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harness",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-13T13:46:02+00:00"
-    },
-    {
-      "id": "13f73932a6bb6cadf2983c07130ea895985e6c20f7ebf0f14ab2414a6b93174a",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-13T13:00:00+00:00"
     }
   ]
 }

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-15T08:45:25.122382+00:00",
+  "updated": "2026-05-15T14:00:08.591420+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
+      "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
+      "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
+      "summary": "Cisco released a patch for the vulnerability on Thursday, writing in an advisory that it could “allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.”",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-15T13:16:00+00:00"
+    },
+    {
+      "id": "5e3df754a317c86a521bdc113a9092976db8b4e362d9150a0af86a6c15e678e3",
+      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
+      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-15T12:06:53+00:00"
+    },
+    {
+      "id": "a931aa43ccfeef80ed6c013c344c23a6dcda880f605ae6a75bfd17671681a431",
+      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T11:06:55+00:00"
+    },
+    {
+      "id": "42e8c65fa106c99e54cfa51bf87c223ba81456fcf063faaf733504d2b1ffa76a",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-15T11:00:00+00:00"
+    },
+    {
+      "id": "ef5e7bcddb85ecdcdfdca478a2ae27051b08bddacebbe655d34bc908f01f1209",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identifica",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-15T10:54:44+00:00"
+    },
+    {
+      "id": "6d47f69e3dd508ef36c3438ff94df7711ba927192a63a22f026c99e0453a7fd5",
+      "title": "OpenAI Hit by TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+      "summary": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T10:37:00+00:00"
+    },
+    {
+      "id": "1dd6030edd7b4de4b939f6b7461e3471ad9b9c0dc28f26fd936836e116b320f5",
+      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
+      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
+      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T09:47:09+00:00"
+    },
+    {
+      "id": "3e8a4c15a7e65ae9d07cda7a3b2395916173542ea43cd60412b0ea006ce1de0c",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-15T09:40:42+00:00"
+    },
     {
       "id": "a9fdecd3ea617473fcf516914b1cf91461b2ac83750573482c6de6eb3496946c",
       "title": "Chrome 148 Update Patches Critical Vulnerabilities",
@@ -285,7 +357,7 @@
       "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentica",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authen",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-14T11:40:14+00:00"
@@ -2179,78 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-05-04T14:23:00+00:00"
-    },
-    {
-      "id": "5f11e1260164effbc17851aa68238d2030892435eb8ff74ef7a9b52ed29c5bce",
-      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
-      "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
-      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-04T13:42:51+00:00"
-    },
-    {
-      "id": "65987f91d2559211b07cf51a202031c1814809904c9d015153687cdeae31f848",
-      "title": "DigiCert Revokes Certificates After Support Portal Hack",
-      "url": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
-      "summary": "Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal. The post DigiCert Revokes Certificates After Support Portal Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-04T12:46:53+00:00"
-    },
-    {
-      "id": "c406938907f31bc09aca7cc482badf381cade8300c15e2699504f51f54112290",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-04T12:18:57+00:00"
-    },
-    {
-      "id": "f69716b7c96694726781d913a902d8ae7a279be226a5cdda7c5baeafdf0033a1",
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-04T12:16:24+00:00"
-    },
-    {
-      "id": "662779472bd054bf0b351b61810aa7be372ae83c277af9811d4fe8e270a03449",
-      "title": "2026: The Year of AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
-      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-04T11:58:00+00:00"
-    },
-    {
-      "id": "21b52b5b8f05c7d5d3e42fec59959b263de5bdb8268736f6727e09d3fcd48b0d",
-      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
-      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mim",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-04T11:57:00+00:00"
-    },
-    {
-      "id": "6c99d80170dab9e51a79eb035eb14f1a60266940a9ede9a9d4f07378664996b4",
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-04T11:28:15+00:00"
-    },
-    {
-      "id": "896440e717b88841d231e5ee06fef88432fa139d8011514615a26f22f1cca367",
-      "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
-      "url": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
-      "summary": "CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing. The post Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-04T10:42:33+00:00"
     }
   ]
 }
