@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-16T13:15:56.214287+00:00",
+  "updated": "2026-05-16T19:00:29.024397+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2458d5eedbd9743733d5ff97fdd14c030612c5b0908f3c7e4e6292a2f135f7ed",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. T",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-16T15:20:48+00:00"
+    },
     {
       "id": "27a50050ba11a35500cbc1bea8a106a0bc3991b39bc539cc47635df8442b0fa4",
       "title": "PoC Code Published for Critical NGINX Vulnerability",
@@ -445,15 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
-      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authen",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T11:40:14+00:00"
     }
   ]
 }
