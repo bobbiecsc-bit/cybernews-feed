@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-15T19:25:57.761788+00:00",
+  "updated": "2026-05-16T02:39:43.450721+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9ca9b26be0b23bbc29033879ace9c6e7ccb27ac55509c9040e916c2775646f45",
+      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potenti",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-12T12:00:00+00:00"
+    },
+    {
+      "id": "1a42b8b3947afe27a60db25236b861f0a0b29ddcd76d67c064aac297026a81c8",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.28.x (CVE-2026-35504) PowerSY",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-12T12:00:00+00:00"
+    },
     {
       "id": "ea26b4b27876460e84e078bf015a40029cce5278eacb027bc822fb31c31a85b3",
       "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-08T13:09:00+00:00"
-    },
-    {
-      "id": "c3640fa51273e089c07005b0af381999c5b9fd472fdeb1bfdda455c0dc33485b",
-      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-08T12:16:32+00:00"
-    },
-    {
-      "id": "602ea85607361819e2ea088ca8fbd507c1dc16c291bbc37c94c49dacd2569475",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42208&nbsp;BerriAI&nbsp;LiteLLM&nbsp;SQL Injection Vulnerability This&nbsp;type&nbsp;of vulnerability is a&nbsp;frequent attack vector&nbs",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-08T12:00:00+00:00"
     }
   ]
 }
