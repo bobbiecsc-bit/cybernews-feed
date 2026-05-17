@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-17T13:14:12.779168+00:00",
+  "updated": "2026-05-17T19:04:11.855967+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "446b2104854530e9d2f969229bc31f4317982873d47428146580a2a0b297a33d",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-17T14:43:10+00:00"
+    },
+    {
+      "id": "7b6b6ee37fa4ce90ce18812551159ebeebaab5946862a51282db81944c42ed36",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-17T11:57:53+00:00"
+    },
     {
       "id": "42fc5f50e98cee5caa6c444b645268496a69f1ca79a8cb31d5b01771cc1f2d37",
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -2233,24 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-05T10:13:17+00:00"
-    },
-    {
-      "id": "2ca22590b27057de94f6883e84de118cfc5e93dda9b6705a7ba120824a30ec87",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-05T10:03:52+00:00"
-    },
-    {
-      "id": "bbe967841d8792cd8ea1c61479efc884eeec5988d05ee74823ef8a34145a3480",
-      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-05T09:27:14+00:00"
     }
   ]
 }

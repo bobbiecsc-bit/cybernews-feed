@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-17T13:14:12.779168+00:00",
+  "updated": "2026-05-17T19:04:11.855967+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "446b2104854530e9d2f969229bc31f4317982873d47428146580a2a0b297a33d",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-17T14:43:10+00:00"
+    },
+    {
+      "id": "7b6b6ee37fa4ce90ce18812551159ebeebaab5946862a51282db81944c42ed36",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-17T11:57:53+00:00"
+    },
     {
       "id": "42fc5f50e98cee5caa6c444b645268496a69f1ca79a8cb31d5b01771cc1f2d37",
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -433,24 +451,6 @@
       "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
       "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
-      "title": "Siemens Ruggedcom Rox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens has released new versions for the affected products and recommen",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "7a960182ffefc7123eb5f7dc01ec58ffd090f1bc36ea410ce5488d583e0504e0",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability&nbsp; This&nbsp;type of vulnerability is a&nbsp;freq",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-14T12:00:00+00:00"
