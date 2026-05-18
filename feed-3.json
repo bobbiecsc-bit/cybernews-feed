@@ -1,10 +1,91 @@
 {
-  "updated": "2026-05-18T09:56:42.703314+00:00",
+  "updated": "2026-05-18T15:24:09.108595+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "41bfbc57aff13b11cee7200371889227364b78821c8b521a7fa84561a3db41da",
+      "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
+      "url": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
+      "summary": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”. The post Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-13T10:33:46+00:00"
+    },
+    {
+      "id": "53fdc9c69b23aee4ebe5f7383b804f3c4d4efed06a744b846eb01e8c73a2cc62",
+      "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
+      "summary": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure. The post Fortinet, Ivanti Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-13T09:36:55+00:00"
+    },
+    {
+      "id": "39e9640cb93a0543d86bedd993b037ff7e7c2da0fd45ac90287f60a737f520ad",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer com",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-13T08:08:54+00:00"
+    },
+    {
+      "id": "d092629a44c5c3d7db168a1990a6d3c4014723c53b2c5dc59a025bf5936aa01c",
+      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
+      "url": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
+      "summary": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users. The post Hundreds of Malicious Packages Force RubyGems to Suspend Registrations appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-13T07:30:36+00:00"
+    },
+    {
+      "id": "0c6fb55ad8b86011aca5a54e5da3faf546c9961fd9c6ed88d7e22bcf126a0206",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for inve",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-13T06:55:42+00:00"
+    },
+    {
+      "id": "35bf5b947d3c4b98226af8cbf844940b8865edee5306263c30648d82a2794ac4",
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-12T23:09:55+00:00"
+    },
+    {
+      "id": "849dd8fc0bb8c5f81433db212e6a64ed5f9eda9cc41827d616fdae010dc21e7d",
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-12T20:17:19+00:00"
+    },
+    {
+      "id": "6e4306d312d8f2ae3167c771e9b9862ab0d0c4d3c31d8bf1ba603b4ede7fa67f",
+      "title": "Foxconn confirms cyberattack impacting North American factories",
+      "url": "https://therecord.media/foxconn-confirms-cyberattack-north-american-factories",
+      "summary": "A spokesperson for the company confirmed the incident but declined to provide specifics on how many factories in North America were impacted. Foxconn has factories in Wisconsin, Ohio, Texas, Virginia, Indiana and several across Mexico.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-05-12T19:57:00+00:00"
+    },
+    {
+      "id": "899bdc42d149e5034ff48702e197e4c59dc69f9823f31b4d71646866118775fc",
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-12T19:40:31+00:00"
+    },
     {
       "id": "b0ec01f0f9174b2021efba9d712fc61e40702ef7533ca5ef0bb9d4062e14bfe8",
       "title": "West Pharmaceutical warns of ransomware attack impacting business operations",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-11T12:36:00+00:00"
-    },
-    {
-      "id": "5396c2699916972c17d4c4030a4bd9e9be384c174dcadbd72293209e6f885fe3",
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-11T12:30:00+00:00"
-    },
-    {
-      "id": "1cdeb04f8be3cff0906c8779000630254112d07255fc9c027106a20499978f24",
-      "title": "Dirty Frag: Linux kernel hit by second major security flaw in two weeks",
-      "url": "https://therecord.media/dirty-frag-linux-kernel-hit-by-second-major-bug",
-      "summary": "The issue was found in the same area of the Linux kernel that produced last month’s Copy Fail bug, and also allows anyone with a basic account on an affected computer to seize full administrative control.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-11T12:26:00+00:00"
-    },
-    {
-      "id": "256de99185a7fb4833e59c045801153cb15ad874a4812e5477bdbcbd6bcf8a2e",
-      "title": "Skoda Data Breach Hits Online Shop Customers",
-      "url": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
-      "summary": "Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers. The post Skoda Data Breach Hits Online Shop Customers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-11T11:54:27+00:00"
-    },
-    {
-      "id": "85028d5d9f10f077529600469609cf91d75dcb11b524fa58b3d08000dae0e065",
-      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-      "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chai",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-11T11:30:00+00:00"
-    },
-    {
-      "id": "f5984d19a6ac261cb9152fc1b31c4b4d21905d807659e08dfb9eb25f862e44e0",
-      "title": "SailPoint Discloses GitHub Repository Hack",
-      "url": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
-      "summary": "The incident occurred on April 20 and did not affect customer data in the company’s production and staging environments. The post SailPoint Discloses GitHub Repository Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-11T10:52:23+00:00"
-    },
-    {
-      "id": "cf2222769ef65aa3a18cba319c8f7b8b073d1d6dd8c2f35380b9ac103a8065e0",
-      "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
-      "url": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
-      "summary": "A malicious version of the plugin was published to the Jenkins Marketplace late last week. The post Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-11T09:34:55+00:00"
-    },
-    {
-      "id": "fc96930eecae9e7842cbfddb4f5f6d266d9434f6d112d840f8ac9f9b225c98ec",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-11T09:03:02+00:00"
-    },
-    {
-      "id": "461a13d9a385a1850691ccbc95937153286a96691968c12970858ec71415d475",
-      "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-      "url": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-      "summary": "Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline. The post Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-11T08:35:13+00:00"
-    },
-    {
-      "id": "a58382052c73301734e3b1cf73ce4936b67350dc111564e00dcba83b03efffff",
-      "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-      "url": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-      "summary": "Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released. The post New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-11T08:15:28+00:00"
     }
   ]
 }

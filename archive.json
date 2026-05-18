@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-18T09:56:42.703314+00:00",
+  "updated": "2026-05-18T15:24:09.108595+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0e15511235b91dd8e3bcabd79f0747c435b0cbeefd3a5917d89fd48acc1b4f90",
+      "title": "Grafana says stolen GitHub token let hackers steal codebase",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-18T13:46:26+00:00"
+    },
+    {
+      "id": "905c22d8f82fe1d1e991461f63c0cbdcc31c8df2aca76b16b533f0ccd70f5b81",
+      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+      "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+      "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread. Ea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-18T13:00:00+00:00"
+    },
+    {
+      "id": "28686453f930219f29fda1e1936c492c9006ca0c4613c599c28bfcb36b100f10",
+      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
+      "url": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
+      "summary": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-18T12:58:44+00:00"
+    },
+    {
+      "id": "75f515e7619fa020b7db7abaa92b6d1aff7c57402f95a7baf804d343d3dfc8fe",
+      "title": "‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
+      "url": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
+      "summary": "Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors. The post &#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-18T12:14:43+00:00"
+    },
+    {
+      "id": "8cdd182c45762acfecdcb02ee74a2f3906159fe8e48708f9a64ef4ed378f3b4d",
+      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
+      "url": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
+      "summary": "The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. The post 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-18T11:25:54+00:00"
+    },
+    {
+      "id": "128916251b7abbe54b983efbd1535161853302f3432b1b94da4350fd1726656f",
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer envir",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-18T11:23:41+00:00"
+    },
+    {
+      "id": "b0549ca5c4d6d931ba8ff59f0d0aa88c73ea186544c27b3f05c139601ce658c8",
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exp",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T10:54:05+00:00"
+    },
+    {
+      "id": "293c4cc343b83ad8767294dde2f99c427965502e76acb000bef74ae9257f9fd4",
+      "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
+      "url": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
+      "summary": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug. The post Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-18T10:38:22+00:00"
+    },
     {
       "id": "07c859cff47157bdeb8e8485ce5e6f277dc974483c584bb8cb4ba9e7b360899c",
       "title": "First Shai-Hulud Worm Clones Emerge",
@@ -10,6 +82,24 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-05-18T09:45:15+00:00"
+    },
+    {
+      "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T08:57:34+00:00"
+    },
+    {
+      "id": "d9ae04ec24e441d53fc9de942e972b2d10f78d4a4a82463baf2d327875df83e3",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axoi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-18T08:57:26+00:00"
     },
     {
       "id": "46313f10aaeae69b23616c0a3a9900ed14f3a88dec021ec68bc71e62ee4f9551",
@@ -55,15 +145,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-18T05:33:20+00:00"
-    },
-    {
-      "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-18T04:59:21+00:00"
     },
     {
       "id": "7f023c21cb1891c6630ea440d08ea8e7dcdf8714f4cec53f10fe1cb09b25b293",
@@ -2170,87 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-05T14:00:10+00:00"
-    },
-    {
-      "id": "96257f55b459fcf66522004253dbc5f0107d83df32de00b5c00b2196a6ccd99f",
-      "title": "Hacker Conversations: Joey Melo on Hacking AI",
-      "url": "https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/",
-      "summary": "AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models. The post Hacker Conversations: Joey Melo on Hacking AI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-05T13:30:00+00:00"
-    },
-    {
-      "id": "69c1a2f7effb4d66fda00bc9a5d823ab4701b8f11edaffa2f8d3f1dc75da088c",
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-05T13:03:46+00:00"
-    },
-    {
-      "id": "e1276c76418f2d5d11f68bef335793c76e07b82e47edc84f8d07baf63d0a73af",
-      "title": "Australia launches cyber review board modeled on version disbanded in US",
-      "url": "https://therecord.media/australia-launches-cyber-review-board",
-      "summary": "The Cyber Incident Review Board will carry out no-fault, post-incident reviews of significant cyberattacks on Australian government and industry, focusing on systemic lessons rather than individual or corporate culpability.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-05T12:45:00+00:00"
-    },
-    {
-      "id": "c3fd45fb090f66aaa7a42cfe4786c15c5a7b4e1696ac1281848310db5452fd32",
-      "title": "Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft",
-      "url": "https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/",
-      "summary": "Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication. The post Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:39:36+00:00"
-    },
-    {
-      "id": "71bd298f4954515a436cf2ef7bc27251a69a61b0a7d3ec6a119738534325e45d",
-      "title": "ABB B&R Automation Studio",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&amp;R Automation Studio e",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "549754a71ba3d1196a1e2a5c7fd8d7c7df0a6ce296c3e68cfc09ba9c8648d9de",
-      "title": "ABB B&R Automation Runtime",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&amp;R Autom",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "7058bfde475b03e6a3dcaa6202419aba42ec1fcfa5df00d763b33b28dfab27b4",
-      "title": "Hitachi Energy PCM600",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "ec239789792d8fda35c620d8fc383fca63f55fb8c530cbdbb04bb8d2aa323c39",
-      "title": "Johnson Controls CEM AC2000",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-2166",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
-    },
-    {
-      "id": "e6f9420c889840c737f8a1db2f159fe9ff50a00148f762c6077fb6e5884d9ef4",
-      "title": "ABB B&R PVI",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data o",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-05T12:00:00+00:00"
     }
   ]
 }
