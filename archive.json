@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-18T15:24:09.108595+00:00",
+  "updated": "2026-05-18T19:41:42.925445+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "78719e57923030ead0e2a7013fc4db2d69186b84c20b48e08d65f610702ca45c",
+      "title": "Grafana refuses to pay ransom after codebase theft",
+      "url": "https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft",
+      "summary": "On Saturday night, the company released a statement confirming the incident and outlining their decision not to pay a ransom issued by the hackers behind the attack.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-18T17:50:00+00:00"
+    },
+    {
+      "id": "70e54c0073fa729f2ded19c5b08d725a3ef9181fdf99e90ff23dbe1427019602",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-18T17:28:02+00:00"
+    },
+    {
+      "id": "220ab014c036cae0a4ff6b624a9c31a7abee8e7edb8d99825e8610b89f30f88c",
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-18T17:21:18+00:00"
+    },
+    {
+      "id": "20ab6bdc785d6d937c29b73b3cb166442c7c59c0eccf69661b0e0f0d546b1e0d",
+      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+      "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The pattern is clear. One weak dependency can ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T13:50:17+00:00"
+    },
     {
       "id": "0e15511235b91dd8e3bcabd79f0747c435b0cbeefd3a5917d89fd48acc1b4f90",
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
@@ -2215,42 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-05T16:19:00+00:00"
-    },
-    {
-      "id": "951945cca159c3181a6a1cfbc86c503ec36cc4e6bba9ff4a0e5272ccfb11e9d3",
-      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging t",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-05T16:07:00+00:00"
-    },
-    {
-      "id": "40c9533aa45e1d0984726913f6ef88a12a86b3d49c911f8f9f96de9642f60065",
-      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
-      "url": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
-      "summary": "The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM. The post Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-05T14:45:04+00:00"
-    },
-    {
-      "id": "c4a2a3c264cd0a58602c5e1d61ad2c05a5bb29be4ee893697357b7b6ad7958d5",
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, w",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-05T14:19:00+00:00"
-    },
-    {
-      "id": "e2113ca7f73f1ee86d416104dd99b435cc4408be75ecf9c064c71516a9fefb2a",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-05T14:00:10+00:00"
     }
   ]
 }

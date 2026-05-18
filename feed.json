@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-18T15:24:09.108595+00:00",
+  "updated": "2026-05-18T19:41:42.925445+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "78719e57923030ead0e2a7013fc4db2d69186b84c20b48e08d65f610702ca45c",
+      "title": "Grafana refuses to pay ransom after codebase theft",
+      "url": "https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft",
+      "summary": "On Saturday night, the company released a statement confirming the incident and outlining their decision not to pay a ransom issued by the hackers behind the attack.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-18T17:50:00+00:00"
+    },
+    {
+      "id": "70e54c0073fa729f2ded19c5b08d725a3ef9181fdf99e90ff23dbe1427019602",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-18T17:28:02+00:00"
+    },
+    {
+      "id": "220ab014c036cae0a4ff6b624a9c31a7abee8e7edb8d99825e8610b89f30f88c",
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-18T17:21:18+00:00"
+    },
+    {
+      "id": "20ab6bdc785d6d937c29b73b3cb166442c7c59c0eccf69661b0e0f0d546b1e0d",
+      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+      "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The pattern is clear. One weak dependency can ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T13:50:17+00:00"
+    },
     {
       "id": "0e15511235b91dd8e3bcabd79f0747c435b0cbeefd3a5917d89fd48acc1b4f90",
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-14T22:50:36+00:00"
-    },
-    {
-      "id": "987fbb6a6a300fa76bcc8b023d352c65da31a44a27471c79178fd12da3200d01",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T21:07:17+00:00"
-    },
-    {
-      "id": "9a1a72799f11f909867a5984d6ac9ce42a48620e42929ca1a7e1237ee7cdfd71",
-      "title": "OpenAI asks macOS users to update after TanStack npm supply chain attack",
-      "url": "https://therecord.media/openai-asks-macos-users-to-update-tanstack-npm",
-      "summary": "The actions are being taken in light of an expanding supply chain campaign impacting the popular open-source library TanStack and additional npm and PyPI packages tied to several AI companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-14T20:26:00+00:00"
-    },
-    {
-      "id": "21a9615c326f6ca861a4f8dfc2f09bb81efab6ebb5125194d715d3810d4a972c",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T20:09:56+00:00"
-    },
-    {
-      "id": "22f033ba062e3ccc53394ea1a8b6b5d1bcb937a322fcb06189da9e08617fd287",
-      "title": "OpenAI confirms security breach in TanStack supply chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-14T19:07:24+00:00"
     }
   ]
 }
