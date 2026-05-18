@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-17T19:04:11.855967+00:00",
+  "updated": "2026-05-18T02:58:19.278723+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b26b5e58c8059bd0fdd9e7bd2219db3215fd0e7b47e36156f3cd7dbfead43f2c",
+      "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
+      "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
     {
       "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
       "title": "Siemens Ruggedcom Rox",
@@ -445,15 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-12T14:47:00+00:00"
-    },
-    {
-      "id": "6676667ede58182fabf4a1840581149f3240ca8d2544283ebdcddbe14a61d76b",
-      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-      "url": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T14:30:00+00:00"
     }
   ]
 }
