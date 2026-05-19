@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-19T02:54:47.707875+00:00",
+  "updated": "2026-05-19T09:37:36.896017+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b545435b9df2ee3dd0f4cef53227760709f9a44e446e4c7db479ec068a0d2e42",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-11T22:03:06+00:00"
+    },
+    {
+      "id": "017c77e0e6a9740fe80053a5d3a93ddba7bcb03ff73151fee6000af46f38f704",
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-11T22:02:00+00:00"
+    },
+    {
+      "id": "f69a535e4a6c7aa3a6b4cfb869984b48731092f81044ec93489dcd36bbf0f5a6",
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-11T18:30:00+00:00"
+    },
+    {
+      "id": "c431a6ce8cbfce66b5d57fcf87899d41f67ce35def6bc89e2bbb7ea1df33103b",
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-11T17:54:00+00:00"
+    },
     {
       "id": "5a38a188af401d841c445035cbe3de15aa326749dfed9c6f711d51def674aa38",
       "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-08T05:12:00+00:00"
-    },
-    {
-      "id": "71d567a7a33d95afc954ab59a2592968f5bc2d6952b48994ea831dc06c5c5b45",
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak",
-      "source": "Krebs on Security",
-      "category": "breach",
-      "date": "2026-05-08T02:58:46+00:00"
-    },
-    {
-      "id": "a56f93fb36203cb738b815ab721eb2b5f054b86a207a37583ebd8e0a67044dfe",
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-07T22:36:54+00:00"
-    },
-    {
-      "id": "6dd85779642de87c0be4aa649bfdd52e82441fc36d8b7129e833aa27bcbeb4ec",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T22:06:52+00:00"
-    },
-    {
-      "id": "2b4040f38c475e1ee854fc949be9dc12e6b4bc1d73d48dc87675379be91df05b",
-      "title": "Iranian government hackers using Chaos ransomware as cover, researchers say",
-      "url": "https://therecord.media/iran-government-hackers-use-chaos-ransomware-as-cover",
-      "summary": "Incident responders from cybersecurity firm Rapid7 published a report about a recent intrusion that initially appeared to be a Chaos ransomware attack but was later discovered to be an attack attributed to MuddyWater, an Iranian APT group tied to the country’s Ministry of Intelligence and Security (",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-07T21:30:00+00:00"
     }
   ]
 }
