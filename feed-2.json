@@ -1,10 +1,118 @@
 {
-  "updated": "2026-05-19T14:54:22.178992+00:00",
+  "updated": "2026-05-19T19:48:43.633357+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7f023c21cb1891c6630ea440d08ea8e7dcdf8714f4cec53f10fe1cb09b25b293",
+      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
+      "url": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
+      "summary": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products. The post Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-18T04:05:21+00:00"
+    },
+    {
+      "id": "71eff1c266e731e75983a2a670a1b6329aad71d303a6b277eeb1b73f15107633",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-17T22:30:08+00:00"
+    },
+    {
+      "id": "446b2104854530e9d2f969229bc31f4317982873d47428146580a2a0b297a33d",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-17T14:43:10+00:00"
+    },
+    {
+      "id": "7b6b6ee37fa4ce90ce18812551159ebeebaab5946862a51282db81944c42ed36",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-17T11:57:53+00:00"
+    },
+    {
+      "id": "42fc5f50e98cee5caa6c444b645268496a69f1ca79a8cb31d5b01771cc1f2d37",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-17T07:13:33+00:00"
+    },
+    {
+      "id": "189314d5a4d0ae05c8142a0561ddffa522f25afef66e2bf0f4b3d1abeb160dd8",
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenti",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-16T20:55:44+00:00"
+    },
+    {
+      "id": "2458d5eedbd9743733d5ff97fdd14c030612c5b0908f3c7e4e6292a2f135f7ed",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. T",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-16T15:20:48+00:00"
+    },
+    {
+      "id": "27a50050ba11a35500cbc1bea8a106a0bc3991b39bc539cc47635df8442b0fa4",
+      "title": "PoC Code Published for Critical NGINX Vulnerability",
+      "url": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
+      "summary": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-16T10:02:00+00:00"
+    },
+    {
+      "id": "e5c1610fbfe9066c8cdf00e0113133112a1d50d986cee771363322a852a5e5a4",
+      "title": "More than $10 million stolen from crypto platform THORChain",
+      "url": "https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain",
+      "summary": "THORChain officials said the investigation into the incident is ongoing but explained that one of their six vaults was compromised, leading to a loss of about $10.7 million.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-15T19:31:00+00:00"
+    },
+    {
+      "id": "bf218430794855751728197abe329eea53646e6682264d937798a1b6b0a16054",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-15T19:30:33+00:00"
+    },
+    {
+      "id": "09cad3c84ab78d3c6bab7b1f002092326fd326034000e54b677025c55e8159d7",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-15T17:47:25+00:00"
+    },
+    {
+      "id": "4a26b33b7d4985a0cbe684c92982d30bead06ca645a8192e515c16ea60adb85f",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-15T17:10:42+00:00"
+    },
     {
       "id": "309cba5eea4a5d7d4e6502645c1ce5aefd40f0bcb26ad82842d272bf5e10f32a",
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
@@ -346,114 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "2fb9ad63bb9c608a2e0453357f9e7b43bec574e221548db596947add9a0a2144",
-      "title": "Siemens Ruggedcom Rox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affect",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "b26b5e58c8059bd0fdd9e7bd2219db3215fd0e7b47e36156f3cd7dbfead43f2c",
-      "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
-      "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
-      "title": "Siemens Ruggedcom Rox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens has released new versions for the affected products and recommen",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "7a960182ffefc7123eb5f7dc01ec58ffd090f1bc36ea410ce5488d583e0504e0",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability&nbsp; This&nbsp;type of vulnerability is a&nbsp;freq",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "5860784a6ee3465f703de44f8628ae54d8d652b183f1a5ca1e8f4671d6b804d1",
-      "title": "Siemens SIMATIC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-07",
-      "summary": "View CSAF Summary SIMATIC HMI Unified Comfort Panels before V21.0 are affected by a vulnerability that allows an unauthenticated attacker to access the web browser via the help link. This vulnerability allows an attacker to access the web browser through the Control Panel if it is not protected by t",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "77ee2798076c1120be4c43e75e97e69b8ea6b626ebd7db54b49216cb6690bbda",
-      "title": "Siemens Industrial Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-06",
-      "summary": "View CSAF Summary Multiple industrial devices contain a vulnerability that could allow an attacker to cause a denial of service condition. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and re",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
-      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authen",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T11:40:14+00:00"
-    },
-    {
-      "id": "81c12717b607fd473d9947105a83b0a12709ade9e3bb90d7c626ece0c044c2a3",
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable res",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T11:30:00+00:00"
-    },
-    {
-      "id": "51c3b5b2246f7f42b39702098043748f4165e166b9ab8c383ffb52e5865c0fc3",
-      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
-      "url": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
-      "summary": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-14T09:45:53+00:00"
-    },
-    {
-      "id": "793b3080561d3715ee10ba306c056220f5a99bd96d31dd75a3ecc20ddf9dc0fc",
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T09:25:50+00:00"
-    },
-    {
-      "id": "3f3b97f1aa94249e99b924cb4878298b0b6fdc02dae08bcb5b938e343359883c",
-      "title": "High-Severity Vulnerability Patched in VMware Fusion",
-      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-14T08:42:25+00:00"
-    },
-    {
-      "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T07:34:19+00:00"
     }
   ]
 }

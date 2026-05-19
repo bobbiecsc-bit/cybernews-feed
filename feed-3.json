@@ -1,10 +1,118 @@
 {
-  "updated": "2026-05-19T14:54:22.178992+00:00",
+  "updated": "2026-05-19T19:48:43.633357+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2fb9ad63bb9c608a2e0453357f9e7b43bec574e221548db596947add9a0a2144",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affect",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "b26b5e58c8059bd0fdd9e7bd2219db3215fd0e7b47e36156f3cd7dbfead43f2c",
+      "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
+      "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens has released new versions for the affected products and recommen",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "7a960182ffefc7123eb5f7dc01ec58ffd090f1bc36ea410ce5488d583e0504e0",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability&nbsp; This&nbsp;type of vulnerability is a&nbsp;freq",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "5860784a6ee3465f703de44f8628ae54d8d652b183f1a5ca1e8f4671d6b804d1",
+      "title": "Siemens SIMATIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-07",
+      "summary": "View CSAF Summary SIMATIC HMI Unified Comfort Panels before V21.0 are affected by a vulnerability that allows an unauthenticated attacker to access the web browser via the help link. This vulnerability allows an attacker to access the web browser through the Control Panel if it is not protected by t",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "77ee2798076c1120be4c43e75e97e69b8ea6b626ebd7db54b49216cb6690bbda",
+      "title": "Siemens Industrial Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-06",
+      "summary": "View CSAF Summary Multiple industrial devices contain a vulnerability that could allow an attacker to cause a denial of service condition. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and re",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "d33a9ec3b29273d0029553ad12263d281ae127835bef0b1b18548696793e91bc",
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authen",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T11:40:14+00:00"
+    },
+    {
+      "id": "81c12717b607fd473d9947105a83b0a12709ade9e3bb90d7c626ece0c044c2a3",
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable res",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T11:30:00+00:00"
+    },
+    {
+      "id": "51c3b5b2246f7f42b39702098043748f4165e166b9ab8c383ffb52e5865c0fc3",
+      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
+      "url": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
+      "summary": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-14T09:45:53+00:00"
+    },
+    {
+      "id": "793b3080561d3715ee10ba306c056220f5a99bd96d31dd75a3ecc20ddf9dc0fc",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T09:25:50+00:00"
+    },
+    {
+      "id": "3f3b97f1aa94249e99b924cb4878298b0b6fdc02dae08bcb5b938e343359883c",
+      "title": "High-Severity Vulnerability Patched in VMware Fusion",
+      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-14T08:42:25+00:00"
+    },
+    {
+      "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-14T07:34:19+00:00"
+    },
     {
       "id": "6be4313af3deb95af4add011b4b72f0a7aba054b292b784809a13df81c3f3f8d",
       "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
@@ -346,114 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-12T16:44:00+00:00"
-    },
-    {
-      "id": "bf9d5851a6323b07564bbd6231db6d77190a9d3145268683d623e2572d59546b",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-12T14:47:00+00:00"
-    },
-    {
-      "id": "6676667ede58182fabf4a1840581149f3240ca8d2544283ebdcddbe14a61d76b",
-      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-      "url": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T14:30:00+00:00"
-    },
-    {
-      "id": "01328c82134c3e0dd639cdde13e81c4d53fe6d158f8279e3c14953df2b18e0e3",
-      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
-      "url": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
-      "summary": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development. The post Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-12T13:46:49+00:00"
-    },
-    {
-      "id": "6b5502f1ae2be6bf24c28e83372f2472afd3e7dfe4ae89f65c31d133da529124",
-      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
-      "url": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
-      "summary": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals. The post Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Pla",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T13:26:46+00:00"
-    },
-    {
-      "id": "92798b4639d06e0ad8b2cec3b745a1b3b4021ebb56399be2b7a796a4e0e1fcbf",
-      "title": "Instructure pays ransom after Canvas incident as Congress announces investigation",
-      "url": "https://therecord.media/instructure-pays-ransom-canvas-incident-congress-investigation",
-      "summary": "The company said its agreement with the hackers involved their data being “returned” to them and digital confirmation of data destruction.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-12T13:01:00+00:00"
-    },
-    {
-      "id": "cb5f9b5d8536c09f33ac97cf4104f40cef07ac5d347b8eba3eb61b17d8b02e26",
-      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
-      "url": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
-      "summary": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware. The post West Pharmaceutical Services Hit by Disruptive Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T12:59:49+00:00"
-    },
-    {
-      "id": "ea160e3abda77a30108028b610bdb6241d02d6da44014d142467d358a928234f",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency walle",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-12T12:50:00+00:00"
-    },
-    {
-      "id": "f9502992de010a031b7cf7a021fe2b1230cf6755a08e396999845620df1a9c5c",
-      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
-      "url": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
-      "summary": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:13:41+00:00"
-    },
-    {
-      "id": "9ca9b26be0b23bbc29033879ace9c6e7ccb27ac55509c9040e916c2775646f45",
-      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potenti",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "1a42b8b3947afe27a60db25236b861f0a0b29ddcd76d67c064aac297026a81c8",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.28.x (CVE-2026-35504) PowerSY",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "ea26b4b27876460e84e078bf015a40029cce5278eacb027bc822fb31c31a85b3",
-      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
-      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with access to local network who successfully exploited this vulnerabilit",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "55b87a30848e2faccfc241d60b9e741b6879c50d51ff4134d7be7fafbcd38391",
-      "title": "ABB AC500 V3 Multiple Vulnerabilities",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
-      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilities could bypass the user management and read visualization fil",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
     }
   ]
 }
