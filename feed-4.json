@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-18T19:41:42.925445+00:00",
+  "updated": "2026-05-19T02:54:47.707875+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5a38a188af401d841c445035cbe3de15aa326749dfed9c6f711d51def674aa38",
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and e",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-11T15:45:00+00:00"
+    },
+    {
+      "id": "2652101b1ca41960a6a7a170f7fe1878c847df05267a69a56f2a6b109fd3d779",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-11T15:26:26+00:00"
+    },
+    {
+      "id": "f9fee73416d220b16ecd95fb2b6f3fdac96236b87ce3755d72f995c6bb725a81",
+      "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
+      "url": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
+      "summary": "Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline. The post Build Application Firewalls Aim to Stop the Next Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-11T14:06:01+00:00"
+    },
+    {
+      "id": "ecea653f16288137d73f9cbdf7416858a424edc371ec8f74b51a4c6c144bb94b",
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-11T13:53:56+00:00"
+    },
     {
       "id": "e7aa317788bba68f2dd27be5881aaf25dd6091f493aae4136fb870e51ae08c94",
       "title": "Google Detects First AI-Generated Zero-Day Exploit",
@@ -418,42 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-07T21:30:00+00:00"
-    },
-    {
-      "id": "492baf58663679beb353733fe6e6d7799fa236dd81eef99a83ea9b4e5d500fc1",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:35:50+00:00"
-    },
-    {
-      "id": "21b7b82c9dc8dafdbe8df16777d3e5dc77f6a845c55a65b9e42ff1360d3bebb7",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:00:59+00:00"
-    },
-    {
-      "id": "dc3fb0a98005dbb506df29824720ec82ec66735cc8a28047a24c44efa30fd4d8",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-07T17:55:00+00:00"
-    },
-    {
-      "id": "69dabe680ebbd93e432120f2c02dea8c844f4b0ef69d2c1e8551ec59e68b295b",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-07T17:45:00+00:00"
     }
   ]
 }
