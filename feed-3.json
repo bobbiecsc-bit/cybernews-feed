@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-19T19:48:43.633357+00:00",
+  "updated": "2026-05-20T02:55:02.878068+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "850a8ae6d67e63732c1c2b040689391e930fe3472c6acbc5450da1ca30ac337d",
+      "title": "Siemens gWAP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
+      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a specific \"Gadget\" attack chain that allows prototype pollution in o",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "51f61e1dc446ab54c63d27ae0a7b8f056aaeea2ee9177d89d4588691df1a4363",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected produc",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "d8aa0f97c1a3d84c20562652ee0fae87ca8114552b8c625c73a84f46ce598ea0",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05",
+      "summary": "View CSAF Summary Simcenter Femap is affected by heap based buffer overflow vulnerability in Datakit library that could be triggered when the application reads files in IPT format. If a user is tricked to open a malicious file with the affected application, an attacker could leverage the vulnerabili",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
     {
       "id": "2fb9ad63bb9c608a2e0453357f9e7b43bec574e221548db596947add9a0a2144",
       "title": "Siemens Ruggedcom Rox",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-12T17:07:01+00:00"
-    },
-    {
-      "id": "12dc409c89ec1a63904298d1c29073198bdf561abe8b1c9b6c2a837a4ac7167a",
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-12T17:00:00+00:00"
-    },
-    {
-      "id": "7274123dbc31357c2cee2511b369c8a63a5ed91fc091467bc4bf88cbb2374b47",
-      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-      "url": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-      "summary": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T16:47:21+00:00"
-    },
-    {
-      "id": "c50c2ab06ebd9778c367fe9c12fc65557ac79ed03d9907f7d316d4eebef8b92f",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerabi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-12T16:44:00+00:00"
     }
   ]
 }

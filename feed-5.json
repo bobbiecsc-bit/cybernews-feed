@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-19T19:48:43.633357+00:00",
+  "updated": "2026-05-20T02:55:02.878068+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "08421650b8c15ac135c0668fe8f6386dd7c7fc0f538f100fc18011357f354041",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-09T14:26:03+00:00"
+    },
+    {
+      "id": "bbcca5ac07c6c9b612c812ef8b8dce20c67d4a51687b8da1c6f7c835480f8f32",
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input valid",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-09T07:16:00+00:00"
+    },
+    {
+      "id": "71e1d379c19093381b16dc5f5f33c0b857fb9f7e5b3a4fcc2b7ab763cd036bb3",
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a majo",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-08T18:12:00+00:00"
+    },
     {
       "id": "bd0fed1e91099da811165b2475d393e1a357920726acec640b2dbe7b46864429",
       "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-07T10:02:35+00:00"
-    },
-    {
-      "id": "c425e14d4739e8cb51c0b8db6ce01367c705239c78f341984ad7f68379e2b6c4",
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on th",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-07T09:20:00+00:00"
-    },
-    {
-      "id": "c56b25cd15e65b35a8b98994bfd1c8960fe63de419267485bef99be25da64501",
-      "title": "Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion",
-      "url": "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/",
-      "summary": "Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico. The post Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-07T07:35:25+00:00"
-    },
-    {
-      "id": "bd77bbb5f2380f49a6a550e1a7fa26fbb36998f65d71c2c6e0a9ff50e664c7b1",
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-07T04:15:00+00:00"
     }
   ]
 }
