@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-20T02:55:02.878068+00:00",
+  "updated": "2026-05-20T09:26:11.963951+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1d6d4753038eb57ed10c66e40fa1be489004fe056a70a833284cdddc8f3951d3",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T08:14:08+00:00"
+    },
+    {
+      "id": "de9688317f94f094f64c4ec6f37c42f607b1d2d94eae3c72acdd997cd253c36b",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T07:31:15+00:00"
+    },
+    {
+      "id": "07670e357af79b8cfe2ab2d1abbcf18a5d1436bfda8760469de0b3bbefd58a97",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T05:12:06+00:00"
+    },
+    {
+      "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T05:08:42+00:00"
+    },
+    {
+      "id": "93a1ea1fa7c3d5ed9aad2375500f596b7a26cf68794abd423fe1d1b2698d9029",
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer informa",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T04:01:15+00:00"
+    },
     {
       "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
       "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
@@ -2206,51 +2251,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-07T12:00:00+00:00"
-    },
-    {
-      "id": "2f7a3d626692d32d9a752b04f38976d29f26f68d459333c244db83701cae6734",
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-07T11:33:00+00:00"
-    },
-    {
-      "id": "94beed3d197d63d769881120630be245f2d790a1c20420a081bec4a38f995d9d",
-      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
-      "url": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
-      "summary": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions. The post Cisco Patches High-Severity Vulnerabilities in Enterprise Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T11:24:01+00:00"
-    },
-    {
-      "id": "8d93ec8f4d84dd6970031942a9d73d2a13b209c7a717ba3e918c1bb8a2367c66",
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-07T10:57:59+00:00"
-    },
-    {
-      "id": "63c86aab5f53ca58e4d55ff7df1b47ae42c579cfd51d32dfb20c2cb6ec75e577",
-      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
-      "url": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
-      "summary": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue. The post Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T10:39:34+00:00"
-    },
-    {
-      "id": "c6cfec0be4942731fd1e64b26be11588594d5db01d94dbb104bdeaa846554f26",
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T10:02:35+00:00"
     }
   ]
 }

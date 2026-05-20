@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-20T02:55:02.878068+00:00",
+  "updated": "2026-05-20T09:26:11.963951+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "07c859cff47157bdeb8e8485ce5e6f277dc974483c584bb8cb4ba9e7b360899c",
+      "title": "First Shai-Hulud Worm Clones Emerge",
+      "url": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+      "summary": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers. The post First Shai-Hulud Worm Clones Emerge appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-18T09:45:15+00:00"
+    },
+    {
+      "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T08:57:34+00:00"
+    },
+    {
+      "id": "d9ae04ec24e441d53fc9de942e972b2d10f78d4a4a82463baf2d327875df83e3",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axoi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-18T08:57:26+00:00"
+    },
+    {
+      "id": "46313f10aaeae69b23616c0a3a9900ed14f3a88dec021ec68bc71e62ee4f9551",
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "url": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "summary": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-18T08:34:59+00:00"
+    },
+    {
+      "id": "e3504ebc149e04678753fcdaf49240951869aaa398a964ed59e89d4bc40a2ca2",
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "url": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "summary": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled. The post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-18T07:27:42+00:00"
+    },
     {
       "id": "adabc2b03322d8367188c90453e29d25e6935f11e03d74aba46cc2a05a58934e",
       "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-14T14:00:37+00:00"
-    },
-    {
-      "id": "28e3f1fb606edd9c8b857615f36123d578fd334b0763d4c1e0b6fbafefacfdc6",
-      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
-      "url": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
-      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-14T13:44:46+00:00"
-    },
-    {
-      "id": "09c69640fa723bb90d944e54bc28c6a5e9c3131cfe67c14f066597bfabb2bf65",
-      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
-      "url": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
-      "summary": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared fir",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-14T13:00:00+00:00"
-    },
-    {
-      "id": "1e80b9662a6d9493c10fb1a128f1d2ea4cc90dd1c9364a88cc4263ec80d9b432",
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-14T12:12:40+00:00"
-    },
-    {
-      "id": "58012a3d930793e52de316c8be04e226a43d731cb6a20ca83729c7705db45731",
-      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
-      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
-      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-14T12:11:15+00:00"
-    },
-    {
-      "id": "a7876498552c6eff80287987a139b5bd4cd533222c3e2790990ae2ee7b78f136",
-      "title": "Siemens Siemens ROS#",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
-      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-20T02:55:02.878068+00:00",
+  "updated": "2026-05-20T09:26:11.963951+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a58382052c73301734e3b1cf73ce4936b67350dc111564e00dcba83b03efffff",
+      "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
+      "url": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
+      "summary": "Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released. The post New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-11T08:15:28+00:00"
+    },
+    {
+      "id": "6a06460ef0e114e96c15446e1a83e63534b4bf6b7487258b2f3b19a851d1a264",
+      "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign",
+      "url": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
+      "summary": "Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors. The post Over 500 Organizations Hit in Years-Long Phishing Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-11T03:49:18+00:00"
+    },
+    {
+      "id": "b72e557552efd4297132aa0ca2c3ccb71f6e4ab83550903f67d9c4694dc3aed4",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-10T17:52:15+00:00"
+    },
+    {
+      "id": "c84897c4060cb4fe735d6c616347d8e771c53d865b32f0dc6bc5bcdc94faa780",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-10T12:41:00+00:00"
+    },
+    {
+      "id": "b81fa31519f7da4e7b43c4b4f2259c3a1d7710f3a1d99143a7ee95a20af0c9df",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-09T19:27:58+00:00"
+    },
     {
       "id": "08421650b8c15ac135c0668fe8f6386dd7c7fc0f538f100fc18011357f354041",
       "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
@@ -409,51 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-07T12:00:00+00:00"
-    },
-    {
-      "id": "2f7a3d626692d32d9a752b04f38976d29f26f68d459333c244db83701cae6734",
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-07T11:33:00+00:00"
-    },
-    {
-      "id": "94beed3d197d63d769881120630be245f2d790a1c20420a081bec4a38f995d9d",
-      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
-      "url": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
-      "summary": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions. The post Cisco Patches High-Severity Vulnerabilities in Enterprise Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T11:24:01+00:00"
-    },
-    {
-      "id": "8d93ec8f4d84dd6970031942a9d73d2a13b209c7a717ba3e918c1bb8a2367c66",
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-07T10:57:59+00:00"
-    },
-    {
-      "id": "63c86aab5f53ca58e4d55ff7df1b47ae42c579cfd51d32dfb20c2cb6ec75e577",
-      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
-      "url": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
-      "summary": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue. The post Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T10:39:34+00:00"
-    },
-    {
-      "id": "c6cfec0be4942731fd1e64b26be11588594d5db01d94dbb104bdeaa846554f26",
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T10:02:35+00:00"
     }
   ]
 }

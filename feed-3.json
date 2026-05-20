@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-20T02:55:02.878068+00:00",
+  "updated": "2026-05-20T09:26:11.963951+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "28e3f1fb606edd9c8b857615f36123d578fd334b0763d4c1e0b6fbafefacfdc6",
+      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+      "url": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-14T13:44:46+00:00"
+    },
+    {
+      "id": "09c69640fa723bb90d944e54bc28c6a5e9c3131cfe67c14f066597bfabb2bf65",
+      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+      "url": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+      "summary": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared fir",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-14T13:00:00+00:00"
+    },
+    {
+      "id": "1e80b9662a6d9493c10fb1a128f1d2ea4cc90dd1c9364a88cc4263ec80d9b432",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-14T12:12:40+00:00"
+    },
+    {
+      "id": "58012a3d930793e52de316c8be04e226a43d731cb6a20ca83729c7705db45731",
+      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-14T12:11:15+00:00"
+    },
+    {
+      "id": "a7876498552c6eff80287987a139b5bd4cd533222c3e2790990ae2ee7b78f136",
+      "title": "Siemens Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
+      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
     {
       "id": "850a8ae6d67e63732c1c2b040689391e930fe3472c6acbc5450da1ca30ac337d",
       "title": "Siemens gWAP",
@@ -409,51 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-05-12T19:57:00+00:00"
-    },
-    {
-      "id": "899bdc42d149e5034ff48702e197e4c59dc69f9823f31b4d71646866118775fc",
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-12T19:40:31+00:00"
-    },
-    {
-      "id": "b0ec01f0f9174b2021efba9d712fc61e40702ef7533ca5ef0bb9d4062e14bfe8",
-      "title": "West Pharmaceutical warns of ransomware attack impacting business operations",
-      "url": "https://therecord.media/west-pharmaceutical-warns-of-ransomware-attack-impacting-operations",
-      "summary": "West Pharmaceutical Services filed a report with the Securities and Exchange Commission (SEC) on Monday evening warning customers that a hacker breached the company network on May 4, stole data and encrypted systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-12T19:00:00+00:00"
-    },
-    {
-      "id": "b3d85707c8d6f0c67997bdc8450cbca1c297c286847cec0dfcc10c9b9ab4bbd7",
-      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-12T18:23:09+00:00"
-    },
-    {
-      "id": "b1a8bb6b6aed2014138f84e3ccdec7e4b00f8f414882b6632abf49b10a7f254e",
-      "title": "Microsoft Patches 137 Vulnerabilities",
-      "url": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
-      "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira &#038; Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T18:07:39+00:00"
-    },
-    {
-      "id": "ed36a2b927798b2df5623da5a991ae986d63720542b0ce4bfbd1aed430eb607c",
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-12T17:07:01+00:00"
     }
   ]
 }
