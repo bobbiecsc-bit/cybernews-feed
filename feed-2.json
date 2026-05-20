@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-20T14:56:23.134243+00:00",
+  "updated": "2026-05-20T20:10:45.985677+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b78d87911c8a89d886311252590f4a66efba5795b3b734a42b83978ec4a800da",
+      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
+      "url": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
+      "summary": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-19T06:18:51+00:00"
+    },
+    {
+      "id": "0296f90943c0640491a69dc4012426be17696012aefe80a39245508cf2d9182c",
+      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
+      "url": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-19T05:28:06+00:00"
+    },
+    {
+      "id": "6db17af10bbd44686ee1f00873aecfcaa89bd2f22d0d6eac11bbea8011fc2085",
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including e",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-19T04:54:17+00:00"
+    },
+    {
+      "id": "355beb0112ac53cb5a91cc6ada2dafef2a3ae93731f8b108838f89098053e286",
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-18T22:15:30+00:00"
+    },
+    {
+      "id": "3e6a286c7d1ae747948d10cfa7065db1edea686130d1ca71996f2a71f238994c",
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-18T21:42:20+00:00"
+    },
     {
       "id": "4aa1347c0774fd6175d5f34a800f716d886a9c18a1494d6eb9ed22fa84407c19",
       "title": "More than 200 arrested in cyber raids aimed at Middle East scam networks",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-15T10:37:00+00:00"
-    },
-    {
-      "id": "1dd6030edd7b4de4b939f6b7461e3471ad9b9c0dc28f26fd936836e116b320f5",
-      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
-      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
-      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-15T09:47:09+00:00"
-    },
-    {
-      "id": "3e8a4c15a7e65ae9d07cda7a3b2395916173542ea43cd60412b0ea006ce1de0c",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-15T09:40:42+00:00"
-    },
-    {
-      "id": "a9fdecd3ea617473fcf516914b1cf91461b2ac83750573482c6de6eb3496946c",
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "summary": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components. The post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-15T07:25:15+00:00"
-    },
-    {
-      "id": "31fdc9822ea7b527bef3ff65db17430a2386098599cc99e4b3d563f16b3a908e",
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "url": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "summary": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616. The post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-15T06:28:46+00:00"
-    },
-    {
-      "id": "813d5d1dd99f0d48bf32aa926a8b0dfd42825175f5553a4b0e0c954933d875d0",
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-15T06:19:04+00:00"
     }
   ]
 }

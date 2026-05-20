@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-20T14:56:23.134243+00:00",
+  "updated": "2026-05-20T20:10:45.985677+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9dc57d1a1852195ec4170ff37a7b5d9eec4615f5896aea3f1b22c371b564adcb",
+      "title": "Ukraine probes teen suspect in cyber theft scheme targeting California online shoppers",
+      "url": "https://therecord.media/ukraine-probes-teen-suspect-cyber-theft-scheme",
+      "summary": "The investigation began after U.S. authorities informed their Ukrainian counterparts that hackers operating from Ukraine could be involved in attacks targeting users of American e-commerce platforms, Ukraine's Prosecutor General said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T16:33:00+00:00"
+    },
+    {
+      "id": "7a381cf54d906ca070982163be182ec899f1d981f574307695c2a408920902fe",
+      "title": "7-Eleven confirms breach after ShinyHunters claims",
+      "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
+      "summary": "The breach notification letters say 7-Eleven discovered the breach on April 8 and, after an investigation, determined that the cybercriminals gained access to “certain 7-Eleven systems used to store franchisee documents.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T16:05:00+00:00"
+    },
+    {
+      "id": "52abfdbd0922c46f1a04237032de710b137a7091082fe56f0992ea6106ce4d67",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T15:46:37+00:00"
+    },
+    {
+      "id": "b1c6fe2aaa5ff5c290dc6cee2c32e553190b114479fe3eeda4526ec46c939ffe",
+      "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
+      "url": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
+      "summary": "The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches. The post Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-20T15:39:00+00:00"
+    },
     {
       "id": "2abc1c5a0a6e69521c581b585e2d52a77605b4a89015f92532ecfd09729492c9",
       "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
@@ -73,6 +109,15 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-20T12:11:00+00:00"
+    },
+    {
+      "id": "f967f6aa886afde62f520913038855a7122a2abdd5ec90a817c8745e4b7468fc",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Rea",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-20T12:00:00+00:00"
     },
     {
       "id": "93a1ea1fa7c3d5ed9aad2375500f596b7a26cf68794abd423fe1d1b2698d9029",
@@ -2206,51 +2251,6 @@
       "source": "Krebs on Security",
       "category": "breach",
       "date": "2026-05-08T02:58:46+00:00"
-    },
-    {
-      "id": "a56f93fb36203cb738b815ab721eb2b5f054b86a207a37583ebd8e0a67044dfe",
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-07T22:36:54+00:00"
-    },
-    {
-      "id": "6dd85779642de87c0be4aa649bfdd52e82441fc36d8b7129e833aa27bcbeb4ec",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T22:06:52+00:00"
-    },
-    {
-      "id": "2b4040f38c475e1ee854fc949be9dc12e6b4bc1d73d48dc87675379be91df05b",
-      "title": "Iranian government hackers using Chaos ransomware as cover, researchers say",
-      "url": "https://therecord.media/iran-government-hackers-use-chaos-ransomware-as-cover",
-      "summary": "Incident responders from cybersecurity firm Rapid7 published a report about a recent intrusion that initially appeared to be a Chaos ransomware attack but was later discovered to be an attack attributed to MuddyWater, an Iranian APT group tied to the country’s Ministry of Intelligence and Security (",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-07T21:30:00+00:00"
-    },
-    {
-      "id": "492baf58663679beb353733fe6e6d7799fa236dd81eef99a83ea9b4e5d500fc1",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:35:50+00:00"
-    },
-    {
-      "id": "21b7b82c9dc8dafdbe8df16777d3e5dc77f6a845c55a65b9e42ff1360d3bebb7",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-07T18:00:59+00:00"
     }
   ]
 }
