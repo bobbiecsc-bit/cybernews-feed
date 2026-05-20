@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-20T09:26:11.963951+00:00",
+  "updated": "2026-05-20T14:56:23.134243+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2abc1c5a0a6e69521c581b585e2d52a77605b4a89015f92532ecfd09729492c9",
+      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
+      "url": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
+      "summary": "Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry. The post AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop appeared first",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-20T14:37:36+00:00"
+    },
+    {
+      "id": "2b1be78b41c23e24093d9d6d6ca0e38aa26975859f2ab5d079dc9bc831583ae2",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attribute",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-20T14:36:44+00:00"
+    },
+    {
+      "id": "43ac651e73ef099a19d92f10f1607e4b16e9b346dcabbcb6f73d50fc9d6d989e",
+      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+      "url": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T14:02:12+00:00"
+    },
+    {
+      "id": "d9176dcc693ddf404e1a2702a7b455d9cd37f5d3c6367ca0352cb28a59557e39",
+      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
+      "url": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+      "summary": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data. The post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-20T13:00:00+00:00"
+    },
+    {
+      "id": "3f9d892ce16e3947a6c986dd2383a12915df847e7d8840ef13b03cf0094aa78b",
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T12:52:29+00:00"
+    },
+    {
+      "id": "06fee14df316934010a63dcf2de63e91bb6fc125262c760221b365ce6cb0dc74",
+      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+      "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications. Webworm, first publicly documented by Broadcom-owned Symant",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-20T12:51:43+00:00"
+    },
+    {
+      "id": "307fe4d73f4cb2fe69286d726a1b1a4c03790884ad49c6782a2ad005e9fc5de2",
+      "title": "GitHub confirms being hacked by TeamPCP, says customer data unaffected",
+      "url": "https://therecord.media/github-confirms-teampcp-hack-customers-unaffected",
+      "summary": "Github, which hosts code for more than 100 million developers worldwide, confirmed the breach on social media after TeamPCP advertised stolen source code on a cybercrime forum.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T12:21:00+00:00"
+    },
+    {
+      "id": "1bd2486430758bd571a7418b9f76db3753e26c4e68ec643da7aa051054d4b19f",
+      "title": "Senator presses CISA for answers about alleged GitHub repository leak",
+      "url": "https://therecord.media/hassan-presses-cisa-github-leak",
+      "summary": "U.S. Senator Maggie Hassan (D-NH) sent a letter to the acting director of the Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday demanding answers about an alleged breach uncovered by cybersecurity reporter Brian Krebs involving government contractor Nightwing.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T12:11:00+00:00"
+    },
+    {
+      "id": "93a1ea1fa7c3d5ed9aad2375500f596b7a26cf68794abd423fe1d1b2698d9029",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer informa",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T11:38:43+00:00"
+    },
+    {
+      "id": "8c7d50651c6972ce8248344f94727d4c0b75d1e092f1dd5b2db274145a614fdf",
+      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
+      "summary": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace. The post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-20T11:06:49+00:00"
+    },
+    {
+      "id": "1606450c7c0b48cd3805b1e029a744d0ea2eb874ee731c1679106bdb2837a6cd",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T10:52:31+00:00"
+    },
+    {
+      "id": "644d978c8d5926de25cd6a430a340daa2342d09ec034aa1e7b86a4f22e207e21",
+      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
+      "url": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
+      "summary": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence. The post Virtual Event Today: Threat Detection &amp; Incident Response Summit appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-20T10:00:00+00:00"
+    },
+    {
+      "id": "7194ca37dfaa659d951e9b46a6433c065e3b7d5dfdeb7b98b1476ddd0b95af46",
+      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
+      "url": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
+      "summary": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension. The post GitHub Confirms Hack Impacting 3,800 Internal Repositories appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-20T09:28:53+00:00"
+    },
+    {
+      "id": "b76eae1a123f3072d087ad80fe6bc63350bfb57fad2514158bda85c61c3e0c68",
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-20T08:28:26+00:00"
+    },
     {
       "id": "1d6d4753038eb57ed10c66e40fa1be489004fe056a70a833284cdddc8f3951d3",
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
@@ -39,15 +165,6 @@
       "date": "2026-05-20T05:08:42+00:00"
     },
     {
-      "id": "93a1ea1fa7c3d5ed9aad2375500f596b7a26cf68794abd423fe1d1b2698d9029",
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
-      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer informa",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-20T04:01:15+00:00"
-    },
-    {
       "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
       "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
       "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
@@ -55,6 +172,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-20T00:04:48+00:00"
+    },
+    {
+      "id": "d9ff992e146ec402c038b24477bcba47412001e62f44496d32d4e97cf7321d10",
+      "title": "Ukraine says Russia is deploying AI-powered malware on the battlefield",
+      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
+      "summary": "A new report from Ukraine’s National Security and Defense Council says Russia’s use of AI across cyber operations expanded dramatically over the past year, reshaping everything from social engineering campaigns to malware development and creating what Ukrainian officials describe as a growing imbala",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-05-19T23:00:00+00:00"
     },
     {
       "id": "e36bd5ee339b87ec796adc7312076c349cc44da2fc6c25877094dd12ba0deb03",
@@ -2125,132 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-07T18:00:59+00:00"
-    },
-    {
-      "id": "dc3fb0a98005dbb506df29824720ec82ec66735cc8a28047a24c44efa30fd4d8",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-07T17:55:00+00:00"
-    },
-    {
-      "id": "69dabe680ebbd93e432120f2c02dea8c844f4b0ef69d2c1e8551ec59e68b295b",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-07T17:45:00+00:00"
-    },
-    {
-      "id": "e67168525801296e455406017392dd63a7e20d7d2bb65a8de6a6214bbb5073d0",
-      "title": "Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking",
-      "url": "https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/",
-      "summary": "The cybersecurity firm has not explicitly accused China of being behind the attack, but the evidence suggests it was. The post Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-07T15:31:12+00:00"
-    },
-    {
-      "id": "b3f7a2647a497b4a27da2c06e89ef1db6854c0b17eff315e0c237c3e9f111d5f",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-07T15:20:51+00:00"
-    },
-    {
-      "id": "eb2ef511f012ceec09d492e449d2c5f89d5ac36eda78b185cad6a68cd16c1792",
-      "title": "Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking",
-      "url": "https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/",
-      "summary": "Mitiga researchers say attackers can silently redirect Claude Code MCP traffic, intercept OAuth tokens, and maintain persistent access to connected SaaS platforms. The post Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-07T14:33:06+00:00"
-    },
-    {
-      "id": "31ab33669c3dbbb1dc2c8ba85d01fe64592493055a67d597879f08fe247b7370",
-      "title": "Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes",
-      "url": "https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/",
-      "summary": "Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation. The post Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-07T13:45:53+00:00"
-    },
-    {
-      "id": "ca4281654e97db829e239fa406cb6a528d601845fc6fecd7a0ae721c99c31f62",
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-07T13:34:00+00:00"
-    },
-    {
-      "id": "ca687ad1463171a3a2e7ceab23e2dd6e28192f89f5ba93971e7a3e2d8f187cac",
-      "title": "Vendor Says Daemon Tools Supply Chain Attack Contained",
-      "url": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
-      "summary": "The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages. The post Vendor Says Daemon Tools Supply Chain Attack Contained appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-07T13:21:02+00:00"
-    },
-    {
-      "id": "031f1c1d68cdc113c5c54692b5e9a75d4eb8d3afa6194bd4410029af64df343f",
-      "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
-      "url": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
-      "summary": "“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises. The post AI Coding Agents Could Fuel Next Supply Chain Crisis appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-07T13:00:00+00:00"
-    },
-    {
-      "id": "478b1fbd12120445a816dde4b199e51e4cbe1ade5bec4bf362c8ba4b68ffb4f8",
-      "title": "Polish intelligence warns hackers attacked water treatment control systems",
-      "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
-      "summary": "The agency did not publicly attribute the incidents to a specific group or country but said Poland faced intensified hostile cyber activity in 2024 and 2025, “with particular emphasis on the special services of the Russian Federation.”",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-07T12:38:00+00:00"
-    },
-    {
-      "id": "23ea5b617882799bcfbfbef0741b9b6932c69fb25d9c2c607b73ad8640a1ad79",
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-07T12:00:08+00:00"
-    },
-    {
-      "id": "5ebc1cda4fcd0023dda6e4abb5522138b55fa774a155d19b4ec824c370362934",
-      "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
-      "url": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
-      "summary": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control. The post Webinar Today: Securing Identity Across Humans, Machines and AI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-07T12:00:00+00:00"
-    },
-    {
-      "id": "acf8a288003f2e00de6842d4bb1646bc071272fa87315ec4a1731124a517f794",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973&nbsp;Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability&nbsp; This type of vulnerability is a frequent attack vector for ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-07T12:00:00+00:00"
-    },
-    {
-      "id": "cd5929e27fabc40d0d26dadea37695fa038efef68cf699598fc4fdb6bca3eba2",
-      "title": "MAXHUB Pivot Client Application",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivot client application are affected: MAXHUB Pivot client applicat",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-07T12:00:00+00:00"
     }
   ]
 }
