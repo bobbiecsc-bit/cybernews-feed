@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-21T14:59:48.085233+00:00",
+  "updated": "2026-05-21T19:49:50.187789+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b53cb4e5faf5834ac1d4893fbd2d6e4698ff7ea49aecb1239781a487c077f608",
+      "title": "macOS Kernel Memory Corruption Exploit",
+      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
+      "summary": "A group used Anthropic&#8217;s Mythos AI model to help find a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5. News article.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-05-21T16:03:37+00:00"
+    },
     {
       "id": "67857f5c64d558e9e734992532089c98a2b61865ba7e9e6eff76e6cc38b9b13b",
       "title": "UK plans for cybercrime law reform would protect almost no one, experts warn",
@@ -58,6 +67,60 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-21T12:04:13+00:00"
+    },
+    {
+      "id": "f3cf9dee61fc7bb26d3201562de2584c53eea46fbf331b51ac0fde6d8cbbd7d7",
+      "title": "ABB Terra AC Wallbox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "6701cdc0194314bcb18b3dc937c80b6bd8e42b2637c343a40d4ea38282309f66",
+      "title": "Hitachi Energy GMS600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial messages to the server and record the time taken to process them",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "753175e6354a33593beb4e3288bf07aefa05d9b5d621f7a69cb740d533e58c32",
+      "title": "ABB B&R Automation Studio",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed during testing of the affected B&amp;R products, the identified vul",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "bc2b5ce2e936bedbad30398a512f8583cc9396b08542a35b9e0840b412646813",
+      "title": "ABB B&R Automation Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilities could take over a remote session or execute code in the c",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "98a78a7e166c426032e4e335fe87374941578ac6e9a9d4e688e3f589615a89fa",
+      "title": "ABB B&R PCs",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilities to execute remote code, initiate DoS attacks, conduct DNS c",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "27d99603835b0369e0cf00a6a64f1afeb292bc9a59a76c8613c32a9cfa5a97dc",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulne",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
     },
     {
       "id": "90c85d6dfd1f9d2a0d398594171f89e9104e6ee49703d1b57a106a74273078af",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-05-20T05:12:06+00:00"
-    },
-    {
-      "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T05:08:42+00:00"
-    },
-    {
-      "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
-      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-      "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-      "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credenti",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-20T00:04:48+00:00"
-    },
-    {
-      "id": "d9ff992e146ec402c038b24477bcba47412001e62f44496d32d4e97cf7321d10",
-      "title": "Ukraine says Russia is deploying AI-powered malware on the battlefield",
-      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
-      "summary": "A new report from Ukraine’s National Security and Defense Council says Russia’s use of AI across cyber operations expanded dramatically over the past year, reshaping everything from social engineering campaigns to malware development and creating what Ukrainian officials describe as a growing imbala",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-19T23:00:00+00:00"
-    },
-    {
-      "id": "e36bd5ee339b87ec796adc7312076c349cc44da2fc6c25877094dd12ba0deb03",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-19T22:25:49+00:00"
-    },
-    {
-      "id": "a123ac6ede81b41dcef1d5dfc88619e8a5a5925c7d87a9791df98010b653349b",
-      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-19T21:47:31+00:00"
-    },
-    {
-      "id": "7a3ef8c14d5f3158814d8abf84ca0408d86ce86f94daa09cffbf0e084882df5f",
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-19T19:35:32+00:00"
-    },
-    {
-      "id": "0b8ca3199140af09aa6258fd81c6f9558655518d2f7158adbb0bf5f144758a6b",
-      "title": "Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network",
-      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
-      "summary": "There is no evidence that the incident has recurred, but the flaw remains unexplained and has not been publicly acknowledged by the company.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-19T19:18:00+00:00"
     }
   ]
 }

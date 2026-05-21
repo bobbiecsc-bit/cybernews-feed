@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-21T14:59:48.085233+00:00",
+  "updated": "2026-05-21T19:49:50.187789+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b1a8bb6b6aed2014138f84e3ccdec7e4b00f8f414882b6632abf49b10a7f254e",
+      "title": "Microsoft Patches 137 Vulnerabilities",
+      "url": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
+      "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira &#038; Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-12T18:07:39+00:00"
+    },
+    {
+      "id": "ed36a2b927798b2df5623da5a991ae986d63720542b0ce4bfbd1aed430eb607c",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-12T17:07:01+00:00"
+    },
+    {
+      "id": "12dc409c89ec1a63904298d1c29073198bdf561abe8b1c9b6c2a837a4ac7167a",
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-12T17:00:00+00:00"
+    },
+    {
+      "id": "7274123dbc31357c2cee2511b369c8a63a5ed91fc091467bc4bf88cbb2374b47",
+      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
+      "url": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
+      "summary": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-12T16:47:21+00:00"
+    },
+    {
+      "id": "c50c2ab06ebd9778c367fe9c12fc65557ac79ed03d9907f7d316d4eebef8b92f",
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerabi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-12T16:44:00+00:00"
+    },
+    {
+      "id": "bf9d5851a6323b07564bbd6231db6d77190a9d3145268683d623e2572d59546b",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-12T14:47:00+00:00"
+    },
+    {
+      "id": "6676667ede58182fabf4a1840581149f3240ca8d2544283ebdcddbe14a61d76b",
+      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
+      "url": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
+      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-12T14:30:00+00:00"
+    },
     {
       "id": "01328c82134c3e0dd639cdde13e81c4d53fe6d158f8279e3c14953df2b18e0e3",
       "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-10T17:52:15+00:00"
-    },
-    {
-      "id": "c84897c4060cb4fe735d6c616347d8e771c53d865b32f0dc6bc5bcdc94faa780",
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-10T12:41:00+00:00"
-    },
-    {
-      "id": "b81fa31519f7da4e7b43c4b4f2259c3a1d7710f3a1d99143a7ee95a20af0c9df",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-09T19:27:58+00:00"
-    },
-    {
-      "id": "08421650b8c15ac135c0668fe8f6386dd7c7fc0f538f100fc18011357f354041",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-09T14:26:03+00:00"
-    },
-    {
-      "id": "bbcca5ac07c6c9b612c812ef8b8dce20c67d4a51687b8da1c6f7c835480f8f32",
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input valid",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-09T07:16:00+00:00"
-    },
-    {
-      "id": "71e1d379c19093381b16dc5f5f33c0b857fb9f7e5b3a4fcc2b7ab763cd036bb3",
-      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-      "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a majo",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-08T18:12:00+00:00"
-    },
-    {
-      "id": "bd0fed1e91099da811165b2475d393e1a357920726acec640b2dbe7b46864429",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-08T16:18:31+00:00"
-    },
-    {
-      "id": "e13ca5329ec62dc9815fe8630785944e4d7a3ca6d848f4a02309387e94cdf53c",
-      "title": "Another Universal Linux Local Privilege Escalation (LPE) Vulnerability: Dirty Frag, (Fri, May 8th)",
-      "url": "https://isc.sans.edu/diary/rss/32968",
-      "summary": "Less than two weeks after the public disclosure of the Copy Fail vulnerability (CVE-2026-31431), another local privilege escalation (LPE) vulnerability in the Linux kernel has been revealed. Referred to as \"Dirty Frag,\" this vulnerability was discovered and reported by Hyunwoo Kim (&#x40;v4bel) &#x5",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-05-08T14:57:03+00:00"
     }
   ]
 }

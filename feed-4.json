@@ -1,10 +1,73 @@
 {
-  "updated": "2026-05-21T14:59:48.085233+00:00",
+  "updated": "2026-05-21T19:49:50.187789+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "58012a3d930793e52de316c8be04e226a43d731cb6a20ca83729c7705db45731",
+      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-14T12:11:15+00:00"
+    },
+    {
+      "id": "a7876498552c6eff80287987a139b5bd4cd533222c3e2790990ae2ee7b78f136",
+      "title": "Siemens Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
+      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "850a8ae6d67e63732c1c2b040689391e930fe3472c6acbc5450da1ca30ac337d",
+      "title": "Siemens gWAP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
+      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a specific \"Gadget\" attack chain that allows prototype pollution in o",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "51f61e1dc446ab54c63d27ae0a7b8f056aaeea2ee9177d89d4588691df1a4363",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected produc",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "d8aa0f97c1a3d84c20562652ee0fae87ca8114552b8c625c73a84f46ce598ea0",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05",
+      "summary": "View CSAF Summary Simcenter Femap is affected by heap based buffer overflow vulnerability in Datakit library that could be triggered when the application reads files in IPT format. If a user is tricked to open a malicious file with the affected application, an attacker could leverage the vulnerabili",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "2fb9ad63bb9c608a2e0453357f9e7b43bec574e221548db596947add9a0a2144",
+      "title": "Siemens Ruggedcom Rox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affect",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
+    {
+      "id": "b26b5e58c8059bd0fdd9e7bd2219db3215fd0e7b47e36156f3cd7dbfead43f2c",
+      "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
+      "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-14T12:00:00+00:00"
+    },
     {
       "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
       "title": "Siemens Ruggedcom Rox",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-12T18:23:09+00:00"
-    },
-    {
-      "id": "b1a8bb6b6aed2014138f84e3ccdec7e4b00f8f414882b6632abf49b10a7f254e",
-      "title": "Microsoft Patches 137 Vulnerabilities",
-      "url": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
-      "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira &#038; Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T18:07:39+00:00"
-    },
-    {
-      "id": "ed36a2b927798b2df5623da5a991ae986d63720542b0ce4bfbd1aed430eb607c",
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-12T17:07:01+00:00"
-    },
-    {
-      "id": "12dc409c89ec1a63904298d1c29073198bdf561abe8b1c9b6c2a837a4ac7167a",
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-12T17:00:00+00:00"
-    },
-    {
-      "id": "7274123dbc31357c2cee2511b369c8a63a5ed91fc091467bc4bf88cbb2374b47",
-      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-      "url": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-      "summary": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T16:47:21+00:00"
-    },
-    {
-      "id": "c50c2ab06ebd9778c367fe9c12fc65557ac79ed03d9907f7d316d4eebef8b92f",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerabi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-12T16:44:00+00:00"
-    },
-    {
-      "id": "bf9d5851a6323b07564bbd6231db6d77190a9d3145268683d623e2572d59546b",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-12T14:47:00+00:00"
-    },
-    {
-      "id": "6676667ede58182fabf4a1840581149f3240ca8d2544283ebdcddbe14a61d76b",
-      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-      "url": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-12T14:30:00+00:00"
     }
   ]
 }
