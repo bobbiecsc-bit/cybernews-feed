@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-21T02:59:03.235633+00:00",
+  "updated": "2026-05-21T09:34:53.666613+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "239593a18376ea3ae82af879760360c7049a688b748374ed20248da50c548f0c",
+      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T08:14:53+00:00"
+    },
+    {
+      "id": "6a5fd8bfa4b6a28108482a7cba3de7853a54b40705c42a9e61cfd98c3b129e1f",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:49:48+00:00"
+    },
+    {
+      "id": "dd2888c2126a5e82705cc756c7cefb86a4c201302568b6c1ce14a9c9b53dcd70",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensiti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:35:53+00:00"
+    },
+    {
+      "id": "8023fe3bb9367bfc5ce6dfed3ab1417f624c381565a4b9aa28276e9ded60bac6",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-21T06:54:01+00:00"
+    },
+    {
+      "id": "03ce33948c8adda410c949ec32a1efed47628dfacecfd177915411cc29723466",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp; The development comes as the Nx team revealed that the ext",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-21T04:27:01+00:00"
+    },
+    {
+      "id": "54434cf9fcc9ce6bf70e969c0d5c91fc678fd5275f07dc25d9da0fc148f2cebb",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T03:44:11+00:00"
+    },
     {
       "id": "d55b7ff19466d6e0398e9648064c480299c5b2c29c84e7704d4e166c54a04899",
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
@@ -400,60 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "5d4296c3802f4cde8071b1757adc3015ce1e2c4f84b39e8d05f569072d39a03f",
-      "title": "ScadaBR",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE-2026-8604, CVE-2026-8605) CVSS Vendor Equipment Vulnerabilitie",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "6e5b98449204d59632a7473f39aa861f924b4fcff1ab61f16b19f13bb83a5ee2",
-      "title": "ZKTeco CCTV Cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZK",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "0e138c761eb645b6ab75c38877ce4bcc396377af098b6cc8b6ec79027858535f",
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp; The targets of the platform received a message asking them to enter a short code at microsoft.com/devic",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T11:30:00+00:00"
-    },
-    {
-      "id": "762248e881d0d3c3a5e61b7ade1dc88d6e4fce5421d044968cdd9af57abd99ac",
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the main",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-19T10:44:45+00:00"
-    },
-    {
-      "id": "9f6fec6db43c55b12e43d1dda54824ebba11005a61d03f8993106fbb2c260f8e",
-      "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
-      "url": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
-      "summary": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region. The post 201 Arrested in Crackdown on Cybercrime in Middle East, North Africa appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-19T10:32:14+00:00"
-    },
-    {
-      "id": "845e5632080feb69cd448bfb6f4fa7dd070e2c01a7b1668e354e4f77e3161ecb",
-      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
-      "url": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
-      "summary": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-19T09:42:56+00:00"
     }
   ]
 }

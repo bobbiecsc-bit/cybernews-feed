@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-21T02:59:03.235633+00:00",
+  "updated": "2026-05-21T09:34:53.666613+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ac72c445faae58d6a913e1dae41fd9ef116f78af5ba87d4bd14423350e1829c0",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-15T13:35:04+00:00"
+    },
+    {
+      "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
+      "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
+      "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
+      "summary": "Cisco released a patch for the vulnerability on Thursday, writing in an advisory that it could “allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.”",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-15T13:16:00+00:00"
+    },
+    {
+      "id": "5e3df754a317c86a521bdc113a9092976db8b4e362d9150a0af86a6c15e678e3",
+      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
+      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-15T12:06:53+00:00"
+    },
+    {
+      "id": "8f5dc67818fcdfd752027ca5dfe5dd9d67c3601756e072cf6c85ce10404ab83e",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-15T12:00:00+00:00"
+    },
+    {
+      "id": "a931aa43ccfeef80ed6c013c344c23a6dcda880f605ae6a75bfd17671681a431",
+      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-15T11:06:55+00:00"
+    },
+    {
+      "id": "42e8c65fa106c99e54cfa51bf87c223ba81456fcf063faaf733504d2b1ffa76a",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-15T11:00:00+00:00"
+    },
     {
       "id": "ef5e7bcddb85ecdcdfdca478a2ae27051b08bddacebbe655d34bc908f01f1209",
       "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-14T06:00:09+00:00"
-    },
-    {
-      "id": "108c944a2ccf1e7a4be39341090b703d70e8083bbd77f2bbc93b4be923d315c2",
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-13T22:23:31+00:00"
-    },
-    {
-      "id": "b0773ef8976a37372ae8f8823e3c219b842e10f4f4646e5fa98793619dce91bc",
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-13T21:59:33+00:00"
-    },
-    {
-      "id": "74ce925ad673b472fed47d72709a4cc1fe295f425a87801eb77df4bed01db22b",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-13T20:23:50+00:00"
-    },
-    {
-      "id": "7e97d7afedeeb5c2eb52fb71de9b6f3ab1bea618ea16840cc0235aea7c410d3a",
-      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-      "url": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-      "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-13T17:13:36+00:00"
-    },
-    {
-      "id": "0e4efbafc42d2d013787d2c9e42a90dd2a1202740e57e1b4ed1d6d58c3dde62b",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-13T16:37:49+00:00"
-    },
-    {
-      "id": "dd18732726275826834fc24beef7b7e4bf0b5c8d70f975e925194b194b27a619",
-      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-      "url": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-      "summary": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-13T16:01:00+00:00"
     }
   ]
 }

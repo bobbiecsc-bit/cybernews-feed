@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-21T02:59:03.235633+00:00",
+  "updated": "2026-05-21T09:34:53.666613+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "239593a18376ea3ae82af879760360c7049a688b748374ed20248da50c548f0c",
+      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T08:14:53+00:00"
+    },
+    {
+      "id": "6a5fd8bfa4b6a28108482a7cba3de7853a54b40705c42a9e61cfd98c3b129e1f",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:49:48+00:00"
+    },
+    {
+      "id": "dd2888c2126a5e82705cc756c7cefb86a4c201302568b6c1ce14a9c9b53dcd70",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensiti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:35:53+00:00"
+    },
+    {
+      "id": "8023fe3bb9367bfc5ce6dfed3ab1417f624c381565a4b9aa28276e9ded60bac6",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-21T06:54:01+00:00"
+    },
+    {
+      "id": "03ce33948c8adda410c949ec32a1efed47628dfacecfd177915411cc29723466",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp; The development comes as the Nx team revealed that the ext",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-21T04:27:01+00:00"
+    },
+    {
+      "id": "54434cf9fcc9ce6bf70e969c0d5c91fc678fd5275f07dc25d9da0fc148f2cebb",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T03:44:11+00:00"
+    },
     {
       "id": "d55b7ff19466d6e0398e9648064c480299c5b2c29c84e7704d4e166c54a04899",
       "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-08T10:30:00+00:00"
-    },
-    {
-      "id": "aa100fb1f40f8b6cd52252bb37d241dcb48e335b2f972da1143d405f2e5db353",
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-08T08:41:00+00:00"
-    },
-    {
-      "id": "0c830d314efdea13882831b9f8eb00226b05299ab0fee2dfecdbfb6f11f5bddf",
-      "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
-      "url": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
-      "summary": "The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more. The post &#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-08T08:32:34+00:00"
-    },
-    {
-      "id": "c31c558ffff755aede2edec900f8f2b8af95e90c8ca1a06403180d97ae27dce9",
-      "title": "Ransomware Group Takes Credit for Trellix Hack",
-      "url": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
-      "summary": "RansomHouse has published several screenshots to demonstrate access to internal Trellix services. The post Ransomware Group Takes Credit for Trellix Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-08T07:58:04+00:00"
-    },
-    {
-      "id": "5e985d4c386f01eb80b29275a8a494bfcddb2101cfa107dea0c0713eaa46bf69",
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-08T07:45:24+00:00"
-    },
-    {
-      "id": "78ba37e948b9fb0e767a98622a96aecaeeb65440ff606f6035d041984589f649",
-      "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
-      "url": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
-      "summary": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension. The post Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-08T06:53:36+00:00"
-    },
-    {
-      "id": "6514c22beaf3f6cb05dbea783ffa238603b6ab19dae9935fd0196ad0976a87e2",
-      "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
-      "url": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
-      "summary": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code. The post Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-08T05:41:30+00:00"
     }
   ]
 }

@@ -1,10 +1,64 @@
 {
-  "updated": "2026-05-21T02:59:03.235633+00:00",
+  "updated": "2026-05-21T09:34:53.666613+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d4296c3802f4cde8071b1757adc3015ce1e2c4f84b39e8d05f569072d39a03f",
+      "title": "ScadaBR",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE-2026-8604, CVE-2026-8605) CVSS Vendor Equipment Vulnerabilitie",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
+    {
+      "id": "6e5b98449204d59632a7473f39aa861f924b4fcff1ab61f16b19f13bb83a5ee2",
+      "title": "ZKTeco CCTV Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZK",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
+    {
+      "id": "0e138c761eb645b6ab75c38877ce4bcc396377af098b6cc8b6ec79027858535f",
+      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+      "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp; The targets of the platform received a message asking them to enter a short code at microsoft.com/devic",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-19T11:30:00+00:00"
+    },
+    {
+      "id": "762248e881d0d3c3a5e61b7ade1dc88d6e4fce5421d044968cdd9af57abd99ac",
+      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+      "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the main",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-19T10:44:45+00:00"
+    },
+    {
+      "id": "9f6fec6db43c55b12e43d1dda54824ebba11005a61d03f8993106fbb2c260f8e",
+      "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
+      "url": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
+      "summary": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region. The post 201 Arrested in Crackdown on Cybercrime in Middle East, North Africa appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-19T10:32:14+00:00"
+    },
+    {
+      "id": "845e5632080feb69cd448bfb6f4fa7dd070e2c01a7b1668e354e4f77e3161ecb",
+      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
+      "url": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
+      "summary": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-19T09:42:56+00:00"
+    },
     {
       "id": "79bc5d85716399fbf480080ea3da4ecd8367cf10cd71ecda88f65b09f70eab14",
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-15T14:02:12+00:00"
-    },
-    {
-      "id": "ac72c445faae58d6a913e1dae41fd9ef116f78af5ba87d4bd14423350e1829c0",
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-15T13:35:04+00:00"
-    },
-    {
-      "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
-      "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
-      "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
-      "summary": "Cisco released a patch for the vulnerability on Thursday, writing in an advisory that it could “allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.”",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-15T13:16:00+00:00"
-    },
-    {
-      "id": "5e3df754a317c86a521bdc113a9092976db8b4e362d9150a0af86a6c15e678e3",
-      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
-      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-15T12:06:53+00:00"
-    },
-    {
-      "id": "8f5dc67818fcdfd752027ca5dfe5dd9d67c3601756e072cf6c85ce10404ab83e",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-15T12:00:00+00:00"
-    },
-    {
-      "id": "a931aa43ccfeef80ed6c013c344c23a6dcda880f605ae6a75bfd17671681a431",
-      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
-      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
-      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-15T11:06:55+00:00"
-    },
-    {
-      "id": "42e8c65fa106c99e54cfa51bf87c223ba81456fcf063faaf733504d2b1ffa76a",
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-15T11:00:00+00:00"
     }
   ]
 }
