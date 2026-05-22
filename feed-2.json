@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-21T19:49:50.187789+00:00",
+  "updated": "2026-05-22T02:58:43.851281+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "de9688317f94f094f64c4ec6f37c42f607b1d2d94eae3c72acdd997cd253c36b",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T07:31:15+00:00"
+    },
+    {
+      "id": "07670e357af79b8cfe2ab2d1abbcf18a5d1436bfda8760469de0b3bbefd58a97",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T05:12:06+00:00"
+    },
     {
       "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
       "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-05-18T09:45:15+00:00"
-    },
-    {
-      "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-18T08:57:34+00:00"
-    },
-    {
-      "id": "d9ae04ec24e441d53fc9de942e972b2d10f78d4a4a82463baf2d327875df83e3",
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axoi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-18T08:57:26+00:00"
     }
   ]
 }
