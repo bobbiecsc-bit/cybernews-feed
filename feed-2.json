@@ -1,10 +1,109 @@
 {
-  "updated": "2026-05-22T08:57:12.832084+00:00",
+  "updated": "2026-05-22T14:32:56.265815+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b1be78b41c23e24093d9d6d6ca0e38aa26975859f2ab5d079dc9bc831583ae2",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attribute",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-20T14:36:44+00:00"
+    },
+    {
+      "id": "43ac651e73ef099a19d92f10f1607e4b16e9b346dcabbcb6f73d50fc9d6d989e",
+      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+      "url": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T14:02:12+00:00"
+    },
+    {
+      "id": "d9176dcc693ddf404e1a2702a7b455d9cd37f5d3c6367ca0352cb28a59557e39",
+      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
+      "url": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+      "summary": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data. The post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-20T13:00:00+00:00"
+    },
+    {
+      "id": "3f9d892ce16e3947a6c986dd2383a12915df847e7d8840ef13b03cf0094aa78b",
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T12:52:29+00:00"
+    },
+    {
+      "id": "06fee14df316934010a63dcf2de63e91bb6fc125262c760221b365ce6cb0dc74",
+      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+      "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications. Webworm, first publicly documented by Broadcom-owned Symant",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-20T12:51:43+00:00"
+    },
+    {
+      "id": "307fe4d73f4cb2fe69286d726a1b1a4c03790884ad49c6782a2ad005e9fc5de2",
+      "title": "GitHub confirms being hacked by TeamPCP, says customer data unaffected",
+      "url": "https://therecord.media/github-confirms-teampcp-hack-customers-unaffected",
+      "summary": "Github, which hosts code for more than 100 million developers worldwide, confirmed the breach on social media after TeamPCP advertised stolen source code on a cybercrime forum.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T12:21:00+00:00"
+    },
+    {
+      "id": "1bd2486430758bd571a7418b9f76db3753e26c4e68ec643da7aa051054d4b19f",
+      "title": "Senator presses CISA for answers about alleged GitHub repository leak",
+      "url": "https://therecord.media/hassan-presses-cisa-github-leak",
+      "summary": "U.S. Senator Maggie Hassan (D-NH) sent a letter to the acting director of the Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday demanding answers about an alleged breach uncovered by cybersecurity reporter Brian Krebs involving government contractor Nightwing.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T12:11:00+00:00"
+    },
+    {
+      "id": "f967f6aa886afde62f520913038855a7122a2abdd5ec90a817c8745e4b7468fc",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Rea",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-20T12:00:00+00:00"
+    },
+    {
+      "id": "93a1ea1fa7c3d5ed9aad2375500f596b7a26cf68794abd423fe1d1b2698d9029",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer informa",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T11:38:43+00:00"
+    },
+    {
+      "id": "8c7d50651c6972ce8248344f94727d4c0b75d1e092f1dd5b2db274145a614fdf",
+      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
+      "summary": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace. The post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-20T11:06:49+00:00"
+    },
+    {
+      "id": "1606450c7c0b48cd3805b1e029a744d0ea2eb874ee731c1679106bdb2837a6cd",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T10:52:31+00:00"
+    },
     {
       "id": "644d978c8d5926de25cd6a430a340daa2342d09ec034aa1e7b86a4f22e207e21",
       "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
@@ -355,105 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-18T21:42:20+00:00"
-    },
-    {
-      "id": "4aa1347c0774fd6175d5f34a800f716d886a9c18a1494d6eb9ed22fa84407c19",
-      "title": "More than 200 arrested in cyber raids aimed at Middle East scam networks",
-      "url": "https://therecord.media/more-than-200-arrested-interpol-middle-east-scams",
-      "summary": "Investigators found hundreds of compromised devices that were used as part of the cybercriminal operation and notified device owners as part of the raids.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-18T20:52:00+00:00"
-    },
-    {
-      "id": "7645ab8ebf923e8ebee55e57051e6ba259e0f1fc8a99a75c60a3ecb0af7ce5f0",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public arc",
-      "source": "Krebs on Security",
-      "category": "breach",
-      "date": "2026-05-18T20:48:21+00:00"
-    },
-    {
-      "id": "78719e57923030ead0e2a7013fc4db2d69186b84c20b48e08d65f610702ca45c",
-      "title": "Grafana refuses to pay ransom after codebase theft",
-      "url": "https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft",
-      "summary": "On Saturday night, the company released a statement confirming the incident and outlining their decision not to pay a ransom issued by the hackers behind the attack.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-18T17:50:00+00:00"
-    },
-    {
-      "id": "70e54c0073fa729f2ded19c5b08d725a3ef9181fdf99e90ff23dbe1427019602",
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-18T17:28:02+00:00"
-    },
-    {
-      "id": "220ab014c036cae0a4ff6b624a9c31a7abee8e7edb8d99825e8610b89f30f88c",
-      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, a",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-18T17:21:18+00:00"
-    },
-    {
-      "id": "20ab6bdc785d6d937c29b73b3cb166442c7c59c0eccf69661b0e0f0d546b1e0d",
-      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-      "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The pattern is clear. One weak dependency can ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-18T13:50:17+00:00"
-    },
-    {
-      "id": "0e15511235b91dd8e3bcabd79f0747c435b0cbeefd3a5917d89fd48acc1b4f90",
-      "title": "Grafana says stolen GitHub token let hackers steal codebase",
-      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
-      "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-18T13:46:26+00:00"
-    },
-    {
-      "id": "905c22d8f82fe1d1e991461f63c0cbdcc31c8df2aca76b16b533f0ccd70f5b81",
-      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-      "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-      "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread. Ea",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-18T13:00:00+00:00"
-    },
-    {
-      "id": "28686453f930219f29fda1e1936c492c9006ca0c4613c599c28bfcb36b100f10",
-      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
-      "url": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
-      "summary": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-18T12:58:44+00:00"
-    },
-    {
-      "id": "75f515e7619fa020b7db7abaa92b6d1aff7c57402f95a7baf804d343d3dfc8fe",
-      "title": "‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
-      "url": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
-      "summary": "Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors. The post &#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-18T12:14:43+00:00"
-    },
-    {
-      "id": "8cdd182c45762acfecdcb02ee74a2f3906159fe8e48708f9a64ef4ed378f3b4d",
-      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
-      "url": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
-      "summary": "The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. The post 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-18T11:25:54+00:00"
     }
   ]
 }
