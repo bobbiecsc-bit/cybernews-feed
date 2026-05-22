@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T14:32:56.265815+00:00",
+  "updated": "2026-05-22T19:40:34.654124+00:00",
   "total": 250,
   "articles": [
     {
@@ -10,6 +10,42 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-05-23T01:11:00+00:00"
+    },
+    {
+      "id": "7212daac780cce4cf1eecdeab0dc5cbba8cd002bdb7fe664ff341972ea7991b7",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-22T17:35:02+00:00"
+    },
+    {
+      "id": "c30cb83e705f0ee8845861a55bb71a5744db548572077800f74ce35ad568f07e",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-22T17:24:52+00:00"
+    },
+    {
+      "id": "0b6df0e7175f640743264120ff90d8b62b94b348a9b62bb648c2df08b9ac7345",
+      "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+      "url": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
+      "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-22T17:15:26+00:00"
+    },
+    {
+      "id": "35ca5d2e47328b394e655e04c245eac97baff2847d4df6d5253e64b441469449",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-22T16:20:32+00:00"
     },
     {
       "id": "3860c5de4c9bd0db19aa100f7754c177c1421fec851e42df08b5e420dc8053db",
@@ -55,6 +91,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-22T12:00:42+00:00"
+    },
+    {
+      "id": "10c8a27aee0beba6dd7667fc5bcb282e77806645b8e0d4379616ae675abc70f4",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-22T12:00:00+00:00"
     },
     {
       "id": "bb5e870eb4ecc50d6ccf747e9511ef67eeaaf80529180f840c87f9b78d6fd076",
@@ -2206,51 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-11T22:03:06+00:00"
-    },
-    {
-      "id": "017c77e0e6a9740fe80053a5d3a93ddba7bcb03ff73151fee6000af46f38f704",
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-11T22:02:00+00:00"
-    },
-    {
-      "id": "f69a535e4a6c7aa3a6b4cfb869984b48731092f81044ec93489dcd36bbf0f5a6",
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-11T18:30:00+00:00"
-    },
-    {
-      "id": "c431a6ce8cbfce66b5d57fcf87899d41f67ce35def6bc89e2bbb7ea1df33103b",
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-11T17:54:00+00:00"
-    },
-    {
-      "id": "5a38a188af401d841c445035cbe3de15aa326749dfed9c6f711d51def674aa38",
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and e",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-11T15:45:00+00:00"
-    },
-    {
-      "id": "2652101b1ca41960a6a7a170f7fe1878c847df05267a69a56f2a6b109fd3d779",
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-11T15:26:26+00:00"
     }
   ]
 }
