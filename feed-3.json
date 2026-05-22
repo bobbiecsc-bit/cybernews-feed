@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-22T02:58:43.851281+00:00",
+  "updated": "2026-05-22T08:57:12.832084+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "128916251b7abbe54b983efbd1535161853302f3432b1b94da4350fd1726656f",
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer envir",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-18T11:23:41+00:00"
+    },
+    {
+      "id": "b0549ca5c4d6d931ba8ff59f0d0aa88c73ea186544c27b3f05c139601ce658c8",
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exp",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-18T10:54:05+00:00"
+    },
+    {
+      "id": "293c4cc343b83ad8767294dde2f99c427965502e76acb000bef74ae9257f9fd4",
+      "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
+      "url": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
+      "summary": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug. The post Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-18T10:38:22+00:00"
+    },
+    {
+      "id": "07c859cff47157bdeb8e8485ce5e6f277dc974483c584bb8cb4ba9e7b360899c",
+      "title": "First Shai-Hulud Worm Clones Emerge",
+      "url": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+      "summary": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers. The post First Shai-Hulud Worm Clones Emerge appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-18T09:45:15+00:00"
+    },
     {
       "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
       "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-14T16:07:46+00:00"
-    },
-    {
-      "id": "fac815bc891b46843cf449002899aa76c3cc3d3f37aa127745a8e3d02ad46054",
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T15:43:41+00:00"
-    },
-    {
-      "id": "8063eaf76e3376a84228dd3c7abb1aec160776b31441ed179675f82cee5facaa",
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-14T15:21:32+00:00"
-    },
-    {
-      "id": "47a09d0a3cc4cbe93b4f69711b986e9e6ee9628e830bef51b0f48f1dee624eed",
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-14T14:00:37+00:00"
-    },
-    {
-      "id": "28e3f1fb606edd9c8b857615f36123d578fd334b0763d4c1e0b6fbafefacfdc6",
-      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
-      "url": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
-      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-14T13:44:46+00:00"
     }
   ]
 }

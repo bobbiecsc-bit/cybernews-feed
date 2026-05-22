@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T02:58:43.851281+00:00",
+  "updated": "2026-05-22T08:57:12.832084+00:00",
   "total": 250,
   "articles": [
     {
@@ -10,6 +10,42 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-05-23T01:11:00+00:00"
+    },
+    {
+      "id": "7e37d711c07d036c1090956c698c44e3874b0a05d6e06b6d68f4e64349fb5b2c",
+      "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+      "summary": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One. The post TrendAI Patches Apex One Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-22T08:19:24+00:00"
+    },
+    {
+      "id": "67f162c352e6cea32d2951b90bb284a84a3c58b09f602f2f8b9f5b63e0c4f78f",
+      "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+      "summary": "Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated. The post Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-22T07:49:38+00:00"
+    },
+    {
+      "id": "d5b8e7e7cebc023cea665275f15c3fa00f99cb59b328372860bd3dfaee4475a4",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-22T05:47:33+00:00"
+    },
+    {
+      "id": "fc4a50d79e39df5c6380192dad50a753b300f5d434a5478990c8e9aac22134aa",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when acces",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-22T05:36:18+00:00"
     },
     {
       "id": "9c50addc3207c9b2940097bd82473470e3ef1cae9428bfbd5b65becee724b746",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-11T10:52:23+00:00"
-    },
-    {
-      "id": "cf2222769ef65aa3a18cba319c8f7b8b073d1d6dd8c2f35380b9ac103a8065e0",
-      "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
-      "url": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
-      "summary": "A malicious version of the plugin was published to the Jenkins Marketplace late last week. The post Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-11T09:34:55+00:00"
-    },
-    {
-      "id": "fc96930eecae9e7842cbfddb4f5f6d266d9434f6d112d840f8ac9f9b225c98ec",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-11T09:03:02+00:00"
-    },
-    {
-      "id": "461a13d9a385a1850691ccbc95937153286a96691968c12970858ec71415d475",
-      "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-      "url": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-      "summary": "Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline. The post Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-11T08:35:13+00:00"
-    },
-    {
-      "id": "a58382052c73301734e3b1cf73ce4936b67350dc111564e00dcba83b03efffff",
-      "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-      "url": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-      "summary": "Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released. The post New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-11T08:15:28+00:00"
     }
   ]
 }

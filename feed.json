@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T02:58:43.851281+00:00",
+  "updated": "2026-05-22T08:57:12.832084+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
@@ -13,6 +13,42 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-05-23T01:11:00+00:00"
+    },
+    {
+      "id": "7e37d711c07d036c1090956c698c44e3874b0a05d6e06b6d68f4e64349fb5b2c",
+      "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+      "summary": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One. The post TrendAI Patches Apex One Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-22T08:19:24+00:00"
+    },
+    {
+      "id": "67f162c352e6cea32d2951b90bb284a84a3c58b09f602f2f8b9f5b63e0c4f78f",
+      "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+      "summary": "Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated. The post Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-22T07:49:38+00:00"
+    },
+    {
+      "id": "d5b8e7e7cebc023cea665275f15c3fa00f99cb59b328372860bd3dfaee4475a4",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-22T05:47:33+00:00"
+    },
+    {
+      "id": "fc4a50d79e39df5c6380192dad50a753b300f5d434a5478990c8e9aac22134aa",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when acces",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-22T05:36:18+00:00"
     },
     {
       "id": "9c50addc3207c9b2940097bd82473470e3ef1cae9428bfbd5b65becee724b746",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-20T10:52:31+00:00"
-    },
-    {
-      "id": "644d978c8d5926de25cd6a430a340daa2342d09ec034aa1e7b86a4f22e207e21",
-      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-      "url": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-      "summary": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence. The post Virtual Event Today: Threat Detection &amp; Incident Response Summit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-20T10:00:00+00:00"
-    },
-    {
-      "id": "7194ca37dfaa659d951e9b46a6433c065e3b7d5dfdeb7b98b1476ddd0b95af46",
-      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
-      "url": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
-      "summary": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension. The post GitHub Confirms Hack Impacting 3,800 Internal Repositories appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-20T09:28:53+00:00"
-    },
-    {
-      "id": "b76eae1a123f3072d087ad80fe6bc63350bfb57fad2514158bda85c61c3e0c68",
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-20T08:28:26+00:00"
-    },
-    {
-      "id": "1d6d4753038eb57ed10c66e40fa1be489004fe056a70a833284cdddc8f3951d3",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T08:14:08+00:00"
     }
   ]
 }
