@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-23T02:43:58.519895+00:00",
+  "updated": "2026-05-23T08:14:05.015500+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:35:13+00:00"
+    },
+    {
+      "id": "a7ee4e916d26a76f73dd0593c8d96ff4797c248a19c327cd6d49ee73a92217f0",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5),",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:23:48+00:00"
+    },
     {
       "id": "d674dd1878651ed840b08166572e8aae0299d30121bdd94e90405536cc832bac",
       "title": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
@@ -27,7 +45,7 @@
       "id": "7212daac780cce4cf1eecdeab0dc5cbba8cd002bdb7fe664ff341972ea7991b7",
       "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
       "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France ",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First V",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-22T17:35:02+00:00"
@@ -54,7 +72,7 @@
       "id": "35ca5d2e47328b394e655e04c245eac97baff2847d4df6d5253e64b441469449",
       "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
       "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), ",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-22T16:20:32+00:00"
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-21T03:44:11+00:00"
-    },
-    {
-      "id": "00e21afe045f8b0ec661f3da0d1a612a855109209eddc1bd674047b4990751c6",
-      "title": "Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
-      "url": "https://therecord.media/europe-dismantles-first-vpn",
-      "summary": "The international operation targeted a service known as First VPN, which had been marketed for years on Russian-speaking cybercrime forums as a secure way for criminals to evade law enforcement.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-20T23:00:00+00:00"
-    },
-    {
-      "id": "d55b7ff19466d6e0398e9648064c480299c5b2c29c84e7704d4e166c54a04899",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T21:36:24+00:00"
     }
   ]
 }

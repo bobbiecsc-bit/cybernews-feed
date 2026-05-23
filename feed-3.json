@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-23T02:43:58.519895+00:00",
+  "updated": "2026-05-23T08:14:05.015500+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "845e5632080feb69cd448bfb6f4fa7dd070e2c01a7b1668e354e4f77e3161ecb",
+      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
+      "url": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
+      "summary": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-19T09:42:56+00:00"
+    },
+    {
+      "id": "79bc5d85716399fbf480080ea3da4ecd8367cf10cd71ecda88f65b09f70eab14",
+      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+      "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance. \"These vulnerabilities could have ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-19T09:23:15+00:00"
+    },
     {
       "id": "79b6f0e77988a6a0c1b6c213164b6f998ec24cdfb822cdb13ca60f5d26eeb299",
       "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-15T11:06:55+00:00"
-    },
-    {
-      "id": "42e8c65fa106c99e54cfa51bf87c223ba81456fcf063faaf733504d2b1ffa76a",
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-15T11:00:00+00:00"
-    },
-    {
-      "id": "ef5e7bcddb85ecdcdfdca478a2ae27051b08bddacebbe655d34bc908f01f1209",
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identifica",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-15T10:54:44+00:00"
     }
   ]
 }
