@@ -1,12 +1,30 @@
 {
-  "updated": "2026-05-23T13:18:50.013877+00:00",
+  "updated": "2026-05-23T19:04:53.037856+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "02411a6d06c3a3754a64b0b6243b3b45e5c1a75eb7f57b1c162068f2f1cfeb4c",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm.",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-23T16:35:10+00:00"
+    },
+    {
+      "id": "f8e1e1bf87e4fa01af647416aebb15266fbe96b1f0da18e8624681f58b2f0f3f",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Sock",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-23T16:07:51+00:00"
+    },
     {
       "id": "1463dcbfcb3580035dfead7d8223bca9312337be8cf9d1f4124c1d819190bffa",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led b",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive eff",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-23T11:55:35+00:00"
@@ -2233,24 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-12T11:46:00+00:00"
-    },
-    {
-      "id": "a6001f4e5eace5badefd2d1e8ccf2ecb12c9ccf0517334fc2e74cb9882d5cb34",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-12T11:29:36+00:00"
-    },
-    {
-      "id": "e67caac468c786840c54db5d4d212d1626f8626fb33cb2b187a3a96dcb418954",
-      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
-      "url": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
-      "summary": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-12T11:15:51+00:00"
     }
   ]
 }

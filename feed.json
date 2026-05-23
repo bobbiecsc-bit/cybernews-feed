@@ -1,15 +1,33 @@
 {
-  "updated": "2026-05-23T13:18:50.013877+00:00",
+  "updated": "2026-05-23T19:04:53.037856+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
     {
+      "id": "02411a6d06c3a3754a64b0b6243b3b45e5c1a75eb7f57b1c162068f2f1cfeb4c",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm.",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-23T16:35:10+00:00"
+    },
+    {
+      "id": "f8e1e1bf87e4fa01af647416aebb15266fbe96b1f0da18e8624681f58b2f0f3f",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Sock",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-23T16:07:51+00:00"
+    },
+    {
       "id": "1463dcbfcb3580035dfead7d8223bca9312337be8cf9d1f4124c1d819190bffa",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led b",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive eff",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-23T11:55:35+00:00"
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-21T08:14:53+00:00"
-    },
-    {
-      "id": "6a5fd8bfa4b6a28108482a7cba3de7853a54b40705c42a9e61cfd98c3b129e1f",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-21T07:49:48+00:00"
-    },
-    {
-      "id": "dd2888c2126a5e82705cc756c7cefb86a4c201302568b6c1ce14a9c9b53dcd70",
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensiti",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T07:35:53+00:00"
     }
   ]
 }

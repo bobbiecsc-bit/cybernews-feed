@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-23T13:18:50.013877+00:00",
+  "updated": "2026-05-23T19:04:53.037856+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d4296c3802f4cde8071b1757adc3015ce1e2c4f84b39e8d05f569072d39a03f",
+      "title": "ScadaBR",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE-2026-8604, CVE-2026-8605) CVSS Vendor Equipment Vulnerabilitie",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
+    {
+      "id": "6e5b98449204d59632a7473f39aa861f924b4fcff1ab61f16b19f13bb83a5ee2",
+      "title": "ZKTeco CCTV Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZK",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
     {
       "id": "0e138c761eb645b6ab75c38877ce4bcc396377af098b6cc8b6ec79027858535f",
       "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-15T14:02:12+00:00"
-    },
-    {
-      "id": "ac72c445faae58d6a913e1dae41fd9ef116f78af5ba87d4bd14423350e1829c0",
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-15T13:35:04+00:00"
-    },
-    {
-      "id": "224dd37a9310e85605801aee5908462a57cc14820390d9e028f633232dfac242",
-      "title": "CISA orders all federal agencies to patch exploited bug in Cisco SD-WAN systems by Sunday",
-      "url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
-      "summary": "Cisco released a patch for the vulnerability on Thursday, writing in an advisory that it could “allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.”",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-15T13:16:00+00:00"
     }
   ]
 }
