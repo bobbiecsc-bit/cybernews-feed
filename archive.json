@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-23T08:14:05.015500+00:00",
+  "updated": "2026-05-23T13:18:50.013877+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1463dcbfcb3580035dfead7d8223bca9312337be8cf9d1f4124c1d819190bffa",
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T11:55:35+00:00"
+    },
+    {
+      "id": "364fcbee1a5647e81426c528a4baf8b2c70a02f93bee30d9ca45f33d75fed1ed",
+      "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+      "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+      "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-23T11:00:00+00:00"
+    },
+    {
+      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-23T09:51:13+00:00"
+    },
     {
       "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
       "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
@@ -2224,33 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-12T11:15:51+00:00"
-    },
-    {
-      "id": "f6956d3e9be98cd2b53a9c248249507a174b469b30ffce7c7c88a8ef842ce0d2",
-      "title": "Copy.Fail Linux Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
-      "summary": "This is the worst Linux vulnerability in years. TL;DR copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC. It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time strai",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-05-12T11:06:12+00:00"
-    },
-    {
-      "id": "a9c42e9a42c1155fd73f9b6110966c6a2e12105701edacf165f705455baa350a",
-      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
-      "url": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
-      "summary": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-12T10:10:33+00:00"
-    },
-    {
-      "id": "ca69ec3053feeff8b59af523478fdd00bf80436c03712977ae9bc6551cf864e0",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-12T09:23:56+00:00"
     }
   ]
 }
