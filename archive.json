@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-23T19:04:53.037856+00:00",
+  "updated": "2026-05-24T02:56:11.036456+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5b14eff211fa37d873e1960c51f5f8747f6dc6187fe6b658e705410125118af1",
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-23T20:48:23+00:00"
+    },
     {
       "id": "02411a6d06c3a3754a64b0b6243b3b45e5c1a75eb7f57b1c162068f2f1cfeb4c",
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
@@ -2242,15 +2251,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "f9795c5690a3aefc912ba645044f04dff267fd2a99b65d6eb73801bf48c2db51",
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include a",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-12T11:46:00+00:00"
     }
   ]
 }

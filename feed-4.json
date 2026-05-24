@@ -1,10 +1,19 @@
 {
-  "updated": "2026-05-23T19:04:53.037856+00:00",
+  "updated": "2026-05-24T02:56:11.036456+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "84eb2799ddb4d5361d390e703ab018f142a70deba4bbc76cddf5b6975688f92b",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-15T14:02:12+00:00"
+    },
     {
       "id": "ac72c445faae58d6a913e1dae41fd9ef116f78af5ba87d4bd14423350e1829c0",
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -445,15 +454,6 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-05-14T06:08:25+00:00"
-    },
-    {
-      "id": "af295a22300399e4d588ebd02c095ccfbf62ae1ac28d98f8fa59f587f2fb0e21",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T06:00:09+00:00"
     }
   ]
 }
