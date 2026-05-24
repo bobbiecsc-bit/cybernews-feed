@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-24T13:19:38.247124+00:00",
+  "updated": "2026-05-24T19:13:13.558782+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8e55630d49160972b0bcd5dfe241915037acd4e9640b1d7d1a806548b5ad832c",
+      "title": "Kieback & Peter DDC Building Controllers",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback &amp; Peter DDC Building Controllers are affected: DDC4002 &lt;=1.12.14 (CVE-2026-4293) DDC4100 &lt;=1.12.14 (CVE-2026-4293) DDC4200 &lt;",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
+    {
+      "id": "a88a55223f52656b6f930b94eeb81c2335e88aa634839cc0188442764bee11af",
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02",
+      "summary": "View CSAF Summary A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially c",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:00:00+00:00"
+    },
     {
       "id": "ceebdcec4263b212bea8e5b27a69f6d9c70e97b5750d8f86a062ee4129f822ab",
       "title": "ABB CoreSense HM and CoreSense M10",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-15T17:10:42+00:00"
-    },
-    {
-      "id": "309cba5eea4a5d7d4e6502645c1ce5aefd40f0bcb26ad82842d272bf5e10f32a",
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is asses",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-15T17:10:25+00:00"
-    },
-    {
-      "id": "4060511e877a98608648f4898015dbb64c2af6919d8c539be8cfec112ffce93b",
-      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
-      "url": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws appeared first",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-15T14:52:16+00:00"
     }
   ]
 }
