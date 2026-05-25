@@ -1,10 +1,82 @@
 {
-  "updated": "2026-05-25T09:59:40.246042+00:00",
+  "updated": "2026-05-25T14:48:17.732906+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb7e7c60bb00c65a378a6d2a6ff7c7b0b364141f995ba4d1da28bf58a4d19494",
+      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
+      "summary": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges. The post Cisco Patches Critical Vulnerability in Secure Workload appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:04:13+00:00"
+    },
+    {
+      "id": "f3cf9dee61fc7bb26d3201562de2584c53eea46fbf331b51ac0fde6d8cbbd7d7",
+      "title": "ABB Terra AC Wallbox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "6701cdc0194314bcb18b3dc937c80b6bd8e42b2637c343a40d4ea38282309f66",
+      "title": "Hitachi Energy GMS600",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial messages to the server and record the time taken to process them",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "753175e6354a33593beb4e3288bf07aefa05d9b5d621f7a69cb740d533e58c32",
+      "title": "ABB B&R Automation Studio",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed during testing of the affected B&amp;R products, the identified vul",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "bc2b5ce2e936bedbad30398a512f8583cc9396b08542a35b9e0840b412646813",
+      "title": "ABB B&R Automation Runtime",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilities could take over a remote session or execute code in the c",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "98a78a7e166c426032e4e335fe87374941578ac6e9a9d4e688e3f589615a89fa",
+      "title": "ABB B&R PCs",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilities to execute remote code, initiate DoS attacks, conduct DNS c",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "27d99603835b0369e0cf00a6a64f1afeb292bc9a59a76c8613c32a9cfa5a97dc",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulne",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-21T12:00:00+00:00"
+    },
+    {
+      "id": "90c85d6dfd1f9d2a0d398594171f89e9104e6ee49703d1b57a106a74273078af",
+      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+      "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust. That is what makes it worrying. The dange",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-21T11:52:14+00:00"
+    },
     {
       "id": "d13a78c16690b9b40c3a8e2f7ae72418b8c268d3639629b7113d34353015ff3b",
       "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-19T19:35:32+00:00"
-    },
-    {
-      "id": "0b8ca3199140af09aa6258fd81c6f9558655518d2f7158adbb0bf5f144758a6b",
-      "title": "Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network",
-      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
-      "summary": "There is no evidence that the incident has recurred, but the flaw remains unexplained and has not been publicly acknowledged by the company.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-19T19:18:00+00:00"
-    },
-    {
-      "id": "795be80afd7ba2038d49f8de5e0261b8d3b6ce68fdb18af60f3c9a836f8eda33",
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "url": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-19T16:38:12+00:00"
-    },
-    {
-      "id": "165d486898fc9dcbf68ff93ada20e674da19a7f4cfb0510c3df933b3d9d3eff7",
-      "title": "Microsoft disrupts Fox Tempest malware-signing-as-a-service platform tied to ransomware gangs",
-      "url": "https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service",
-      "summary": "The company unsealed a legal case in U.S. District Court on Tuesday detailing the disruption of Fox Tempest — a popular service that has operated since May 2025 and provides cybercriminals with code signing tools.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-19T16:36:00+00:00"
-    },
-    {
-      "id": "23987ff93c89d9d24b6e584bb6f6d370712d6ad4d4a5427ac35dc15095cf4c32",
-      "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
-      "url": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
-      "summary": "Drupal says attackers may develop an exploit for the vulnerability within hours or days. The post Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-19T16:22:18+00:00"
-    },
-    {
-      "id": "0c298810d412e798b7c8cb3698b837f00cf9f9e67f9a95d60c83ec23f0cfcdd5",
-      "title": "Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’",
-      "url": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
-      "summary": "Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software. The post Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-19T16:06:22+00:00"
-    },
-    {
-      "id": "7abd173c0926a5110114be90d6e9b8f6c02ec3641e78a5d46d80c04c335b7f55",
-      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-      "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 20",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-19T14:56:26+00:00"
-    },
-    {
-      "id": "6296797b8f8578744c8aa4b29ef3652caa7c51fcf354fb078802d986a4a96631",
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-19T14:30:22+00:00"
-    },
-    {
-      "id": "09f3cbbe2b2ae13d297ebb78808e5375ca66fe1a6231fa2be2cb5f4da27198a8",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-19T14:16:41+00:00"
     }
   ]
 }
