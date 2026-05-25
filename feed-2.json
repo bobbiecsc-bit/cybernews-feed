@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-25T03:32:08.167790+00:00",
+  "updated": "2026-05-25T09:59:40.246042+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d13a78c16690b9b40c3a8e2f7ae72418b8c268d3639629b7113d34353015ff3b",
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "url": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "summary": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution. The post Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-21T10:58:49+00:00"
+    },
+    {
+      "id": "7712154873da915ae29153e808b169bfd1c9cf144313ec445a60e0303a51d252",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM priv",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T10:55:57+00:00"
+    },
+    {
+      "id": "d5b77950a9cdc89d2fb0f60b4e941ca47aa2e8ab5fd394e301934256040a69fe",
+      "title": "When Identity is the Attack Path",
+      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a mino",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-21T10:30:00+00:00"
+    },
     {
       "id": "abf2554a22cc27beda13f92da45baf30a3b06fd4e3326a695909a3194444978f",
       "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-19T14:16:41+00:00"
-    },
-    {
-      "id": "890ee9b5306e496d61acea2e05693a0af2e3901257fc792a1c1deda54848629e",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-19T14:00:10+00:00"
-    },
-    {
-      "id": "7c9395e663274a19c8446806441184bf3e98f81f8517f51d22440bd3ee3aa775",
-      "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
-      "url": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
-      "summary": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains. The post Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks appeared first ",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-19T13:00:00+00:00"
-    },
-    {
-      "id": "1bbca76c68b78230d597ca659035f258796111e1776f99851d75520c7f527214",
-      "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
-      "url": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
-      "summary": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information. The post Unpatched ChromaDB Vulnerability Can Lead to Server Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:54:21+00:00"
     }
   ]
 }

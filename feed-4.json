@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-25T03:32:08.167790+00:00",
+  "updated": "2026-05-25T09:59:40.246042+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bf218430794855751728197abe329eea53646e6682264d937798a1b6b0a16054",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-15T19:30:33+00:00"
+    },
+    {
+      "id": "09cad3c84ab78d3c6bab7b1f002092326fd326034000e54b677025c55e8159d7",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-15T17:47:25+00:00"
+    },
+    {
+      "id": "4a26b33b7d4985a0cbe684c92982d30bead06ca645a8192e515c16ea60adb85f",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-15T17:10:42+00:00"
+    },
     {
       "id": "309cba5eea4a5d7d4e6502645c1ce5aefd40f0bcb26ad82842d272bf5e10f32a",
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-14T09:45:53+00:00"
-    },
-    {
-      "id": "793b3080561d3715ee10ba306c056220f5a99bd96d31dd75a3ecc20ddf9dc0fc",
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-14T09:25:50+00:00"
-    },
-    {
-      "id": "3f3b97f1aa94249e99b924cb4878298b0b6fdc02dae08bcb5b938e343359883c",
-      "title": "High-Severity Vulnerability Patched in VMware Fusion",
-      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-14T08:42:25+00:00"
-    },
-    {
-      "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T07:34:19+00:00"
     }
   ]
 }

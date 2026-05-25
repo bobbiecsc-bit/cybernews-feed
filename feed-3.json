@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-25T03:32:08.167790+00:00",
+  "updated": "2026-05-25T09:59:40.246042+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "890ee9b5306e496d61acea2e05693a0af2e3901257fc792a1c1deda54848629e",
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-19T14:00:10+00:00"
+    },
+    {
+      "id": "7c9395e663274a19c8446806441184bf3e98f81f8517f51d22440bd3ee3aa775",
+      "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
+      "url": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
+      "summary": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains. The post Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks appeared first ",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-19T13:00:00+00:00"
+    },
+    {
+      "id": "1bbca76c68b78230d597ca659035f258796111e1776f99851d75520c7f527214",
+      "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
+      "url": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
+      "summary": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information. The post Unpatched ChromaDB Vulnerability Can Lead to Server Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-19T12:54:21+00:00"
+    },
     {
       "id": "8e55630d49160972b0bcd5dfe241915037acd4e9640b1d7d1a806548b5ad832c",
       "title": "Kieback & Peter DDC Building Controllers",
@@ -189,7 +216,7 @@
       "id": "220ab014c036cae0a4ff6b624a9c31a7abee8e7edb8d99825e8610b89f30f88c",
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
       "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, a",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region, aiming to investigate and neutralize mal",
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-05-18T17:21:18+00:00"
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-15T19:31:00+00:00"
-    },
-    {
-      "id": "bf218430794855751728197abe329eea53646e6682264d937798a1b6b0a16054",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-15T19:30:33+00:00"
-    },
-    {
-      "id": "09cad3c84ab78d3c6bab7b1f002092326fd326034000e54b677025c55e8159d7",
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-15T17:47:25+00:00"
-    },
-    {
-      "id": "4a26b33b7d4985a0cbe684c92982d30bead06ca645a8192e515c16ea60adb85f",
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-15T17:10:42+00:00"
     }
   ]
 }

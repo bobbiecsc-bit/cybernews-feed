@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-25T03:32:08.167790+00:00",
+  "updated": "2026-05-25T09:59:40.246042+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "793b3080561d3715ee10ba306c056220f5a99bd96d31dd75a3ecc20ddf9dc0fc",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-14T09:25:50+00:00"
+    },
+    {
+      "id": "3f3b97f1aa94249e99b924cb4878298b0b6fdc02dae08bcb5b938e343359883c",
+      "title": "High-Severity Vulnerability Patched in VMware Fusion",
+      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-14T08:42:25+00:00"
+    },
+    {
+      "id": "4bf6ea58910fbc275bc1cb59e645b44ba437739c2ad3e9c907fed3a58cfd5796",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-14T07:34:19+00:00"
+    },
     {
       "id": "6be4313af3deb95af4add011b4b72f0a7aba054b292b784809a13df81c3f3f8d",
       "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
@@ -424,33 +451,6 @@
       "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
       "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potenti",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "1a42b8b3947afe27a60db25236b861f0a0b29ddcd76d67c064aac297026a81c8",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.28.x (CVE-2026-35504) PowerSY",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "ea26b4b27876460e84e078bf015a40029cce5278eacb027bc822fb31c31a85b3",
-      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
-      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with access to local network who successfully exploited this vulnerabilit",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-12T12:00:00+00:00"
-    },
-    {
-      "id": "55b87a30848e2faccfc241d60b9e741b6879c50d51ff4134d7be7fafbcd38391",
-      "title": "ABB AC500 V3 Multiple Vulnerabilities",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
-      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilities could bypass the user management and read visualization fil",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-12T12:00:00+00:00"
