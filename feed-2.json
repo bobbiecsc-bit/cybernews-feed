@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-26T02:51:42.466662+00:00",
+  "updated": "2026-05-26T09:48:53.615473+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b53cb4e5faf5834ac1d4893fbd2d6e4698ff7ea49aecb1239781a487c077f608",
+      "title": "macOS Kernel Memory Corruption Exploit",
+      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
+      "summary": "A group used Anthropic&#8217;s Mythos AI model to help find a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5. News article.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-05-21T16:03:37+00:00"
+    },
+    {
+      "id": "67857f5c64d558e9e734992532089c98a2b61865ba7e9e6eff76e6cc38b9b13b",
+      "title": "UK plans for cybercrime law reform would protect almost no one, experts warn",
+      "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
+      "summary": "The proposals would require researchers to cease activity the moment a vulnerability is identified, meaning they could not confirm it was real, assess its severity or determine its exploitability.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-21T14:47:00+00:00"
+    },
+    {
+      "id": "c6e0e75a63c7b3d192ce0305670aaa08b562e49196b0ceb396ec5f744ad00830",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T14:17:09+00:00"
+    },
+    {
+      "id": "344faee60a6d59cd01552ea284005140eaa5fb2f92a34d730ea8604b81551b2e",
+      "title": "Chinese hackers target telcos with new Linux, Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "summary": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-21T14:00:00+00:00"
+    },
+    {
+      "id": "18c1f138102ed79dbf730861cb7d96f95eee852575af0e23bbe1877369511fde",
+      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-21T13:58:33+00:00"
+    },
     {
       "id": "d3307a1a85256870582e3e9bf09ed316ad8c661255f1f6f06257f2cbe9acf36f",
       "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-05-20T05:12:06+00:00"
-    },
-    {
-      "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T05:08:42+00:00"
-    },
-    {
-      "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
-      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-      "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-      "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credenti",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-20T00:04:48+00:00"
-    },
-    {
-      "id": "d9ff992e146ec402c038b24477bcba47412001e62f44496d32d4e97cf7321d10",
-      "title": "Ukraine says Russia is deploying AI-powered malware on the battlefield",
-      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
-      "summary": "A new report from Ukraine’s National Security and Defense Council says Russia’s use of AI across cyber operations expanded dramatically over the past year, reshaping everything from social engineering campaigns to malware development and creating what Ukrainian officials describe as a growing imbala",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-19T23:00:00+00:00"
-    },
-    {
-      "id": "e36bd5ee339b87ec796adc7312076c349cc44da2fc6c25877094dd12ba0deb03",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-19T22:25:49+00:00"
-    },
-    {
-      "id": "a123ac6ede81b41dcef1d5dfc88619e8a5a5925c7d87a9791df98010b653349b",
-      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-19T21:47:31+00:00"
     }
   ]
 }

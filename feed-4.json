@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-26T02:51:42.466662+00:00",
+  "updated": "2026-05-26T09:48:53.615473+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "46313f10aaeae69b23616c0a3a9900ed14f3a88dec021ec68bc71e62ee4f9551",
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "url": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "summary": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-18T08:34:59+00:00"
+    },
+    {
+      "id": "e3504ebc149e04678753fcdaf49240951869aaa398a964ed59e89d4bc40a2ca2",
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "url": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "summary": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled. The post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-18T07:27:42+00:00"
+    },
+    {
+      "id": "adabc2b03322d8367188c90453e29d25e6935f11e03d74aba46cc2a05a58934e",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-18T07:18:33+00:00"
+    },
+    {
+      "id": "20a829ead15d20652b668b05e3198bb522dee1d6f3737b71e93e657fcf1e89c2",
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-18T06:46:37+00:00"
+    },
+    {
+      "id": "89f8f0099f6f60c7a73471686c709609e125a99e2b3893ad5506a48c637a02f3",
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-18T05:33:20+00:00"
+    },
     {
       "id": "7f023c21cb1891c6630ea440d08ea8e7dcdf8714f4cec53f10fe1cb09b25b293",
       "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-14T12:12:40+00:00"
-    },
-    {
-      "id": "58012a3d930793e52de316c8be04e226a43d731cb6a20ca83729c7705db45731",
-      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
-      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
-      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-14T12:11:15+00:00"
-    },
-    {
-      "id": "a7876498552c6eff80287987a139b5bd4cd533222c3e2790990ae2ee7b78f136",
-      "title": "Siemens Siemens ROS#",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
-      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "850a8ae6d67e63732c1c2b040689391e930fe3472c6acbc5450da1ca30ac337d",
-      "title": "Siemens gWAP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
-      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a specific \"Gadget\" attack chain that allows prototype pollution in o",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "51f61e1dc446ab54c63d27ae0a7b8f056aaeea2ee9177d89d4588691df1a4363",
-      "title": "Siemens Ruggedcom Rox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected produc",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "d8aa0f97c1a3d84c20562652ee0fae87ca8114552b8c625c73a84f46ce598ea0",
-      "title": "Siemens Simcenter Femap",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05",
-      "summary": "View CSAF Summary Simcenter Femap is affected by heap based buffer overflow vulnerability in Datakit library that could be triggered when the application reads files in IPT format. If a user is tricked to open a malicious file with the affected application, an attacker could leverage the vulnerabili",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
     }
   ]
 }
