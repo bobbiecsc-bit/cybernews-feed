@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-26T15:18:34.314268+00:00",
+  "updated": "2026-05-26T20:05:41.171668+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f07ffdd26ec3ee0f9c14f9b3c4e2d7909e0dd76d16026c984f26b872ae4fe834",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-26T19:46:01+00:00"
+    },
+    {
+      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-26T15:48:41+00:00"
+    },
     {
       "id": "62553ee1030378b9696cbe4e5219ce93d8a9d4dbfd6b1585911e1f91520284bf",
       "title": "Lithuania investigates theft of 600,000 state registry records by foreign actor",
@@ -31,6 +49,69 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-26T12:19:43+00:00"
+    },
+    {
+      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
+      "title": "Eppendorf BioFlo 320",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
+      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
+      "title": "ABB LVS MConfig",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "b3399546c4ec50ffdb083da5c43f5684f0a495bf440429a1356922929fffaab1",
+      "title": "ABB AC500 V2",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerabilities in AC500 V2 listed as affected in the advisory. An attacker who successfully exploited this vulnerability could access fragments of Modbus telegrams that have been sent earlier by that PLC The following versions of ABB AC500 V2 are affected: AC50",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "6fa056ceb50d312811470e9c07a518dd895ea37206086804c47a0ef6988b4bd7",
+      "title": "ABB Terra AC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "c2beda6bead378c4331b5194410b7edff82626de5323be51f56c636e39a7e382",
+      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authenticati",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
     },
     {
       "id": "142de8b4f620eb04a8df4e42cbe8d9f16b7261899358b713594f535475288e13",
@@ -373,87 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-05-22T20:01:00+00:00"
-    },
-    {
-      "id": "7212daac780cce4cf1eecdeab0dc5cbba8cd002bdb7fe664ff341972ea7991b7",
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First V",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-22T17:35:02+00:00"
-    },
-    {
-      "id": "c30cb83e705f0ee8845861a55bb71a5744db548572077800f74ce35ad568f07e",
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-22T17:24:52+00:00"
-    },
-    {
-      "id": "0b6df0e7175f640743264120ff90d8b62b94b348a9b62bb648c2df08b9ac7345",
-      "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
-      "url": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
-      "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T17:15:26+00:00"
-    },
-    {
-      "id": "35ca5d2e47328b394e655e04c245eac97baff2847d4df6d5253e64b441469449",
-      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-22T16:20:32+00:00"
-    },
-    {
-      "id": "3860c5de4c9bd0db19aa100f7754c177c1421fec851e42df08b5e420dc8053db",
-      "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
-      "url": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout. The post In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking appeared first ",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T14:07:06+00:00"
-    },
-    {
-      "id": "b91bc3df1bf2192a5d65782db99f12d1a4ecbe9de8894fa2165c58c3106bfad8",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:39:19+00:00"
-    },
-    {
-      "id": "4ce8ff58dc508aa5160e24b70ea24978d418051111c04468f6a250bc02f7db58",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:14:40+00:00"
-    },
-    {
-      "id": "198732095ac8d130e3e2287f7b9a2f6ae611153354089b627f3d59ccc201d21b",
-      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
-      "url": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
-      "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T12:11:03+00:00"
-    },
-    {
-      "id": "26bdb3c668b985901ea8871e1f5168e9c67b4073b9b84e8c2fef13a075637f25",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:42+00:00"
     }
   ]
 }

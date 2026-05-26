@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-26T15:18:34.314268+00:00",
+  "updated": "2026-05-26T20:05:41.171668+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f07ffdd26ec3ee0f9c14f9b3c4e2d7909e0dd76d16026c984f26b872ae4fe834",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-26T19:46:01+00:00"
+    },
+    {
+      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-26T15:48:41+00:00"
+    },
     {
       "id": "62553ee1030378b9696cbe4e5219ce93d8a9d4dbfd6b1585911e1f91520284bf",
       "title": "Lithuania investigates theft of 600,000 state registry records by foreign actor",
@@ -28,6 +46,69 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-26T12:19:43+00:00"
+    },
+    {
+      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
+      "title": "Eppendorf BioFlo 320",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
+      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
+      "title": "ABB LVS MConfig",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "b3399546c4ec50ffdb083da5c43f5684f0a495bf440429a1356922929fffaab1",
+      "title": "ABB AC500 V2",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerabilities in AC500 V2 listed as affected in the advisory. An attacker who successfully exploited this vulnerability could access fragments of Modbus telegrams that have been sent earlier by that PLC The following versions of ABB AC500 V2 are affected: AC50",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "6fa056ceb50d312811470e9c07a518dd895ea37206086804c47a0ef6988b4bd7",
+      "title": "ABB Terra AC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "c2beda6bead378c4331b5194410b7edff82626de5323be51f56c636e39a7e382",
+      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authenticati",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
     },
     {
       "id": "142de8b4f620eb04a8df4e42cbe8d9f16b7261899358b713594f535475288e13",
@@ -2170,87 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-13T13:46:02+00:00"
-    },
-    {
-      "id": "13f73932a6bb6cadf2983c07130ea895985e6c20f7ebf0f14ab2414a6b93174a",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-13T13:00:00+00:00"
-    },
-    {
-      "id": "e655d7a3c5e194de2aa0b49d6d005431205276e6eb108f0cf187ddfd8ce30762",
-      "title": "UK moves to shield security researchers in cybercrime law overhaul",
-      "url": "https://therecord.media/uk-moves-to-shield-security-researchers-cybercrime",
-      "summary": "The proposed reforms, outlined in briefing documents published alongside the King’s Speech opening a new parliamentary session, would update the Computer Misuse Act 1990 as part of a broader national security package focused on cybercrime and digital threats.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-13T12:58:00+00:00"
-    },
-    {
-      "id": "ee307965a59a23092c7a343c644fea6497d36480da3b4d2ae6e77bbf876ae0b5",
-      "title": "Microsoft on pace to break annual vulnerability record as AI-driven patch wave takes hold",
-      "url": "https://therecord.media/microsoft-on-pace-to-break-annual-vulnerability-record-ai",
-      "summary": "Five months into 2026, Microsoft has already patched more than 500 vulnerabilities — although the exact monthly count varies depending on whether analysts include Edge, Chromium and fixes shipped earlier in the month.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-13T12:54:00+00:00"
-    },
-    {
-      "id": "73e540519f8447934ae218b1ec2faa07f04da1e92c3b63eddfe4578d534e15b8",
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-13T12:49:54+00:00"
-    },
-    {
-      "id": "f99a2afe6d25b2c6b9e3a6d0209bf2ce107c090cf037ad23f2db8879972a0b14",
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-13T12:30:38+00:00"
-    },
-    {
-      "id": "6de7bf0726205b4445bd27ced4c859a751e1b159b8088b4cbac697284d325ecd",
-      "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
-      "url": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
-      "summary": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps. The post Government to Scrutinize Instructure Over Canvas Disruption, Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-13T12:13:14+00:00"
-    },
-    {
-      "id": "681af4294cd5103c447ac5718d2340954da0e9af74602db4a2def83b89e92c51",
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece o",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-13T11:52:43+00:00"
-    },
-    {
-      "id": "aeff77dd5166f2b303cf0fb9a4084962d53ed0e00076275f58b66b4741529f3c",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vul",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-13T11:30:00+00:00"
-    },
-    {
-      "id": "a0597fc5cd922d8ce254536034d1c8181163a4fdcee7cca0e380db114b16fec0",
-      "title": "716,000 Impacted by OpenLoop Health Data Breach",
-      "url": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
-      "summary": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems. The post 716,000 Impacted by OpenLoop Health Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-13T11:18:03+00:00"
     }
   ]
 }
