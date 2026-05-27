@@ -1,10 +1,37 @@
 {
-  "updated": "2026-05-27T15:33:44.891776+00:00",
+  "updated": "2026-05-27T20:10:54.364365+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0b8ca3199140af09aa6258fd81c6f9558655518d2f7158adbb0bf5f144758a6b",
+      "title": "Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network",
+      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+      "summary": "There is no evidence that the incident has recurred, but the flaw remains unexplained and has not been publicly acknowledged by the company.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-19T19:18:00+00:00"
+    },
+    {
+      "id": "795be80afd7ba2038d49f8de5e0261b8d3b6ce68fdb18af60f3c9a836f8eda33",
+      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+      "url": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-19T16:38:12+00:00"
+    },
+    {
+      "id": "165d486898fc9dcbf68ff93ada20e674da19a7f4cfb0510c3df933b3d9d3eff7",
+      "title": "Microsoft disrupts Fox Tempest malware-signing-as-a-service platform tied to ransomware gangs",
+      "url": "https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service",
+      "summary": "The company unsealed a legal case in U.S. District Court on Tuesday detailing the disruption of Fox Tempest — a popular service that has operated since May 2025 and provides cybercriminals with code signing tools.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-05-19T16:36:00+00:00"
+    },
     {
       "id": "23987ff93c89d9d24b6e584bb6f6d370712d6ad4d4a5427ac35dc15095cf4c32",
       "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-18T04:05:21+00:00"
-    },
-    {
-      "id": "71eff1c266e731e75983a2a670a1b6329aad71d303a6b277eeb1b73f15107633",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-17T22:30:08+00:00"
-    },
-    {
-      "id": "446b2104854530e9d2f969229bc31f4317982873d47428146580a2a0b297a33d",
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-17T14:43:10+00:00"
-    },
-    {
-      "id": "7b6b6ee37fa4ce90ce18812551159ebeebaab5946862a51282db81944c42ed36",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-17T11:57:53+00:00"
     }
   ]
 }

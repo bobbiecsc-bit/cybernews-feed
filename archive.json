@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-27T15:33:44.891776+00:00",
+  "updated": "2026-05-27T20:10:54.364365+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4d700ab538d9a4de5e07f630fc66d89015052557653e524aadd8d135fa266b0c",
+      "title": "Romanian national sentenced to more than 4 years for hacking Oregon government systems",
+      "url": "https://therecord.media/romanian-national-sentenced-to-over-4-years-oregon-hack",
+      "summary": "Dragomir was arrested in Romania in November 2024 and brought to the U.S. last year to face charges for hacking into the network belonging to Oregon’s Office of Emergency Management.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-27T18:06:00+00:00"
+    },
+    {
+      "id": "d4c1566adb33ca107bd0827927096e6a1669b48045c947bfddc7de1401a4a4cb",
+      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+      "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to s",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-27T16:10:21+00:00"
+    },
     {
       "id": "b68561fe72f141b9e7901de7bafac0fbfb6979d46342ca10c20ea0811f257e46",
       "title": "FBI warns extortion hackers are visiting US law firms to steal data",
@@ -55,6 +73,15 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-05-27T13:20:00+00:00"
+    },
+    {
+      "id": "a2b897f36503cbee32eaf421f0e68ea860710ebfc4d446e859fdd2ffe83b3b4b",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added&nbsp;three&nbsp;new vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398&nbsp;Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321&nbsp;TanStack&nbsp;Unspecified Vulnerability CVE-2026",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-27T12:00:00+00:00"
     },
     {
       "id": "cd790cfe854f8e5b8ad82b472bd0c4702b31c8886058ddd490e444c95511929e",
@@ -2221,33 +2248,6 @@
       "title": "Siemens Ruggedcom Rox",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
       "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affect",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "b26b5e58c8059bd0fdd9e7bd2219db3215fd0e7b47e36156f3cd7dbfead43f2c",
-      "title": "Siemens SENTRON 7KT PAC1261 Data Manager",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-14",
-      "summary": "View CSAF Summary The web server in SENTRON 7KT PAC1261 Data Manager Before V2.1.0 contains a request smuggling vulnerability in the Go Project's net/http package that could allow an attacker to retrieve authorization tokens that can be used to gain administrative control over the device. Siemens ha",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "c2c9316d007ed4d4301e5ba5a73e6f2613ba79dc80b27b9f41611b414767508b",
-      "title": "Siemens Ruggedcom Rox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens has released new versions for the affected products and recommen",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-14T12:00:00+00:00"
-    },
-    {
-      "id": "7a960182ffefc7123eb5f7dc01ec58ffd090f1bc36ea410ce5488d583e0504e0",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-20182&nbsp;Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability&nbsp; This&nbsp;type of vulnerability is a&nbsp;freq",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-14T12:00:00+00:00"
