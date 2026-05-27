@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-27T03:30:47.293177+00:00",
+  "updated": "2026-05-27T09:39:56.179371+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-23T09:51:13+00:00"
+    },
+    {
+      "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:35:13+00:00"
+    },
+    {
+      "id": "a7ee4e916d26a76f73dd0593c8d96ff4797c248a19c327cd6d49ee73a92217f0",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5),",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:23:48+00:00"
+    },
+    {
+      "id": "d674dd1878651ed840b08166572e8aae0299d30121bdd94e90405536cc832bac",
+      "title": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced the creation of a nomination form on Thursday that they said enables “researchers, vendors, and industry partners” to report bugs that need to be added to the Known Exploited Vulnerabilities catalog.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-23T01:11:00+00:00"
+    },
     {
       "id": "4a21e8e58201b79699559ee0be6440aee47c93978225adaca7860a98e608b196",
       "title": "FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-05-21T04:27:01+00:00"
-    },
-    {
-      "id": "54434cf9fcc9ce6bf70e969c0d5c91fc678fd5275f07dc25d9da0fc148f2cebb",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T03:44:11+00:00"
-    },
-    {
-      "id": "00e21afe045f8b0ec661f3da0d1a612a855109209eddc1bd674047b4990751c6",
-      "title": "Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
-      "url": "https://therecord.media/europe-dismantles-first-vpn",
-      "summary": "The international operation targeted a service known as First VPN, which had been marketed for years on Russian-speaking cybercrime forums as a secure way for criminals to evade law enforcement.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-20T23:00:00+00:00"
-    },
-    {
-      "id": "d55b7ff19466d6e0398e9648064c480299c5b2c29c84e7704d4e166c54a04899",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T21:36:24+00:00"
-    },
-    {
-      "id": "d0304851c0fa2e4cc7021ccfcd110403d2f762fef7148f22f58aa76ef17efca0",
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-20T21:19:17+00:00"
     }
   ]
 }

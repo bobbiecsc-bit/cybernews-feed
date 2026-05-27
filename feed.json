@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-27T03:30:47.293177+00:00",
+  "updated": "2026-05-27T09:39:56.179371+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e5fa407495976dd13bc1bf1abb99244cccf7eb88030b22efacafd133a28ba465",
+      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+      "url": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+      "summary": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors. The post LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-27T09:33:45+00:00"
+    },
+    {
+      "id": "70e3a934e0010502440a793e060b0c5dad5531850d9293472632c75a464d9dde",
+      "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
+      "url": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
+      "summary": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms. The post FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-27T08:33:34+00:00"
+    },
+    {
+      "id": "7f2826815512ed176ac5e1e1845e32d4aa81b1cc7ba35978f24ba1c160c591b2",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-27T07:45:52+00:00"
+    },
+    {
+      "id": "18a6f539aae5c3eb073c5133e98a8af1dbc3d68e0cf7c37eb69151427d0b2b32",
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-27T06:55:44+00:00"
+    },
     {
       "id": "19113cd8756f953a6bb0cf6bbe1e85c3eefb3362a9d8908f5f9bc33e97fbc89a",
       "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-23T11:00:00+00:00"
-    },
-    {
-      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-23T09:51:13+00:00"
-    },
-    {
-      "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-23T07:35:13+00:00"
-    },
-    {
-      "id": "a7ee4e916d26a76f73dd0593c8d96ff4797c248a19c327cd6d49ee73a92217f0",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5),",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-23T07:23:48+00:00"
-    },
-    {
-      "id": "d674dd1878651ed840b08166572e8aae0299d30121bdd94e90405536cc832bac",
-      "title": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
-      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced the creation of a nomination form on Thursday that they said enables “researchers, vendors, and industry partners” to report bugs that need to be added to the Known Exploited Vulnerabilities catalog.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-23T01:11:00+00:00"
     }
   ]
 }
