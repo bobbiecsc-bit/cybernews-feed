@@ -1,10 +1,55 @@
 {
-  "updated": "2026-05-28T15:44:00.375968+00:00",
+  "updated": "2026-05-28T20:14:54.272252+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6e708454fcdcdb34dd9cd898d64c1777f617e11a3ca7fbd72a48217b98941c82",
+      "title": "Analysis of a Year of Files Uploaded to DShield Sensors, (Wed, May 27th)",
+      "url": "https://isc.sans.edu/diary/rss/33026",
+      "summary": "Using the data collected over the past year and using Kibana these two ES&#x7c;QL query to summarize the data, this shows the list of the most uploaded threat to two DShield sensors (local and cloud) over the past year. I have sorted the activity by months that shows the evolution of files uploaded ",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-05-28T19:41:55+00:00"
+    },
+    {
+      "id": "1bafa9cd2d612cfc9e009b4e74b60bb9222cb0a937f94c67a232b4afeb2f8b46",
+      "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
+      "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+      "summary": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate. The post Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-28T18:50:49+00:00"
+    },
+    {
+      "id": "426eaedecdda85e153c257ef1d5c371989cb601b8d29fbb188cf230e060ec123",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:25:43+00:00"
+    },
+    {
+      "id": "321db785508b91ec023fd833bf7d2793c8d32b5818827115d16901125d1a99c6",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:24:44+00:00"
+    },
+    {
+      "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arcti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T15:26:04+00:00"
+    },
     {
       "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
       "title": "Carnival Data Breach Exposed 6 Million People",
@@ -102,6 +147,69 @@
       "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
       "source": "Security Week",
       "category": "threat",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
+      "title": "ABB EIBPORT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
+      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "d870a971c541b0107db886ea882248b3369298a65477e183f29bf55ce49120b7",
+      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "6d35f23fa479f633cae1216a29b231ff471a3d36ce8787201238f93c5f401ca4",
+      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "7ba3d390f6e29737df6dd2c7c47bb57844080d3540b3d896e69a095e67fbf59e",
+      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile App",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "f7ae44caedf41396bd14014825d2ebbba6b3aea2e6e7f5d74856521831e6838d",
+      "title": "CP Plus 8 Ch. Network Video Recorder",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the v",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "35ad4d0ac9d1bb21a3ddb06ff42426e9cecf8b3868cb2af8191ffc9eb0f4d2df",
+      "title": "KMW CCTV Security Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416&nbsp; CVSS Vendor Equipment Vulnerabilities",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
       "date": "2026-05-28T12:00:00+00:00"
     },
     {
@@ -346,114 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-27T07:45:52+00:00"
-    },
-    {
-      "id": "18a6f539aae5c3eb073c5133e98a8af1dbc3d68e0cf7c37eb69151427d0b2b32",
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-27T06:55:44+00:00"
-    },
-    {
-      "id": "19113cd8756f953a6bb0cf6bbe1e85c3eefb3362a9d8908f5f9bc33e97fbc89a",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-26T20:07:31+00:00"
-    },
-    {
-      "id": "f07ffdd26ec3ee0f9c14f9b3c4e2d7909e0dd76d16026c984f26b872ae4fe834",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T19:46:01+00:00"
-    },
-    {
-      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T15:48:41+00:00"
-    },
-    {
-      "id": "62553ee1030378b9696cbe4e5219ce93d8a9d4dbfd6b1585911e1f91520284bf",
-      "title": "Lithuania investigates theft of 600,000 state registry records by foreign actor",
-      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
-      "summary": "The Lithuanian Prosecutor General’s Office said Friday that attackers gained unauthorized access to more than 600,000 records managed by the Centre of Registers, the state agency responsible for handling property and legal entity records.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-26T14:14:00+00:00"
-    },
-    {
-      "id": "561f1110ea72812e95fafc1f5ded69760f5d116e7de5ad994cab4d02b8f0b532",
-      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-      "url": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-      "summary": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran. The post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-26T13:26:17+00:00"
-    },
-    {
-      "id": "d1ae3315b4b0ac044b45f2ed4ab12306b9e05ed0b75657dc46962d8025442e3d",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T12:19:43+00:00"
-    },
-    {
-      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
-      "title": "Eppendorf BioFlo 320",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
-      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
-      "title": "ABB LVS MConfig",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
-      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "b3399546c4ec50ffdb083da5c43f5684f0a495bf440429a1356922929fffaab1",
-      "title": "ABB AC500 V2",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerabilities in AC500 V2 listed as affected in the advisory. An attacker who successfully exploited this vulnerability could access fragments of Modbus telegrams that have been sent earlier by that PLC The following versions of ABB AC500 V2 are affected: AC50",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
     }
   ]
 }

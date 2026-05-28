@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-28T15:44:00.375968+00:00",
+  "updated": "2026-05-28T20:14:54.272252+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6e708454fcdcdb34dd9cd898d64c1777f617e11a3ca7fbd72a48217b98941c82",
+      "title": "Analysis of a Year of Files Uploaded to DShield Sensors, (Wed, May 27th)",
+      "url": "https://isc.sans.edu/diary/rss/33026",
+      "summary": "Using the data collected over the past year and using Kibana these two ES&#x7c;QL query to summarize the data, this shows the list of the most uploaded threat to two DShield sensors (local and cloud) over the past year. I have sorted the activity by months that shows the evolution of files uploaded ",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-05-28T19:41:55+00:00"
+    },
+    {
+      "id": "1bafa9cd2d612cfc9e009b4e74b60bb9222cb0a937f94c67a232b4afeb2f8b46",
+      "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
+      "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+      "summary": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate. The post Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-28T18:50:49+00:00"
+    },
+    {
+      "id": "426eaedecdda85e153c257ef1d5c371989cb601b8d29fbb188cf230e060ec123",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:25:43+00:00"
+    },
+    {
+      "id": "321db785508b91ec023fd833bf7d2793c8d32b5818827115d16901125d1a99c6",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:24:44+00:00"
+    },
+    {
+      "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arcti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T15:26:04+00:00"
+    },
     {
       "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
       "title": "Carnival Data Breach Exposed 6 Million People",
@@ -99,6 +144,69 @@
       "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
       "source": "Security Week",
       "category": "threat",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
+      "title": "ABB EIBPORT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
+      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "d870a971c541b0107db886ea882248b3369298a65477e183f29bf55ce49120b7",
+      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "6d35f23fa479f633cae1216a29b231ff471a3d36ce8787201238f93c5f401ca4",
+      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "7ba3d390f6e29737df6dd2c7c47bb57844080d3540b3d896e69a095e67fbf59e",
+      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile App",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "f7ae44caedf41396bd14014825d2ebbba6b3aea2e6e7f5d74856521831e6838d",
+      "title": "CP Plus 8 Ch. Network Video Recorder",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the v",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "35ad4d0ac9d1bb21a3ddb06ff42426e9cecf8b3868cb2af8191ffc9eb0f4d2df",
+      "title": "KMW CCTV Security Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416&nbsp; CVSS Vendor Equipment Vulnerabilities",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
       "date": "2026-05-28T12:00:00+00:00"
     },
     {
@@ -463,7 +571,7 @@
     },
     {
       "id": "c2beda6bead378c4331b5194410b7edff82626de5323be51f56c636e39a7e382",
-      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
+      "title": "ABB Ability Zenon Remote Transport Vulnerability (Update A)",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
       "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authenticati",
       "source": "CISA Alerts",
@@ -2143,114 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-05-15T10:54:44+00:00"
-    },
-    {
-      "id": "6d47f69e3dd508ef36c3438ff94df7711ba927192a63a22f026c99e0453a7fd5",
-      "title": "OpenAI Hit by TanStack Supply Chain Attack",
-      "url": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
-      "summary": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-15T10:37:00+00:00"
-    },
-    {
-      "id": "1dd6030edd7b4de4b939f6b7461e3471ad9b9c0dc28f26fd936836e116b320f5",
-      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
-      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
-      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-15T09:47:09+00:00"
-    },
-    {
-      "id": "3e8a4c15a7e65ae9d07cda7a3b2395916173542ea43cd60412b0ea006ce1de0c",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-15T09:40:42+00:00"
-    },
-    {
-      "id": "a9fdecd3ea617473fcf516914b1cf91461b2ac83750573482c6de6eb3496946c",
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "summary": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components. The post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-15T07:25:15+00:00"
-    },
-    {
-      "id": "31fdc9822ea7b527bef3ff65db17430a2386098599cc99e4b3d563f16b3a908e",
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "url": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "summary": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616. The post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-15T06:28:46+00:00"
-    },
-    {
-      "id": "813d5d1dd99f0d48bf32aa926a8b0dfd42825175f5553a4b0e0c954933d875d0",
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-15T06:19:04+00:00"
-    },
-    {
-      "id": "5806f447b99d840f8a9b1cf67ddc807a8697b7a63dfd1cb3f80260beb98c57fa",
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-15T05:28:03+00:00"
-    },
-    {
-      "id": "642776f2920f2f75cfb23f8d2662e30c7aeb609193b13abbdc2793789a3041a9",
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-14T22:50:36+00:00"
-    },
-    {
-      "id": "987fbb6a6a300fa76bcc8b023d352c65da31a44a27471c79178fd12da3200d01",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T21:07:17+00:00"
-    },
-    {
-      "id": "9a1a72799f11f909867a5984d6ac9ce42a48620e42929ca1a7e1237ee7cdfd71",
-      "title": "OpenAI asks macOS users to update after TanStack npm supply chain attack",
-      "url": "https://therecord.media/openai-asks-macos-users-to-update-tanstack-npm",
-      "summary": "The actions are being taken in light of an expanding supply chain campaign impacting the popular open-source library TanStack and additional npm and PyPI packages tied to several AI companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-14T20:26:00+00:00"
-    },
-    {
-      "id": "21a9615c326f6ca861a4f8dfc2f09bb81efab6ebb5125194d715d3810d4a972c",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-14T20:09:56+00:00"
-    },
-    {
-      "id": "22f033ba062e3ccc53394ea1a8b6b5d1bcb937a322fcb06189da9e08617fd287",
-      "title": "OpenAI confirms security breach in TanStack supply chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-14T19:07:24+00:00"
     }
   ]
 }
