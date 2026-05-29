@@ -1,10 +1,28 @@
 {
-  "updated": "2026-05-29T02:54:34.182648+00:00",
+  "updated": "2026-05-29T09:48:12.495838+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "364fcbee1a5647e81426c528a4baf8b2c70a02f93bee30d9ca45f33d75fed1ed",
+      "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+      "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+      "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-23T11:00:00+00:00"
+    },
+    {
+      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-23T09:51:13+00:00"
+    },
     {
       "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
       "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-21T06:54:01+00:00"
-    },
-    {
-      "id": "03ce33948c8adda410c949ec32a1efed47628dfacecfd177915411cc29723466",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp; The development comes as the Nx team revealed that the ext",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-21T04:27:01+00:00"
-    },
-    {
-      "id": "54434cf9fcc9ce6bf70e969c0d5c91fc678fd5275f07dc25d9da0fc148f2cebb",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T03:44:11+00:00"
     }
   ]
 }
