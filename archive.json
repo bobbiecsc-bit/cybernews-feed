@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-29T14:56:02.175103+00:00",
+  "updated": "2026-05-29T20:21:00.790719+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "117a3884185389532a3b0218efdb77561465dea3b4a2f4c996eb3a2d24e1ee10",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-29T18:21:36+00:00"
+    },
+    {
+      "id": "3c8d026b6307fc0007f5a52e9a8f53cf72da20c9583d1de97e3fe9c703d10a6d",
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-29T18:08:47+00:00"
+    },
+    {
+      "id": "20ea1f70b7865e02249209fc79cea35ae082dca7fb66dc9568f0513b428db4e7",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhis",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-29T18:07:12+00:00"
+    },
+    {
+      "id": "1d6d243d6c5da704023c1df8848fdfbfe00dfb69550b398d8aa9cd5ceda0e0eb",
+      "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+      "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks appe",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-29T16:20:49+00:00"
+    },
     {
       "id": "be078693e6bef59b3db90196e67e89df9324ee9b04f8c1daccb760ac6b44d0eb",
       "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
@@ -10,6 +46,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-29T14:49:58+00:00"
+    },
+    {
+      "id": "e11c268779d002e0c7ec1467f425fbf3f102acb98190144549fa7c9afe43eab1",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reac",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-29T14:39:56+00:00"
     },
     {
       "id": "0555d487c7fded2431241f861d9a932ef507b953530ae18a4f8458bae4c53598",
@@ -55,6 +100,15 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-29T12:59:37+00:00"
+    },
+    {
+      "id": "933e2719244b7cc32aa5de9488ae60ebcf2302aa1c0d157d30d21e0ee6a8e3aa",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and pose",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-29T12:00:00+00:00"
     },
     {
       "id": "101108663e25444de8e2bf6ea96c155e9430b329f1cbb45585ed1e0f87e01e8d",
@@ -2197,60 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-17T14:43:10+00:00"
-    },
-    {
-      "id": "7b6b6ee37fa4ce90ce18812551159ebeebaab5946862a51282db81944c42ed36",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-17T11:57:53+00:00"
-    },
-    {
-      "id": "42fc5f50e98cee5caa6c444b645268496a69f1ca79a8cb31d5b01771cc1f2d37",
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-17T07:13:33+00:00"
-    },
-    {
-      "id": "189314d5a4d0ae05c8142a0561ddffa522f25afef66e2bf0f4b3d1abeb160dd8",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenti",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-16T20:55:44+00:00"
-    },
-    {
-      "id": "2458d5eedbd9743733d5ff97fdd14c030612c5b0908f3c7e4e6292a2f135f7ed",
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. T",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-16T15:20:48+00:00"
-    },
-    {
-      "id": "27a50050ba11a35500cbc1bea8a106a0bc3991b39bc539cc47635df8442b0fa4",
-      "title": "PoC Code Published for Critical NGINX Vulnerability",
-      "url": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
-      "summary": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-16T10:02:00+00:00"
-    },
-    {
-      "id": "e5c1610fbfe9066c8cdf00e0113133112a1d50d986cee771363322a852a5e5a4",
-      "title": "More than $10 million stolen from crypto platform THORChain",
-      "url": "https://therecord.media/more-than-10-million-stolen-crypto-platform-thorchain",
-      "summary": "THORChain officials said the investigation into the incident is ongoing but explained that one of their six vaults was compromised, leading to a loss of about $10.7 million.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-15T19:31:00+00:00"
     }
   ]
 }
