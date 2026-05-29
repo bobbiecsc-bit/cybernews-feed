@@ -1,10 +1,91 @@
 {
-  "updated": "2026-05-29T09:48:12.495838+00:00",
+  "updated": "2026-05-29T14:56:02.175103+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d13a78c16690b9b40c3a8e2f7ae72418b8c268d3639629b7113d34353015ff3b",
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "url": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "summary": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution. The post Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-21T10:58:49+00:00"
+    },
+    {
+      "id": "7712154873da915ae29153e808b169bfd1c9cf144313ec445a60e0303a51d252",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM priv",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T10:55:57+00:00"
+    },
+    {
+      "id": "d5b77950a9cdc89d2fb0f60b4e941ca47aa2e8ab5fd394e301934256040a69fe",
+      "title": "When Identity is the Attack Path",
+      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a mino",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-21T10:30:00+00:00"
+    },
+    {
+      "id": "abf2554a22cc27beda13f92da45baf30a3b06fd4e3326a695909a3194444978f",
+      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+      "url": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+      "summary": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition. The post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T09:52:05+00:00"
+    },
+    {
+      "id": "88d8f9b069c65445dad658ff12566b98ac6679dc095c2ef31ae39ec607c4a5fa",
+      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+      "url": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+      "summary": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’. The post Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T09:37:08+00:00"
+    },
+    {
+      "id": "239593a18376ea3ae82af879760360c7049a688b748374ed20248da50c548f0c",
+      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-21T08:14:53+00:00"
+    },
+    {
+      "id": "6a5fd8bfa4b6a28108482a7cba3de7853a54b40705c42a9e61cfd98c3b129e1f",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:49:48+00:00"
+    },
+    {
+      "id": "dd2888c2126a5e82705cc756c7cefb86a4c201302568b6c1ce14a9c9b53dcd70",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensiti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-21T07:35:53+00:00"
+    },
+    {
+      "id": "8023fe3bb9367bfc5ce6dfed3ab1417f624c381565a4b9aa28276e9ded60bac6",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-21T06:54:01+00:00"
+    },
     {
       "id": "03ce33948c8adda410c949ec32a1efed47628dfacecfd177915411cc29723466",
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-19T14:16:41+00:00"
-    },
-    {
-      "id": "890ee9b5306e496d61acea2e05693a0af2e3901257fc792a1c1deda54848629e",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-19T14:00:10+00:00"
-    },
-    {
-      "id": "7c9395e663274a19c8446806441184bf3e98f81f8517f51d22440bd3ee3aa775",
-      "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
-      "url": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
-      "summary": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains. The post Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks appeared first ",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-19T13:00:00+00:00"
-    },
-    {
-      "id": "1bbca76c68b78230d597ca659035f258796111e1776f99851d75520c7f527214",
-      "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
-      "url": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
-      "summary": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information. The post Unpatched ChromaDB Vulnerability Can Lead to Server Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:54:21+00:00"
-    },
-    {
-      "id": "8e55630d49160972b0bcd5dfe241915037acd4e9640b1d7d1a806548b5ad832c",
-      "title": "Kieback & Peter DDC Building Controllers",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback &amp; Peter DDC Building Controllers are affected: DDC4002 &lt;=1.12.14 (CVE-2026-4293) DDC4100 &lt;=1.12.14 (CVE-2026-4293) DDC4200 &lt;",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "a88a55223f52656b6f930b94eeb81c2335e88aa634839cc0188442764bee11af",
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02",
-      "summary": "View CSAF Summary A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges on the PA-Series and VM-Series firewalls by sending specially c",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "ceebdcec4263b212bea8e5b27a69f6d9c70e97b5750d8f86a062ee4129f822ab",
-      "title": "ABB CoreSense HM and CoreSense M10",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01",
-      "summary": "View CSAF Summary An update is available that resolves vulnerability in the product versions listed as affected in this advisory. A path traversal vulnerability in these products can allow unauthenticated users to gain access to restricted directories. Exploiting this vulnerability can lead to compl",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "5d4296c3802f4cde8071b1757adc3015ce1e2c4f84b39e8d05f569072d39a03f",
-      "title": "ScadaBR",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE-2026-8604, CVE-2026-8605) CVSS Vendor Equipment Vulnerabilitie",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "6e5b98449204d59632a7473f39aa861f924b4fcff1ab61f16b19f13bb83a5ee2",
-      "title": "ZKTeco CCTV Cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZK",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-19T12:00:00+00:00"
-    },
-    {
-      "id": "0e138c761eb645b6ab75c38877ce4bcc396377af098b6cc8b6ec79027858535f",
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.&nbsp; The targets of the platform received a message asking them to enter a short code at microsoft.com/devic",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T11:30:00+00:00"
     }
   ]
 }
