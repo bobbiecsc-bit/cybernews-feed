@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-30T13:22:47.854906+00:00",
+  "updated": "2026-05-30T19:08:02.019875+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "32bc8688ad1e8269d4bd997beef8f216120c61499338c9b8b930b922e43a347d",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-30T18:02:51+00:00"
+    },
+    {
+      "id": "c4ea4a34113596e46d0009aa34aab5862acfd706ddd31a4d62f892327a0d6e8a",
+      "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
+      "url": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
+      "summary": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure. The post Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say appeared first on Securi",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-30T16:00:49+00:00"
+    },
+    {
+      "id": "06827a7135eb54229f7ff8390eadce6fe3543d3dfcbdce64a08bac1898bb7463",
+      "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
+      "url": "https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/",
+      "summary": "The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow. The post Exploit Code Published for Critical Flowise RCE Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-30T15:55:59+00:00"
+    },
+    {
+      "id": "e9a38cc4920196ee7b017d7db53a93720422e8e13acb6304f9cc027b103416e6",
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-30T14:16:08+00:00"
+    },
     {
       "id": "84667f8f5b261a1d79750a74ec9f738cf459ec8182b7c313fed6decfa59e0e78",
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
@@ -2215,42 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-18T07:18:33+00:00"
-    },
-    {
-      "id": "20a829ead15d20652b668b05e3198bb522dee1d6f3737b71e93e657fcf1e89c2",
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-18T06:46:37+00:00"
-    },
-    {
-      "id": "89f8f0099f6f60c7a73471686c709609e125a99e2b3893ad5506a48c637a02f3",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-18T05:33:20+00:00"
-    },
-    {
-      "id": "7f023c21cb1891c6630ea440d08ea8e7dcdf8714f4cec53f10fe1cb09b25b293",
-      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
-      "url": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
-      "summary": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products. The post Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-18T04:05:21+00:00"
-    },
-    {
-      "id": "71eff1c266e731e75983a2a670a1b6329aad71d303a6b277eeb1b73f15107633",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-17T22:30:08+00:00"
     }
   ]
 }

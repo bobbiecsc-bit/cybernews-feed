@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-30T13:22:47.854906+00:00",
+  "updated": "2026-05-30T19:08:02.019875+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e36bd5ee339b87ec796adc7312076c349cc44da2fc6c25877094dd12ba0deb03",
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-19T22:25:49+00:00"
+    },
+    {
+      "id": "a123ac6ede81b41dcef1d5dfc88619e8a5a5925c7d87a9791df98010b653349b",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-19T21:47:31+00:00"
+    },
+    {
+      "id": "7a3ef8c14d5f3158814d8abf84ca0408d86ce86f94daa09cffbf0e084882df5f",
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-19T19:35:32+00:00"
+    },
+    {
+      "id": "0b8ca3199140af09aa6258fd81c6f9558655518d2f7158adbb0bf5f144758a6b",
+      "title": "Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network",
+      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+      "summary": "There is no evidence that the incident has recurred, but the flaw remains unexplained and has not been publicly acknowledged by the company.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-19T19:18:00+00:00"
+    },
     {
       "id": "795be80afd7ba2038d49f8de5e0261b8d3b6ce68fdb18af60f3c9a836f8eda33",
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-18T07:18:33+00:00"
-    },
-    {
-      "id": "20a829ead15d20652b668b05e3198bb522dee1d6f3737b71e93e657fcf1e89c2",
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-18T06:46:37+00:00"
-    },
-    {
-      "id": "89f8f0099f6f60c7a73471686c709609e125a99e2b3893ad5506a48c637a02f3",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-18T05:33:20+00:00"
-    },
-    {
-      "id": "7f023c21cb1891c6630ea440d08ea8e7dcdf8714f4cec53f10fe1cb09b25b293",
-      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
-      "url": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
-      "summary": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products. The post Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-18T04:05:21+00:00"
-    },
-    {
-      "id": "71eff1c266e731e75983a2a670a1b6329aad71d303a6b277eeb1b73f15107633",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-17T22:30:08+00:00"
     }
   ]
 }
