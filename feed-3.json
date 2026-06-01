@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-01T17:32:52.408379+00:00",
+  "updated": "2026-06-01T21:29:05.983108+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1ae3315b4b0ac044b45f2ed4ab12306b9e05ed0b75657dc46962d8025442e3d",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-26T12:19:43+00:00"
+    },
+    {
+      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
+      "title": "Eppendorf BioFlo 320",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
+      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
+      "title": "ABB LVS MConfig",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
     {
       "id": "b3399546c4ec50ffdb083da5c43f5684f0a495bf440429a1356922929fffaab1",
       "title": "ABB AC500 V2",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-22T16:20:32+00:00"
-    },
-    {
-      "id": "3860c5de4c9bd0db19aa100f7754c177c1421fec851e42df08b5e420dc8053db",
-      "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
-      "url": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout. The post In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking appeared first ",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T14:07:06+00:00"
-    },
-    {
-      "id": "b91bc3df1bf2192a5d65782db99f12d1a4ecbe9de8894fa2165c58c3106bfad8",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:39:19+00:00"
-    },
-    {
-      "id": "4ce8ff58dc508aa5160e24b70ea24978d418051111c04468f6a250bc02f7db58",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:14:40+00:00"
-    },
-    {
-      "id": "198732095ac8d130e3e2287f7b9a2f6ae611153354089b627f3d59ccc201d21b",
-      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
-      "url": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
-      "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T12:11:03+00:00"
-    },
-    {
-      "id": "26bdb3c668b985901ea8871e1f5168e9c67b4073b9b84e8c2fef13a075637f25",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:42+00:00"
     }
   ]
 }

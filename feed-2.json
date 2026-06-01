@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-01T17:32:52.408379+00:00",
+  "updated": "2026-06-01T21:29:05.983108+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9316565e30e3af6d9ba10d7329a1ddf74b8f5375463867a3a443aea02dfa8f39",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-28T14:25:43+00:00"
+    },
+    {
+      "id": "8659630f756788b0e2011cfea1109dcee9c877f5ff0a9b58612ac8020ef23a60",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-28T14:01:11+00:00"
+    },
+    {
+      "id": "7a74ffa0fb7d124c3bf2daed36e293f0b5d9378a6cdc574212c7bbd67992ae3b",
+      "title": "Cruise giant Carnival confirms data breach affecting nearly 6 million people",
+      "url": "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
+      "summary": "The company said the threat actor gained access to a limited portion of its IT environment last month after compromising an employee account. By the end of April, Carnival determined that the attacker had copied personal information from its systems.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-28T14:01:00+00:00"
+    },
+    {
+      "id": "cfe9b1b2ba914abefe2b5ee40b83b9353cef0865f0179d437c9d5d4999942dec",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T13:53:52+00:00"
+    },
+    {
+      "id": "ef06d61235dad0a64a19d6f9d8c8be1aee39f9b5c5c7d6f12ce72d08980e8c91",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile som",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-28T13:33:16+00:00"
+    },
     {
       "id": "73943f7051f9f667dfa3376587321de8da9a88fe33bba7e38f5d95d95bed0d4b",
       "title": "Russia conducting daily attacks on UK 'from seabed to cyberspace,' spy chief warns",
@@ -61,7 +106,7 @@
     },
     {
       "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
       "source": "CISA Alerts",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-05-26T13:26:17+00:00"
-    },
-    {
-      "id": "d1ae3315b4b0ac044b45f2ed4ab12306b9e05ed0b75657dc46962d8025442e3d",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T12:19:43+00:00"
-    },
-    {
-      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
-      "title": "Eppendorf BioFlo 320",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
-      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
-      "title": "ABB LVS MConfig",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
-      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
     }
   ]
 }

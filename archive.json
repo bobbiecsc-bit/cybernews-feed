@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-01T17:32:52.408379+00:00",
+  "updated": "2026-06-01T21:29:05.983108+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
+      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
+      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
+      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-01T20:28:00+00:00"
+    },
+    {
+      "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
+      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
+      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T18:19:23+00:00"
+    },
+    {
+      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-01T18:17:13+00:00"
+    },
+    {
+      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-01T17:40:28+00:00"
+    },
     {
       "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
       "title": "WordPress malware campaign hides payloads in Steam profiles",
@@ -55,6 +91,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-01T12:30:27+00:00"
+    },
+    {
+      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:00:00+00:00"
     },
     {
       "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
@@ -508,7 +553,7 @@
     },
     {
       "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
       "source": "CISA Alerts",
@@ -2206,51 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-18T21:42:20+00:00"
-    },
-    {
-      "id": "4aa1347c0774fd6175d5f34a800f716d886a9c18a1494d6eb9ed22fa84407c19",
-      "title": "More than 200 arrested in cyber raids aimed at Middle East scam networks",
-      "url": "https://therecord.media/more-than-200-arrested-interpol-middle-east-scams",
-      "summary": "Investigators found hundreds of compromised devices that were used as part of the cybercriminal operation and notified device owners as part of the raids.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-18T20:52:00+00:00"
-    },
-    {
-      "id": "7645ab8ebf923e8ebee55e57051e6ba259e0f1fc8a99a75c60a3ecb0af7ce5f0",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public arc",
-      "source": "Krebs on Security",
-      "category": "breach",
-      "date": "2026-05-18T20:48:21+00:00"
-    },
-    {
-      "id": "78719e57923030ead0e2a7013fc4db2d69186b84c20b48e08d65f610702ca45c",
-      "title": "Grafana refuses to pay ransom after codebase theft",
-      "url": "https://therecord.media/grafana-refuses-to-pay-ransom-codebase-theft",
-      "summary": "On Saturday night, the company released a statement confirming the incident and outlining their decision not to pay a ransom issued by the hackers behind the attack.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-18T17:50:00+00:00"
-    },
-    {
-      "id": "70e54c0073fa729f2ded19c5b08d725a3ef9181fdf99e90ff23dbe1427019602",
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-18T17:28:02+00:00"
-    },
-    {
-      "id": "220ab014c036cae0a4ff6b624a9c31a7abee8e7edb8d99825e8610b89f30f88c",
-      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region, aiming to investigate and neutralize mal",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-18T17:21:18+00:00"
     }
   ]
 }
