@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-01T03:42:57.066302+00:00",
+  "updated": "2026-06-01T11:26:32.129974+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1d6d4753038eb57ed10c66e40fa1be489004fe056a70a833284cdddc8f3951d3",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T08:14:08+00:00"
+    },
+    {
+      "id": "de9688317f94f094f64c4ec6f37c42f607b1d2d94eae3c72acdd997cd253c36b",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-20T07:31:15+00:00"
+    },
+    {
+      "id": "07670e357af79b8cfe2ab2d1abbcf18a5d1436bfda8760469de0b3bbefd58a97",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-20T05:12:06+00:00"
+    },
+    {
+      "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T05:08:42+00:00"
+    },
     {
       "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
       "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-18T10:38:22+00:00"
-    },
-    {
-      "id": "07c859cff47157bdeb8e8485ce5e6f277dc974483c584bb8cb4ba9e7b360899c",
-      "title": "First Shai-Hulud Worm Clones Emerge",
-      "url": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
-      "summary": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers. The post First Shai-Hulud Worm Clones Emerge appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-18T09:45:15+00:00"
-    },
-    {
-      "id": "d5bf59c9b653dbf00bac953827255ef1c47fafb160cdd0195029e0a49d8e6590",
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-18T08:57:34+00:00"
-    },
-    {
-      "id": "d9ae04ec24e441d53fc9de942e972b2d10f78d4a4a82463baf2d327875df83e3",
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axoi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-18T08:57:26+00:00"
-    },
-    {
-      "id": "46313f10aaeae69b23616c0a3a9900ed14f3a88dec021ec68bc71e62ee4f9551",
-      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
-      "url": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
-      "summary": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-18T08:34:59+00:00"
     }
   ]
 }
