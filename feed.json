@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-02T16:17:36.747386+00:00",
+  "updated": "2026-06-02T20:43:30.316444+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ad76fbced260f20e6db3c925551404a14bebfe577391c58e5b56fe22b3c29993",
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-02T20:01:20+00:00"
+    },
+    {
+      "id": "250420aaa4da3a8e8ab4bbb442d8ca85efe0a28ceece170d92ee588cce366966",
+      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw ha",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-02T18:46:00+00:00"
+    },
+    {
+      "id": "7735a1dbbacdf9027ee978f4117da3f658d99135207da52b5a0ceb32a1c85082",
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-02T18:21:49+00:00"
+    },
+    {
+      "id": "61f81be3659e536f429db4dd59866158ac5284158b79c42a6a0c1ec2a8170d0a",
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-02T18:14:42+00:00"
+    },
+    {
+      "id": "c1c9745141eaa5938e5c41d064a05a82f53a89235066c76d052a1c919ed22225",
+      "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
+      "url": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
+      "summary": "As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control. The post Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis appeared first on Security",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-02T16:35:38+00:00"
+    },
     {
       "id": "86fc0ec414bb9072dadd18f8a6964b5cdcedcb7545e0bfe5cd1107dbbb214e6d",
       "title": "Russia claims foreign spy agencies hacked officials' phones",
@@ -76,6 +121,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-02T12:25:52+00:00"
+    },
+    {
+      "id": "4bdc28d1f69fa6e8b94281b33a16c151d28d57d5f8a7246361b0f1c83a99dc41",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-02T12:00:00+00:00"
     },
     {
       "id": "0ad1d907028712fff400a4cf79270aa6728984cf8673be4ac0240f50c062ceab",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-30T15:55:59+00:00"
-    },
-    {
-      "id": "e9a38cc4920196ee7b017d7db53a93720422e8e13acb6304f9cc027b103416e6",
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-30T14:16:08+00:00"
-    },
-    {
-      "id": "84667f8f5b261a1d79750a74ec9f738cf459ec8182b7c313fed6decfa59e0e78",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-30T06:41:26+00:00"
-    },
-    {
-      "id": "117a3884185389532a3b0218efdb77561465dea3b4a2f4c996eb3a2d24e1ee10",
-      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-29T18:21:36+00:00"
-    },
-    {
-      "id": "3c8d026b6307fc0007f5a52e9a8f53cf72da20c9583d1de97e3fe9c703d10a6d",
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-29T18:08:47+00:00"
-    },
-    {
-      "id": "20ea1f70b7865e02249209fc79cea35ae082dca7fb66dc9568f0513b428db4e7",
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhis",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-29T18:07:12+00:00"
-    },
-    {
-      "id": "1d6d243d6c5da704023c1df8848fdfbfe00dfb69550b398d8aa9cd5ceda0e0eb",
-      "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
-      "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks appe",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-29T16:20:49+00:00"
     }
   ]
 }
