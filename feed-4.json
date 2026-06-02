@@ -1,10 +1,145 @@
 {
-  "updated": "2026-06-02T10:17:46.588450+00:00",
+  "updated": "2026-06-02T16:17:36.747386+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3865e9efa611160db7ee3faf7f58b92e4799759c40fc2f02f3a740ab36efea53",
+      "title": "Laravel-Lang Packages Poisoned for Malware Delivery",
+      "url": "https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/",
+      "summary": "Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets. The post Laravel-Lang Packages Poisoned for Malware Delivery appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-25T10:41:07+00:00"
+    },
+    {
+      "id": "e588950684f2c209eb1e0f7caf607b95f2c7d9316e1057b17c4f19bccbd268df",
+      "title": "DocketWise Data Breach Impacts 143,000",
+      "url": "https://www.securityweek.com/docketwise-data-breach-impacts-143000/",
+      "summary": "Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories. The post DocketWise Data Breach Impacts 143,000 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-25T09:37:27+00:00"
+    },
+    {
+      "id": "dd658e7b03a2ed374c646ce378a1cefd5bd520449819fee13d5041010d0c53fc",
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain tha",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-25T09:32:54+00:00"
+    },
+    {
+      "id": "649801c4e4e8a162c358582b33b88578c8527d73f2df25a1b41dd2116830d794",
+      "title": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
+      "summary": "Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens. The post Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-25T07:40:55+00:00"
+    },
+    {
+      "id": "9c0dddc9f2726ce5c20822498684bd6eb6b0a5ef41d37e3679bf1392f0130612",
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 202",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-25T05:59:13+00:00"
+    },
+    {
+      "id": "30253856bf16f2b19accefda5db5b322e55546ba1969aebc8ea8b7691bf39758",
+      "title": "Wireshark 4.6.6 Released, (Sun, May 24th)",
+      "url": "https://isc.sans.edu/diary/rss/33010",
+      "summary": "Wireshark release 4.6.6 fixes 1 vulnerability and 11 bugs.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-05-24T16:38:21+00:00"
+    },
+    {
+      "id": "0eb501df97cbed5fefdfcd676c2f70c99dd980aa5695439dae4cc970778b41b1",
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-24T14:12:32+00:00"
+    },
+    {
+      "id": "5b14eff211fa37d873e1960c51f5f8747f6dc6187fe6b658e705410125118af1",
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-23T20:48:23+00:00"
+    },
+    {
+      "id": "02411a6d06c3a3754a64b0b6243b3b45e5c1a75eb7f57b1c162068f2f1cfeb4c",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm.",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-23T16:35:10+00:00"
+    },
+    {
+      "id": "f8e1e1bf87e4fa01af647416aebb15266fbe96b1f0da18e8624681f58b2f0f3f",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Sock",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-05-23T16:07:51+00:00"
+    },
+    {
+      "id": "1463dcbfcb3580035dfead7d8223bca9312337be8cf9d1f4124c1d819190bffa",
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive eff",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T11:55:35+00:00"
+    },
+    {
+      "id": "364fcbee1a5647e81426c528a4baf8b2c70a02f93bee30d9ca45f33d75fed1ed",
+      "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+      "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+      "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-23T11:00:00+00:00"
+    },
+    {
+      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-23T09:51:13+00:00"
+    },
+    {
+      "id": "dd6625e624cd50cb74405522e7bb6d716d3d720580ea28d8b42517f7f9d9997d",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:35:13+00:00"
+    },
+    {
+      "id": "a7ee4e916d26a76f73dd0593c8d96ff4797c248a19c327cd6d49ee73a92217f0",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5),",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-23T07:23:48+00:00"
+    },
     {
       "id": "d674dd1878651ed840b08166572e8aae0299d30121bdd94e90405536cc832bac",
       "title": "CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
@@ -319,141 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "27d99603835b0369e0cf00a6a64f1afeb292bc9a59a76c8613c32a9cfa5a97dc",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulne",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "90c85d6dfd1f9d2a0d398594171f89e9104e6ee49703d1b57a106a74273078af",
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust. That is what makes it worrying. The dange",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-21T11:52:14+00:00"
-    },
-    {
-      "id": "d13a78c16690b9b40c3a8e2f7ae72418b8c268d3639629b7113d34353015ff3b",
-      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
-      "url": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
-      "summary": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution. The post Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-21T10:58:49+00:00"
-    },
-    {
-      "id": "7712154873da915ae29153e808b169bfd1c9cf144313ec445a60e0303a51d252",
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM priv",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T10:55:57+00:00"
-    },
-    {
-      "id": "d5b77950a9cdc89d2fb0f60b4e941ca47aa2e8ab5fd394e301934256040a69fe",
-      "title": "When Identity is the Attack Path",
-      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a mino",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-21T10:30:00+00:00"
-    },
-    {
-      "id": "abf2554a22cc27beda13f92da45baf30a3b06fd4e3326a695909a3194444978f",
-      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
-      "url": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
-      "summary": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition. The post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-21T09:52:05+00:00"
-    },
-    {
-      "id": "88d8f9b069c65445dad658ff12566b98ac6679dc095c2ef31ae39ec607c4a5fa",
-      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-      "url": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-      "summary": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’. The post Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-21T09:37:08+00:00"
-    },
-    {
-      "id": "239593a18376ea3ae82af879760360c7049a688b748374ed20248da50c548f0c",
-      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
-      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
-      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-21T08:14:53+00:00"
-    },
-    {
-      "id": "6a5fd8bfa4b6a28108482a7cba3de7853a54b40705c42a9e61cfd98c3b129e1f",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-21T07:49:48+00:00"
-    },
-    {
-      "id": "dd2888c2126a5e82705cc756c7cefb86a4c201302568b6c1ce14a9c9b53dcd70",
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensiti",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T07:35:53+00:00"
-    },
-    {
-      "id": "8023fe3bb9367bfc5ce6dfed3ab1417f624c381565a4b9aa28276e9ded60bac6",
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-21T06:54:01+00:00"
-    },
-    {
-      "id": "03ce33948c8adda410c949ec32a1efed47628dfacecfd177915411cc29723466",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp; The development comes as the Nx team revealed that the ext",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-21T04:27:01+00:00"
-    },
-    {
-      "id": "54434cf9fcc9ce6bf70e969c0d5c91fc678fd5275f07dc25d9da0fc148f2cebb",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-21T03:44:11+00:00"
-    },
-    {
-      "id": "00e21afe045f8b0ec661f3da0d1a612a855109209eddc1bd674047b4990751c6",
-      "title": "Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
-      "url": "https://therecord.media/europe-dismantles-first-vpn",
-      "summary": "The international operation targeted a service known as First VPN, which had been marketed for years on Russian-speaking cybercrime forums as a secure way for criminals to evade law enforcement.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-20T23:00:00+00:00"
-    },
-    {
-      "id": "d55b7ff19466d6e0398e9648064c480299c5b2c29c84e7704d4e166c54a04899",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T21:36:24+00:00"
     }
   ]
 }
