@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-02T03:39:09.812732+00:00",
+  "updated": "2026-06-02T10:17:46.588450+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6e708454fcdcdb34dd9cd898d64c1777f617e11a3ca7fbd72a48217b98941c82",
+      "title": "Analysis of a Year of Files Uploaded to DShield Sensors, (Wed, May 27th)",
+      "url": "https://isc.sans.edu/diary/rss/33026",
+      "summary": "Using the data collected over the past year and using Kibana these two ES&#x7c;QL query to summarize the data, this shows the list of the most uploaded threat to two DShield sensors (local and cloud) over the past year. I have sorted the activity by months that shows the evolution of files uploaded ",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-05-28T19:41:55+00:00"
+    },
+    {
+      "id": "1bafa9cd2d612cfc9e009b4e74b60bb9222cb0a937f94c67a232b4afeb2f8b46",
+      "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
+      "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+      "summary": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate. The post Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-28T18:50:49+00:00"
+    },
+    {
+      "id": "426eaedecdda85e153c257ef1d5c371989cb601b8d29fbb188cf230e060ec123",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:25:43+00:00"
+    },
+    {
+      "id": "321db785508b91ec023fd833bf7d2793c8d32b5818827115d16901125d1a99c6",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:24:44+00:00"
+    },
     {
       "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-27T07:45:52+00:00"
-    },
-    {
-      "id": "18a6f539aae5c3eb073c5133e98a8af1dbc3d68e0cf7c37eb69151427d0b2b32",
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-27T06:55:44+00:00"
-    },
-    {
-      "id": "19113cd8756f953a6bb0cf6bbe1e85c3eefb3362a9d8908f5f9bc33e97fbc89a",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-26T20:07:31+00:00"
-    },
-    {
-      "id": "f07ffdd26ec3ee0f9c14f9b3c4e2d7909e0dd76d16026c984f26b872ae4fe834",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T19:46:01+00:00"
-    },
-    {
-      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T15:48:41+00:00"
     }
   ]
 }

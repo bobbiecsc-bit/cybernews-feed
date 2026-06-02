@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-02T03:39:09.812732+00:00",
+  "updated": "2026-06-02T10:17:46.588450+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "987ad966864c7a63a1063c59d93128fed49ee6a7ec58a51de4d9ae6f70170f23",
+      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+      "url": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+      "summary": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud. The post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-02T09:51:19+00:00"
+    },
+    {
+      "id": "db05fb41924b0e5e8eea198ebdcfa9ee3bd002add521feb50fd6c505d579a548",
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP arch",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-02T09:05:40+00:00"
+    },
+    {
+      "id": "a4441052e6260bd1d88d64df22d9b0461b54083f6dd52cc96f41539518bdcdf1",
+      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+      "url": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+      "summary": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts. The post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-02T08:07:41+00:00"
+    },
+    {
+      "id": "a5436fe65c6d59f541a89582aa97ccce7667026d2a08b28efa5af9a50318362e",
+      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against c",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-02T03:55:25+00:00"
+    },
     {
       "id": "4731840140478d8745856ee533d4d55c0f9209f72c7c334f08f79f8645a15e5c",
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
@@ -2215,42 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-19T09:23:15+00:00"
-    },
-    {
-      "id": "79b6f0e77988a6a0c1b6c213164b6f998ec24cdfb822cdb13ca60f5d26eeb299",
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T07:49:23+00:00"
-    },
-    {
-      "id": "b78d87911c8a89d886311252590f4a66efba5795b3b734a42b83978ec4a800da",
-      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
-      "url": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
-      "summary": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-19T06:18:51+00:00"
-    },
-    {
-      "id": "0296f90943c0640491a69dc4012426be17696012aefe80a39245508cf2d9182c",
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "url": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T05:28:06+00:00"
-    },
-    {
-      "id": "6db17af10bbd44686ee1f00873aecfcaa89bd2f22d0d6eac11bbea8011fc2085",
-      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including e",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T04:54:17+00:00"
     }
   ]
 }

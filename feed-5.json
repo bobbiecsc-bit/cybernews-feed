@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-02T03:39:09.812732+00:00",
+  "updated": "2026-06-02T10:17:46.588450+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d0304851c0fa2e4cc7021ccfcd110403d2f762fef7148f22f58aa76ef17efca0",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-20T21:19:17+00:00"
+    },
+    {
+      "id": "9dc57d1a1852195ec4170ff37a7b5d9eec4615f5896aea3f1b22c371b564adcb",
+      "title": "Ukraine probes teen suspect in cyber theft scheme targeting California online shoppers",
+      "url": "https://therecord.media/ukraine-probes-teen-suspect-cyber-theft-scheme",
+      "summary": "The investigation began after U.S. authorities informed their Ukrainian counterparts that hackers operating from Ukraine could be involved in attacks targeting users of American e-commerce platforms, Ukraine's Prosecutor General said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T16:33:00+00:00"
+    },
+    {
+      "id": "7a381cf54d906ca070982163be182ec899f1d981f574307695c2a408920902fe",
+      "title": "7-Eleven confirms breach after ShinyHunters claims",
+      "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
+      "summary": "The breach notification letters say 7-Eleven discovered the breach on April 8 and, after an investigation, determined that the cybercriminals gained access to “certain 7-Eleven systems used to store franchisee documents.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-20T16:05:00+00:00"
+    },
+    {
+      "id": "52abfdbd0922c46f1a04237032de710b137a7091082fe56f0992ea6106ce4d67",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-20T15:46:37+00:00"
+    },
     {
       "id": "b1c6fe2aaa5ff5c290dc6cee2c32e553190b114479fe3eeda4526ec46c939ffe",
       "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-19T09:23:15+00:00"
-    },
-    {
-      "id": "79b6f0e77988a6a0c1b6c213164b6f998ec24cdfb822cdb13ca60f5d26eeb299",
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T07:49:23+00:00"
-    },
-    {
-      "id": "b78d87911c8a89d886311252590f4a66efba5795b3b734a42b83978ec4a800da",
-      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
-      "url": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
-      "summary": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-19T06:18:51+00:00"
-    },
-    {
-      "id": "0296f90943c0640491a69dc4012426be17696012aefe80a39245508cf2d9182c",
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "url": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T05:28:06+00:00"
-    },
-    {
-      "id": "6db17af10bbd44686ee1f00873aecfcaa89bd2f22d0d6eac11bbea8011fc2085",
-      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including e",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-19T04:54:17+00:00"
     }
   ]
 }
