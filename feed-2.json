@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-03T16:42:12.650090+00:00",
+  "updated": "2026-06-03T20:52:37.793040+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "252ffd63563651fe0efb2826608a24f307921d020506acc7bc664590be811cb6",
+      "title": "Spain arrests suspected hacker for publishing personal data of police, prosecutors and cyber officials",
+      "url": "https://therecord.media/spain-arrests-suspected-hacker-for-publishing-data-on-sensitive-government-workers",
+      "summary": "Police described the incident as a large-scale disclosure of sensitive personal information that posed a threat to both the affected individuals and the institutions they serve. The data was allegedly posted on multiple internet platforms.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-01T23:00:00+00:00"
+    },
+    {
+      "id": "4731840140478d8745856ee533d4d55c0f9209f72c7c334f08f79f8645a15e5c",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T22:14:19+00:00"
+    },
+    {
+      "id": "8e1b55828cdeb249268d12412212a128e72d4df8f831cd6dcd5a9ff221dc550b",
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T21:38:29+00:00"
+    },
+    {
+      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
+      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
+      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
+      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-01T20:28:00+00:00"
+    },
+    {
+      "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
+      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
+      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T18:19:23+00:00"
+    },
+    {
+      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-01T18:17:13+00:00"
+    },
+    {
+      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-01T17:40:28+00:00"
+    },
     {
       "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
       "title": "WordPress malware campaign hides payloads in Steam profiles",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-05-28T17:25:43+00:00"
-    },
-    {
-      "id": "321db785508b91ec023fd833bf7d2793c8d32b5818827115d16901125d1a99c6",
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-28T17:24:44+00:00"
-    },
-    {
-      "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused trusted endpoint management infrastructure to deliver malware ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-28T15:26:04+00:00"
-    },
-    {
-      "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
-      "title": "Carnival Data Breach Exposed 6 Million People",
-      "url": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
-      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-28T14:45:28+00:00"
-    },
-    {
-      "id": "9316565e30e3af6d9ba10d7329a1ddf74b8f5375463867a3a443aea02dfa8f39",
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-28T14:25:43+00:00"
-    },
-    {
-      "id": "8659630f756788b0e2011cfea1109dcee9c877f5ff0a9b58612ac8020ef23a60",
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-28T14:01:11+00:00"
-    },
-    {
-      "id": "7a74ffa0fb7d124c3bf2daed36e293f0b5d9378a6cdc574212c7bbd67992ae3b",
-      "title": "Cruise giant Carnival confirms data breach affecting nearly 6 million people",
-      "url": "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
-      "summary": "The company said the threat actor gained access to a limited portion of its IT environment last month after compromising an employee account. By the end of April, Carnival determined that the attacker had copied personal information from its systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-28T14:01:00+00:00"
-    },
-    {
-      "id": "cfe9b1b2ba914abefe2b5ee40b83b9353cef0865f0179d437c9d5d4999942dec",
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a re",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-28T13:53:52+00:00"
     }
   ]
 }

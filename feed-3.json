@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-03T16:42:12.650090+00:00",
+  "updated": "2026-06-03T20:52:37.793040+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "321db785508b91ec023fd833bf7d2793c8d32b5818827115d16901125d1a99c6",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T17:24:44+00:00"
+    },
+    {
+      "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused trusted endpoint management infrastructure to deliver malware ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T15:26:04+00:00"
+    },
+    {
+      "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
+      "title": "Carnival Data Breach Exposed 6 Million People",
+      "url": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
+      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-28T14:45:28+00:00"
+    },
+    {
+      "id": "9316565e30e3af6d9ba10d7329a1ddf74b8f5375463867a3a443aea02dfa8f39",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-28T14:25:43+00:00"
+    },
+    {
+      "id": "8659630f756788b0e2011cfea1109dcee9c877f5ff0a9b58612ac8020ef23a60",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-28T14:01:11+00:00"
+    },
+    {
+      "id": "7a74ffa0fb7d124c3bf2daed36e293f0b5d9378a6cdc574212c7bbd67992ae3b",
+      "title": "Cruise giant Carnival confirms data breach affecting nearly 6 million people",
+      "url": "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
+      "summary": "The company said the threat actor gained access to a limited portion of its IT environment last month after compromising an employee account. By the end of April, Carnival determined that the attacker had copied personal information from its systems.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-28T14:01:00+00:00"
+    },
+    {
+      "id": "cfe9b1b2ba914abefe2b5ee40b83b9353cef0865f0179d437c9d5d4999942dec",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-28T13:53:52+00:00"
+    },
     {
       "id": "ef06d61235dad0a64a19d6f9d8c8be1aee39f9b5c5c7d6f12ce72d08980e8c91",
       "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-05-26T19:46:01+00:00"
-    },
-    {
-      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T15:48:41+00:00"
-    },
-    {
-      "id": "62553ee1030378b9696cbe4e5219ce93d8a9d4dbfd6b1585911e1f91520284bf",
-      "title": "Lithuania investigates theft of 600,000 state registry records by foreign actor",
-      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
-      "summary": "The Lithuanian Prosecutor General’s Office said Friday that attackers gained unauthorized access to more than 600,000 records managed by the Centre of Registers, the state agency responsible for handling property and legal entity records.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-26T14:14:00+00:00"
-    },
-    {
-      "id": "561f1110ea72812e95fafc1f5ded69760f5d116e7de5ad994cab4d02b8f0b532",
-      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-      "url": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-      "summary": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran. The post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-26T13:26:17+00:00"
-    },
-    {
-      "id": "d1ae3315b4b0ac044b45f2ed4ab12306b9e05ed0b75657dc46962d8025442e3d",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T12:19:43+00:00"
-    },
-    {
-      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
-      "title": "Eppendorf BioFlo 320",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
-      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
-    },
-    {
-      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
-      "title": "ABB LVS MConfig",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
-      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-26T12:00:00+00:00"
     }
   ]
 }
