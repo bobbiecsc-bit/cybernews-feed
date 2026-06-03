@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-03T03:46:12.335322+00:00",
+  "updated": "2026-06-03T10:52:42.021554+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b6f3a2b99c3b1a5f9d48ae0c63aff5207ce59b8ba53d272579bce4f92c85d469",
+      "title": "‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds",
+      "url": "https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/",
+      "summary": "The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold. The post &#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-03T10:52:08+00:00"
+    },
+    {
+      "id": "3fb599106825f6a9de54f2ce8fe8711b46fff48252a30c3e4f5221cb40ffffe5",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search:",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T10:18:52+00:00"
+    },
+    {
+      "id": "5abd0e11edc06fc0ca664eb3b1c3b9e3a06059c4666e4c22716cea170a2e37b3",
+      "title": "Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash",
+      "url": "https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/",
+      "summary": "Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities. The post Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-03T09:57:40+00:00"
+    },
+    {
+      "id": "aea883acd7ae8538625126a77fcbe810e336e2bee6901d0e1d2adf3c828f59d9",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's defaul",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T08:33:35+00:00"
+    },
+    {
+      "id": "a7336a4a376d1bafcd2060746a41f7b827f58589af7576aac01702c97d62ab69",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-03T06:50:30+00:00"
+    },
+    {
+      "id": "c56ad07096ed656dda3621f6805d024dcf10bcceb301b15780600aa3e10d9322",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-03T06:16:54+00:00"
+    },
     {
       "id": "90354ab0a55d23441b185da2b2b08303276e3f85ed923a7b10909552a1e983c3",
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
@@ -18,6 +72,15 @@
       "id": "b7bf4ac7ac6ecbd78a4be38de37f1ceed90bd34240b097e6adf38c9ebc4cd169",
       "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
       "url": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-02T21:54:49+00:00"
+    },
+    {
+      "id": "7c659cc239466d044e86876fc1bcc433811dbbb83e4a6318e378f9abae7ea127",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "source": "Bleeping Computer",
       "category": "malware",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-01T10:00:00+00:00"
-    },
-    {
-      "id": "444c55f3b2a74069fc56e3e9474104840a93adfc2f176213d89ac10f2f75870e",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 2",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-01T09:31:15+00:00"
-    },
-    {
-      "id": "b796c71b86c4a5dd2edd3ee447405fa50143df06fd4f1d28c844804fc134d538",
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites. WP Maps Pro allows site owners to embed customizable Google Maps a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-01T08:45:29+00:00"
-    },
-    {
-      "id": "5b945ea7e987e8ae9b19cc3cce269b245ccb8c908d0b916bed9d859a83c861b1",
-      "title": "Afghan finance officials targeted by suspected Pakistani cyberespionage campaign",
-      "url": "https://therecord.media/afghan-officials-targeted-by-sidecopy",
-      "summary": "A suspected Pakistan-linked hacking group has targeted Afghanistan's Ministry of Finance and provincial government officials in a new cyberespionage campaign, researchers have found.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-31T23:00:00+00:00"
-    },
-    {
-      "id": "fe9dd78660a97a15c123133d6ebcb849b25532b5463a31eff08fa22ba2b649c7",
-      "title": "Unknown hacker group targeted Russian maritime universities, diplomats for nearly two years",
-      "url": "https://therecord.media/unknown-hacking-group-targeting-russia-for-nearly-two-years",
-      "summary": "More than half of the attacks observed over the past year targeted educational institutions, particularly maritime universities and schools that train personnel for Russia's shipping, inland waterway and fishing industries.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-31T23:00:00+00:00"
-    },
-    {
-      "id": "efe3d3ab728d6227c673906f0362746f5f6a61fff986e8e6a94639a1d1f2bfc6",
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "summary": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-31T14:06:42+00:00"
-    },
-    {
-      "id": "03f2546636ff797b274185a8d613aa3c3c0b08655611c5e5200979b2bf5101c5",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at leas",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-31T12:22:12+00:00"
-    },
-    {
-      "id": "32bc8688ad1e8269d4bd997beef8f216120c61499338c9b8b930b922e43a347d",
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-30T18:02:51+00:00"
     }
   ]
 }

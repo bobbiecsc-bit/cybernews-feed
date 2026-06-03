@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-03T03:46:12.335322+00:00",
+  "updated": "2026-06-03T10:52:42.021554+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7ba3d390f6e29737df6dd2c7c47bb57844080d3540b3d896e69a095e67fbf59e",
+      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile App",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "f7ae44caedf41396bd14014825d2ebbba6b3aea2e6e7f5d74856521831e6838d",
+      "title": "CP Plus 8 Ch. Network Video Recorder",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the v",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "35ad4d0ac9d1bb21a3ddb06ff42426e9cecf8b3868cb2af8191ffc9eb0f4d2df",
+      "title": "KMW CCTV Security Cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416&nbsp; CVSS Vendor Equipment Vulnerabilities",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-28T12:00:00+00:00"
+    },
+    {
+      "id": "d13f76cc6302a54b6257e0269324a1b32489c36daffccbb7742f1db9a416f470",
+      "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
+      "url": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
+      "summary": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure. The post Gitea Vulnerability Exposed 30,000 Deployments to Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-28T11:24:51+00:00"
+    },
+    {
+      "id": "9033f47b1ae2cf48be1f0ca117a2bb49439e7fecb5db8733bdaf6340b4e74384",
+      "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
+      "url": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
+      "summary": "CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale. The post Raising the Cybersecurity Stakes: Ante up for the Agentic Era appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-28T11:15:00+00:00"
+    },
+    {
+      "id": "ae9776a147523f9ca28e821125a0b00d95fa375e4a558e333f576f3115eb50fd",
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-28T10:49:27+00:00"
+    },
+    {
+      "id": "d92020b6a92d83e182d9c36027fb78fe31a0661ae5c03c2b2c87ac072baf3fc2",
+      "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
+      "url": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
+      "summary": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI. The post Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-28T09:55:00+00:00"
+    },
     {
       "id": "188cc814747dfa1a0b95fdac66efd1217c6d69f378b0f6e9d8dbd7113bcdfdca",
       "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-26T10:45:00+00:00"
-    },
-    {
-      "id": "a21e14a08de10f17ca8616f5d7fe45fa2a27cda326200fd23a6e0e2628118059",
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T10:30:00+00:00"
-    },
-    {
-      "id": "5675a5472905d3b4eb67c35633c412face9eb7d70a2d7c94205969b8ebb6a8e9",
-      "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
-      "url": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
-      "summary": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors. The post Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-26T09:47:19+00:00"
-    },
-    {
-      "id": "97b44aaa392db06508d33381b141a032bc0c6967e3ea7fd111d2a4b146fe6575",
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse o",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-26T09:13:02+00:00"
-    },
-    {
-      "id": "84bc907de0ab55ae20ba3ba37d4ff5146ce7fb2a10d6b51e0a78cc7ae1b40dc6",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-26T08:46:45+00:00"
-    },
-    {
-      "id": "c93bc112ac49e56f39c0ef093f70686c68dfc12f3b1352e9a60f9c4e166fc105",
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli mi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T07:13:05+00:00"
-    },
-    {
-      "id": "cc78dc022a4d994f5afbdf9a08411ff88a67a8618d36dc02fdc00b151ec2c46d",
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T07:01:12+00:00"
-    },
-    {
-      "id": "8c19f57b3ebd5d4635049f91cdcec656071d5f4459a99743a8d7d952bf941c8d",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as C",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-26T05:19:38+00:00"
     }
   ]
 }

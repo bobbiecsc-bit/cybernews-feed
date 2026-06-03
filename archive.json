@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-03T03:46:12.335322+00:00",
+  "updated": "2026-06-03T10:52:42.021554+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b6f3a2b99c3b1a5f9d48ae0c63aff5207ce59b8ba53d272579bce4f92c85d469",
+      "title": "‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds",
+      "url": "https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/",
+      "summary": "The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold. The post &#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-03T10:52:08+00:00"
+    },
+    {
+      "id": "3fb599106825f6a9de54f2ce8fe8711b46fff48252a30c3e4f5221cb40ffffe5",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search:",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T10:18:52+00:00"
+    },
+    {
+      "id": "5abd0e11edc06fc0ca664eb3b1c3b9e3a06059c4666e4c22716cea170a2e37b3",
+      "title": "Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash",
+      "url": "https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/",
+      "summary": "Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities. The post Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-03T09:57:40+00:00"
+    },
+    {
+      "id": "aea883acd7ae8538625126a77fcbe810e336e2bee6901d0e1d2adf3c828f59d9",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's defaul",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T08:33:35+00:00"
+    },
+    {
+      "id": "a7336a4a376d1bafcd2060746a41f7b827f58589af7576aac01702c97d62ab69",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-03T06:50:30+00:00"
+    },
+    {
+      "id": "c56ad07096ed656dda3621f6805d024dcf10bcceb301b15780600aa3e10d9322",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-03T06:16:54+00:00"
+    },
     {
       "id": "90354ab0a55d23441b185da2b2b08303276e3f85ed923a7b10909552a1e983c3",
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
@@ -15,6 +69,15 @@
       "id": "b7bf4ac7ac6ecbd78a4be38de37f1ceed90bd34240b097e6adf38c9ebc4cd169",
       "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
       "url": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-02T21:54:49+00:00"
+    },
+    {
+      "id": "7c659cc239466d044e86876fc1bcc433811dbbb83e4a6318e378f9abae7ea127",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "source": "Bleeping Computer",
       "category": "malware",
@@ -2188,69 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-20T08:28:26+00:00"
-    },
-    {
-      "id": "1d6d4753038eb57ed10c66e40fa1be489004fe056a70a833284cdddc8f3951d3",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T08:14:08+00:00"
-    },
-    {
-      "id": "de9688317f94f094f64c4ec6f37c42f607b1d2d94eae3c72acdd997cd253c36b",
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-20T07:31:15+00:00"
-    },
-    {
-      "id": "07670e357af79b8cfe2ab2d1abbcf18a5d1436bfda8760469de0b3bbefd58a97",
-      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-20T05:12:06+00:00"
-    },
-    {
-      "id": "9d422b54dcf4003cd3d922ff22f3ca64e0ccda895365a3a0e41052ef486c440f",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-20T05:08:42+00:00"
-    },
-    {
-      "id": "24f1b865b874a65bca78de149892a18e4bf191c447a456f64816a5a54d53c9f9",
-      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-      "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-      "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credenti",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-20T00:04:48+00:00"
-    },
-    {
-      "id": "d9ff992e146ec402c038b24477bcba47412001e62f44496d32d4e97cf7321d10",
-      "title": "Ukraine says Russia is deploying AI-powered malware on the battlefield",
-      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
-      "summary": "A new report from Ukraine’s National Security and Defense Council says Russia’s use of AI across cyber operations expanded dramatically over the past year, reshaping everything from social engineering campaigns to malware development and creating what Ukrainian officials describe as a growing imbala",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-05-19T23:00:00+00:00"
-    },
-    {
-      "id": "e36bd5ee339b87ec796adc7312076c349cc44da2fc6c25877094dd12ba0deb03",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-19T22:25:49+00:00"
     }
   ]
 }
