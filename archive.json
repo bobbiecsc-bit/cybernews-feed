@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-04T14:52:33.967705+00:00",
+  "updated": "2026-06-04T20:01:21.342664+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c3f27c66f290317084e26bbbd996666a391b7b0a19d5b11e3c4cede270a53d17",
+      "title": "DentaQuest data breach exposed info of 2.6 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+      "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-04T18:36:27+00:00"
+    },
+    {
+      "id": "ae4dde5f8c2529d53f4f7f14c209bd51410a4f836d02492fcf7e87c8b825afee",
+      "title": "Russia seeks to label two anti-Kremlin hacker groups as ‘extremist’",
+      "url": "https://therecord.media/russia-seeks-extremist-label-for-hacker-groups",
+      "summary": "The groups have previously claimed responsibility for cyberattacks targeting critical infrastructure and government institutions in Russia and Belarus.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-04T18:04:00+00:00"
+    },
+    {
+      "id": "1166e148c198edcb53a797bbabfe5d9aaceff0ce736ecb47e59eb187c525a099",
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-04T16:55:51+00:00"
+    },
+    {
+      "id": "1bc8b3b0939d9971d475aa792ff81d7ee44347542b83cbdb12a783b0765c4c9a",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-04T16:38:49+00:00"
+    },
+    {
+      "id": "44cd69478863d96d33c3794c33d570d2bf18b7c1d25c05bc65798ef1e2e44906",
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-04T15:25:37+00:00"
+    },
+    {
+      "id": "4ddc5379f630916032497fa3d4024e848330acf99d04299493ba366a26e7e31a",
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed ma",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-04T15:15:26+00:00"
+    },
     {
       "id": "3bbe0d32f6b1a81f6caa6f4cb44277c38efcf4d58b5126a8fb5d728d722e284f",
       "title": "CISA directive for AI executive order to be released this week, Andersen says",
@@ -49,7 +103,7 @@
     },
     {
       "id": "c7426199cb050c7465d75930fa82fe081c12c61a6f9ac8eb463fbc48b3d17dc3",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known familie",
       "source": "The Hacker News",
@@ -64,6 +118,33 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-04T12:10:02+00:00"
+    },
+    {
+      "id": "55801e5b3497e28e9af1485919fde754bb8c1bd9bcb5c003e3dc02d50b399c53",
+      "title": "NAVTOR NavBox",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavBox 4.16.1.20 (CVE-2026-21404) CVSS Vendor Equipment Vulnerabili",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-04T12:00:00+00:00"
+    },
+    {
+      "id": "9f975fd8e9c0a06a3f6f55009fe272e1a0850ea62dc63a37379f3a0637fa317e",
+      "title": "Hitachi Energy MACH HiDraw",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, potentially resulting in application outages (denial of service) an",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-04T12:00:00+00:00"
+    },
+    {
+      "id": "be77410d45bce661505dee2d22cbd644d03ef71b42a8d3389111837064813caa",
+      "title": "B&R PPT30 Operating System",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03",
+      "summary": "View CSAF Summary B&amp;R is aware of a vulnerability in the product versions listed as affected in the advisory. An attacker who successfully exploits this vulnerability could make the OPC-UA server of the product inaccessible. The following versions of B&amp;R PPT30 Operating System are affected: ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-04T12:00:00+00:00"
     },
     {
       "id": "4e9644cbf5870a79d3295f6065cbbb1064ba685ff89fc5dc0451a12f22d94cd8",
@@ -2170,87 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-05-21T14:00:00+00:00"
-    },
-    {
-      "id": "18c1f138102ed79dbf730861cb7d96f95eee852575af0e23bbe1877369511fde",
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-21T13:58:33+00:00"
-    },
-    {
-      "id": "d3307a1a85256870582e3e9bf09ed316ad8c661255f1f6f06257f2cbe9acf36f",
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-21T13:09:51+00:00"
-    },
-    {
-      "id": "fb7e7c60bb00c65a378a6d2a6ff7c7b0b364141f995ba4d1da28bf58a4d19494",
-      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
-      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
-      "summary": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges. The post Cisco Patches Critical Vulnerability in Secure Workload appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:04:13+00:00"
-    },
-    {
-      "id": "f3cf9dee61fc7bb26d3201562de2584c53eea46fbf331b51ac0fde6d8cbbd7d7",
-      "title": "ABB Terra AC Wallbox",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "6701cdc0194314bcb18b3dc937c80b6bd8e42b2637c343a40d4ea38282309f66",
-      "title": "Hitachi Energy GMS600",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
-      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial messages to the server and record the time taken to process them",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "753175e6354a33593beb4e3288bf07aefa05d9b5d621f7a69cb740d533e58c32",
-      "title": "ABB B&R Automation Studio",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed during testing of the affected B&amp;R products, the identified vul",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "bc2b5ce2e936bedbad30398a512f8583cc9396b08542a35b9e0840b412646813",
-      "title": "ABB B&R Automation Runtime",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilities could take over a remote session or execute code in the c",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "98a78a7e166c426032e4e335fe87374941578ac6e9a9d4e688e3f589615a89fa",
-      "title": "ABB B&R PCs",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilities to execute remote code, initiate DoS attacks, conduct DNS c",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
-    },
-    {
-      "id": "27d99603835b0369e0cf00a6a64f1afeb292bc9a59a76c8613c32a9cfa5a97dc",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulne",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-21T12:00:00+00:00"
     }
   ]
 }
