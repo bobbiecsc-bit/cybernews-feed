@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-05T14:43:40.095002+00:00",
+  "updated": "2026-06-05T19:50:17.623459+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "beb62a3a50300a1817df09df2c9306ce1ba6454c3bdda274ae85f972e0f5031e",
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-05T19:15:30+00:00"
+    },
+    {
+      "id": "180b693cca2510acd75d63888d78346f0770f8f31c9e9ce7458fe7c43d8dd06b",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-05T18:09:47+00:00"
+    },
+    {
+      "id": "1ea85e08fd09bb53c7c2673bbd34a8dab473dd310491a6145147b489ee3a0a8c",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-05T18:05:30+00:00"
+    },
+    {
+      "id": "04ba45b7e0e28a9a596cd5adbc32696be406e81543833ae5d89081e63167a4d6",
+      "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
+      "url": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
+      "summary": "CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability. The post OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-05T16:35:02+00:00"
+    },
+    {
+      "id": "1b989337110f1c902fa15035be5232443fdfa7ed087d3338c67e9064d73ae6d7",
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicki",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-05T14:53:40+00:00"
+    },
+    {
+      "id": "805aeb66266952d851a311405e5ac45d394d167e4be871ffc3f268a41f6e27fb",
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-05T14:50:15+00:00"
+    },
     {
       "id": "165df32aed42e5eb66faf6abc992bfe169fe67966ca00d9555e6a30d53015e24",
       "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
@@ -24,10 +78,19 @@
       "id": "6fb1925cf6612eef59a9c78af5f4e7c98460ffad8f4cb044c5e8317d49a41bcc",
       "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
       "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate to high confidence that the espionage-f",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate",
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-05T12:33:38+00:00"
+    },
+    {
+      "id": "64f06b0440077bf426ec97db67126c59e24f82079fe837ee2cc13e324603bf26",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-05T12:00:00+00:00"
     },
     {
       "id": "ccf11b5163f2f4f0264d7a887303cdfa63c171d7464e154a090373b6d70193f5",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-22T14:07:06+00:00"
-    },
-    {
-      "id": "b91bc3df1bf2192a5d65782db99f12d1a4ecbe9de8894fa2165c58c3106bfad8",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:39:19+00:00"
-    },
-    {
-      "id": "4ce8ff58dc508aa5160e24b70ea24978d418051111c04468f6a250bc02f7db58",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:14:40+00:00"
-    },
-    {
-      "id": "198732095ac8d130e3e2287f7b9a2f6ae611153354089b627f3d59ccc201d21b",
-      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
-      "url": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
-      "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T12:11:03+00:00"
-    },
-    {
-      "id": "26bdb3c668b985901ea8871e1f5168e9c67b4073b9b84e8c2fef13a075637f25",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:42+00:00"
-    },
-    {
-      "id": "10c8a27aee0beba6dd7667fc5bcb282e77806645b8e0d4379616ae675abc70f4",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:00+00:00"
-    },
-    {
-      "id": "bb5e870eb4ecc50d6ccf747e9511ef67eeaaf80529180f840c87f9b78d6fd076",
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-22T11:55:24+00:00"
-    },
-    {
-      "id": "bd897cee1d21f35257d3092623fa496122340d02b3bbf5846a9b9d111df78ca1",
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of indiv",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-22T11:38:12+00:00"
     }
   ]
 }

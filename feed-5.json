@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-05T14:43:40.095002+00:00",
+  "updated": "2026-06-05T19:50:17.623459+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "89b4f0018102a3f61564367a13974f8bb3a57b553d157063dfe0c8faa9c131a7",
+      "title": "Eppendorf BioFlo 320",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppend",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "f0c8d532daff55c6f7e910796580f57e29ed9bfa42a2de0c1e7a7a2c43ef4e0e",
+      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&amp;Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of A",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "9db8d332baf2339e6dc6f4cf8bd8288c74274a962b73ba7a79ed4985df19cfa2",
+      "title": "ABB LVS MConfig",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly ad",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "fe05e56b684c0896b46b0509fa285aa3cfeab76c932fc116d54123b472c5db54",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added&nbsp;one&nbsp;new vulnerability&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2026-48172&nbsp;LiteSpeed&nbsp;cPanel Plugin Privilege Escalation Vulnerability This&nbsp;type of vulnerability is a&nbsp;frequent attack",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "b3399546c4ec50ffdb083da5c43f5684f0a495bf440429a1356922929fffaab1",
+      "title": "ABB AC500 V2",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerabilities in AC500 V2 listed as affected in the advisory. An attacker who successfully exploited this vulnerability could access fragments of Modbus telegrams that have been sent earlier by that PLC The following versions of ABB AC500 V2 are affected: AC50",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "6fa056ceb50d312811470e9c07a518dd895ea37206086804c47a0ef6988b4bd7",
+      "title": "ABB Terra AC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
+    {
+      "id": "c2beda6bead378c4331b5194410b7edff82626de5323be51f56c636e39a7e382",
+      "title": "ABB Ability Zenon Remote Transport Vulnerability (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authenticati",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-26T12:00:00+00:00"
+    },
     {
       "id": "142de8b4f620eb04a8df4e42cbe8d9f16b7261899358b713594f535475288e13",
       "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-22T14:07:06+00:00"
-    },
-    {
-      "id": "b91bc3df1bf2192a5d65782db99f12d1a4ecbe9de8894fa2165c58c3106bfad8",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:39:19+00:00"
-    },
-    {
-      "id": "4ce8ff58dc508aa5160e24b70ea24978d418051111c04468f6a250bc02f7db58",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T13:14:40+00:00"
-    },
-    {
-      "id": "198732095ac8d130e3e2287f7b9a2f6ae611153354089b627f3d59ccc201d21b",
-      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
-      "url": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
-      "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-22T12:11:03+00:00"
-    },
-    {
-      "id": "26bdb3c668b985901ea8871e1f5168e9c67b4073b9b84e8c2fef13a075637f25",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:42+00:00"
-    },
-    {
-      "id": "10c8a27aee0beba6dd7667fc5bcb282e77806645b8e0d4379616ae675abc70f4",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-22T12:00:00+00:00"
-    },
-    {
-      "id": "bb5e870eb4ecc50d6ccf747e9511ef67eeaaf80529180f840c87f9b78d6fd076",
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-22T11:55:24+00:00"
-    },
-    {
-      "id": "bd897cee1d21f35257d3092623fa496122340d02b3bbf5846a9b9d111df78ca1",
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of indiv",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-22T11:38:12+00:00"
     }
   ]
 }
