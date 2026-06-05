@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-05T03:29:22.620969+00:00",
+  "updated": "2026-06-05T09:40:53.537477+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b742050d9aeddd2bfebe25db3aaf6ac650e48e513596d807a29e20bb7de62112",
+      "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
+      "url": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
+      "summary": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes. The post Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images appeared first on Securit",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-26T10:45:00+00:00"
+    },
+    {
+      "id": "a21e14a08de10f17ca8616f5d7fe45fa2a27cda326200fd23a6e0e2628118059",
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-26T10:30:00+00:00"
+    },
+    {
+      "id": "5675a5472905d3b4eb67c35633c412face9eb7d70a2d7c94205969b8ebb6a8e9",
+      "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
+      "url": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
+      "summary": "The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors. The post Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-26T09:47:19+00:00"
+    },
+    {
+      "id": "97b44aaa392db06508d33381b141a032bc0c6967e3ea7fd111d2a4b146fe6575",
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse o",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-26T09:13:02+00:00"
+    },
+    {
+      "id": "84bc907de0ab55ae20ba3ba37d4ff5146ce7fb2a10d6b51e0a78cc7ae1b40dc6",
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-26T08:46:45+00:00"
+    },
+    {
+      "id": "c93bc112ac49e56f39c0ef093f70686c68dfc12f3b1352e9a60f9c4e166fc105",
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli mi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-26T07:13:05+00:00"
+    },
     {
       "id": "cc78dc022a4d994f5afbdf9a08411ff88a67a8618d36dc02fdc00b151ec2c46d",
       "title": "7-Eleven data breach exposes personal information of 185,000 people",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-22T05:47:33+00:00"
-    },
-    {
-      "id": "fc4a50d79e39df5c6380192dad50a753b300f5d434a5478990c8e9aac22134aa",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when acces",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-22T05:36:18+00:00"
-    },
-    {
-      "id": "274d885cd59560aeeaa052337eb15d0b22269c127aa89b2925799d5cf5de8e12",
-      "title": "Belarus-linked hackers use fake training certificates to target Ukrainian officials",
-      "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
-      "summary": "A Belarus-linked hacking group known as GhostWriter has launched a new espionage campaign against Ukrainian government officials using fake emails disguised as messages from a popular online learning platform to deliver malware.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-21T23:00:00+00:00"
-    },
-    {
-      "id": "ceb2b14510ddc78abe905da5912db698b1de02eaad55686f88d37dc9f5dfc47e",
-      "title": "Hackers steal patient and billing data from German hospitals via third-party provider",
-      "url": "https://therecord.media/hackers-steal-patient-billing-data-german-hospitals",
-      "summary": "The large-scale data breach reportedly hit Unimed, a company that handles billing services for privately insured and self-paying patients on behalf of numerous German hospitals.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-21T23:00:00+00:00"
-    },
-    {
-      "id": "9c50addc3207c9b2940097bd82473470e3ef1cae9428bfbd5b65becee724b746",
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-05-21T21:50:25+00:00"
-    },
-    {
-      "id": "b53cb4e5faf5834ac1d4893fbd2d6e4698ff7ea49aecb1239781a487c077f608",
-      "title": "macOS Kernel Memory Corruption Exploit",
-      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
-      "summary": "A group used Anthropic&#8217;s Mythos AI model to help find a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5. News article.",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-05-21T16:03:37+00:00"
-    },
-    {
-      "id": "67857f5c64d558e9e734992532089c98a2b61865ba7e9e6eff76e6cc38b9b13b",
-      "title": "UK plans for cybercrime law reform would protect almost no one, experts warn",
-      "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
-      "summary": "The proposals would require researchers to cease activity the moment a vulnerability is identified, meaning they could not confirm it was real, assess its severity or determine its exploitability.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-05-21T14:47:00+00:00"
     }
   ]
 }
