@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-05T09:40:53.537477+00:00",
+  "updated": "2026-06-05T14:43:40.095002+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ca69fb1534d93bf2c30a3f4ee0e65cdebaa0a314ed9a429d977331ab19918def",
+      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-01T13:59:54+00:00"
+    },
+    {
+      "id": "9c10c0424399dec40a97968574a36adbd24feb2d0fb66353f8527ae5993ee897",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:30:27+00:00"
+    },
+    {
+      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:00:00+00:00"
+    },
+    {
+      "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-01T11:54:24+00:00"
+    },
+    {
+      "id": "4adcb3a9f94d81c6a9c308e83904b857e76c62edb231be0ea1a6147d10af628b",
+      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
+      "url": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
+      "summary": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems. The post 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T11:19:31+00:00"
+    },
     {
       "id": "dfedd4d890bad83b22aac93d6a536de4c28582dd0a5713cbd972bd84a9ac0b10",
       "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-05-28T12:55:47+00:00"
-    },
-    {
-      "id": "a09109dc7dcf34a94bd50ed17e145d1b0aad5b1fbddf71869b96b49326b9a373",
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-28T12:43:29+00:00"
-    },
-    {
-      "id": "2bf26e686cfc76423425e4120f4388f2afbe0060fad27344913a4663ea12a580",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
-      "title": "ABB EIBPORT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "d870a971c541b0107db886ea882248b3369298a65477e183f29bf55ce49120b7",
-      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
     }
   ]
 }
