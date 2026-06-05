@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-04T20:01:21.342664+00:00",
+  "updated": "2026-06-05T03:29:22.620969+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "026e1c19759df5d19aeddee2d3b82919406543ff6b778ca3c254ca1fe38574fe",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-04T21:27:25+00:00"
+    },
+    {
+      "id": "e5aa321628393ce0fc349e8a74f9eb53c726a09cf53fe4ad911952ead4e9deca",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-04T20:47:16+00:00"
+    },
     {
       "id": "c3f27c66f290317084e26bbbd996666a391b7b0a19d5b11e3c4cede270a53d17",
       "title": "DentaQuest data breach exposed info of 2.6 million accounts",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-03T06:50:30+00:00"
-    },
-    {
-      "id": "c56ad07096ed656dda3621f6805d024dcf10bcceb301b15780600aa3e10d9322",
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-03T06:16:54+00:00"
-    },
-    {
-      "id": "90354ab0a55d23441b185da2b2b08303276e3f85ed923a7b10909552a1e983c3",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-02T22:12:57+00:00"
     }
   ]
 }
