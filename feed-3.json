@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-06T02:50:36.467681+00:00",
+  "updated": "2026-06-06T08:30:17.414858+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4731840140478d8745856ee533d4d55c0f9209f72c7c334f08f79f8645a15e5c",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T22:14:19+00:00"
+    },
+    {
+      "id": "8e1b55828cdeb249268d12412212a128e72d4df8f831cd6dcd5a9ff221dc550b",
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T21:38:29+00:00"
+    },
+    {
+      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
+      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
+      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
+      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-01T20:28:00+00:00"
+    },
     {
       "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
       "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-28T17:24:44+00:00"
-    },
-    {
-      "id": "997cfae6b12c8f865b9ad067dbb077a36730c58c0ef4336fe8e8959d076b11f1",
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused trusted endpoint management infrastructure to deliver malware ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-28T15:26:04+00:00"
-    },
-    {
-      "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
-      "title": "Carnival Data Breach Exposed 6 Million People",
-      "url": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
-      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-28T14:45:28+00:00"
-    },
-    {
-      "id": "9316565e30e3af6d9ba10d7329a1ddf74b8f5375463867a3a443aea02dfa8f39",
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-28T14:25:43+00:00"
     }
   ]
 }

@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-06T02:50:36.467681+00:00",
+  "updated": "2026-06-06T08:30:17.414858+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2a80d7c27e5e2cb02b61d5244bfc2b30ad2c03d7b3cab325eb272975e9d6183e",
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 42",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-06T07:28:30+00:00"
+    },
+    {
+      "id": "2b6030b62913c3c61fa7ca74438fd0ecd64f0b59c0ca8d88b635eecba2fb6b83",
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-06T06:58:04+00:00"
+    },
+    {
+      "id": "a2fd6173618d03e3e212f74934b2bb6f897bcc120e1075e93931781949618449",
+      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-06T04:19:28+00:00"
+    },
     {
       "id": "beb62a3a50300a1817df09df2c9306ce1ba6454c3bdda274ae85f972e0f5031e",
       "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-03T20:21:56+00:00"
-    },
-    {
-      "id": "f1e95ba6d4cb4fc6a759a2e41e73998e50636ab76faccf5aa588ea50f7628bfb",
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-03T19:08:19+00:00"
-    },
-    {
-      "id": "6c431e403d30c1fba15d2c8816f1891240b491ae6c994c8fb1df2dec073f8b68",
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-03T17:58:00+00:00"
-    },
-    {
-      "id": "c7879313a64f36a432a9616702799220b7d49337d430d1cca6c7e97a782d8dac",
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-03T16:40:00+00:00"
     }
   ]
 }
