@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-08T15:43:13.088761+00:00",
+  "updated": "2026-06-08T20:10:28.378653+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
+      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T18:40:53+00:00"
+    },
+    {
+      "id": "71b6339f08378eba5a8e1beee0e27b2e00c6b20c7fd2e15b4b122b8bc26069b6",
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-08T17:08:44+00:00"
+    },
+    {
+      "id": "fdef56c4420bb3c633c3fe9fb0f2f46b57d31fe31c55869136f5cb16bebc005d",
+      "title": "Critical Zcash Vulnerability Found and Fixed",
+      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
+      "summary": "If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-06-08T17:06:53+00:00"
+    },
+    {
+      "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T16:18:40+00:00"
+    },
+    {
+      "id": "47d18278ce1ce2a8b701274f1e42d6a995d62c413ff0dff13be680bebf47c9f3",
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T15:51:19+00:00"
+    },
     {
       "id": "9517dbcbaf2efea7bb500002de7cde83955139f05d5018c370f896c3513026de",
       "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
@@ -2206,51 +2251,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-05-25T23:00:00+00:00"
-    },
-    {
-      "id": "acf06438141dbe6f379251fb32099ad9cf9f9ce294eb30476e1866748d6634e9",
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times. Phishi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-25T14:13:27+00:00"
-    },
-    {
-      "id": "321ef248c5e4141c1a06272a0b2b74f2937d0e6277e09bdfe636a64ca31e4c38",
-      "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
-      "url": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
-      "summary": "Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack. The post Ghost CMS Vulnerability Exploited to Hack Over 700 Websites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-25T13:27:12+00:00"
-    },
-    {
-      "id": "138181572c8b801a7765434f32b788558d65bc4314612e0af289309a66553e25",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-05-25T13:21:49+00:00"
-    },
-    {
-      "id": "153b7b988d95a77ef3342ca7807cebb7d258debeb6dd25ef5b70e5d8e5c9ce95",
-      "title": "Oncology Institute Discloses Data Breach",
-      "url": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
-      "summary": "The affected third-party vendor has not been named, but one possible candidate is TriZetto. The post Oncology Institute Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-25T12:17:02+00:00"
-    },
-    {
-      "id": "3742b85f5b6e6da5fc3ef9f1eb30fd71e635768a4698d9d2938afb4faa805e49",
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Gho",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-25T12:02:46+00:00"
     }
   ]
 }
