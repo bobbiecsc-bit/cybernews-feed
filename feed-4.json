@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-08T03:40:53.612474+00:00",
+  "updated": "2026-06-08T10:47:09.569051+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1da25a52f1ea48c7059c73a39141eb6589098a850984e86f9c3d46061b2066e7",
+      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+      "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
+      "summary": "The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names. The post Gogs Zero-Day Exposes Servers to Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-29T12:59:37+00:00"
+    },
+    {
+      "id": "933e2719244b7cc32aa5de9488ae60ebcf2302aa1c0d157d30d21e0ee6a8e3aa",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and pose",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-29T12:00:00+00:00"
+    },
+    {
+      "id": "101108663e25444de8e2bf6ea96c155e9430b329f1cbb45585ed1e0f87e01e8d",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, wit",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-29T11:31:59+00:00"
+    },
+    {
+      "id": "5216b68b704a7bde310f4eb4cd86e697ac365701c1f0c5ac40a224fbb0892cd7",
+      "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
+      "url": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
+      "summary": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. The post California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-29T11:12:15+00:00"
+    },
+    {
+      "id": "1229614d938d1116884f3186b401bcff1c3490ebdfb312b111ba9fc66cf49cf9",
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a promp",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-29T10:30:00+00:00"
+    },
+    {
+      "id": "4f031431c5fbe95e99399df1310c7bd9512f0670d0bfc2597eaa8bcaee4863c1",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-29T08:29:40+00:00"
+    },
+    {
+      "id": "ca4163d35829076b2a59ca45c031cf447a0e073c66c9d6301bc3728fa453dece",
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. \"Kimsuky employed a range of tailored social engineering tactics, such as spoo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-29T05:57:41+00:00"
+    },
     {
       "id": "c40f0d28bfe51d09828104a279f07359d435eb4f49a5d08a10f2a17d5bfd793b",
       "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-05-27T11:48:37+00:00"
-    },
-    {
-      "id": "67107330c27286a46ca9af88f9d555f698f7b7a30410823ecd9efd2432289419",
-      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-      "url": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T11:37:19+00:00"
-    },
-    {
-      "id": "898fdef58b64b66fc3022ccd441335fa5bc2554e400f492c854fc5f8054c5c19",
-      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-      "url": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-      "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-27T10:30:00+00:00"
-    },
-    {
-      "id": "3f383fd1c8973bec1c7b91686d4b87cb1771b109c933441eda1795c13a4b32ab",
-      "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
-      "url": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
-      "summary": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code. The post ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery S",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-27T10:15:00+00:00"
-    },
-    {
-      "id": "b63bd13c1e4c6ede3c4d88b36a3761ecf13564fa71d5c3c99831c3e0aa9a2dd4",
-      "title": "GlassWorm Botnet Disrupted",
-      "url": "https://www.securityweek.com/glassworm-botnet-disrupted/",
-      "summary": "Security firms took down all four command-and-control (C&#038;C) channels used by the GlassWorm malware. The post GlassWorm Botnet Disrupted appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-27T10:10:00+00:00"
-    },
-    {
-      "id": "9fb67dacb13dd308d3547355808765be67d5274b4e0168090fcaea96d1c381b9",
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerab",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-27T10:06:32+00:00"
-    },
-    {
-      "id": "b0357bab491ea2f27c9a4bb6097f502ca113540a908b0993ba3ae62903c2f050",
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-27T10:06:17+00:00"
-    },
-    {
-      "id": "e5fa407495976dd13bc1bf1abb99244cccf7eb88030b22efacafd133a28ba465",
-      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
-      "url": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
-      "summary": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors. The post LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T09:33:45+00:00"
     }
   ]
 }

@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-08T03:40:53.612474+00:00",
+  "updated": "2026-06-08T10:47:09.569051+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "67107330c27286a46ca9af88f9d555f698f7b7a30410823ecd9efd2432289419",
+      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+      "url": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-27T11:37:19+00:00"
+    },
+    {
+      "id": "898fdef58b64b66fc3022ccd441335fa5bc2554e400f492c854fc5f8054c5c19",
+      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+      "url": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+      "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-27T10:30:00+00:00"
+    },
+    {
+      "id": "3f383fd1c8973bec1c7b91686d4b87cb1771b109c933441eda1795c13a4b32ab",
+      "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+      "url": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+      "summary": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code. The post ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery S",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-05-27T10:15:00+00:00"
+    },
+    {
+      "id": "b63bd13c1e4c6ede3c4d88b36a3761ecf13564fa71d5c3c99831c3e0aa9a2dd4",
+      "title": "GlassWorm Botnet Disrupted",
+      "url": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+      "summary": "Security firms took down all four command-and-control (C&#038;C) channels used by the GlassWorm malware. The post GlassWorm Botnet Disrupted appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-05-27T10:10:00+00:00"
+    },
+    {
+      "id": "9fb67dacb13dd308d3547355808765be67d5274b4e0168090fcaea96d1c381b9",
+      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+      "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerab",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-05-27T10:06:32+00:00"
+    },
+    {
+      "id": "b0357bab491ea2f27c9a4bb6097f502ca113540a908b0993ba3ae62903c2f050",
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-27T10:06:17+00:00"
+    },
+    {
+      "id": "e5fa407495976dd13bc1bf1abb99244cccf7eb88030b22efacafd133a28ba465",
+      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+      "url": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+      "summary": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors. The post LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-27T09:33:45+00:00"
+    },
     {
       "id": "70e3a934e0010502440a793e060b0c5dad5531850d9293472632c75a464d9dde",
       "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
@@ -391,69 +454,6 @@
       "source": "SANS ISC",
       "category": "vulnerability",
       "date": "2026-05-24T16:38:21+00:00"
-    },
-    {
-      "id": "0eb501df97cbed5fefdfcd676c2f70c99dd980aa5695439dae4cc970778b41b1",
-      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-24T14:12:32+00:00"
-    },
-    {
-      "id": "5b14eff211fa37d873e1960c51f5f8747f6dc6187fe6b658e705410125118af1",
-      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-05-23T20:48:23+00:00"
-    },
-    {
-      "id": "02411a6d06c3a3754a64b0b6243b3b45e5c1a75eb7f57b1c162068f2f1cfeb4c",
-      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm.",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-23T16:35:10+00:00"
-    },
-    {
-      "id": "f8e1e1bf87e4fa01af647416aebb15266fbe96b1f0da18e8624681f58b2f0f3f",
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Sock",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-23T16:07:51+00:00"
-    },
-    {
-      "id": "1463dcbfcb3580035dfead7d8223bca9312337be8cf9d1f4124c1d819190bffa",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive eff",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-23T11:55:35+00:00"
-    },
-    {
-      "id": "364fcbee1a5647e81426c528a4baf8b2c70a02f93bee30d9ca45f33d75fed1ed",
-      "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
-      "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
-      "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-23T11:00:00+00:00"
-    },
-    {
-      "id": "ba1db87086c60df52dd01d2fa1e25710fe1fdb5e51e1084316487ca53d7cf10e",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-23T09:51:13+00:00"
     }
   ]
 }

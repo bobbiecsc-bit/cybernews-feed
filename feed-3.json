@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-08T03:40:53.612474+00:00",
+  "updated": "2026-06-08T10:47:09.569051+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e23127369334f137b22b2def11edf6e6a8c57ccf66807ee3494db2c8618297ff",
+      "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
+      "url": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
+      "summary": "A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device. The post Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-02T12:25:52+00:00"
+    },
+    {
+      "id": "4bdc28d1f69fa6e8b94281b33a16c151d28d57d5f8a7246361b0f1c83a99dc41",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-02T12:00:00+00:00"
+    },
+    {
+      "id": "0ad1d907028712fff400a4cf79270aa6728984cf8673be4ac0240f50c062ceab",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminat",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-02T11:58:00+00:00"
+    },
+    {
+      "id": "14ba01fe31ef086ce2e74635535ec925cb258cc517ee70b5f714a1ce8fdd7da0",
+      "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+      "summary": "The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers. The post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-02T11:39:04+00:00"
+    },
+    {
+      "id": "8ed0e328e4a481db358202a6e956da8d89f0cebc693c63d3ecd931482b73159f",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-02T11:10:15+00:00"
+    },
+    {
+      "id": "daa2069fea6c34fa1bcdd44622bfbfc35c56eccf9b23f4a5ddf10167c46768be",
+      "title": "Microsoft Threatening Security Researcher",
+      "url": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
+      "summary": "An anonymous security researcher called &#8220;Nightmare Eclipse&#8221; has been publishing a series of significant security exploits against Microsoft Windows&#8212;including one that breaks BitLocker. Microsoft has threatened legal action against the researcher. Lots of recriminations are being tr",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-06-02T11:00:42+00:00"
+    },
+    {
+      "id": "30d25192c82a67eab55b9ca8fa5248d01a68b308510ef3b9076215a407a7b956",
+      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
+      "url": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
+      "summary": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address. The post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-02T10:48:26+00:00"
+    },
     {
       "id": "ba235d61c53f78f4e7bb4fbf4cadd50c482050f0b234f432719acdbf423ca916",
       "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
@@ -391,69 +454,6 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-05-29T13:33:00+00:00"
-    },
-    {
-      "id": "1da25a52f1ea48c7059c73a39141eb6589098a850984e86f9c3d46061b2066e7",
-      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
-      "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
-      "summary": "The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names. The post Gogs Zero-Day Exposes Servers to Remote Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-29T12:59:37+00:00"
-    },
-    {
-      "id": "933e2719244b7cc32aa5de9488ae60ebcf2302aa1c0d157d30d21e0ee6a8e3aa",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and pose",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-29T12:00:00+00:00"
-    },
-    {
-      "id": "101108663e25444de8e2bf6ea96c155e9430b329f1cbb45585ed1e0f87e01e8d",
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, wit",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-29T11:31:59+00:00"
-    },
-    {
-      "id": "5216b68b704a7bde310f4eb4cd86e697ac365701c1f0c5ac40a224fbb0892cd7",
-      "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
-      "url": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
-      "summary": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. The post California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-29T11:12:15+00:00"
-    },
-    {
-      "id": "1229614d938d1116884f3186b401bcff1c3490ebdfb312b111ba9fc66cf49cf9",
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a promp",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-29T10:30:00+00:00"
-    },
-    {
-      "id": "4f031431c5fbe95e99399df1310c7bd9512f0670d0bfc2597eaa8bcaee4863c1",
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-29T08:29:40+00:00"
-    },
-    {
-      "id": "ca4163d35829076b2a59ca45c031cf447a0e073c66c9d6301bc3728fa453dece",
-      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
-      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
-      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. \"Kimsuky employed a range of tailored social engineering tactics, such as spoo",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-29T05:57:41+00:00"
     }
   ]
 }
