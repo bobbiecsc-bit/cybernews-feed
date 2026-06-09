@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-08T20:10:28.378653+00:00",
+  "updated": "2026-06-09T02:49:36.257019+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5b945ea7e987e8ae9b19cc3cce269b245ccb8c908d0b916bed9d859a83c861b1",
+      "title": "Afghan finance officials targeted by suspected Pakistani cyberespionage campaign",
+      "url": "https://therecord.media/afghan-officials-targeted-by-sidecopy",
+      "summary": "A suspected Pakistan-linked hacking group has targeted Afghanistan's Ministry of Finance and provincial government officials in a new cyberespionage campaign, researchers have found.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-31T23:00:00+00:00"
+    },
+    {
+      "id": "fe9dd78660a97a15c123133d6ebcb849b25532b5463a31eff08fa22ba2b649c7",
+      "title": "Unknown hacker group targeted Russian maritime universities, diplomats for nearly two years",
+      "url": "https://therecord.media/unknown-hacking-group-targeting-russia-for-nearly-two-years",
+      "summary": "More than half of the attacks observed over the past year targeted educational institutions, particularly maritime universities and schools that train personnel for Russia's shipping, inland waterway and fishing industries.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-05-31T23:00:00+00:00"
+    },
+    {
+      "id": "efe3d3ab728d6227c673906f0362746f5f6a61fff986e8e6a94639a1d1f2bfc6",
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "summary": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-05-31T14:06:42+00:00"
+    },
+    {
+      "id": "03f2546636ff797b274185a8d613aa3c3c0b08655611c5e5200979b2bf5101c5",
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at leas",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-05-31T12:22:12+00:00"
+    },
+    {
+      "id": "32bc8688ad1e8269d4bd997beef8f216120c61499338c9b8b930b922e43a347d",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-05-30T18:02:51+00:00"
+    },
+    {
+      "id": "c4ea4a34113596e46d0009aa34aab5862acfd706ddd31a4d62f892327a0d6e8a",
+      "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
+      "url": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
+      "summary": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure. The post Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say appeared first on Securi",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-30T16:00:49+00:00"
+    },
     {
       "id": "06827a7135eb54229f7ff8390eadce6fe3543d3dfcbdce64a08bac1898bb7463",
       "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
@@ -400,60 +454,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "35ad4d0ac9d1bb21a3ddb06ff42426e9cecf8b3868cb2af8191ffc9eb0f4d2df",
-      "title": "KMW CCTV Security Cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416&nbsp; CVSS Vendor Equipment Vulnerabilities",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "d13f76cc6302a54b6257e0269324a1b32489c36daffccbb7742f1db9a416f470",
-      "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
-      "url": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
-      "summary": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure. The post Gitea Vulnerability Exposed 30,000 Deployments to Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-28T11:24:51+00:00"
-    },
-    {
-      "id": "9033f47b1ae2cf48be1f0ca117a2bb49439e7fecb5db8733bdaf6340b4e74384",
-      "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
-      "url": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
-      "summary": "CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale. The post Raising the Cybersecurity Stakes: Ante up for the Agentic Era appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T11:15:00+00:00"
-    },
-    {
-      "id": "ae9776a147523f9ca28e821125a0b00d95fa375e4a558e333f576f3115eb50fd",
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-28T10:49:27+00:00"
-    },
-    {
-      "id": "d92020b6a92d83e182d9c36027fb78fe31a0661ae5c03c2b2c87ac072baf3fc2",
-      "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
-      "url": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
-      "summary": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI. The post Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T09:55:00+00:00"
-    },
-    {
-      "id": "188cc814747dfa1a0b95fdac66efd1217c6d69f378b0f6e9d8dbd7113bcdfdca",
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These campaigns leveraged sophisticated social engineering techniques,",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-28T07:54:48+00:00"
     }
   ]
 }

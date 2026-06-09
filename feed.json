@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-08T20:10:28.378653+00:00",
+  "updated": "2026-06-09T02:49:36.257019+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3c083cd9902b36a6bdd0dabe6bf35e20df325be1510fc99af58145603a07d454",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-08T22:11:58+00:00"
+    },
+    {
+      "id": "a60a47af132baa3658ba844f45c0fe312b97b7ba6283133140c9d5425a119772",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-08T21:55:46+00:00"
+    },
+    {
+      "id": "9d935cbcf45cdf9dc193b99e6898ee2d4e3516c8f0ccc183a03db39692524b24",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-08T20:41:35+00:00"
+    },
+    {
+      "id": "31f72fbd2254448bab3ab86d07a24f15d1876b1c1b9ce4b6f9b6cb59a8adb277",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-08T20:17:39+00:00"
+    },
     {
       "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
       "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
@@ -31,6 +67,15 @@
       "source": "Schneier on Security",
       "category": "vulnerability",
       "date": "2026-06-08T17:06:53+00:00"
+    },
+    {
+      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
+      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
+      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
+      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-08T16:51:00+00:00"
     },
     {
       "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
@@ -103,6 +148,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-08T12:16:09+00:00"
+    },
+    {
+      "id": "718ab308d6253026f25cd2910773b155f8c44997281899a5bfc075538b4cd718",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulne",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-08T12:00:00+00:00"
     },
     {
       "id": "fdfbf4f2bb3b0df5dc8aaabb581568523b5e6af525d34de68fe3a130460fcd25",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-05T07:01:41+00:00"
-    },
-    {
-      "id": "ed06b2949afbfd7f3fbb78e48d8cd532d85a53345adb5aac27e390ce16f66934",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-05T06:24:20+00:00"
-    },
-    {
-      "id": "5d48b6ac114ef149c29f2243ae409555251ebd6929f153958313a4c773ba69e0",
-      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
-      "url": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
-      "summary": "The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet. The post Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-05T05:47:09+00:00"
-    },
-    {
-      "id": "b5b8223e790378d9bad3594e7415f44ad53ed07b68f8189e41c2b08b6df72754",
-      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified fo",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-05T05:34:19+00:00"
-    },
-    {
-      "id": "026e1c19759df5d19aeddee2d3b82919406543ff6b778ca3c254ca1fe38574fe",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-04T21:27:25+00:00"
-    },
-    {
-      "id": "e5aa321628393ce0fc349e8a74f9eb53c726a09cf53fe4ad911952ead4e9deca",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T20:47:16+00:00"
-    },
-    {
-      "id": "c3f27c66f290317084e26bbbd996666a391b7b0a19d5b11e3c4cede270a53d17",
-      "title": "DentaQuest data breach exposed info of 2.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T18:36:27+00:00"
     }
   ]
 }

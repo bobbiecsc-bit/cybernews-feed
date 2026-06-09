@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-08T20:10:28.378653+00:00",
+  "updated": "2026-06-09T02:49:36.257019+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3c083cd9902b36a6bdd0dabe6bf35e20df325be1510fc99af58145603a07d454",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-08T22:11:58+00:00"
+    },
+    {
+      "id": "a60a47af132baa3658ba844f45c0fe312b97b7ba6283133140c9d5425a119772",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-08T21:55:46+00:00"
+    },
+    {
+      "id": "9d935cbcf45cdf9dc193b99e6898ee2d4e3516c8f0ccc183a03db39692524b24",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-08T20:41:35+00:00"
+    },
+    {
+      "id": "31f72fbd2254448bab3ab86d07a24f15d1876b1c1b9ce4b6f9b6cb59a8adb277",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-08T20:17:39+00:00"
+    },
     {
       "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
       "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
@@ -28,6 +64,15 @@
       "source": "Schneier on Security",
       "category": "vulnerability",
       "date": "2026-06-08T17:06:53+00:00"
+    },
+    {
+      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
+      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
+      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
+      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-08T16:51:00+00:00"
     },
     {
       "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
@@ -100,6 +145,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-08T12:16:09+00:00"
+    },
+    {
+      "id": "718ab308d6253026f25cd2910773b155f8c44997281899a5bfc075538b4cd718",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulne",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-08T12:00:00+00:00"
     },
     {
       "id": "fdfbf4f2bb3b0df5dc8aaabb581568523b5e6af525d34de68fe3a130460fcd25",
@@ -2197,60 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-05-26T09:47:19+00:00"
-    },
-    {
-      "id": "97b44aaa392db06508d33381b141a032bc0c6967e3ea7fd111d2a4b146fe6575",
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse o",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-26T09:13:02+00:00"
-    },
-    {
-      "id": "84bc907de0ab55ae20ba3ba37d4ff5146ce7fb2a10d6b51e0a78cc7ae1b40dc6",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-26T08:46:45+00:00"
-    },
-    {
-      "id": "c93bc112ac49e56f39c0ef093f70686c68dfc12f3b1352e9a60f9c4e166fc105",
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli mi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T07:13:05+00:00"
-    },
-    {
-      "id": "cc78dc022a4d994f5afbdf9a08411ff88a67a8618d36dc02fdc00b151ec2c46d",
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T07:01:12+00:00"
-    },
-    {
-      "id": "8c19f57b3ebd5d4635049f91cdcec656071d5f4459a99743a8d7d952bf941c8d",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as C",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-26T05:19:38+00:00"
-    },
-    {
-      "id": "915a877c9566216912aeec98f06260af733ca825460105231fc73a2c237b04e5",
-      "title": "Dutch authorities arrest men suspected of providing infrastructure for Russian cyber operations",
-      "url": "https://therecord.media/dutch-authorities-arrest-suspects-over-russian-cyber-operations",
-      "summary": "Investigators seized more than 800 servers as they arrested two men suspected of violating European sanctions and assisting pro-Russian cyberattacks and disinformation campaigns.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-25T23:00:00+00:00"
     }
   ]
 }
