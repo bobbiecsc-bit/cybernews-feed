@@ -1,10 +1,91 @@
 {
-  "updated": "2026-06-09T14:43:24.681987+00:00",
+  "updated": "2026-06-09T20:03:45.533946+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "63c949153ce0172639255e05d97a98b498eb006ab25b3292dbe50635cde17cf8",
+      "title": "Hacking Meta’s AI Chatbot",
+      "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
+      "summary": "Hackers are convincing Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts: A video posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; presumed location to avoid triggering",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-06-04T11:04:09+00:00"
+    },
+    {
+      "id": "3496fcdc798841ae6c277a424555554315358636445e1f841f937a5d0c9e2e7d",
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are w",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-04T09:51:28+00:00"
+    },
+    {
+      "id": "0cde788ba67f712b57538e32742aab7c071859cc98930c17286be8275c085a19",
+      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-04T09:33:57+00:00"
+    },
+    {
+      "id": "d84f767773f2bc3a12dd5818c99ee2515424982b2f706d5a669f236b3e1fa2d6",
+      "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
+      "url": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
+      "summary": "The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks. The post Cisco Warns of Available PoC for Critical Unified CM Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-04T08:44:08+00:00"
+    },
+    {
+      "id": "5ed2f45277bef6422c58371d0fdde825f1dfa9007f65b3ae0f40142f7bc572f3",
+      "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
+      "url": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
+      "summary": "A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance. The post VS Code Vulnerability Allows One-Click GitHub Token Theft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-04T08:14:52+00:00"
+    },
+    {
+      "id": "4691fe24c5f73a3bb7ac738016dc3c680fed8cac18b591d5de2ec9f73bc7bcda",
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-03T21:45:27+00:00"
+    },
+    {
+      "id": "3fb7a8c5ce2f60f60a862db14b7ae3e367cf488da319b9aa0070b6e1d472580c",
+      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
+      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-03T20:31:22+00:00"
+    },
+    {
+      "id": "8bf5d5dddb628d270a900f1f8e610a02c9d11c48f68f2fb383629855086b96bb",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-03T20:21:56+00:00"
+    },
+    {
+      "id": "f1e95ba6d4cb4fc6a759a2e41e73998e50636ab76faccf5aa588ea50f7628bfb",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-03T19:08:19+00:00"
+    },
     {
       "id": "6c431e403d30c1fba15d2c8816f1891240b491ae6c994c8fb1df2dec073f8b68",
       "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
@@ -34,11 +115,11 @@
     },
     {
       "id": "d5168f1294db5177a9c62b87cdf63b68f29713bbaa29a3c42b0bd174e3e86a2c",
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver .NET Loader",
       "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through D",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver an unidentified .NET-based loader. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a",
       "source": "The Hacker News",
-      "category": "malware",
+      "category": "threat",
       "date": "2026-06-03T16:29:16+00:00"
     },
     {
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-02T11:10:15+00:00"
-    },
-    {
-      "id": "daa2069fea6c34fa1bcdd44622bfbfc35c56eccf9b23f4a5ddf10167c46768be",
-      "title": "Microsoft Threatening Security Researcher",
-      "url": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
-      "summary": "An anonymous security researcher called &#8220;Nightmare Eclipse&#8221; has been publishing a series of significant security exploits against Microsoft Windows&#8212;including one that breaks BitLocker. Microsoft has threatened legal action against the researcher. Lots of recriminations are being tr",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-02T11:00:42+00:00"
-    },
-    {
-      "id": "30d25192c82a67eab55b9ca8fa5248d01a68b308510ef3b9076215a407a7b956",
-      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
-      "url": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
-      "summary": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address. The post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-02T10:48:26+00:00"
-    },
-    {
-      "id": "ba235d61c53f78f4e7bb4fbf4cadd50c482050f0b234f432719acdbf423ca916",
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-02T10:30:00+00:00"
-    },
-    {
-      "id": "987ad966864c7a63a1063c59d93128fed49ee6a7ec58a51de4d9ae6f70170f23",
-      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
-      "url": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
-      "summary": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud. The post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-02T09:51:19+00:00"
-    },
-    {
-      "id": "db05fb41924b0e5e8eea198ebdcfa9ee3bd002add521feb50fd6c505d579a548",
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP arch",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-02T09:05:40+00:00"
-    },
-    {
-      "id": "a4441052e6260bd1d88d64df22d9b0461b54083f6dd52cc96f41539518bdcdf1",
-      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
-      "url": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
-      "summary": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts. The post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-02T08:07:41+00:00"
-    },
-    {
-      "id": "a5436fe65c6d59f541a89582aa97ccce7667026d2a08b28efa5af9a50318362e",
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against c",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-02T03:55:25+00:00"
-    },
-    {
-      "id": "252ffd63563651fe0efb2826608a24f307921d020506acc7bc664590be811cb6",
-      "title": "Spain arrests suspected hacker for publishing personal data of police, prosecutors and cyber officials",
-      "url": "https://therecord.media/spain-arrests-suspected-hacker-for-publishing-data-on-sensitive-government-workers",
-      "summary": "Police described the incident as a large-scale disclosure of sensitive personal information that posed a threat to both the affected individuals and the institutions they serve. The data was allegedly posted on multiple internet platforms.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-01T23:00:00+00:00"
-    },
-    {
-      "id": "4731840140478d8745856ee533d4d55c0f9209f72c7c334f08f79f8645a15e5c",
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T22:14:19+00:00"
     }
   ]
 }

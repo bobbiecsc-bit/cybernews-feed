@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-09T14:43:24.681987+00:00",
+  "updated": "2026-06-09T20:03:45.533946+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bf95ec74b0b0bfbaa1da461999de74b7d818116f07359fb558cb57db440a5600",
+      "title": "OpenSSL Patches High-Severity Vulnerability Found With AI",
+      "url": "https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/",
+      "summary": "A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI. The post OpenSSL Patches High-Severity Vulnerability Found With AI appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T16:47:58+00:00"
+    },
+    {
+      "id": "7bb9c959c78254fddf7929b374cf7ac549fac2f078b5ff1c943da015b85d6696",
+      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+      "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+      "summary": "Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0. \"A vulnerability allowing remote code execution (RCE)",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-09T16:39:47+00:00"
+    },
+    {
+      "id": "146cba0f97d31d948c947a4756e9ea9c5a854510edb9da4b5ac052bb57da5887",
+      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+      "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our priority is to protect customers and the broader ecosystem,\" ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-09T16:34:52+00:00"
+    },
+    {
+      "id": "d236141792bd4a486903e535a5e193ed11f81cf20089c64df543d0eea23ec976",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T16:16:38+00:00"
+    },
+    {
+      "id": "a41367cd04e8f00351ec74696f020c1bb681cf5f0b280d371f1caabdd626a3c1",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-09T15:42:40+00:00"
+    },
+    {
+      "id": "12293ccd93011aefad8a86ce80b9d677cfccd4ce1aa9aecd3ab38c9be0686bb3",
+      "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
+      "url": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
+      "summary": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks. The post Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T15:03:13+00:00"
+    },
     {
       "id": "0a5e3a93ca649603969db445cd151c67bbe931bce5f805a1147f06a280c80d18",
       "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
@@ -46,6 +100,33 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-09T12:15:30+00:00"
+    },
+    {
+      "id": "c70601cab76c2a8d2e2ded0fd4d4cedd08884f83bb72f81734b0aa3248e017af",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "id": "6cf4c852993ebb62d998543041d313ddffb76bde985efd300bca92ea123e25ea",
+      "title": "Schneider Electric EcoStruxure Panel Server",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connections to multiple concurrent edge control or cloud applications.",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "id": "a4eb115e8597803753c28562a69f294de1861b408fe415b9ea0b1e9beb4a2c4e",
+      "title": "Schneider Electric Modicon Network Managed Switches",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01",
+      "summary": "View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, network management, enhanced cyber security and more advanced switchi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
     },
     {
       "id": "b533fe5a2c217920b7638a12076cfcf7d5557529af2ed7aa5a575a32b90ed282",
@@ -931,11 +1012,11 @@
     },
     {
       "id": "d5168f1294db5177a9c62b87cdf63b68f29713bbaa29a3c42b0bd174e3e86a2c",
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver .NET Loader",
       "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through D",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver an unidentified .NET-based loader. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a",
       "source": "The Hacker News",
-      "category": "malware",
+      "category": "threat",
       "date": "2026-06-03T16:29:16+00:00"
     },
     {
@@ -2170,87 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-27T10:06:32+00:00"
-    },
-    {
-      "id": "b0357bab491ea2f27c9a4bb6097f502ca113540a908b0993ba3ae62903c2f050",
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-27T10:06:17+00:00"
-    },
-    {
-      "id": "e5fa407495976dd13bc1bf1abb99244cccf7eb88030b22efacafd133a28ba465",
-      "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
-      "url": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
-      "summary": "The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors. The post LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T09:33:45+00:00"
-    },
-    {
-      "id": "70e3a934e0010502440a793e060b0c5dad5531850d9293472632c75a464d9dde",
-      "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
-      "url": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
-      "summary": "The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms. The post FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T08:33:34+00:00"
-    },
-    {
-      "id": "7f2826815512ed176ac5e1e1845e32d4aa81b1cc7ba35978f24ba1c160c591b2",
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-27T07:45:52+00:00"
-    },
-    {
-      "id": "18a6f539aae5c3eb073c5133e98a8af1dbc3d68e0cf7c37eb69151427d0b2b32",
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-27T06:55:44+00:00"
-    },
-    {
-      "id": "19113cd8756f953a6bb0cf6bbe1e85c3eefb3362a9d8908f5f9bc33e97fbc89a",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-26T20:07:31+00:00"
-    },
-    {
-      "id": "f07ffdd26ec3ee0f9c14f9b3c4e2d7909e0dd76d16026c984f26b872ae4fe834",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-05-26T19:46:01+00:00"
-    },
-    {
-      "id": "9db9328f0ca4b1b9d6209e71f5b086501a2f67ba708679dcc8781cda261ebe41",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial s",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-05-26T15:48:41+00:00"
-    },
-    {
-      "id": "62553ee1030378b9696cbe4e5219ce93d8a9d4dbfd6b1585911e1f91520284bf",
-      "title": "Lithuania investigates theft of 600,000 state registry records by foreign actor",
-      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
-      "summary": "The Lithuanian Prosecutor General’s Office said Friday that attackers gained unauthorized access to more than 600,000 records managed by the Centre of Registers, the state agency responsible for handling property and legal entity records.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-26T14:14:00+00:00"
     }
   ]
 }
