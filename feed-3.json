@@ -1,10 +1,127 @@
 {
-  "updated": "2026-06-09T09:37:17.695199+00:00",
+  "updated": "2026-06-09T14:43:24.681987+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6c431e403d30c1fba15d2c8816f1891240b491ae6c994c8fb1df2dec073f8b68",
+      "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-03T17:58:00+00:00"
+    },
+    {
+      "id": "c7879313a64f36a432a9616702799220b7d49337d430d1cca6c7e97a782d8dac",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T16:40:00+00:00"
+    },
+    {
+      "id": "886f2451f9cbe93c57e950bf2704898c8ecd58185f84e1a6471d038cebec31a6",
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T16:30:00+00:00"
+    },
+    {
+      "id": "d5168f1294db5177a9c62b87cdf63b68f29713bbaa29a3c42b0bd174e3e86a2c",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through D",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-03T16:29:16+00:00"
+    },
+    {
+      "id": "ac0da12d642024135f235b04e6ac8ee9933e494500032b5e5c16e128d108acc4",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-03T15:36:16+00:00"
+    },
+    {
+      "id": "b12df17a52041075378bcc401c7a86b16ac75e542aa1de52ca48a2784bafc296",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-03T14:56:46+00:00"
+    },
+    {
+      "id": "2592a526fb9b51d907db0e8543c48295008b3d115ac7e3351164a4856a574c1b",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T14:56:35+00:00"
+    },
+    {
+      "id": "e419cbc1c7e601e1f8ac5983ee71745578f9f84c0429a6aac2bed074a9de0900",
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-03T14:02:12+00:00"
+    },
+    {
+      "id": "72801b00fe2bb6c698bfad2ec8adaa8de14f80fb28a4ec0ebb31b838ebbb9bab",
+      "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
+      "summary": "Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites. The post Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-03T13:00:04+00:00"
+    },
+    {
+      "id": "a9c043e1dc74b753aa3c5fdc52194f915cfee76d012ef2841e796d1f2b05de3b",
+      "title": "Security of 100 AI Agents Tested and Ranked – What You Need to Know",
+      "url": "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/",
+      "summary": "The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses. The post Security of 100 AI Agents Tested and Ranked – What You Need to Know appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-03T13:00:00+00:00"
+    },
+    {
+      "id": "c73de578a6f3ab9491b0f88797c9a80ec4a920589eaea4bf72bfae94ce258131",
+      "title": "Hackers Target Global Stock Exchange in Espionage Operation",
+      "url": "https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/",
+      "summary": "The attackers had access to a senior executive’s email account for 150 days and exfiltrated data for months. The post Hackers Target Global Stock Exchange in Espionage Operation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-03T12:46:53+00:00"
+    },
+    {
+      "id": "4488741725720075803f832911b658c936333a098d722e076ac712ea10507ad3",
+      "title": "IMA Diligence Services Data Breach Impacts 525,000 People",
+      "url": "https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/",
+      "summary": "The affected individuals’ personal information was stolen from a legacy server managed by a third party. The post IMA Diligence Services Data Breach Impacts 525,000 People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-03T12:08:25+00:00"
+    },
+    {
+      "id": "7eee7dd8b9253e908a0c3190780c007c3dda1df87261d3c3859045dba2a6ce2f",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247&nbsp;Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for mal",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-03T12:00:00+00:00"
+    },
     {
       "id": "93a46bbcda21a93c2dc23eb793c1a8435777f9f93acd4508c914ddbbbf87f095",
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
@@ -337,123 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-01T22:14:19+00:00"
-    },
-    {
-      "id": "8e1b55828cdeb249268d12412212a128e72d4df8f831cd6dcd5a9ff221dc550b",
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T21:38:29+00:00"
-    },
-    {
-      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
-      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
-      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
-      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-06-01T20:28:00+00:00"
-    },
-    {
-      "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
-      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
-      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
-      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T18:19:23+00:00"
-    },
-    {
-      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-01T18:17:13+00:00"
-    },
-    {
-      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-01T17:40:28+00:00"
-    },
-    {
-      "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T17:04:16+00:00"
-    },
-    {
-      "id": "acac2c5f60a434e98d3c2bc6c92facdba18f2bbf8918cf0e81ca228eaec06b02",
-      "title": "Vulnerability Disclosure in the Age of AI",
-      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
-      "summary": "New article: &#8220;Responsible Disclosure in the Age of AI: A Call for Urgent Action,&#8221; by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying ",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-06-01T16:49:39+00:00"
-    },
-    {
-      "id": "e440fd63cb0927c6d6f966c7c23ca5f759c695a9c7a25656f28855ee16b900e0",
-      "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
-      "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T15:02:17+00:00"
-    },
-    {
-      "id": "e5ecbb9120b259460e199200c39e7a2696a192afb9b78ab2c0865a18079cb7b4",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-01T14:00:10+00:00"
-    },
-    {
-      "id": "ca69fb1534d93bf2c30a3f4ee0e65cdebaa0a314ed9a429d977331ab19918def",
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-01T13:59:54+00:00"
-    },
-    {
-      "id": "9c10c0424399dec40a97968574a36adbd24feb2d0fb66353f8527ae5993ee897",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-01T12:30:27+00:00"
-    },
-    {
-      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-01T12:00:00+00:00"
-    },
-    {
-      "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-01T11:54:24+00:00"
     }
   ]
 }

@@ -1,10 +1,127 @@
 {
-  "updated": "2026-06-09T09:37:17.695199+00:00",
+  "updated": "2026-06-09T14:43:24.681987+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8e1b55828cdeb249268d12412212a128e72d4df8f831cd6dcd5a9ff221dc550b",
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T21:38:29+00:00"
+    },
+    {
+      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
+      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
+      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
+      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-01T20:28:00+00:00"
+    },
+    {
+      "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
+      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
+      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T18:19:23+00:00"
+    },
+    {
+      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-01T18:17:13+00:00"
+    },
+    {
+      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-01T17:40:28+00:00"
+    },
+    {
+      "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-01T17:04:16+00:00"
+    },
+    {
+      "id": "acac2c5f60a434e98d3c2bc6c92facdba18f2bbf8918cf0e81ca228eaec06b02",
+      "title": "Vulnerability Disclosure in the Age of AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
+      "summary": "New article: &#8220;Responsible Disclosure in the Age of AI: A Call for Urgent Action,&#8221; by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-06-01T16:49:39+00:00"
+    },
+    {
+      "id": "e440fd63cb0927c6d6f966c7c23ca5f759c695a9c7a25656f28855ee16b900e0",
+      "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
+      "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T15:02:17+00:00"
+    },
+    {
+      "id": "e5ecbb9120b259460e199200c39e7a2696a192afb9b78ab2c0865a18079cb7b4",
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-01T14:00:10+00:00"
+    },
+    {
+      "id": "ca69fb1534d93bf2c30a3f4ee0e65cdebaa0a314ed9a429d977331ab19918def",
+      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-01T13:59:54+00:00"
+    },
+    {
+      "id": "9c10c0424399dec40a97968574a36adbd24feb2d0fb66353f8527ae5993ee897",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:30:27+00:00"
+    },
+    {
+      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:00:00+00:00"
+    },
+    {
+      "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-01T11:54:24+00:00"
+    },
     {
       "id": "4adcb3a9f94d81c6a9c308e83904b857e76c62edb231be0ea1a6147d10af628b",
       "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
@@ -337,123 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-05-28T15:26:04+00:00"
-    },
-    {
-      "id": "7f6d5854e3f6fd21bc59732ee348a8247be24998f1e52491b9fef4746ad60c40",
-      "title": "Carnival Data Breach Exposed 6 Million People",
-      "url": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
-      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-28T14:45:28+00:00"
-    },
-    {
-      "id": "9316565e30e3af6d9ba10d7329a1ddf74b8f5375463867a3a443aea02dfa8f39",
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-05-28T14:25:43+00:00"
-    },
-    {
-      "id": "8659630f756788b0e2011cfea1109dcee9c877f5ff0a9b58612ac8020ef23a60",
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-28T14:01:11+00:00"
-    },
-    {
-      "id": "7a74ffa0fb7d124c3bf2daed36e293f0b5d9378a6cdc574212c7bbd67992ae3b",
-      "title": "Cruise giant Carnival confirms data breach affecting nearly 6 million people",
-      "url": "https://therecord.media/cruise-giant-carnival-confirms-data-breach-affecting-6-million",
-      "summary": "The company said the threat actor gained access to a limited portion of its IT environment last month after compromising an employee account. By the end of April, Carnival determined that the attacker had copied personal information from its systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-28T14:01:00+00:00"
-    },
-    {
-      "id": "cfe9b1b2ba914abefe2b5ee40b83b9353cef0865f0179d437c9d5d4999942dec",
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a re",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-05-28T13:53:52+00:00"
-    },
-    {
-      "id": "ef06d61235dad0a64a19d6f9d8c8be1aee39f9b5c5c7d6f12ce72d08980e8c91",
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile som",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-05-28T13:33:16+00:00"
-    },
-    {
-      "id": "73943f7051f9f667dfa3376587321de8da9a88fe33bba7e38f5d95d95bed0d4b",
-      "title": "Russia conducting daily attacks on UK 'from seabed to cyberspace,' spy chief warns",
-      "url": "https://therecord.media/russia-conducting-attacks-on-uk-gchq-briefing",
-      "summary": "Anne Keast-Butler, director of GCHQ, said Russia's actions have prompted the agency to defend subsea cables and energy pipelines in British waters, disrupt Russian networks smuggling sanctioned technology and countering “reckless sabotage and assassination attempts.”",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-05-28T13:20:00+00:00"
-    },
-    {
-      "id": "9a3f4d07c9a34f1e1b1f07cff0c394a59a24a806a2efca5f30ad04249dec08c8",
-      "title": "New BTMOB Android Malware Enables Full Device Takeover",
-      "url": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
-      "summary": "Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access. The post New BTMOB Android Malware Enables Full Device Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-05-28T13:05:04+00:00"
-    },
-    {
-      "id": "5b40fc3fd741ac5e128620a324096cc3263b1ad7fdb0ea8d80108a02470167d6",
-      "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
-      "url": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
-      "summary": "Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching. The post Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:55:47+00:00"
-    },
-    {
-      "id": "a09109dc7dcf34a94bd50ed17e145d1b0aad5b1fbddf71869b96b49326b9a373",
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-28T12:43:29+00:00"
-    },
-    {
-      "id": "2bf26e686cfc76423425e4120f4388f2afbe0060fad27344913a4663ea12a580",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
-      "title": "ABB EIBPORT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
     }
   ]
 }
