@@ -1,10 +1,82 @@
 {
-  "updated": "2026-06-10T03:26:26.147515+00:00",
+  "updated": "2026-06-10T09:53:34.255743+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "be078693e6bef59b3db90196e67e89df9324ee9b04f8c1daccb760ac6b44d0eb",
+      "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
+      "url": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
+      "summary": "The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April. The post Charter Communications Data Breach Could Impact Nearly 5 Million appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-29T14:49:58+00:00"
+    },
+    {
+      "id": "e11c268779d002e0c7ec1467f425fbf3f102acb98190144549fa7c9afe43eab1",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reac",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-05-29T14:39:56+00:00"
+    },
+    {
+      "id": "0555d487c7fded2431241f861d9a932ef507b953530ae18a4f8458bae4c53598",
+      "title": "MokN Raises $15 Million for Phish-Back Platform",
+      "url": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
+      "summary": "MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs. The post MokN Raises $15 Million for Phish-Back Platform appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-05-29T14:34:15+00:00"
+    },
+    {
+      "id": "bc023aef830c3e7567828a37a624b347e27c79d088e6a54e991d47a741467743",
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-05-29T14:32:02+00:00"
+    },
+    {
+      "id": "48d92eba4242fcfee8b782c1f67ed6227e2402803dba2e78c3fdfb84a7bb82b3",
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-05-29T14:26:36+00:00"
+    },
+    {
+      "id": "ae78a31e99f71ccd700fc113a118a86ab7a39d242c75089a3badcd7bd3a0788b",
+      "title": "Microsoft calls zero-day releases ‘never justifiable’ as researcher threatens to drop more",
+      "url": "https://therecord.media/microsoft-calls-zero-day-releases-never-justifiable-as-researcher-threatens-more",
+      "summary": "Each vulnerability was published with working proof-of-concept code to the Microsoft-owned code repository GitHub, making them immediately available to both attackers and security professionals.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-05-29T13:33:00+00:00"
+    },
+    {
+      "id": "1da25a52f1ea48c7059c73a39141eb6589098a850984e86f9c3d46061b2066e7",
+      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+      "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
+      "summary": "The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names. The post Gogs Zero-Day Exposes Servers to Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-05-29T12:59:37+00:00"
+    },
+    {
+      "id": "933e2719244b7cc32aa5de9488ae60ebcf2302aa1c0d157d30d21e0ee6a8e3aa",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and pose",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-05-29T12:00:00+00:00"
+    },
     {
       "id": "101108663e25444de8e2bf6ea96c155e9430b329f1cbb45585ed1e0f87e01e8d",
       "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-27T13:28:42+00:00"
-    },
-    {
-      "id": "7ff4e664f8602ae714ecf9a9c3f255f179d17c1b7e4e5333f216f0c382448b49",
-      "title": "Dutch police arrest man over cyber breach at Ajax football club",
-      "url": "https://therecord.media/dutch-police-arrest-man-over-cyber-breach-ajax-football",
-      "summary": "The suspect was detained in the central Dutch town of Buren, where law enforcement officers also searched his home and seized multiple digital storage devices, according to a statement released Tuesday by the Dutch National Police.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-27T13:28:00+00:00"
-    },
-    {
-      "id": "5e5097519e1beb1c9af553892ee0f8321155d1841673b9f602946612c39d9cfe",
-      "title": "Iranian intelligence service behind hack of LA transit system, researchers say",
-      "url": "https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system",
-      "summary": "The hacking group claimed to be a standalone hacktivist crew but actually has ties to the Ministry of Intelligence of the Islamic Republic of Iran (MOIS), researchers at Gambit Security said in a report published Tuesday.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-27T13:20:00+00:00"
-    },
-    {
-      "id": "a2b897f36503cbee32eaf421f0e68ea860710ebfc4d446e859fdd2ffe83b3b4b",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added&nbsp;three&nbsp;new vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398&nbsp;Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321&nbsp;TanStack&nbsp;Unspecified Vulnerability CVE-2026",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-27T12:00:00+00:00"
-    },
-    {
-      "id": "cd790cfe854f8e5b8ad82b472bd0c4702b31c8886058ddd490e444c95511929e",
-      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
-      "url": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
-      "summary": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries. The post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-27T11:52:55+00:00"
-    },
-    {
-      "id": "636e8aef2171b22a08e97466f420d4ceff9745c7949b5b7104eb376d9c5a8eb6",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-27T11:51:12+00:00"
-    },
-    {
-      "id": "6c3dd8f254d63f80eff18d259bb9126137431f22e8b29f2493a054996ef8fb47",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-27T11:48:37+00:00"
-    },
-    {
-      "id": "67107330c27286a46ca9af88f9d555f698f7b7a30410823ecd9efd2432289419",
-      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-      "url": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T11:37:19+00:00"
-    },
-    {
-      "id": "898fdef58b64b66fc3022ccd441335fa5bc2554e400f492c854fc5f8054c5c19",
-      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-      "url": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-      "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-27T10:30:00+00:00"
     }
   ]
 }

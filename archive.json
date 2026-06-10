@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-10T03:26:26.147515+00:00",
+  "updated": "2026-06-10T09:53:34.255743+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "766cd0eccbc44eeb2c35f5a60827f9ebfe425131313b33793b89a62e0052d2fc",
+      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
+      "url": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
+      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T09:45:35+00:00"
+    },
+    {
+      "id": "43de27def45fe3f7198fb2ed85784d61d9805aee0d0539a05c20056af9c65176",
+      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
+      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
+      "summary": "Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution. The post Critical Vulnerabilities Patched in Fortinet, Ivanti Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T08:50:12+00:00"
+    },
+    {
+      "id": "39a13aae9e28aa12e8df0bbe7c6d193f259c9591f8875b6a73b2453ecee466d0",
+      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+      "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
+      "summary": "ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a security update to hosted customer instances,\" the company revealed in an advisory that requires custo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T07:02:08+00:00"
+    },
+    {
+      "id": "812fe935ebc9d9f532787af64bd2964145382abe05322846dd559f61cbf6f7aa",
+      "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
+      "url": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
+      "summary": "Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices. The post No Patch Planned for Exploited Arista EOS Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T06:38:32+00:00"
+    },
+    {
+      "id": "78c0dc3e15352e5a5a4cfdb95dd1ce40e96b992da162ee496bdf4eb0ebd93a06",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "summary": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T06:26:28+00:00"
+    },
+    {
+      "id": "3b3fe7c4f6a76b87ce42f32b947960f2c48dda36c5010b69fedd1b9e044792f0",
+      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+      "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T05:22:01+00:00"
+    },
+    {
+      "id": "85f025df1a492adefa87e9298d590c17d88f8d0a6f45280f7e74e95dc043a4a8",
+      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
+      "url": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
+      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks. \"In affected environments, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T05:08:35+00:00"
+    },
+    {
+      "id": "3268bbde4275b904a3b4c6526ab5a443b10e721dd60e377f0f4b78f6fae7f354",
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T23:11:18+00:00"
+    },
     {
       "id": "ea6cfaf1ee3aa04f9e85eea6978128e923c004fb36933ae17c400804d2b9f26e",
       "title": "A Record-Breaking Patch Tuesday for June 2026",
@@ -2179,78 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-27T13:28:42+00:00"
-    },
-    {
-      "id": "7ff4e664f8602ae714ecf9a9c3f255f179d17c1b7e4e5333f216f0c382448b49",
-      "title": "Dutch police arrest man over cyber breach at Ajax football club",
-      "url": "https://therecord.media/dutch-police-arrest-man-over-cyber-breach-ajax-football",
-      "summary": "The suspect was detained in the central Dutch town of Buren, where law enforcement officers also searched his home and seized multiple digital storage devices, according to a statement released Tuesday by the Dutch National Police.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-27T13:28:00+00:00"
-    },
-    {
-      "id": "5e5097519e1beb1c9af553892ee0f8321155d1841673b9f602946612c39d9cfe",
-      "title": "Iranian intelligence service behind hack of LA transit system, researchers say",
-      "url": "https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system",
-      "summary": "The hacking group claimed to be a standalone hacktivist crew but actually has ties to the Ministry of Intelligence of the Islamic Republic of Iran (MOIS), researchers at Gambit Security said in a report published Tuesday.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-05-27T13:20:00+00:00"
-    },
-    {
-      "id": "a2b897f36503cbee32eaf421f0e68ea860710ebfc4d446e859fdd2ffe83b3b4b",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added&nbsp;three&nbsp;new vulnerabilities&nbsp;to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398&nbsp;Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321&nbsp;TanStack&nbsp;Unspecified Vulnerability CVE-2026",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-27T12:00:00+00:00"
-    },
-    {
-      "id": "cd790cfe854f8e5b8ad82b472bd0c4702b31c8886058ddd490e444c95511929e",
-      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
-      "url": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
-      "summary": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries. The post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-05-27T11:52:55+00:00"
-    },
-    {
-      "id": "636e8aef2171b22a08e97466f420d4ceff9745c7949b5b7104eb376d9c5a8eb6",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-05-27T11:51:12+00:00"
-    },
-    {
-      "id": "6c3dd8f254d63f80eff18d259bb9126137431f22e8b29f2493a054996ef8fb47",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-05-27T11:48:37+00:00"
-    },
-    {
-      "id": "67107330c27286a46ca9af88f9d555f698f7b7a30410823ecd9efd2432289419",
-      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-      "url": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-05-27T11:37:19+00:00"
-    },
-    {
-      "id": "898fdef58b64b66fc3022ccd441335fa5bc2554e400f492c854fc5f8054c5c19",
-      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-      "url": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-      "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-27T10:30:00+00:00"
     }
   ]
 }
