@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-10T15:26:35.645656+00:00",
+  "updated": "2026-06-10T20:25:57.587886+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9c10c0424399dec40a97968574a36adbd24feb2d0fb66353f8527ae5993ee897",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:30:27+00:00"
+    },
+    {
+      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-01T12:00:00+00:00"
+    },
+    {
+      "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-01T11:54:24+00:00"
+    },
+    {
+      "id": "4adcb3a9f94d81c6a9c308e83904b857e76c62edb231be0ea1a6147d10af628b",
+      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
+      "url": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
+      "summary": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems. The post 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-01T11:19:31+00:00"
+    },
+    {
+      "id": "dfedd4d890bad83b22aac93d6a536de4c28582dd0a5713cbd972bd84a9ac0b10",
+      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
+      "url": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
+      "summary": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure. The post Recent Palo Alto Networks Vulnerability Exploited for Weeks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-01T10:00:00+00:00"
+    },
+    {
+      "id": "444c55f3b2a74069fc56e3e9474104840a93adfc2f176213d89ac10f2f75870e",
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 2",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-01T09:31:15+00:00"
+    },
+    {
+      "id": "b796c71b86c4a5dd2edd3ee447405fa50143df06fd4f1d28c844804fc134d538",
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites. WP Maps Pro allows site owners to embed customizable Google Maps a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-01T08:45:29+00:00"
+    },
     {
       "id": "5b945ea7e987e8ae9b19cc3cce269b245ccb8c908d0b916bed9d859a83c861b1",
       "title": "Afghan finance officials targeted by suspected Pakistani cyberespionage campaign",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-28T12:43:29+00:00"
-    },
-    {
-      "id": "2bf26e686cfc76423425e4120f4388f2afbe0060fad27344913a4663ea12a580",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
-      "title": "ABB EIBPORT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "d870a971c541b0107db886ea882248b3369298a65477e183f29bf55ce49120b7",
-      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "6d35f23fa479f633cae1216a29b231ff471a3d36ce8787201238f93c5f401ca4",
-      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "7ba3d390f6e29737df6dd2c7c47bb57844080d3540b3d896e69a095e67fbf59e",
-      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile App",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "f7ae44caedf41396bd14014825d2ebbba6b3aea2e6e7f5d74856521831e6838d",
-      "title": "CP Plus 8 Ch. Network Video Recorder",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the v",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
     }
   ]
 }

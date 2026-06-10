@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-10T15:26:35.645656+00:00",
+  "updated": "2026-06-10T20:25:57.587886+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0a8e38f5f8960fb3856de414d25984834089baf8a2991e07d2a84adfc3c3b187",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T19:41:44+00:00"
+    },
+    {
+      "id": "490aa96a54bc431f1a1d73b5c17de1868463d8ff9ebbd35156c782f569afe766",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-10T18:31:57+00:00"
+    },
+    {
+      "id": "944a2c7b61d4b5944be8e102470d9fc1d2d2023d324c9d754101188aca760788",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-10T16:08:42+00:00"
+    },
     {
       "id": "e7fb6fb21e7951f5e6781c151781541675cea6202d355cf660ad76c9674701b7",
       "title": "Cyberattack shuts down major Australian sugar mills, disrupting harvest",
@@ -12,6 +39,24 @@
       "date": "2026-06-10T15:18:00+00:00"
     },
     {
+      "id": "92218887bf7ba5fe7d8213364a68000ed9ac032dc6ec474699fa42a2b4def29c",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T15:10:59+00:00"
+    },
+    {
+      "id": "efdaae8518c88b1dc83967c291dfc963407663b867d718793aa65d44557ea0d2",
+      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T15:00:59+00:00"
+    },
+    {
       "id": "328985d6bcace9073558931fca7f08108c2f035d54634c7ac30e1149802843b9",
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
       "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
@@ -19,6 +64,15 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-10T15:00:00+00:00"
+    },
+    {
+      "id": "68b80d502f29c57c5c3c56c4557204df2cca622a9377d01ba57d9fe8506d6875",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as follows - CVE-2026-20245 (CVSS score: 7.8) - An improper encod",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T14:44:29+00:00"
     },
     {
       "id": "f95085924cae03aac5348bb1fe4355cf45ecc9fbff56c05036216cf678218095",
@@ -217,6 +271,15 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-09T21:20:20+00:00"
+    },
+    {
+      "id": "f6730f2237940df4db01cb9d3c7e0f6a2a6f27efdeb4ebd5e84a9ed489058f75",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
+      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T17:57:59+00:00"
     },
     {
       "id": "bf95ec74b0b0bfbaa1da461999de74b7d818116f07359fb558cb57db440a5600",
@@ -2188,69 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-05-28T12:43:29+00:00"
-    },
-    {
-      "id": "2bf26e686cfc76423425e4120f4388f2afbe0060fad27344913a4663ea12a580",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on Securi",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "24d2ead38dfd8b127a2fa0eb9365b96bbd5a405a401b13112d7043650b8615b3",
-      "title": "ABB EIBPORT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "9353eace115ed5d12c15a09c5035a00c4933863ed276b4967a69328b5f113266",
-      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failur",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "d870a971c541b0107db886ea882248b3369298a65477e183f29bf55ce49120b7",
-      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "6d35f23fa479f633cae1216a29b231ff471a3d36ce8787201238f93c5f401ca4",
-      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "7ba3d390f6e29737df6dd2c7c47bb57844080d3540b3d896e69a095e67fbf59e",
-      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile App",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
-    },
-    {
-      "id": "f7ae44caedf41396bd14014825d2ebbba6b3aea2e6e7f5d74856521831e6838d",
-      "title": "CP Plus 8 Ch. Network Video Recorder",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the v",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-05-28T12:00:00+00:00"
     }
   ]
 }

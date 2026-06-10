@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-10T15:26:35.645656+00:00",
+  "updated": "2026-06-10T20:25:57.587886+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cfbb84372b06a784f43ce6ad61696c8d5f686fbae381d405cd6162388e866a92",
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt. You open the page, leave the tab sitting there, and it watches the drive fo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-09T09:50:41+00:00"
+    },
+    {
+      "id": "f5ff2dd5fcd670a3b5130c0333566f7a9e15e109720324fde59be39960c90ab3",
+      "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
+      "url": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
+      "summary": "The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password. The post Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T09:47:10+00:00"
+    },
+    {
+      "id": "b90e0707d3925ddca66d989a2193496aca9c9e9259d892fceaad886bfa21abd7",
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems. \"T",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-09T09:13:32+00:00"
+    },
+    {
+      "id": "c29032fa40d7c7e531456e631a4bfaed90c7ee133b8b1a17c25d934c70d5c7e6",
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T08:18:39+00:00"
+    },
+    {
+      "id": "f91b36cf0666eb34675e761d55a54ef1ddc98122695181c365f8e7bc596645d8",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T06:56:27+00:00"
+    },
+    {
+      "id": "ba5c55b4a325572df422f7a3807619e9dcee11b2bb634628c362a0e78bf8dc37",
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command i",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-09T06:26:14+00:00"
+    },
+    {
+      "id": "25732644211a5affe3c31dddb7103baf8ba5be4abd14ce30f23a68882f73ceca",
+      "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
+      "url": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
+      "summary": "The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher. The post Google Patches 5th Chrome Zero-Day Exploited in 2026 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T05:57:40+00:00"
+    },
     {
       "id": "3c083cd9902b36a6bdd0dabe6bf35e20df325be1510fc99af58145603a07d454",
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-05T13:05:06+00:00"
-    },
-    {
-      "id": "6fb1925cf6612eef59a9c78af5f4e7c98460ffad8f4cb044c5e8317d49a41bcc",
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-05T12:33:38+00:00"
-    },
-    {
-      "id": "64f06b0440077bf426ec97db67126c59e24f82079fe837ee2cc13e324603bf26",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-05T12:00:00+00:00"
-    },
-    {
-      "id": "ccf11b5163f2f4f0264d7a887303cdfa63c171d7464e154a090373b6d70193f5",
-      "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
-      "url": "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/",
-      "summary": "The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator. The post Hackers Leak DentaQuest Information Impacting 2.6 Million appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-05T11:33:27+00:00"
-    },
-    {
-      "id": "6ba61a1e2ab9a1bd77ae7c68f25f2cfd321db23101561ce60aadae28ad0be50a",
-      "title": "Chrome 149 Patches 429 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
-      "summary": "Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws. The post Chrome 149 Patches 429 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-05T11:13:57+00:00"
-    },
-    {
-      "id": "f0f98fb2bada392d1d34342025f12c1dc9441b4916153673a25211966ffbf9af",
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution b",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-05T08:38:59+00:00"
-    },
-    {
-      "id": "c90cfe3e041bb120db0f132b811817af0bf1a304412b66bf0c50d90e014f853d",
-      "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
-      "url": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
-      "summary": "The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack. The post Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-05T07:24:08+00:00"
-    },
-    {
-      "id": "ae18d2949faada032e09cd785a6654973a1a5d156985aca88279624706471aae",
-      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-      "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that cop",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-05T07:01:41+00:00"
     }
   ]
 }
