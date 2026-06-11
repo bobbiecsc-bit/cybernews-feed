@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-11T03:38:42.931857+00:00",
+  "updated": "2026-06-11T10:18:20.452797+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "886f2451f9cbe93c57e950bf2704898c8ecd58185f84e1a6471d038cebec31a6",
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T16:30:00+00:00"
+    },
+    {
+      "id": "d5168f1294db5177a9c62b87cdf63b68f29713bbaa29a3c42b0bd174e3e86a2c",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver .NET Loader",
+      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver an unidentified .NET-based loader. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-03T16:29:16+00:00"
+    },
+    {
+      "id": "ac0da12d642024135f235b04e6ac8ee9933e494500032b5e5c16e128d108acc4",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-03T15:36:16+00:00"
+    },
+    {
+      "id": "b12df17a52041075378bcc401c7a86b16ac75e542aa1de52ca48a2784bafc296",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-03T14:56:46+00:00"
+    },
+    {
+      "id": "2592a526fb9b51d907db0e8543c48295008b3d115ac7e3351164a4856a574c1b",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T14:56:35+00:00"
+    },
+    {
+      "id": "e419cbc1c7e601e1f8ac5983ee71745578f9f84c0429a6aac2bed074a9de0900",
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-03T14:02:12+00:00"
+    },
     {
       "id": "72801b00fe2bb6c698bfad2ec8adaa8de14f80fb28a4ec0ebb31b838ebbb9bab",
       "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-06-01T20:28:00+00:00"
-    },
-    {
-      "id": "532463994514e6b6429a5951ba2b71f2315380c374fadff01c97b5b33e238e8c",
-      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
-      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
-      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T18:19:23+00:00"
-    },
-    {
-      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-01T18:17:13+00:00"
-    },
-    {
-      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-01T17:40:28+00:00"
-    },
-    {
-      "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T17:04:16+00:00"
-    },
-    {
-      "id": "acac2c5f60a434e98d3c2bc6c92facdba18f2bbf8918cf0e81ca228eaec06b02",
-      "title": "Vulnerability Disclosure in the Age of AI",
-      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
-      "summary": "New article: &#8220;Responsible Disclosure in the Age of AI: A Call for Urgent Action,&#8221; by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying ",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-06-01T16:49:39+00:00"
-    },
-    {
-      "id": "e440fd63cb0927c6d6f966c7c23ca5f759c695a9c7a25656f28855ee16b900e0",
-      "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
-      "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T15:02:17+00:00"
     }
   ]
 }

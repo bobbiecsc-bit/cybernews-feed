@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-11T03:38:42.931857+00:00",
+  "updated": "2026-06-11T10:18:20.452797+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c70601cab76c2a8d2e2ded0fd4d4cedd08884f83bb72f81734b0aa3248e017af",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "id": "6cf4c852993ebb62d998543041d313ddffb76bde985efd300bca92ea123e25ea",
+      "title": "Schneider Electric EcoStruxure Panel Server",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connections to multiple concurrent edge control or cloud applications.",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "id": "a4eb115e8597803753c28562a69f294de1861b408fe415b9ea0b1e9beb4a2c4e",
+      "title": "Schneider Electric Modicon Network Managed Switches",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01",
+      "summary": "View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, network management, enhanced cyber security and more advanced switchi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-09T12:00:00+00:00"
+    },
+    {
+      "id": "b533fe5a2c217920b7638a12076cfcf7d5557529af2ed7aa5a575a32b90ed282",
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without hum",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-09T11:59:03+00:00"
+    },
+    {
+      "id": "adbab8ad222f667e2fb3984da7631702b66efac809d184de3c2e4c9571540608",
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and Web",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-09T11:58:49+00:00"
+    },
+    {
+      "id": "58c2a0f52c6457102abc0443b2673be3313da612bc1c2a2463cc5d7b7c2200ba",
+      "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
+      "url": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
+      "summary": "The most recent variants of the self-propagating attacks are named Miasma and Hades. The post Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-09T11:37:11+00:00"
+    },
     {
       "id": "fa594b6728c4bc39e08a36a76c9fa95e98a4dd4b3734c01e2eebc0df93234d5f",
       "title": "Will AI Kill the Bug Bounty Industry?",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-06T04:19:28+00:00"
-    },
-    {
-      "id": "beb62a3a50300a1817df09df2c9306ce1ba6454c3bdda274ae85f972e0f5031e",
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-05T19:15:30+00:00"
-    },
-    {
-      "id": "180b693cca2510acd75d63888d78346f0770f8f31c9e9ce7458fe7c43d8dd06b",
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-05T18:09:47+00:00"
-    },
-    {
-      "id": "1ea85e08fd09bb53c7c2673bbd34a8dab473dd310491a6145147b489ee3a0a8c",
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-05T18:05:30+00:00"
-    },
-    {
-      "id": "04ba45b7e0e28a9a596cd5adbc32696be406e81543833ae5d89081e63167a4d6",
-      "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
-      "url": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
-      "summary": "CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability. The post OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-05T16:35:02+00:00"
-    },
-    {
-      "id": "1b989337110f1c902fa15035be5232443fdfa7ed087d3338c67e9064d73ae6d7",
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicki",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-05T14:53:40+00:00"
-    },
-    {
-      "id": "805aeb66266952d851a311405e5ac45d394d167e4be871ffc3f268a41f6e27fb",
-      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
-      "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-05T14:50:15+00:00"
     }
   ]
 }
