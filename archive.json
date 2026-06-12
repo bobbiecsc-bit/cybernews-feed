@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-12T14:51:46.553786+00:00",
+  "updated": "2026-06-12T20:05:38.637698+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "18edde89fbbb925ab625a99bbfa9e2d2a4f2e0eb946111b2872c60ee311527d5",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-12T19:33:32+00:00"
+    },
+    {
+      "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T19:24:50+00:00"
+    },
+    {
+      "id": "8f8a91d1631a1602e553fb4a7dacb247bce85c1ee56d234e78bceb6fc15e6bb7",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (Ph",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-12T18:59:32+00:00"
+    },
+    {
+      "id": "7407a5b5da59913b6e9434f889c9460b36b324d8a5591b50c4f65aadd5dc1fd7",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-12T18:19:34+00:00"
+    },
+    {
+      "id": "5dff8089bf35a8b2ca3a839f9ad21e1661fe5459a5f3fe3f6cae7e71d07d2c36",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, p",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T18:17:55+00:00"
+    },
+    {
+      "id": "5613fab1f40094b82779c27369b3d5c0e335e729b981b48db68881eb707cbc16",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-12T17:54:28+00:00"
+    },
+    {
+      "id": "bf5050a9316b6d59c808af3d1cbb4875332d714075882f9306d0db354029a490",
+      "title": "Bankruptcy admin approves settlement fund of $47 million for 23andMe data breach victims",
+      "url": "https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims",
+      "summary": "About 7 million customers of the genetics testing company had their data stolen by hackers starting in April 2023, and many had their information posted on the dark web.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-12T17:12:00+00:00"
+    },
+    {
+      "id": "a36831d1aab4c2137850088bd5355a943ca77b6a7151bb71fd0a58020fd4d044",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-12T17:03:55+00:00"
+    },
+    {
+      "id": "bd6d2c4410950eef83c23f6d0758539bb85c7538288d2845592cfe76287d08eb",
+      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
+      "url": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&#038;T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-12T16:17:26+00:00"
+    },
+    {
+      "id": "31e1e9cc1c5f5abc83b6ca5c1d5868db573034bec1be47a4760e3dc4ee671f9d",
+      "title": "South Korea hits Coupang with record $409 million fine over data breach",
+      "url": "https://therecord.media/south-korea-data-breach-record-fine-coupang",
+      "summary": "The penalty is the largest ever issued by the commission for a personal data breach, surpassing the record 134.8 billion won ($88.8 million) fine levied against SK Telecom earlier this year.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-12T15:56:00+00:00"
+    },
     {
       "id": "66fffad54cb9c79e0956dbe8c7c1b0d5f957afd133b16b9336e7a3bfcdb9a1fc",
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
@@ -19,6 +109,15 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-12T12:04:33+00:00"
+    },
+    {
+      "id": "2c71754a0390c79bac3e3ff7c393c0414b01eaee8878e68cf0440ea4cd191cd8",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vect",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-12T12:00:00+00:00"
     },
     {
       "id": "5e61457a53004ef2ec17384236683cf24fad508d006e2f37faf4b08a5d879a3b",
@@ -2152,105 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-01T18:17:13+00:00"
-    },
-    {
-      "id": "b77077332d59fc28dc918b8373ed792e0863182d0e52aa6be26773bc3d3910c2",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-01T17:40:28+00:00"
-    },
-    {
-      "id": "90b6e1240f3f7e13f8592806f3c0c5b1eec5eb570fe72564c2102783c705f41e",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T17:04:16+00:00"
-    },
-    {
-      "id": "acac2c5f60a434e98d3c2bc6c92facdba18f2bbf8918cf0e81ca228eaec06b02",
-      "title": "Vulnerability Disclosure in the Age of AI",
-      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
-      "summary": "New article: &#8220;Responsible Disclosure in the Age of AI: A Call for Urgent Action,&#8221; by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying ",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-06-01T16:49:39+00:00"
-    },
-    {
-      "id": "e440fd63cb0927c6d6f966c7c23ca5f759c695a9c7a25656f28855ee16b900e0",
-      "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
-      "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T15:02:17+00:00"
-    },
-    {
-      "id": "e5ecbb9120b259460e199200c39e7a2696a192afb9b78ab2c0865a18079cb7b4",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "url": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-01T14:00:10+00:00"
-    },
-    {
-      "id": "ca69fb1534d93bf2c30a3f4ee0e65cdebaa0a314ed9a429d977331ab19918def",
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-01T13:59:54+00:00"
-    },
-    {
-      "id": "9c10c0424399dec40a97968574a36adbd24feb2d0fb66353f8527ae5993ee897",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-01T12:30:27+00:00"
-    },
-    {
-      "id": "9384b2bfabfd25d1bec45618d75a5e35b19d5c3d3328d3693a30b618723615e2",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses signi",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-01T12:00:00+00:00"
-    },
-    {
-      "id": "51a7ae357cae7505e454da7ff4d31d96e033974bd10bb4faafb4b934226e75fc",
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-01T11:54:24+00:00"
-    },
-    {
-      "id": "4adcb3a9f94d81c6a9c308e83904b857e76c62edb231be0ea1a6147d10af628b",
-      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
-      "url": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
-      "summary": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems. The post 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-01T11:19:31+00:00"
-    },
-    {
-      "id": "dfedd4d890bad83b22aac93d6a536de4c28582dd0a5713cbd972bd84a9ac0b10",
-      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
-      "url": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
-      "summary": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure. The post Recent Palo Alto Networks Vulnerability Exploited for Weeks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-01T10:00:00+00:00"
     }
   ]
 }
