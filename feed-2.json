@@ -1,10 +1,82 @@
 {
-  "updated": "2026-06-12T03:38:31.879669+00:00",
+  "updated": "2026-06-12T10:05:36.075436+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7a746a111992ca9e55a2c1f7761b1f80b4716c77c557cbeb4266b05891c531c8",
+      "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+      "url": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
+      "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T14:00:00+00:00"
+    },
+    {
+      "id": "2b1ea9e057ffd34b6714865bf267f929c67a444aea4672e06c005c338bc23207",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-10T13:44:19+00:00"
+    },
+    {
+      "id": "f56b49250d690cbfe09c8c440f1861ab10d49aa2b9d9079c216cb430ada0ba49",
+      "title": "Microsoft ships largest Patch Tuesday on record, with one bug under active attack",
+      "url": "https://therecord.media/microsoft-ships-largest-patch-tuesday-on-record",
+      "summary": "The release comes after Microsoft’s security leadership acknowledged last month that AI tools are driving a surge in vulnerability discovery across the industry.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-10T13:00:00+00:00"
+    },
+    {
+      "id": "e90e86f4101e9fc4efff57febf4064545085a4b4327d1374c87c50994943ab02",
+      "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
+      "url": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
+      "summary": "Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller. The post Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-10T12:07:58+00:00"
+    },
+    {
+      "id": "03f61db6c5a00dd06568461a61b2f2bf46a1ee92f46e39fbc503e6e194e0d5a7",
+      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+      "summary": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit &#8216;RoguePlanet&#8217; Released appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T11:44:39+00:00"
+    },
+    {
+      "id": "b6e1ca93e9ecaf6b15bc148c50399c2e4eade52555617e6922c3b29527d498f1",
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "summary": "WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-06-10T11:08:59+00:00"
+    },
+    {
+      "id": "2ed1517514068ee9e23b835e442df9d4b6686afe037e5a8b4953d197de3b56d5",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T09:57:33+00:00"
+    },
+    {
+      "id": "766cd0eccbc44eeb2c35f5a60827f9ebfe425131313b33793b89a62e0052d2fc",
+      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
+      "url": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
+      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T09:45:35+00:00"
+    },
     {
       "id": "0d578f2433fe77f3db03df2ca6191453e8b43070f291f3f15ab21d34d05e63f6",
       "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-08T20:41:35+00:00"
-    },
-    {
-      "id": "31f72fbd2254448bab3ab86d07a24f15d1876b1c1b9ce4b6f9b6cb59a8adb277",
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-08T20:17:39+00:00"
-    },
-    {
-      "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T18:40:53+00:00"
-    },
-    {
-      "id": "71b6339f08378eba5a8e1beee0e27b2e00c6b20c7fd2e15b4b122b8bc26069b6",
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-08T17:08:44+00:00"
-    },
-    {
-      "id": "fdef56c4420bb3c633c3fe9fb0f2f46b57d31fe31c55869136f5cb16bebc005d",
-      "title": "Critical Zcash Vulnerability Found and Fixed",
-      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
-      "summary": "If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found ",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-06-08T17:06:53+00:00"
-    },
-    {
-      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
-      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
-      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
-      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-08T16:51:00+00:00"
-    },
-    {
-      "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T16:18:40+00:00"
-    },
-    {
-      "id": "47d18278ce1ce2a8b701274f1e42d6a995d62c413ff0dff13be680bebf47c9f3",
-      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T15:51:19+00:00"
-    },
-    {
-      "id": "9517dbcbaf2efea7bb500002de7cde83955139f05d5018c370f896c3513026de",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weaknes",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-08T14:17:39+00:00"
     }
   ]
 }
