@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-13T13:52:37.049853+00:00",
+  "updated": "2026-06-13T19:20:21.581529+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c7879313a64f36a432a9616702799220b7d49337d430d1cca6c7e97a782d8dac",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-03T16:40:00+00:00"
+    },
     {
       "id": "886f2451f9cbe93c57e950bf2704898c8ecd58185f84e1a6471d038cebec31a6",
       "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-01T21:38:29+00:00"
-    },
-    {
-      "id": "c826a52b03af7407fa0caf39c587ed5b9464102aead55fd4bf18616187b8da97",
-      "title": "Inspector general finds NIST mistakes have made vulnerability database ineffective",
-      "url": "https://therecord.media/nist-mistakes-vulnerability-database-inspector-general",
-      "summary": "NIST’s National Vulnerability Database (NVD) backlog mushroomed from 13,000 unprocessed security vulnerabilities in February 2024 to more than 27,000 by the end of 2025, “undermining the NVD’s utility and public trust,\" according to an inspector general report.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-06-01T20:28:00+00:00"
     }
   ]
 }
