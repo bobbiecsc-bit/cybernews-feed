@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T20:05:38.637698+00:00",
+  "updated": "2026-06-13T03:25:48.426948+00:00",
   "total": 250,
   "articles": [
     {
@@ -10,6 +10,15 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-06-12T19:33:32+00:00"
+    },
+    {
+      "id": "856c09d61358610a73d8ad490b21ab1a027d3589375a4d4d2158e39f1c6cfb7e",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T19:33:25+00:00"
     },
     {
       "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
@@ -2242,15 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-01T18:19:23+00:00"
-    },
-    {
-      "id": "208e0aa73c1a9146f0cfd16be443db7b194f873ccd68a309089ede634e4826af",
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-01T18:17:13+00:00"
     }
   ]
 }
