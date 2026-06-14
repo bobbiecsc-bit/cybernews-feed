@@ -1,10 +1,19 @@
 {
-  "updated": "2026-06-13T19:20:21.581529+00:00",
+  "updated": "2026-06-14T03:41:55.476618+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6c431e403d30c1fba15d2c8816f1891240b491ae6c994c8fb1df2dec073f8b68",
+      "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-03T17:58:00+00:00"
+    },
     {
       "id": "c7879313a64f36a432a9616702799220b7d49337d430d1cca6c7e97a782d8dac",
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-01T22:14:19+00:00"
-    },
-    {
-      "id": "8e1b55828cdeb249268d12412212a128e72d4df8f831cd6dcd5a9ff221dc550b",
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-01T21:38:29+00:00"
     }
   ]
 }
