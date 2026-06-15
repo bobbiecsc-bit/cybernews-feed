@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-15T17:18:36.032536+00:00",
+  "updated": "2026-06-15T20:52:21.730818+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1166e148c198edcb53a797bbabfe5d9aaceff0ce736ecb47e59eb187c525a099",
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-04T16:55:51+00:00"
+    },
+    {
+      "id": "1bc8b3b0939d9971d475aa792ff81d7ee44347542b83cbdb12a783b0765c4c9a",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-04T16:38:49+00:00"
+    },
+    {
+      "id": "44cd69478863d96d33c3794c33d570d2bf18b7c1d25c05bc65798ef1e2e44906",
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-04T15:25:37+00:00"
+    },
+    {
+      "id": "4ddc5379f630916032497fa3d4024e848330acf99d04299493ba366a26e7e31a",
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed ma",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-04T15:15:26+00:00"
+    },
+    {
+      "id": "3bbe0d32f6b1a81f6caa6f4cb44277c38efcf4d58b5126a8fb5d728d722e284f",
+      "title": "CISA directive for AI executive order to be released this week, Andersen says",
+      "url": "https://therecord.media/cisa-directive-for-ai-exec-order-release",
+      "summary": "The binding operational directive will focus in part on “vulnerability alleviation and vulnerability management,” Andersen said in remarks delivered at the TechNet Cyber conference in Baltimore.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-04T15:05:00+00:00"
+    },
     {
       "id": "dcb43908fd7c0a7552e7117c1fdd72ed90e32283bec837adb87592be66bb99de",
       "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-02T21:54:49+00:00"
-    },
-    {
-      "id": "ad76fbced260f20e6db3c925551404a14bebfe577391c58e5b56fe22b3c29993",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-02T20:01:20+00:00"
-    },
-    {
-      "id": "250420aaa4da3a8e8ab4bbb442d8ca85efe0a28ceece170d92ee588cce366966",
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw ha",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-02T18:46:00+00:00"
-    },
-    {
-      "id": "7735a1dbbacdf9027ee978f4117da3f658d99135207da52b5a0ceb32a1c85082",
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-02T18:21:49+00:00"
-    },
-    {
-      "id": "61f81be3659e536f429db4dd59866158ac5284158b79c42a6a0c1ec2a8170d0a",
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-02T18:14:42+00:00"
-    },
-    {
-      "id": "c1c9745141eaa5938e5c41d064a05a82f53a89235066c76d052a1c919ed22225",
-      "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
-      "url": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
-      "summary": "As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control. The post Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis appeared first on Security",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-02T16:35:38+00:00"
     }
   ]
 }

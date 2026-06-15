@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-15T17:18:36.032536+00:00",
+  "updated": "2026-06-15T20:52:21.730818+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "03f61db6c5a00dd06568461a61b2f2bf46a1ee92f46e39fbc503e6e194e0d5a7",
+      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+      "summary": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit &#8216;RoguePlanet&#8217; Released appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T11:44:39+00:00"
+    },
+    {
+      "id": "b6e1ca93e9ecaf6b15bc148c50399c2e4eade52555617e6922c3b29527d498f1",
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "summary": "WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-06-10T11:08:59+00:00"
+    },
+    {
+      "id": "2ed1517514068ee9e23b835e442df9d4b6686afe037e5a8b4953d197de3b56d5",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T09:57:33+00:00"
+    },
+    {
+      "id": "766cd0eccbc44eeb2c35f5a60827f9ebfe425131313b33793b89a62e0052d2fc",
+      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
+      "url": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
+      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T09:45:35+00:00"
+    },
+    {
+      "id": "0d578f2433fe77f3db03df2ca6191453e8b43070f291f3f15ab21d34d05e63f6",
+      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+      "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
+      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T09:38:13+00:00"
+    },
     {
       "id": "43de27def45fe3f7198fb2ed85784d61d9805aee0d0539a05c20056af9c65176",
       "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
@@ -409,51 +454,6 @@
       "source": "Schneier on Security",
       "category": "vulnerability",
       "date": "2026-06-08T17:06:53+00:00"
-    },
-    {
-      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
-      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
-      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
-      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-08T16:51:00+00:00"
-    },
-    {
-      "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T16:18:40+00:00"
-    },
-    {
-      "id": "47d18278ce1ce2a8b701274f1e42d6a995d62c413ff0dff13be680bebf47c9f3",
-      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T15:51:19+00:00"
-    },
-    {
-      "id": "9517dbcbaf2efea7bb500002de7cde83955139f05d5018c370f896c3513026de",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weaknes",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-08T14:17:39+00:00"
-    },
-    {
-      "id": "c606e0a8b484e9fdc1c18928e75ef88b0c028490ebc11111d1f493d45c491a61",
-      "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
-      "url": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
-      "summary": "The Meta-owned communications app is filing a federal court contempt order against NSO. The post WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T13:23:03+00:00"
     }
   ]
 }
