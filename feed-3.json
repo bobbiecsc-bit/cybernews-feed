@@ -1,10 +1,82 @@
 {
-  "updated": "2026-06-15T03:57:05.674642+00:00",
+  "updated": "2026-06-15T11:57:31.630317+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7bb9c959c78254fddf7929b374cf7ac549fac2f078b5ff1c943da015b85d6696",
+      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+      "url": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+      "summary": "Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0. \"A vulnerability allowing remote code execution (RCE)",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-09T16:39:47+00:00"
+    },
+    {
+      "id": "146cba0f97d31d948c947a4756e9ea9c5a854510edb9da4b5ac052bb57da5887",
+      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+      "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our priority is to protect customers and the broader ecosystem,\" ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-09T16:34:52+00:00"
+    },
+    {
+      "id": "d236141792bd4a486903e535a5e193ed11f81cf20089c64df543d0eea23ec976",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T16:16:38+00:00"
+    },
+    {
+      "id": "a41367cd04e8f00351ec74696f020c1bb681cf5f0b280d371f1caabdd626a3c1",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-09T15:42:40+00:00"
+    },
+    {
+      "id": "12293ccd93011aefad8a86ce80b9d677cfccd4ce1aa9aecd3ab38c9be0686bb3",
+      "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
+      "url": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
+      "summary": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks. The post Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T15:03:13+00:00"
+    },
+    {
+      "id": "0a5e3a93ca649603969db445cd151c67bbe931bce5f805a1147f06a280c80d18",
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T14:27:56+00:00"
+    },
+    {
+      "id": "e533562946de47c9332d15e271b8f230a41b336c9c5de7ef1caeb5e7e82225f0",
+      "title": "Hackers pose as women seeking romance to spy on Russian soldiers",
+      "url": "https://therecord.media/hackers-pose-as-women-seeking-romance-russian-military",
+      "summary": "The group, dubbed SiribClone by Russian cybersecurity firm F6, has been active since at least the summer of 2025 and has primarily targeted members of the Russian armed forces stationed in border regions and combat zones.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-09T13:52:00+00:00"
+    },
+    {
+      "id": "31635db68f97caf4223e274fd6344706d27edaf64042610876d61c043e58c2e6",
+      "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
+      "url": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
+      "summary": "Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible. The post New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications appeared",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-09T13:00:00+00:00"
+    },
     {
       "id": "0359f2d74d508e9567760705466874de1de4485e850d5c8e5e1421326f9b7565",
       "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
@@ -382,78 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-08T06:08:44+00:00"
-    },
-    {
-      "id": "fd41ccb51473db1f11a6a70ec06fae2598f617433443ab1b065f34c49b193554",
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-08T06:00:27+00:00"
-    },
-    {
-      "id": "af428b1714adc784501632310e2e22f0d4f1cc2f86975fbceb80c889a1f47542",
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-07T14:17:46+00:00"
-    },
-    {
-      "id": "26ae46ece10d319fad7f5f77908b0946b447fb53bf50dc09bbbd1c253f16a0bc",
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-07T14:09:19+00:00"
-    },
-    {
-      "id": "79d6f6713921a1fff06a44ecd2237adb854cc68e848b7addd8c206b60fe0130a",
-      "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
-      "url": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
-      "summary": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases. The post Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-07T11:30:00+00:00"
-    },
-    {
-      "id": "e79d318521ddedf0ec9d795d80c6089d2c233421968fb5451e92325907337780",
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-06T14:09:26+00:00"
-    },
-    {
-      "id": "34cc4bb82be1f8bf471c2e0c9393b61291fe84541625d616ad4b11749e90a8db",
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarante",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-06T13:36:57+00:00"
-    },
-    {
-      "id": "b1de2842ac2680d3af8d848c5244df7c2473ec5fdcac122dc880401d1e9c91ae",
-      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-202",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-06T08:14:31+00:00"
-    },
-    {
-      "id": "2a80d7c27e5e2cb02b61d5244bfc2b30ad2c03d7b3cab325eb272975e9d6183e",
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 42",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-06T07:28:30+00:00"
     }
   ]
 }
