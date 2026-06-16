@@ -1,10 +1,136 @@
 {
-  "updated": "2026-06-16T03:45:38.411093+00:00",
+  "updated": "2026-06-16T11:05:17.292366+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f3b95abed492118d456c426bafe7bb43b1d73f2376b5292f0e572ef5f28dad1d",
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T20:27:08+00:00"
+    },
+    {
+      "id": "0a8e38f5f8960fb3856de414d25984834089baf8a2991e07d2a84adfc3c3b187",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T19:41:44+00:00"
+    },
+    {
+      "id": "490aa96a54bc431f1a1d73b5c17de1868463d8ff9ebbd35156c782f569afe766",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-10T18:31:57+00:00"
+    },
+    {
+      "id": "944a2c7b61d4b5944be8e102470d9fc1d2d2023d324c9d754101188aca760788",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "url": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-10T16:08:42+00:00"
+    },
+    {
+      "id": "e7fb6fb21e7951f5e6781c151781541675cea6202d355cf660ad76c9674701b7",
+      "title": "Cyberattack shuts down major Australian sugar mills, disrupting harvest",
+      "url": "https://therecord.media/cyberattack-shuts-down-major-australian-sugar-producer",
+      "summary": "Australia's second-largest sugar producer said on Wednesday that it was responding to a cybersecurity incident affecting parts of its operations and had engaged cybersecurity experts and local authorities to investigate the attack and restore its systems safely.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-10T15:18:00+00:00"
+    },
+    {
+      "id": "92218887bf7ba5fe7d8213364a68000ed9ac032dc6ec474699fa42a2b4def29c",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T15:10:59+00:00"
+    },
+    {
+      "id": "efdaae8518c88b1dc83967c291dfc963407663b867d718793aa65d44557ea0d2",
+      "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "summary": "A high-severity security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path trave",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T15:00:59+00:00"
+    },
+    {
+      "id": "328985d6bcace9073558931fca7f08108c2f035d54634c7ac30e1149802843b9",
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-10T15:00:00+00:00"
+    },
+    {
+      "id": "68b80d502f29c57c5c3c56c4557204df2cca622a9377d01ba57d9fe8506d6875",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as follows - CVE-2026-20245 (CVSS score: 7.8) - An improper encod",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T14:44:29+00:00"
+    },
+    {
+      "id": "f95085924cae03aac5348bb1fe4355cf45ecc9fbff56c05036216cf678218095",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "url": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T14:05:15+00:00"
+    },
+    {
+      "id": "a02b18501d3cb698cb633f5fcc9bf925095bcb08a58da39e5ca8960ef2958481",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-06-10T14:03:44+00:00"
+    },
+    {
+      "id": "7a746a111992ca9e55a2c1f7761b1f80b4716c77c557cbeb4266b05891c531c8",
+      "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+      "url": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
+      "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T14:00:00+00:00"
+    },
+    {
+      "id": "2b1ea9e057ffd34b6714865bf267f929c67a444aea4672e06c005c338bc23207",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-10T13:44:19+00:00"
+    },
+    {
+      "id": "f56b49250d690cbfe09c8c440f1861ab10d49aa2b9d9079c216cb430ada0ba49",
+      "title": "Microsoft ships largest Patch Tuesday on record, with one bug under active attack",
+      "url": "https://therecord.media/microsoft-ships-largest-patch-tuesday-on-record",
+      "summary": "The release comes after Microsoft’s security leadership acknowledged last month that AI tools are driving a surge in vulnerability discovery across the industry.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-10T13:00:00+00:00"
+    },
     {
       "id": "e90e86f4101e9fc4efff57febf4064545085a4b4327d1374c87c50994943ab02",
       "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
@@ -328,132 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-09T11:00:00+00:00"
-    },
-    {
-      "id": "545835ab2bd34c8aab7e4cb91fbdbb69f0471d7afd0e4df6de829a43c9a93548",
-      "title": "French govt messaging service breached in account hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-09T10:53:00+00:00"
-    },
-    {
-      "id": "cfbb84372b06a784f43ce6ad61696c8d5f686fbae381d405cd6162388e866a92",
-      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
-      "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
-      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt. You open the page, leave the tab sitting there, and it watches the drive fo",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-09T09:50:41+00:00"
-    },
-    {
-      "id": "f5ff2dd5fcd670a3b5130c0333566f7a9e15e109720324fde59be39960c90ab3",
-      "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
-      "url": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
-      "summary": "The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password. The post Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-09T09:47:10+00:00"
-    },
-    {
-      "id": "b90e0707d3925ddca66d989a2193496aca9c9e9259d892fceaad886bfa21abd7",
-      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
-      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems. \"T",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-09T09:13:32+00:00"
-    },
-    {
-      "id": "c29032fa40d7c7e531456e631a4bfaed90c7ee133b8b1a17c25d934c70d5c7e6",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-09T08:18:39+00:00"
-    },
-    {
-      "id": "f91b36cf0666eb34675e761d55a54ef1ddc98122695181c365f8e7bc596645d8",
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-09T06:56:27+00:00"
-    },
-    {
-      "id": "ba5c55b4a325572df422f7a3807619e9dcee11b2bb634628c362a0e78bf8dc37",
-      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command i",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-09T06:26:14+00:00"
-    },
-    {
-      "id": "25732644211a5affe3c31dddb7103baf8ba5be4abd14ce30f23a68882f73ceca",
-      "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
-      "url": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
-      "summary": "The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher. The post Google Patches 5th Chrome Zero-Day Exploited in 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-09T05:57:40+00:00"
-    },
-    {
-      "id": "3c083cd9902b36a6bdd0dabe6bf35e20df325be1510fc99af58145603a07d454",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-08T22:11:58+00:00"
-    },
-    {
-      "id": "a60a47af132baa3658ba844f45c0fe312b97b7ba6283133140c9d5425a119772",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-08T21:55:46+00:00"
-    },
-    {
-      "id": "9d935cbcf45cdf9dc193b99e6898ee2d4e3516c8f0ccc183a03db39692524b24",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-08T20:41:35+00:00"
-    },
-    {
-      "id": "31f72fbd2254448bab3ab86d07a24f15d1876b1c1b9ce4b6f9b6cb59a8adb277",
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-08T20:17:39+00:00"
-    },
-    {
-      "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T18:40:53+00:00"
-    },
-    {
-      "id": "71b6339f08378eba5a8e1beee0e27b2e00c6b20c7fd2e15b4b122b8bc26069b6",
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-08T17:08:44+00:00"
     }
   ]
 }
