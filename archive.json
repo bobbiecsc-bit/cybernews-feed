@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-16T16:45:10.124844+00:00",
+  "updated": "2026-06-16T20:46:36.363648+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0561978f0a365c7c74edf07bf3e866cb8d18b8db58d884ee21126c75528cd39d",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-16T20:04:11+00:00"
+    },
+    {
+      "id": "dab97eb1ab16eed5f7937e21abc7bc9e07484536a43bf10303bcb6bdf7504730",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty pro",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-16T19:05:41+00:00"
+    },
+    {
+      "id": "a3798f6d4c51700e3e6b7986a5840f9c064ebbc4fae80591e1b7a3d5f81b2ece",
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-16T18:27:55+00:00"
+    },
+    {
+      "id": "1e3eb30b35ffc02655415b6397f8ccc0199eb13be7adf5cc8d4c3459bcd4cb77",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, h",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-16T17:41:28+00:00"
+    },
     {
       "id": "011385b054e475f8eb9f026c9441fdbabea473613a4bafe3bc07a1f65e41cef2",
       "title": "India temporarily blocks Telegram over medical exam cheating fears",
@@ -106,6 +142,15 @@
       "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX &lt;7.01 (CVE-2025-14272) CVSS Vendor Equipment Vul",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "4572165fd4875e0fb5b700c00c2c1477d6c162ba3fe625574410ab71ad9cd2e9",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ac",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-16T12:00:00+00:00"
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-04T11:19:53+00:00"
-    },
-    {
-      "id": "efc391e2348001a0388958fe0d247601fbf5b7ca6b3cc871808631f9969e0095",
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "summary": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-04T11:09:50+00:00"
-    },
-    {
-      "id": "63c949153ce0172639255e05d97a98b498eb006ab25b3292dbe50635cde17cf8",
-      "title": "Hacking Meta’s AI Chatbot",
-      "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
-      "summary": "Hackers are convincing Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts: A video posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; presumed location to avoid triggering",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-06-04T11:04:09+00:00"
-    },
-    {
-      "id": "3496fcdc798841ae6c277a424555554315358636445e1f841f937a5d0c9e2e7d",
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are w",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-04T09:51:28+00:00"
-    },
-    {
-      "id": "0cde788ba67f712b57538e32742aab7c071859cc98930c17286be8275c085a19",
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-04T09:33:57+00:00"
-    },
-    {
-      "id": "d84f767773f2bc3a12dd5818c99ee2515424982b2f706d5a669f236b3e1fa2d6",
-      "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
-      "url": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
-      "summary": "The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks. The post Cisco Warns of Available PoC for Critical Unified CM Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-04T08:44:08+00:00"
     }
   ]
 }
