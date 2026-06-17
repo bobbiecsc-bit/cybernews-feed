@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-17T10:49:42.920169+00:00",
+  "updated": "2026-06-17T15:18:47.431696+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "46079806e3c816680f41b91ca54c36a8fd3f240e1455a876cd57917b89cd62c2",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-17T15:12:57+00:00"
+    },
+    {
+      "id": "55ae8588dc6a0c76ddaf8820f28dbf68017952a2c5b6d47195a091c19a79dcba",
+      "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
+      "url": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
+      "summary": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-17T14:07:16+00:00"
+    },
+    {
+      "id": "468752dd089ebef136d616ec04e55d045ca7a9254285c9dc9e3be6915e1ed883",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-17T14:00:10+00:00"
+    },
+    {
+      "id": "1d5a81ae1b09677ec4e01519814dc48aa3f928d8a0ca11edf0a20aa0ce82a492",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-17T13:51:58+00:00"
+    },
     {
       "id": "a3de477662fd4c6fbd9c1a42c5f52c08646db0fd6c8ec2342178bf06add6c221",
       "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
@@ -10,6 +46,15 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-06-17T10:38:00+00:00"
+    },
+    {
+      "id": "8b42903fcc68f5e9b485848c606b0ee5884d8b9b491345928f0a42f9563ec7ea",
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentic",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-17T10:30:00+00:00"
     },
     {
       "id": "3ad8c13d516839b46335e5ad26ae6a3cfe8e4f5e465fa312caefa2444fde21ea",
@@ -28,15 +73,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-17T09:41:07+00:00"
-    },
-    {
-      "id": "1d5a81ae1b09677ec4e01519814dc48aa3f928d8a0ca11edf0a20aa0ce82a492",
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-17T09:38:46+00:00"
     },
     {
       "id": "32507156c27982b1fe428d8eb9a1a56cfbf5ffde98ce6f75c6aa3fb44b13dc84",
@@ -60,7 +96,7 @@
       "id": "44495b28d6b9e60382eb90e2084c5c11d758aa40c982308a0536f7e7fcb6ae1f",
       "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from J",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from E",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-17T07:38:24+00:00"
@@ -2215,42 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "1166e148c198edcb53a797bbabfe5d9aaceff0ce736ecb47e59eb187c525a099",
-      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-04T16:55:51+00:00"
-    },
-    {
-      "id": "1bc8b3b0939d9971d475aa792ff81d7ee44347542b83cbdb12a783b0765c4c9a",
-      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
-      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T16:38:49+00:00"
-    },
-    {
-      "id": "44cd69478863d96d33c3794c33d570d2bf18b7c1d25c05bc65798ef1e2e44906",
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-04T15:25:37+00:00"
-    },
-    {
-      "id": "4ddc5379f630916032497fa3d4024e848330acf99d04299493ba366a26e7e31a",
-      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed ma",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-04T15:15:26+00:00"
     }
   ]
 }

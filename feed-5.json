@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-17T10:49:42.920169+00:00",
+  "updated": "2026-06-17T15:18:47.431696+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
+      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
+      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
+      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-08T16:51:00+00:00"
+    },
+    {
+      "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T16:18:40+00:00"
+    },
+    {
+      "id": "47d18278ce1ce2a8b701274f1e42d6a995d62c413ff0dff13be680bebf47c9f3",
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T15:51:19+00:00"
+    },
+    {
+      "id": "9517dbcbaf2efea7bb500002de7cde83955139f05d5018c370f896c3513026de",
+      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weaknes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-08T14:17:39+00:00"
+    },
     {
       "id": "c606e0a8b484e9fdc1c18928e75ef88b0c028490ebc11111d1f493d45c491a61",
       "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
@@ -418,42 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-06-04T18:04:00+00:00"
-    },
-    {
-      "id": "1166e148c198edcb53a797bbabfe5d9aaceff0ce736ecb47e59eb187c525a099",
-      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-04T16:55:51+00:00"
-    },
-    {
-      "id": "1bc8b3b0939d9971d475aa792ff81d7ee44347542b83cbdb12a783b0765c4c9a",
-      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
-      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
-      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T16:38:49+00:00"
-    },
-    {
-      "id": "44cd69478863d96d33c3794c33d570d2bf18b7c1d25c05bc65798ef1e2e44906",
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-04T15:25:37+00:00"
-    },
-    {
-      "id": "4ddc5379f630916032497fa3d4024e848330acf99d04299493ba366a26e7e31a",
-      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed ma",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-04T15:15:26+00:00"
     }
   ]
 }
