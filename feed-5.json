@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-17T15:18:47.431696+00:00",
+  "updated": "2026-06-17T20:08:29.184247+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9d935cbcf45cdf9dc193b99e6898ee2d4e3516c8f0ccc183a03db39692524b24",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-08T20:41:35+00:00"
+    },
+    {
+      "id": "31f72fbd2254448bab3ab86d07a24f15d1876b1c1b9ce4b6f9b6cb59a8adb277",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-08T20:17:39+00:00"
+    },
+    {
+      "id": "e9c61941ceb914d6c3e381cdb6e3c9732e55804b698696d293b73b4279399c1a",
+      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-08T18:40:53+00:00"
+    },
+    {
+      "id": "71b6339f08378eba5a8e1beee0e27b2e00c6b20c7fd2e15b4b122b8bc26069b6",
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-08T17:08:44+00:00"
+    },
+    {
+      "id": "fdef56c4420bb3c633c3fe9fb0f2f46b57d31fe31c55869136f5cb16bebc005d",
+      "title": "Critical Zcash Vulnerability Found and Fixed",
+      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
+      "summary": "If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-06-08T17:06:53+00:00"
+    },
     {
       "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
       "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-05T05:47:09+00:00"
-    },
-    {
-      "id": "b5b8223e790378d9bad3594e7415f44ad53ed07b68f8189e41c2b08b6df72754",
-      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified fo",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-05T05:34:19+00:00"
-    },
-    {
-      "id": "026e1c19759df5d19aeddee2d3b82919406543ff6b778ca3c254ca1fe38574fe",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-04T21:27:25+00:00"
-    },
-    {
-      "id": "e5aa321628393ce0fc349e8a74f9eb53c726a09cf53fe4ad911952ead4e9deca",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T20:47:16+00:00"
-    },
-    {
-      "id": "c3f27c66f290317084e26bbbd996666a391b7b0a19d5b11e3c4cede270a53d17",
-      "title": "DentaQuest data breach exposed info of 2.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-      "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-04T18:36:27+00:00"
-    },
-    {
-      "id": "ae4dde5f8c2529d53f4f7f14c209bd51410a4f836d02492fcf7e87c8b825afee",
-      "title": "Russia seeks to label two anti-Kremlin hacker groups as ‘extremist’",
-      "url": "https://therecord.media/russia-seeks-extremist-label-for-hacker-groups",
-      "summary": "The groups have previously claimed responsibility for cyberattacks targeting critical infrastructure and government institutions in Russia and Belarus.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-04T18:04:00+00:00"
     }
   ]
 }
