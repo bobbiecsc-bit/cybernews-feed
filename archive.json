@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-18T15:17:06.142429+00:00",
+  "updated": "2026-06-18T20:21:49.388854+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1be103c23415a5b9e5cd14a8ba19023c55d74e4112eeeecd7b89eec56ae90384",
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T18:31:36+00:00"
+    },
+    {
+      "id": "7c4f2c9bb4d90cce506241380ae4232a66536fe001c766458733f430c7d47a03",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet ",
+      "source": "Krebs on Security",
+      "category": "threat",
+      "date": "2026-06-18T17:37:58+00:00"
+    },
+    {
+      "id": "937d45d23a40e23722bf6350d4d73edf0c4a0943fece4d308413945289173cf0",
+      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
+      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module th",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-18T17:32:14+00:00"
+    },
+    {
+      "id": "b2572f1d510247efba8083b0d540c294f46f14aa56ca8a246db881637e826ffe",
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+      "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-18T16:20:06+00:00"
+    },
+    {
+      "id": "2f58bbb6cb85307e38e31f8dd2ae4a856a8b87db6851cfd94ea714bb9ff5ba81",
+      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
+      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-18T15:27:54+00:00"
+    },
     {
       "id": "d25d1443c68d70701df3595132cb7586d563112e43c776e1882a302ddedb8f4b",
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
@@ -91,6 +136,60 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-18T12:23:58+00:00"
+    },
+    {
+      "id": "f58ef49a5ae8face7a30dd7d67c42ade25d14ba00b4bb0b9e68de929f2f48006",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
+    },
+    {
+      "id": "c461bafda9cbe5ec303a4526702eb9aaf58c443b06b1913f62048b8976c3d427",
+      "title": "Schneider Electric EasyLogic T150 and Saitel DP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
+      "summary": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit &amp",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
+    },
+    {
+      "id": "f3c7668f5bd6886349b0be565daf393c95416b9b256b3ab119afe63ba6cf2fcc",
+      "title": "AVer PTC cameras",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PTC500+ vers:all/* (CVE-2026-40624) PTC115+ vers:all/* (CVE-2026-40624",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
+    },
+    {
+      "id": "3fd67a8e01c95ee12382eb6adf97cf091494c1b7837b22454ebc22f36b5eb8f8",
+      "title": "AzeoTech DAQFactory",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory &lt;=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
+    },
+    {
+      "id": "fab6330dffc2cb4c4896b20f711fab512269dfa5d8d8c2746a00787ec0b2ad44",
+      "title": "Mitsubishi Electric MELSEC iQ-F Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection manag",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
+    },
+    {
+      "id": "de52f715aadda38d50d7a477a96c8d8efdcd298d7df84f02c86d9e363e9fae20",
+      "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-18T12:00:00+00:00"
     },
     {
       "id": "62e130f2198856e5bbbca4007e2d0342856e7c778b5f00170857507f8f93080b",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-08T06:08:44+00:00"
-    },
-    {
-      "id": "fd41ccb51473db1f11a6a70ec06fae2598f617433443ab1b065f34c49b193554",
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-08T06:00:27+00:00"
-    },
-    {
-      "id": "af428b1714adc784501632310e2e22f0d4f1cc2f86975fbceb80c889a1f47542",
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "url": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-07T14:17:46+00:00"
-    },
-    {
-      "id": "26ae46ece10d319fad7f5f77908b0946b447fb53bf50dc09bbbd1c253f16a0bc",
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "url": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-07T14:09:19+00:00"
-    },
-    {
-      "id": "79d6f6713921a1fff06a44ecd2237adb854cc68e848b7addd8c206b60fe0130a",
-      "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
-      "url": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
-      "summary": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases. The post Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-07T11:30:00+00:00"
-    },
-    {
-      "id": "e79d318521ddedf0ec9d795d80c6089d2c233421968fb5451e92325907337780",
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-06T14:09:26+00:00"
-    },
-    {
-      "id": "34cc4bb82be1f8bf471c2e0c9393b61291fe84541625d616ad4b11749e90a8db",
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarante",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-06T13:36:57+00:00"
-    },
-    {
-      "id": "b1de2842ac2680d3af8d848c5244df7c2473ec5fdcac122dc880401d1e9c91ae",
-      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-202",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-06T08:14:31+00:00"
-    },
-    {
-      "id": "2a80d7c27e5e2cb02b61d5244bfc2b30ad2c03d7b3cab325eb272975e9d6183e",
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 42",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-06T07:28:30+00:00"
-    },
-    {
-      "id": "2b6030b62913c3c61fa7ca74438fd0ecd64f0b59c0ca8d88b635eecba2fb6b83",
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSo",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-06T06:58:04+00:00"
-    },
-    {
-      "id": "a2fd6173618d03e3e212f74934b2bb6f897bcc120e1075e93931781949618449",
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cl",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-06T04:19:28+00:00"
-    },
-    {
-      "id": "beb62a3a50300a1817df09df2c9306ce1ba6454c3bdda274ae85f972e0f5031e",
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-05T19:15:30+00:00"
     }
   ]
 }
