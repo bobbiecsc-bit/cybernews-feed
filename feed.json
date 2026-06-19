@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-19T04:00:07.002903+00:00",
+  "updated": "2026-06-19T10:21:04.022101+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cc7d7c45e22bddc424a14c8ab8fc15f62aeeff7c5c32c2278c92f5032693a36b",
+      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
+      "url": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
+      "summary": "The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future. The post Cybersecurity Firms Impacted by Klue Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-19T09:19:06+00:00"
+    },
+    {
+      "id": "c528d253bfd595f97dd75c637ba7727006133efd52e3d225f8871728d27cec53",
+      "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
+      "url": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
+      "summary": "WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius. The post Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-19T07:22:22+00:00"
+    },
+    {
+      "id": "1dc696798859e4b86f86291540421b3132567acdac0f979cb03f6726847d5ed6",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-19T06:47:55+00:00"
+    },
+    {
+      "id": "583e98f2664e16009ceb7ae2ca8f7711f83fe315202d73cddb59b5f962b8eede",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-19T06:36:09+00:00"
+    },
+    {
+      "id": "f332a8dc6e4536d4eca5d0dafc1a6c7a3c22ba4fa2f506f80ea751035eb70a42",
+      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+      "url": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+      "summary": "CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution. The post Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-19T04:10:34+00:00"
+    },
     {
       "id": "42866a1008b82dcf645aff335216d67dfdd9e393026c7742d6768148a85b2c52",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
@@ -63,7 +108,7 @@
       "id": "d25d1443c68d70701df3595132cb7586d563112e43c776e1882a302ddedb8f4b",
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server",
+      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this campaign relies on Windo",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-18T14:30:42+00:00"
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-17T07:28:20+00:00"
-    },
-    {
-      "id": "84f2a605f62c84e36a2a5e57a8cbe10e6fe08fdf746371a747d9f8322058a922",
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-17T07:07:56+00:00"
-    },
-    {
-      "id": "fcf13922a762659b52b6ad30739fb1faa8eb0f258379cf1057fda930c1e75b5d",
-      "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
-      "url": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
-      "summary": "SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking. The post 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-17T06:53:58+00:00"
-    },
-    {
-      "id": "eedf6d250567c261719853bbd506e67b4144589c830a72f68875e5031b9cf728",
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-17T05:50:46+00:00"
-    },
-    {
-      "id": "d371e5b23e5fbb36935de6161b839c952849e2bb8961278586130a498363b77d",
-      "title": "GitHub dismissed security reports on flaws now exploited by supply-chain worm, researchers say",
-      "url": "https://therecord.media/github-dismissed-reports-shai-hulud-deep-specter",
-      "summary": "GitHub rejected two formal vulnerability reports identifying design flaws that researchers say are enabling variants of the Shai-Hulud supply-chain worm to infect and compromise hundreds of software packages and developer accounts worldwide.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-06-16T23:00:00+00:00"
-    },
-    {
-      "id": "0561978f0a365c7c74edf07bf3e866cb8d18b8db58d884ee21126c75528cd39d",
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-16T20:04:11+00:00"
     }
   ]
 }

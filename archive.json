@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-19T04:00:07.002903+00:00",
+  "updated": "2026-06-19T10:21:04.022101+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "cc7d7c45e22bddc424a14c8ab8fc15f62aeeff7c5c32c2278c92f5032693a36b",
+      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
+      "url": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
+      "summary": "The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future. The post Cybersecurity Firms Impacted by Klue Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-19T09:19:06+00:00"
+    },
+    {
+      "id": "c528d253bfd595f97dd75c637ba7727006133efd52e3d225f8871728d27cec53",
+      "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
+      "url": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
+      "summary": "WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius. The post Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-19T07:22:22+00:00"
+    },
+    {
+      "id": "1dc696798859e4b86f86291540421b3132567acdac0f979cb03f6726847d5ed6",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-19T06:47:55+00:00"
+    },
+    {
+      "id": "583e98f2664e16009ceb7ae2ca8f7711f83fe315202d73cddb59b5f962b8eede",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-19T06:36:09+00:00"
+    },
+    {
+      "id": "f332a8dc6e4536d4eca5d0dafc1a6c7a3c22ba4fa2f506f80ea751035eb70a42",
+      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+      "url": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+      "summary": "CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution. The post Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-19T04:10:34+00:00"
+    },
     {
       "id": "42866a1008b82dcf645aff335216d67dfdd9e393026c7742d6768148a85b2c52",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
@@ -60,7 +105,7 @@
       "id": "d25d1443c68d70701df3595132cb7586d563112e43c776e1882a302ddedb8f4b",
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server",
+      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this campaign relies on Windo",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-18T14:30:42+00:00"
@@ -690,7 +735,7 @@
       "id": "954607137e04da1b96479b526e0ec8a9472c17ec69003df1dd55edfffe1955eb",
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
       "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security ",
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-16T08:14:55+00:00"
@@ -2206,51 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-06-08T11:14:41+00:00"
-    },
-    {
-      "id": "517ef14922a635b0f2e21126ddd5d99d666eae4a7653d97c51f91f7bb0de4856",
-      "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
-      "url": "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/",
-      "summary": "Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure. The post Silent Ransom Group Uses DNS Fast Flux in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T10:31:39+00:00"
-    },
-    {
-      "id": "68e47f7f5202c3b5b7574fed3928261b01b65fc4a6877adee541e5cd7c1506c8",
-      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-      "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
-      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems. The activity has been attributed by Volexity to a threat cluster it tracks ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-08T10:27:32+00:00"
-    },
-    {
-      "id": "679d4f9bfd549ac957eaf6eaa8b3d34e091c7ec27be2eb4238b9c25a22c64f14",
-      "title": "SolarWinds Serv-U Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/",
-      "summary": "Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service. The post SolarWinds Serv-U Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-08T07:52:28+00:00"
-    },
-    {
-      "id": "f865cca38c142e9847f188b1bf413522b408ce9ad3d27a31fcb053a43c1e2c8c",
-      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
-      "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
-      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026. The activity has been attributed by Google Mandiant and Goo",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-08T07:39:28+00:00"
-    },
-    {
-      "id": "18e1988032da9c10c6a713a17223dcb8fec99b8f7dac1aa432ea602839d493ed",
-      "title": "Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse",
-      "url": "https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/",
-      "summary": "The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool. The post Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T06:41:47+00:00"
     }
   ]
 }

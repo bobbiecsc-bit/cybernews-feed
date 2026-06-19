@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-19T04:00:07.002903+00:00",
+  "updated": "2026-06-19T10:21:04.022101+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "93ac299fffa1e9c9c3a701285e82a80924def4a53382902665713ab11ab1ed34",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten soft",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-15T13:49:29+00:00"
+    },
+    {
+      "id": "27013c69869a86f841e70e270afe1a26492a0ed011d37fd03572397828756311",
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-15T13:00:00+00:00"
+    },
+    {
+      "id": "21fc3d7b1163299e275bb94981d9eb2ff7120ba5dc0ff229cf9e684b68eef3a0",
+      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-15T12:38:55+00:00"
+    },
+    {
+      "id": "874da1a0e0790cca1d965952b42fdc7fd019ed96e698ce0efc6b6a3dbce4570e",
+      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
+      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response time",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-15T12:12:20+00:00"
+    },
+    {
+      "id": "c22be36539bf579e62713c4847ecfbde24a3ff62b14d5a5c0d0ea0cddd9cd973",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-15T12:00:00+00:00"
+    },
     {
       "id": "904b1e68130017cda669dfd7ec7d97e1e063f5bb498535091131a85bda875188",
       "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
@@ -409,51 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-06-11T15:25:00+00:00"
-    },
-    {
-      "id": "ff044c6a3d29dc964a823a6a747b7c2dcf81e4b4b55e8e453138361eb689fac8",
-      "title": "Hacker linked to Void Blizzard faces charges over cyberespionage campaign",
-      "url": "https://therecord.media/hacker-linked-to-void-blizzard-faces-charges",
-      "summary": "Denis Obrezko, 36, made his initial appearance in federal court in Boston on Tuesday after being transferred to U.S. custody from Thailand, where he was arrested last November.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-11T15:17:00+00:00"
-    },
-    {
-      "id": "1017c919b048f36afb8207eaaed0959a201ea5c5e5034fc052c77711b7e2127d",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-11T14:00:10+00:00"
-    },
-    {
-      "id": "2cb4345b31565ca5a242864d46eb51998402320ca024ffb63c26434b1836baed",
-      "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
-      "url": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
-      "summary": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-11T13:57:54+00:00"
-    },
-    {
-      "id": "6c99c7686eb833b701002dcd67a97b5ef0a3d2dfb72253cb0c20ac5a27f7accc",
-      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-      "url": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-      "summary": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-11T13:45:00+00:00"
-    },
-    {
-      "id": "a22c3f1dabbfdb929d72dccd736e69f2dce4a578fbf51e15921f45a5e0555f3a",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credent",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-11T13:20:41+00:00"
     }
   ]
 }
