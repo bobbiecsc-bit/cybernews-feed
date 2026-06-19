@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-19T14:57:56.158405+00:00",
+  "updated": "2026-06-19T19:45:15.641968+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "800b7492fcac870c2144bb28fb8ff15a76e21a7fda9bbfac09923a4b31424c21",
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "summary": "Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices w",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-19T18:37:41+00:00"
+    },
+    {
+      "id": "b837220888d79db5d2750102f2b58f0be0798b86f5a632f3e66d12649990e602",
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is cente",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-19T18:33:07+00:00"
+    },
+    {
+      "id": "4bb1ee2d2a3d23f62f0099469937b5eba0782c70e47444ebd192314c091b9927",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-19T16:12:41+00:00"
+    },
+    {
+      "id": "d79c0ae88029c37e4988d716d87e7112c765afc3446024574fbe203f8fca201a",
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "summary": "Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-19T15:30:47+00:00"
+    },
+    {
+      "id": "1d6e27c1bc8a4893fd787a3c8b899809054acb49872bcf0e4b0ff1645b3d8f57",
+      "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
+      "url": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStri",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-19T15:23:36+00:00"
+    },
     {
       "id": "16da9826d571375552d3871a5f819cd8c53b1c0c505930f426fc055e09c4bc53",
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-08T17:08:44+00:00"
-    },
-    {
-      "id": "fdef56c4420bb3c633c3fe9fb0f2f46b57d31fe31c55869136f5cb16bebc005d",
-      "title": "Critical Zcash Vulnerability Found and Fixed",
-      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
-      "summary": "If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found ",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-06-08T17:06:53+00:00"
-    },
-    {
-      "id": "2786226a5b1a29660af751d0dddb0ba59e7622b9591861aca947ffef525be983",
-      "title": "WhatsApp says NSO targeted users with spearfishing attacks in violation of court order",
-      "url": "https://therecord.media/whatsapp-says-nso-targeted-users-with-attacks-against-court-order",
-      "summary": "WhatsApp said it is filing a federal court contempt order against NSO for violating a permanent injunction that bars it from mounting attacks against its users.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-08T16:51:00+00:00"
-    },
-    {
-      "id": "83f951ebf279e442a856a1dfa1d110c5f0922255b3b9bdc8aff7e90c62563776",
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T16:18:40+00:00"
-    },
-    {
-      "id": "47d18278ce1ce2a8b701274f1e42d6a995d62c413ff0dff13be680bebf47c9f3",
-      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-08T15:51:19+00:00"
-    },
-    {
-      "id": "9517dbcbaf2efea7bb500002de7cde83955139f05d5018c370f896c3513026de",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weaknes",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-08T14:17:39+00:00"
     }
   ]
 }
