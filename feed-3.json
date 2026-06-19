@@ -1,10 +1,82 @@
 {
-  "updated": "2026-06-19T10:21:04.022101+00:00",
+  "updated": "2026-06-19T14:57:56.158405+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a6ba0eb317b9dab4e741173efad6d3553f3f4c5ffec59c7ac80c961029ec2ae6",
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-15T17:12:42+00:00"
+    },
+    {
+      "id": "a4843d5dd1c5e2f1080536425e21cf5cc81c5727534859180a023234a88f0efc",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenA",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-15T16:39:01+00:00"
+    },
+    {
+      "id": "431c581708beb39d798e3463bf3f0b42249a228a8184a0aa90782c81e99ef1f3",
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-15T16:37:11+00:00"
+    },
+    {
+      "id": "045b345c92760cb34e0e53fc12c9b2c6414bbe2990341a248973bd4fd7715ea3",
+      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
+      "url": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
+      "summary": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen. The post Ransomware Attack Shuts Down Mills of Australia&#8217;s Second-Largest Sugar Producer appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-06-15T15:15:55+00:00"
+    },
+    {
+      "id": "c87e9ab186a4fe66e67bd98d34f03945ed32c16762651f05f3806083e9c371c0",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "url": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link point",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-15T15:09:05+00:00"
+    },
+    {
+      "id": "39987af95a10424b6892650bcf1a2a25d9ab7d5bfc5f7045d5310609d0548081",
+      "title": "Cyberattack on Russian tech firm Astral disrupts business, government services for week",
+      "url": "https://therecord.media/cyberattack-on-russian-tech-firm-astral-disrupts-business-government-services",
+      "summary": "According to customer complaints, the disruption affected a range of services used by businesses, leading to interruptions in cash register operations, difficulties selling certain regulated goods, loss of access to customer portals and corporate email and problems with electronic human resources do",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-15T15:07:00+00:00"
+    },
+    {
+      "id": "bb7089943b3eb8517c6070e91f9843fe2250e8a3824cf9afa08d37fd17cf50fd",
+      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
+      "url": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
+      "summary": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025. The post Chinese Hackers Target Medical, Military, and AI Research in North America appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-15T14:07:45+00:00"
+    },
+    {
+      "id": "82e1f93a06ab1b7fc0ae0dbf51eb54ac17068df1b54ab5332d346fbc22dc1c8f",
+      "title": "Chinese hackers breach REDCap servers, steal medical research",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-15T14:00:00+00:00"
+    },
     {
       "id": "93ac299fffa1e9c9c3a701285e82a80924def4a53382902665713ab11ab1ed34",
       "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
@@ -382,78 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-12T06:38:41+00:00"
-    },
-    {
-      "id": "b4e53837497396af5e9d6b215bd1acac8349e02b914bc5beb31d30ac737dd50b",
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-11T22:44:58+00:00"
-    },
-    {
-      "id": "04ac9e56c9c3fa07fcde301f0dd707037479a33c56dff8310923fd3fa6becb18",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity betwe",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-11T20:29:23+00:00"
-    },
-    {
-      "id": "d4d188a1b01ce8add8180f27736fd763df49f4934fe8498031adaa8adc3b6424",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-11T19:39:53+00:00"
-    },
-    {
-      "id": "0826b044b06cf7c96e4b948ed5f43008d1833202c5f2b0344278f46b81fc8731",
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and locatio",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-11T17:46:32+00:00"
-    },
-    {
-      "id": "c11d806ac43754f7a6e201a2873a15041c37a0e284e23ee01e9b718781103bb6",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-11T17:43:52+00:00"
-    },
-    {
-      "id": "c97d2a885188adbd23d7f4bf229bf189e86e06a107dd6031355341b812e6b759",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-11T16:50:47+00:00"
-    },
-    {
-      "id": "f6e3c1d8a56c0698abd8888af5639e27f7c65fae511b264c2b72c8e7b801ae5a",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "summary": "Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-11T15:55:41+00:00"
-    },
-    {
-      "id": "06d42da88b19bde6912505d6ab861b78f21c1f14c8344b46046a7e15aa61c1f1",
-      "title": "British high school sends students home following cyberattack",
-      "url": "https://therecord.media/british-school-sends-students-home-cyberattack",
-      "summary": "Great Marlow School, which has 1,428 pupils according to the Department for Education (DfE), said it was set to remain closed while it works with specialist IT and cybersecurity professionals to resolve the issue.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-11T15:25:00+00:00"
     }
   ]
 }

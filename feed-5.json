@@ -1,10 +1,82 @@
 {
-  "updated": "2026-06-19T10:21:04.022101+00:00",
+  "updated": "2026-06-19T14:57:56.158405+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0d578f2433fe77f3db03df2ca6191453e8b43070f291f3f15ab21d34d05e63f6",
+      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+      "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
+      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T09:38:13+00:00"
+    },
+    {
+      "id": "43de27def45fe3f7198fb2ed85784d61d9805aee0d0539a05c20056af9c65176",
+      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
+      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
+      "summary": "Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution. The post Critical Vulnerabilities Patched in Fortinet, Ivanti Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T08:50:12+00:00"
+    },
+    {
+      "id": "39a13aae9e28aa12e8df0bbe7c6d193f259c9591f8875b6a73b2453ecee466d0",
+      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
+      "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
+      "summary": "ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a security update to hosted customer instances,\" the company revealed in an advisory that requires custo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T07:02:08+00:00"
+    },
+    {
+      "id": "812fe935ebc9d9f532787af64bd2964145382abe05322846dd559f61cbf6f7aa",
+      "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
+      "url": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
+      "summary": "Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices. The post No Patch Planned for Exploited Arista EOS Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-10T06:38:32+00:00"
+    },
+    {
+      "id": "78c0dc3e15352e5a5a4cfdb95dd1ce40e96b992da162ee496bdf4eb0ebd93a06",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "summary": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-10T06:26:28+00:00"
+    },
+    {
+      "id": "3b3fe7c4f6a76b87ce42f32b947960f2c48dda36c5010b69fedd1b9e044792f0",
+      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+      "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T05:22:01+00:00"
+    },
+    {
+      "id": "85f025df1a492adefa87e9298d590c17d88f8d0a6f45280f7e74e95dc043a4a8",
+      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
+      "url": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
+      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks. \"In affected environments, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-10T05:08:35+00:00"
+    },
+    {
+      "id": "3268bbde4275b904a3b4c6526ab5a443b10e721dd60e377f0f4b78f6fae7f354",
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-09T23:11:18+00:00"
+    },
     {
       "id": "27033a7a2825dc922aca428e450ecd4316f92928079ed7dde18eaf41ec638a25",
       "title": "UK weakens proposed telecoms defenses against Chinese hackers after industry pushback",
@@ -382,78 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-08T14:17:39+00:00"
-    },
-    {
-      "id": "c606e0a8b484e9fdc1c18928e75ef88b0c028490ebc11111d1f493d45c491a61",
-      "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
-      "url": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
-      "summary": "The Meta-owned communications app is filing a federal court contempt order against NSO. The post WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T13:23:03+00:00"
-    },
-    {
-      "id": "4b6c8ea3c5caecf62eb7588dbe83337663c5a7c9cfcc0dbeb3ce8e5897f974db",
-      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-      "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
-      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-08T13:19:13+00:00"
-    },
-    {
-      "id": "2bde8178b07d031bbbf27232d81f9044ff9a0ed87504831743e28d848ba37180",
-      "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And whi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-08T13:18:57+00:00"
-    },
-    {
-      "id": "3470539362b52dae728dc0c1d393fb27947f8c66d35c53a5d45359e97439341b",
-      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-      "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-08T13:05:16+00:00"
-    },
-    {
-      "id": "120bc8cf5b5e64f97d42b89f412d81524600442d836e360faf4bcce4e496c6e4",
-      "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-      "url": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-      "summary": "The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months. The post Everest Forms Vulnerability Exploited to Hack WordPress Sites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T12:16:09+00:00"
-    },
-    {
-      "id": "718ab308d6253026f25cd2910773b155f8c44997281899a5bfc075538b4cd718",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulne",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-08T12:00:00+00:00"
-    },
-    {
-      "id": "fdfbf4f2bb3b0df5dc8aaabb581568523b5e6af525d34de68fe3a130460fcd25",
-      "title": "174,000 Impacted by Lansing Community College Data Breach",
-      "url": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
-      "summary": "Hackers accessed personal information stored on certain Lansing Community College systems in February 2025. The post 174,000 Impacted by Lansing Community College Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-08T11:27:00+00:00"
-    },
-    {
-      "id": "e1ef6ffb776af40576dbb884954fce145daf44e52b04837ffe809236e9fcb55b",
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-08T11:14:41+00:00"
     }
   ]
 }
