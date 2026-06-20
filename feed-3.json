@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-19T19:45:15.641968+00:00",
+  "updated": "2026-06-20T03:23:18.001376+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2f89dbfc90451bc5e686c6c5aee6788777d68bcb5c55029198d1f8e440fc7c0a",
+      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manag",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-16T06:05:58+00:00"
+    },
+    {
+      "id": "4c841f86020ece33461de3978e434ed00abcf692d35196f2b755632e89ca220b",
+      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in que",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-16T05:41:52+00:00"
+    },
     {
       "id": "109afe17fa6d19ec58fd25456d91f3a9a7e68b019a5ff02ea673d5d1d4750d67",
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-12T09:50:36+00:00"
-    },
-    {
-      "id": "90a6be35299f73b0b0ac9c4b716e45d6c5d5c35c2704589142cd998afe8801ad",
-      "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
-      "url": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
-      "summary": "The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges. The post Ivanti Sentry Exploitation Attempts Hitting Honeypots appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-12T09:44:16+00:00"
-    },
-    {
-      "id": "dcdf8080250b5ff66da140952d69e538c0379f1838ab027bafa0e7d5200b164d",
-      "title": "Chrome 149 Update Patches 28 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
-      "summary": "The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs. The post Chrome 149 Update Patches 28 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-12T09:27:08+00:00"
     }
   ]
 }
