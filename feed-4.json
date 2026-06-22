@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-22T16:50:13.962612+00:00",
+  "updated": "2026-06-22T20:42:23.438976+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0fdcf0b63553a9df980ba5f5f02473c66a67c071030966fa5bf6f730878aab67",
+      "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
+      "url": "https://isc.sans.edu/diary/rss/33072",
+      "summary": "I like it when a fellow handler posts a diary entry about images with malicious content. Last one is Xavier: \"The Evil MSI Background is Back&#x21;\".&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-06-15T07:16:00+00:00"
+    },
+    {
+      "id": "1eee075318539b051f9eaf9e8a39b30dda93b8a9e23e84692262a9a80e53b92b",
+      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+      "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+      "summary": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-15T06:17:32+00:00"
+    },
+    {
+      "id": "8a1ed02a11384721536341b9969086d71d40aefe8d0b5e38738be47403f2f831",
+      "title": "Belarus-linked hackers target Gmail accounts of Polish public figures and their families",
+      "url": "https://therecord.media/ghostwriter-targets-personal-gmail-accounts-in-poland",
+      "summary": "Poland has warned that Ghostwriter, the Belarus-linked hacker group, has expanded its phishing operations to target personal Gmail accounts belonging to senior public figures and their relatives.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-14T23:00:00+00:00"
+    },
+    {
+      "id": "80cdc99fe3cd1db0aca9e45f3305d15669b74ac980b1f7cd776f953108386c10",
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "url": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-13T20:53:13+00:00"
+    },
     {
       "id": "5a22ebcf5c097ce48da29955783145603966d4ce1c658e05c29b1450e99c3f9f",
       "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-11T11:52:59+00:00"
-    },
-    {
-      "id": "69773eec7c6d4542e103a811bb05692f78121a4445cc63a5f0366996e6ef2d06",
-      "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
-      "url": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
-      "summary": "A PowerShell script included in patch files appears to be triggering false positives by multiple security engines. The post Siemens Says Desigo CC Files Flagged as Malware by Security Engines appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-06-11T11:40:27+00:00"
-    },
-    {
-      "id": "700818b16f97a3caf503712cf9bff5a7ce658f82c7047d55c1d339f03cb6b9b2",
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that wor",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-11T11:30:00+00:00"
-    },
-    {
-      "id": "eb20d991d3d241ee1adc042dda0024eef45199fb813aebf3fbe0466b7b248144",
-      "title": "Enhanced License Plate Tracking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "summary": "The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and oth",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-11T11:01:19+00:00"
-    },
-    {
-      "id": "8fad778e94ed0eb863f5cd9e0ed0d0b526f23a963e49a710f047f61484d2454b",
-      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-      "summary": "The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources. The post Splunk, Palo Alto Networks Patch Severe Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-11T10:47:48+00:00"
     }
   ]
 }

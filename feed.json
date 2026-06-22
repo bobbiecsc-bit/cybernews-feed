@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-22T16:50:13.962612+00:00",
+  "updated": "2026-06-22T20:42:23.438976+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3e2c39543fbaa3da50e035f2ed9776be1b2ad44438ece227f26d785de413d56b",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-22T20:01:02+00:00"
+    },
+    {
+      "id": "2ce34d4bc99a9a63d164e8a5e0e631a458ea1dc642c959ef28bbb7f2efa0b111",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-22T18:00:48+00:00"
+    },
+    {
+      "id": "9eeb02abbd1f4f43d95bba9a9a754cc89635876b13720f45944914a4a7761fe4",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-22T17:28:57+00:00"
+    },
+    {
+      "id": "a5471bf11dc135a2b44736d9cb73349b2533fb26cac9b004d21893533b048bd3",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-22T16:13:28+00:00"
+    },
     {
       "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-18T15:27:54+00:00"
-    },
-    {
-      "id": "d25d1443c68d70701df3595132cb7586d563112e43c776e1882a302ddedb8f4b",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign codenamed CryptoBandits that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T14:30:42+00:00"
-    },
-    {
-      "id": "c3073875587026359441b406d06990931e72bb1d8436f85faff8cbc538da9a52",
-      "title": "Australian sugar producer works to restore operations as ransomware group claims attack",
-      "url": "https://therecord.media/mackay-sugar-cyberattack-claimed-gentlemen",
-      "summary": "Mackay Sugar said it was \"working urgently\" to verify claims that a highly active ransomware group was behind a cyberattack that shut down harvesting and milling operations.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-06-18T14:20:00+00:00"
-    },
-    {
-      "id": "4e6c61d3a63ec215b06507f2fb0b9e78cb62f86646f5c1cdadb919df8b45c072",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-18T14:19:50+00:00"
-    },
-    {
-      "id": "913690af751cbf41ff0747510740c54b313515ca9cec36253c816c83392621c4",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportuniti",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T14:12:48+00:00"
     }
   ]
 }

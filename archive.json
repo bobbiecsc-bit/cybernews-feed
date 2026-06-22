@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-22T16:50:13.962612+00:00",
+  "updated": "2026-06-22T20:42:23.438976+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3e2c39543fbaa3da50e035f2ed9776be1b2ad44438ece227f26d785de413d56b",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-22T20:01:02+00:00"
+    },
+    {
+      "id": "2ce34d4bc99a9a63d164e8a5e0e631a458ea1dc642c959ef28bbb7f2efa0b111",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-22T18:00:48+00:00"
+    },
+    {
+      "id": "9eeb02abbd1f4f43d95bba9a9a754cc89635876b13720f45944914a4a7761fe4",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-22T17:28:57+00:00"
+    },
+    {
+      "id": "a5471bf11dc135a2b44736d9cb73349b2533fb26cac9b004d21893533b048bd3",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-22T16:13:28+00:00"
+    },
     {
       "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-09T15:03:13+00:00"
-    },
-    {
-      "id": "0a5e3a93ca649603969db445cd151c67bbe931bce5f805a1147f06a280c80d18",
-      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-      "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-09T14:27:56+00:00"
-    },
-    {
-      "id": "e533562946de47c9332d15e271b8f230a41b336c9c5de7ef1caeb5e7e82225f0",
-      "title": "Hackers pose as women seeking romance to spy on Russian soldiers",
-      "url": "https://therecord.media/hackers-pose-as-women-seeking-romance-russian-military",
-      "summary": "The group, dubbed SiribClone by Russian cybersecurity firm F6, has been active since at least the summer of 2025 and has primarily targeted members of the Russian armed forces stationed in border regions and combat zones.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-09T13:52:00+00:00"
-    },
-    {
-      "id": "31635db68f97caf4223e274fd6344706d27edaf64042610876d61c043e58c2e6",
-      "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
-      "url": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
-      "summary": "Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible. The post New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications appeared",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-09T13:00:00+00:00"
-    },
-    {
-      "id": "0359f2d74d508e9567760705466874de1de4485e850d5c8e5e1421326f9b7565",
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UA",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-09T12:26:10+00:00"
     }
   ]
 }
