@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-22T11:47:20.900128+00:00",
+  "updated": "2026-06-22T16:50:13.962612+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b529d86bde887979c17e4b628cb91ea81efddac9dd2606db06f3e5885cb41bcf",
+      "title": "Cybercrime Group Claims Novo Nordisk Hack",
+      "url": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
+      "summary": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant. The post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-16T12:32:27+00:00"
+    },
+    {
+      "id": "790a63ac4cb9801dcf4e9de8e4366a125c3a09f187334b4f3fbdbc9509c7a5a0",
+      "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: Comp",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "a532b416238c39f3622549b83aec066c963631977536a4f40fb62ed284c1f78b",
+      "title": "Rockwell Automation RSLinx",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic &lt;=4.50.00 (CVE-2020-1357",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "59af5c3f01e90d664a86446072d8653a39da1fcb71bf0bd290d3f5021000d49a",
+      "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-20",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "0d2a248ba797844d402e42fb48db3df1f6b2af9441191f54289e61894d7eaae5",
+      "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX &lt;7.01 (CVE-2025-14272) CVSS Vendor Equipment Vul",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "4572165fd4875e0fb5b700c00c2c1477d6c162ba3fe625574410ab71ad9cd2e9",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ac",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "b2308f951d156bcc4abc3dc24e490ed00f695107087e6b557107bb6a5611e6aa",
+      "title": "Cal Water Investigating Iranian Hackers’ Claims",
+      "url": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
+      "summary": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers&#8217; Claims appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-16T11:53:11+00:00"
+    },
     {
       "id": "33ab805fdf38edbbafe2ff87d93fc41aabcd7994b3c2ab47e542e52dfab23755",
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-13T20:53:13+00:00"
-    },
-    {
-      "id": "5a22ebcf5c097ce48da29955783145603966d4ce1c658e05c29b1450e99c3f9f",
-      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
-      "url": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
-      "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-13T15:52:58+00:00"
-    },
-    {
-      "id": "d8843f92a0d739b7b69a7ceefb08ea1df06e73d618a7e877619e919c8ec926f6",
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterpris",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-13T13:23:03+00:00"
-    },
-    {
-      "id": "18edde89fbbb925ab625a99bbfa9e2d2a4f2e0eb946111b2872c60ee311527d5",
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-12T19:33:32+00:00"
-    },
-    {
-      "id": "856c09d61358610a73d8ad490b21ab1a027d3589375a4d4d2158e39f1c6cfb7e",
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T19:33:25+00:00"
-    },
-    {
-      "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
-      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
-      "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T19:24:50+00:00"
-    },
-    {
-      "id": "8f8a91d1631a1602e553fb4a7dacb247bce85c1ee56d234e78bceb6fc15e6bb7",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (Ph",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-12T18:59:32+00:00"
-    },
-    {
-      "id": "7407a5b5da59913b6e9434f889c9460b36b324d8a5591b50c4f65aadd5dc1fd7",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-12T18:19:34+00:00"
     }
   ]
 }

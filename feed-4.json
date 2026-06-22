@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-22T11:47:20.900128+00:00",
+  "updated": "2026-06-22T16:50:13.962612+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5a22ebcf5c097ce48da29955783145603966d4ce1c658e05c29b1450e99c3f9f",
+      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+      "url": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
+      "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-13T15:52:58+00:00"
+    },
+    {
+      "id": "d8843f92a0d739b7b69a7ceefb08ea1df06e73d618a7e877619e919c8ec926f6",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterpris",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-13T13:23:03+00:00"
+    },
+    {
+      "id": "18edde89fbbb925ab625a99bbfa9e2d2a4f2e0eb946111b2872c60ee311527d5",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-12T19:33:32+00:00"
+    },
+    {
+      "id": "856c09d61358610a73d8ad490b21ab1a027d3589375a4d4d2158e39f1c6cfb7e",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T19:33:25+00:00"
+    },
+    {
+      "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T19:24:50+00:00"
+    },
+    {
+      "id": "8f8a91d1631a1602e553fb4a7dacb247bce85c1ee56d234e78bceb6fc15e6bb7",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (Ph",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-12T18:59:32+00:00"
+    },
+    {
+      "id": "7407a5b5da59913b6e9434f889c9460b36b324d8a5591b50c4f65aadd5dc1fd7",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-12T18:19:34+00:00"
+    },
     {
       "id": "5dff8089bf35a8b2ca3a839f9ad21e1661fe5459a5f3fe3f6cae7e71d07d2c36",
       "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-06-11T10:47:48+00:00"
-    },
-    {
-      "id": "84ef9451cd127cb27e492b4aed5ce38bfeb7d1e8fc44ff2d3cac36679fdcb8db",
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "url": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "summary": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode. The post &#8216;GreatXML&#8217; Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-11T09:56:12+00:00"
-    },
-    {
-      "id": "7cb817fdae15bc2c036fc77e1c7913935f26b373a071c8712d5dd486f5029d00",
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transpor",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-11T09:45:58+00:00"
-    },
-    {
-      "id": "1633e4943d02528fafd97aa432a34a5861289d78f2d9de6b2051e1eecd4e973b",
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "url": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "summary": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-11T08:30:02+00:00"
-    },
-    {
-      "id": "96b266d32acddaf376164c6f9aa9092f21d2bf6fcbf736a454e6fccec7294981",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-11T07:27:53+00:00"
-    },
-    {
-      "id": "2d6bc21e28048d0d29ed3c7174a797662c8c0197043e7671761c86a4e549d55c",
-      "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
-      "url": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
-      "summary": "The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14. The post Microsoft Patches Exploited Exchange Server Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-11T06:52:21+00:00"
-    },
-    {
-      "id": "ed47244a1a0ecb46aebffe6660e5f34492d28df9b89372b04d9632d2feadb367",
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code us",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-11T06:23:03+00:00"
-    },
-    {
-      "id": "9aa619b6792b6eed19971eb0aec165535fd04e1374032c458ddee6a47fd956fb",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-11T06:20:22+00:00"
     }
   ]
 }
