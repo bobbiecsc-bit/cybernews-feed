@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-22T20:42:23.438976+00:00",
+  "updated": "2026-06-23T02:54:14.872245+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1c3a94cffc511dca2953412d67ce9eeaea64528e14beebf616c35066c4de625b",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-11T12:46:44+00:00"
+    },
+    {
+      "id": "b687e1a3269fed542013300c9daaf0aa409b56778569e9a612d928b2dc8bed52",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-06-11T12:00:00+00:00"
+    },
+    {
+      "id": "b1b0fced5d636b8f3f1515e0fdbcc55c8b05ffedf842af14bf2f325755fd10f7",
+      "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
+      "url": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
+      "summary": "Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system. The post Hackers Exploit Langflow Vulnerability for Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-11T11:52:59+00:00"
+    },
     {
       "id": "69773eec7c6d4542e103a811bb05692f78121a4445cc63a5f0366996e6ef2d06",
       "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-09T16:34:52+00:00"
-    },
-    {
-      "id": "d236141792bd4a486903e535a5e193ed11f81cf20089c64df543d0eea23ec976",
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-09T16:16:38+00:00"
-    },
-    {
-      "id": "a41367cd04e8f00351ec74696f020c1bb681cf5f0b280d371f1caabdd626a3c1",
-      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
-      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-09T15:42:40+00:00"
-    },
-    {
-      "id": "12293ccd93011aefad8a86ce80b9d677cfccd4ce1aa9aecd3ab38c9be0686bb3",
-      "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
-      "url": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
-      "summary": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks. The post Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-09T15:03:13+00:00"
     }
   ]
 }

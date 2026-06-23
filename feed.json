@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-22T20:42:23.438976+00:00",
+  "updated": "2026-06-23T02:54:14.872245+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e7f16325e079b53ef753130167817729d37ae55f9455793dd2571b1ab2c618b5",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-22T22:42:21+00:00"
+    },
+    {
+      "id": "df550206f9f0525d89cabdaef4a9acd47af26a5f65ba28f05f1fb47e954c48ce",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-22T21:52:18+00:00"
+    },
+    {
+      "id": "1a2d68f57b3b7df95f5a8e7439a99c7f7443444bc27cf4e061e53874e36a3d49",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-22T21:05:01+00:00"
+    },
     {
       "id": "3e2c39543fbaa3da50e035f2ed9776be1b2ad44438ece227f26d785de413d56b",
       "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
@@ -427,33 +454,6 @@
       "source": "Krebs on Security",
       "category": "threat",
       "date": "2026-06-18T17:37:58+00:00"
-    },
-    {
-      "id": "937d45d23a40e23722bf6350d4d73edf0c4a0943fece4d308413945289173cf0",
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-18T17:32:14+00:00"
-    },
-    {
-      "id": "b2572f1d510247efba8083b0d540c294f46f14aa56ca8a246db881637e826ffe",
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-18T16:20:06+00:00"
-    },
-    {
-      "id": "2f58bbb6cb85307e38e31f8dd2ae4a856a8b87db6851cfd94ea714bb9ff5ba81",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T15:27:54+00:00"
     }
   ]
 }
