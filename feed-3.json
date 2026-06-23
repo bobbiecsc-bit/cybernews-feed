@@ -1,10 +1,55 @@
 {
-  "updated": "2026-06-23T14:41:44.510602+00:00",
+  "updated": "2026-06-23T19:58:10.241740+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "538b5a7de057dcb5e312c57d63215a0ea3c6ffcd73d38277f792f99caa2079e1",
+      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+      "url": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a w",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-17T16:00:56+00:00"
+    },
+    {
+      "id": "55ae8588dc6a0c76ddaf8820f28dbf68017952a2c5b6d47195a091c19a79dcba",
+      "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
+      "url": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
+      "summary": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-17T14:07:16+00:00"
+    },
+    {
+      "id": "468752dd089ebef136d616ec04e55d045ca7a9254285c9dc9e3be6915e1ed883",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-17T14:00:10+00:00"
+    },
+    {
+      "id": "1d5a81ae1b09677ec4e01519814dc48aa3f928d8a0ca11edf0a20aa0ce82a492",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-17T13:51:58+00:00"
+    },
+    {
+      "id": "a3de477662fd4c6fbd9c1a42c5f52c08646db0fd6c8ec2342178bf06add6c221",
+      "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
+      "url": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
+      "summary": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control. The post Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-06-17T10:38:00+00:00"
+    },
     {
       "id": "8b42903fcc68f5e9b485848c606b0ee5884d8b9b491345928f0a42f9563ec7ea",
       "title": "The Top 10 Attack Surface Exposures in 2026",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-15T20:06:52+00:00"
-    },
-    {
-      "id": "72391304030e25318a33ebc2694ab933e95e6a8ddbb8d505929f8e4a8246c88d",
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the un",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-15T19:44:06+00:00"
-    },
-    {
-      "id": "b278cce1cb7979d2abd5ed8f898af4adc0a6727f618d3e5c886dc7cf05b1367f",
-      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-      "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has be",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-15T19:32:52+00:00"
-    },
-    {
-      "id": "b5b914e4f8d915b3861a7776b5e3afc23584d1e608b374c731e6f76d4c153fa5",
-      "title": "Maine closes data breach portal to the public after fake reports",
-      "url": "https://therecord.media/maine-turns-off-breach-portal-fake-reports",
-      "summary": "Maine is still allowing companies to report breaches, but won’t make the portal easily available to the public until after it completes an audit of its procedures to stop such incidents, according to a press release from the Maine attorney general’s office.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-15T18:23:00+00:00"
-    },
-    {
-      "id": "e1ab599cbd463057a48895332ef55e20fee2a10f8af626e83d490295cf984094",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-15T17:37:07+00:00"
-    },
-    {
-      "id": "a6ba0eb317b9dab4e741173efad6d3553f3f4c5ffec59c7ac80c961029ec2ae6",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-15T17:12:42+00:00"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-23T14:41:44.510602+00:00",
+  "updated": "2026-06-23T19:58:10.241740+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9bbbfd24805238c13f2b65179526b5894c3a91107d343430d50adc16f4c53696",
+      "title": "Five Eyes agencies sound alarm about AI’s threat to cybersecurity",
+      "url": "https://therecord.media/five-eyes-alert-artificial-intelligence",
+      "summary": "\"The timeline is not years, it is months,” the nations of the Five Eyes intelligence alliance said in a joint alert about the cybersecurity concerns of artificial intelligence.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-23T18:45:00+00:00"
+    },
+    {
+      "id": "dca8937e3bccf02857d60fb0c657c47426b72ec721bac8b534b25d5206046ba3",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-23T18:30:16+00:00"
+    },
+    {
+      "id": "00442d00a6925d216d7747f8286d6ebf3ccea2367450dc4ee51da932604a30a1",
+      "title": "Trump directs federal agencies to protect US data from quantum threats",
+      "url": "https://therecord.media/trump-directs-federal-agencies-quantum-cryptography",
+      "summary": "An executive order signed Monday aims to accelerate the government's transition to post-quantum cryptography (PQC), a new generation of encryption designed to protect data from the powerful quantum computers expected in the future.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-23T17:10:00+00:00"
+    },
+    {
+      "id": "962d41e3a2c99a01513283d5ddc4e973dc8a4b4ee8272a3859b26e67162c7ca4",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-06-23T16:12:49+00:00"
+    },
+    {
+      "id": "c223d2c2ca32beb79146b64734b4e8ff9008343dbe06f415502f6e4dc34fcedb",
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+      "url": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+      "summary": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs. The post Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-23T15:36:24+00:00"
+    },
     {
       "id": "a790ae300b6d7f8bdbf9f1cbee023d770e204681e963528a9ae83457926cd6f5",
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-10T12:07:58+00:00"
-    },
-    {
-      "id": "03f61db6c5a00dd06568461a61b2f2bf46a1ee92f46e39fbc503e6e194e0d5a7",
-      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
-      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
-      "summary": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit &#8216;RoguePlanet&#8217; Released appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-10T11:44:39+00:00"
-    },
-    {
-      "id": "b6e1ca93e9ecaf6b15bc148c50399c2e4eade52555617e6922c3b29527d498f1",
-      "title": "NSO Group Hacking WhatsApp Despite Court Order",
-      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
-      "summary": "WhatsApp has caught the NSO Group phishing its users, in violation of a court order.",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-06-10T11:08:59+00:00"
-    },
-    {
-      "id": "2ed1517514068ee9e23b835e442df9d4b6686afe037e5a8b4953d197de3b56d5",
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-10T09:57:33+00:00"
-    },
-    {
-      "id": "766cd0eccbc44eeb2c35f5a60827f9ebfe425131313b33793b89a62e0052d2fc",
-      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
-      "url": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
-      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-10T09:45:35+00:00"
-    },
-    {
-      "id": "0d578f2433fe77f3db03df2ca6191453e8b43070f291f3f15ab21d34d05e63f6",
-      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-      "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-10T09:38:13+00:00"
     }
   ]
 }
