@@ -1,10 +1,64 @@
 {
-  "updated": "2026-06-23T02:54:14.872245+00:00",
+  "updated": "2026-06-23T09:32:49.326366+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eedf6d250567c261719853bbd506e67b4144589c830a72f68875e5031b9cf728",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-17T05:50:46+00:00"
+    },
+    {
+      "id": "d371e5b23e5fbb36935de6161b839c952849e2bb8961278586130a498363b77d",
+      "title": "GitHub dismissed security reports on flaws now exploited by supply-chain worm, researchers say",
+      "url": "https://therecord.media/github-dismissed-reports-shai-hulud-deep-specter",
+      "summary": "GitHub rejected two formal vulnerability reports identifying design flaws that researchers say are enabling variants of the Shai-Hulud supply-chain worm to infect and compromise hundreds of software packages and developer accounts worldwide.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-06-16T23:00:00+00:00"
+    },
+    {
+      "id": "0561978f0a365c7c74edf07bf3e866cb8d18b8db58d884ee21126c75528cd39d",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-16T20:04:11+00:00"
+    },
+    {
+      "id": "dab97eb1ab16eed5f7937e21abc7bc9e07484536a43bf10303bcb6bdf7504730",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty pro",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-16T19:05:41+00:00"
+    },
+    {
+      "id": "a3798f6d4c51700e3e6b7986a5840f9c064ebbc4fae80591e1b7a3d5f81b2ece",
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-16T18:27:55+00:00"
+    },
+    {
+      "id": "1e3eb30b35ffc02655415b6397f8ccc0199eb13be7adf5cc8d4c3459bcd4cb77",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, h",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-16T17:41:28+00:00"
+    },
     {
       "id": "011385b054e475f8eb9f026c9441fdbabea473613a4bafe3bc07a1f65e41cef2",
       "title": "India temporarily blocks Telegram over medical exam cheating fears",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-15T13:00:00+00:00"
-    },
-    {
-      "id": "21fc3d7b1163299e275bb94981d9eb2ff7120ba5dc0ff229cf9e684b68eef3a0",
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-15T12:38:55+00:00"
-    },
-    {
-      "id": "874da1a0e0790cca1d965952b42fdc7fd019ed96e698ce0efc6b6a3dbce4570e",
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response time",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-15T12:12:20+00:00"
-    },
-    {
-      "id": "c22be36539bf579e62713c4847ecfbde24a3ff62b14d5a5c0d0ea0cddd9cd973",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following ",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-15T12:00:00+00:00"
-    },
-    {
-      "id": "904b1e68130017cda669dfd7ec7d97e1e063f5bb498535091131a85bda875188",
-      "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
-      "url": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
-      "summary": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang. The post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-06-15T11:33:20+00:00"
-    },
-    {
-      "id": "daf9da7a7359ef557c3fca8833f66447c8c199562f97141e2a85a33d88cae1cc",
-      "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
-      "url": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
-      "summary": "The pharmaceutical giant says the attackers gained access to personal data stored on the compromised systems. The post Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-15T11:17:21+00:00"
-    },
-    {
-      "id": "fa89676d686c304d08361cd2790021e0c72207d3d6d875ea81866f4a0f59a234",
-      "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
-      "url": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
-      "summary": "French officials say roughly 73,000 government accounts were affected, while the threat actor claims to have stolen messages and user data from the sovereign Tchap platform. The post French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-15T11:09:10+00:00"
     }
   ]
 }
