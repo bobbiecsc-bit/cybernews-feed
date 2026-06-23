@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-23T09:32:49.326366+00:00",
+  "updated": "2026-06-23T14:41:44.510602+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a790ae300b6d7f8bdbf9f1cbee023d770e204681e963528a9ae83457926cd6f5",
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-23T14:22:03+00:00"
+    },
+    {
+      "id": "ebd8326974b7bfdf902558afe3644fd51da9cc7ca899f0482d60f518f2d35f0f",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-23T14:01:11+00:00"
+    },
+    {
+      "id": "a242733f44a9d6d551422e254674d037c8bddc5ae1ac9446da1707661c1039ac",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-23T13:58:25+00:00"
+    },
+    {
+      "id": "f49d7260ec8004364c37be0e2edbc57dded354e3fb8e7f03613a66d6af2a8949",
+      "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
+      "url": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
+      "summary": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25. The post Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-23T13:00:00+00:00"
+    },
+    {
+      "id": "e7a0da84a3c17e0ac81823f3441c1399ee291a89ae140bbb0f7f7cb88043d26a",
+      "title": "Two Scattered Spider members plead guilty over cyberattack that crippled London transit",
+      "url": "https://therecord.media/guilty-plea-tfl-cyberattack-scattered-spider-members",
+      "summary": "A 20-year-old and an 18-year-old admitted to infiltrating the network of Transport for London in 2024, disrupting public transportation services for months.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-23T13:00:00+00:00"
+    },
+    {
+      "id": "ac4d3b6f654bf5fb9a91bface518a41a4eba5cd5500e221d1c8670ce9579d447",
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-23T12:12:20+00:00"
+    },
+    {
+      "id": "52153cc2e8bdf06f72a5ab323d9d935d4c6237e721581532c7e38702fc24e2f4",
+      "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
+      "url": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
+      "summary": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library. The post FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-23T11:48:06+00:00"
+    },
+    {
+      "id": "c348f31448293f8f440e0617773fa17554837aba1f617ef14062c93628888bcb",
+      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
+      "summary": "Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks. Well, that restriction was bypassed within days.",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-06-23T11:03:07+00:00"
+    },
+    {
+      "id": "93f9ffcc2ba29a549d4d1e8ad401f747762732c5b996a42f320f65ac831065af",
+      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+      "url": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+      "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-23T10:30:46+00:00"
+    },
     {
       "id": "5c9733fdf171c4cf368ccb9321be18b96da31abab4e6517f25659667b8530eeb",
       "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
@@ -111,6 +192,15 @@
       "date": "2026-06-22T17:28:57+00:00"
     },
     {
+      "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-22T16:29:00+00:00"
+    },
+    {
       "id": "a5471bf11dc135a2b44736d9cb73349b2533fb26cac9b004d21893533b048bd3",
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
@@ -118,15 +208,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-22T16:13:28+00:00"
-    },
-    {
-      "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-22T14:29:46+00:00"
     },
     {
       "id": "a9f77cbf52aa168e24c664a6e8677d986d5119e1ddefdf02b4e639d80bbb37bb",
@@ -2170,87 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-10T09:38:13+00:00"
-    },
-    {
-      "id": "43de27def45fe3f7198fb2ed85784d61d9805aee0d0539a05c20056af9c65176",
-      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
-      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
-      "summary": "Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution. The post Critical Vulnerabilities Patched in Fortinet, Ivanti Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-10T08:50:12+00:00"
-    },
-    {
-      "id": "39a13aae9e28aa12e8df0bbe7c6d193f259c9591f8875b6a73b2453ecee466d0",
-      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
-      "url": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
-      "summary": "ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a security update to hosted customer instances,\" the company revealed in an advisory that requires custo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-10T07:02:08+00:00"
-    },
-    {
-      "id": "812fe935ebc9d9f532787af64bd2964145382abe05322846dd559f61cbf6f7aa",
-      "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
-      "url": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
-      "summary": "Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices. The post No Patch Planned for Exploited Arista EOS Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-10T06:38:32+00:00"
-    },
-    {
-      "id": "78c0dc3e15352e5a5a4cfdb95dd1ce40e96b992da162ee496bdf4eb0ebd93a06",
-      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
-      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-      "summary": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-10T06:26:28+00:00"
-    },
-    {
-      "id": "3b3fe7c4f6a76b87ce42f32b947960f2c48dda36c5010b69fedd1b9e044792f0",
-      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-      "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
-      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-10T05:22:01+00:00"
-    },
-    {
-      "id": "85f025df1a492adefa87e9298d590c17d88f8d0a6f45280f7e74e95dc043a4a8",
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "url": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks. \"In affected environments, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-10T05:08:35+00:00"
-    },
-    {
-      "id": "3268bbde4275b904a3b4c6526ab5a443b10e721dd60e377f0f4b78f6fae7f354",
-      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-09T23:11:18+00:00"
-    },
-    {
-      "id": "27033a7a2825dc922aca428e450ecd4316f92928079ed7dde18eaf41ec638a25",
-      "title": "UK weakens proposed telecoms defenses against Chinese hackers after industry pushback",
-      "url": "https://therecord.media/uk-weakens-telecoms-defenses-after-industry-lobbying",
-      "summary": "Britain has weakened proposed cybersecurity protections for its telecoms networks that were developed in response to the Salt Typhoon espionage campaign, after the companies responsible for implementing the measures lobbied against them.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-09T23:00:00+00:00"
-    },
-    {
-      "id": "ea6cfaf1ee3aa04f9e85eea6978128e923c004fb36933ae17c400804d2b9f26e",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploi",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-06-09T22:07:28+00:00"
     }
   ]
 }
