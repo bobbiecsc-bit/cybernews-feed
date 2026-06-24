@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-24T02:55:09.731098+00:00",
+  "updated": "2026-06-24T09:22:47.130021+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cd2f447b4ff5c1b9592bce3ba0deff5a62359fd5d375b3af7ec702906a130f14",
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-16T09:00:00+00:00"
+    },
+    {
+      "id": "954607137e04da1b96479b526e0ec8a9472c17ec69003df1dd55edfffe1955eb",
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-16T08:14:55+00:00"
+    },
+    {
+      "id": "ad68685bc75616ef64cff9ab80f0b2af5995a956b560106fe2e582be4569d898",
+      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33080",
+      "summary": "Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted (which is automatic on modern Windows OSs):&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-06-16T07:09:13+00:00"
+    },
+    {
+      "id": "acb485becf99ca726497689fa1bee567710781caff8a77dcd86dd38001cd7c35",
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-16T06:31:59+00:00"
+    },
     {
       "id": "bc976e2b924bb1f2b23b99e87d3f1f7be7f98a5f7f685e25d6eb1746b27660e4",
       "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-12T12:04:33+00:00"
-    },
-    {
-      "id": "2c71754a0390c79bac3e3ff7c393c0414b01eaee8878e68cf0440ea4cd191cd8",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vect",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-12T12:00:00+00:00"
-    },
-    {
-      "id": "5e61457a53004ef2ec17384236683cf24fad508d006e2f37faf4b08a5d879a3b",
-      "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
-      "url": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
-      "summary": "The hackers published 5GB of data, including customer personal information and credentials for the RTKBase platform. The post Iranian Cyber Group Handala Claims Cal Water Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-12T11:30:23+00:00"
-    },
-    {
-      "id": "87fcd2c17bd01e95732942b62db6fcbae029e8e01fa12b5209339c3509e3ae77",
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has c",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-12T11:00:00+00:00"
-    },
-    {
-      "id": "e700f630cfa191fa897df37ecc2cc6892817da541aa42cff1c4c0c092c01e6c4",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-12T10:13:19+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-24T02:55:09.731098+00:00",
+  "updated": "2026-06-24T09:22:47.130021+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7af2158b32edbab8af1cfeee9b0f6bbfb8abfc71327cae8d2b62a0c7717b0188",
+      "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
+      "url": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
+      "summary": "Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root. The post Critical Command Execution Vulnerability Patched in Cisco ISE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-18T10:27:14+00:00"
+    },
+    {
+      "id": "f9e80483baa8e4c54c86a970465ee907345fdbe8180c9daa372effa58f4b0082",
+      "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
+      "url": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
+      "summary": "Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code. The post F5 Patches Critical, High-Severity NGINX Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-18T09:39:24+00:00"
+    },
+    {
+      "id": "16cf99acb30053dcc5f5787810e6869d936633b54db475982b058492a7cefcd8",
+      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
+      "url": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
+      "summary": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-18T07:18:51+00:00"
+    },
+    {
+      "id": "98e2f7443d975af808e2c54f30d6ebca2960642a6bd7e55680464376b5aa1754",
+      "title": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33086",
+      "summary": "&#x5b;This is a Guest Diary by Adam Nason, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-06-18T01:49:29+00:00"
+    },
     {
       "id": "f8eb1060791f8ee3d67646827d39443190780d987081c5a1c13994ec4075ff55",
       "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-16T09:19:51+00:00"
-    },
-    {
-      "id": "cd2f447b4ff5c1b9592bce3ba0deff5a62359fd5d375b3af7ec702906a130f14",
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-16T09:00:00+00:00"
-    },
-    {
-      "id": "954607137e04da1b96479b526e0ec8a9472c17ec69003df1dd55edfffe1955eb",
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-16T08:14:55+00:00"
-    },
-    {
-      "id": "ad68685bc75616ef64cff9ab80f0b2af5995a956b560106fe2e582be4569d898",
-      "title": "From a VHDX File to a Remcos RAT, (Tue, Jun 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33080",
-      "summary": "Yesterday, a reader reported to us a malicious ZIP archive (SHA256: a0104921a2d37ab87482ac9a9f5c3713479c118846c3e999178e75b81620c094&#x5b;1&#x5d;). Once unzipped, it contains a VHDX file that discloses a malicious JavaScript after being mounted (which is automatic on modern Windows OSs):&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-06-16T07:09:13+00:00"
-    },
-    {
-      "id": "acb485becf99ca726497689fa1bee567710781caff8a77dcd86dd38001cd7c35",
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-16T06:31:59+00:00"
     }
   ]
 }
