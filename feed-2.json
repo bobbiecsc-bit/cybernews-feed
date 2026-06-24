@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-23T19:58:10.241740+00:00",
+  "updated": "2026-06-24T02:55:09.731098+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "47fe62a9b363942ff8e4c31d1bc4534329eeb4c9e2ab88d24e4ec43f2a7ea08c",
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-20T09:56:04+00:00"
+    },
+    {
+      "id": "7c642ede84fd1bc86150f049d2b8e71485a0fefd83b65bb74b5420b52b37541b",
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-19T22:31:04+00:00"
+    },
+    {
+      "id": "935783570e0ed9a35978d8b694e6974707430507f8ba07d623fd55ced6c60c41",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-19T20:25:02+00:00"
+    },
+    {
+      "id": "800b7492fcac870c2144bb28fb8ff15a76e21a7fda9bbfac09923a4b31424c21",
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "summary": "Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices w",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-19T18:37:41+00:00"
+    },
     {
       "id": "b837220888d79db5d2750102f2b58f0be0798b86f5a632f3e66d12649990e602",
       "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
@@ -418,42 +454,6 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-06-18T01:49:29+00:00"
-    },
-    {
-      "id": "f8eb1060791f8ee3d67646827d39443190780d987081c5a1c13994ec4075ff55",
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-17T18:14:24+00:00"
-    },
-    {
-      "id": "ea1cac5e48bf0965ccdbe9d720190d668f37b20744feeba6f9f62de8943d0217",
-      "title": "Hostile states behind three-quarters of attacks on Britain's critical infrastructure, cyber chief warns",
-      "url": "https://therecord.media/britain-nation-state-cyberattacks-richard-horne-rusi",
-      "summary": "NCSC CEO Richard Horne warned that “kinetic targeting in any conflict tomorrow will be based on intelligence gathered today” and that nation-state adversaries were “prepositioning” throughout British critical infrastructure.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-17T17:55:00+00:00"
-    },
-    {
-      "id": "a5a90539c857c9268c909503f562746ad27471c7137323ad0c96defde68cbe48",
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is awa",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-17T17:36:28+00:00"
-    },
-    {
-      "id": "4722c9daa4aeb3b031c7fcace075e29131feaf651c76853472814baa33a8650b",
-      "title": "EU grants Ukraine access to cybersecurity reserve for major attacks",
-      "url": "https://therecord.media/ukraine-access-eu-cybersecurity-reserve",
-      "summary": "As Kyiv takes steps toward formal accession to the EU, the bloc is integrating Ukraine with its pool of pre-approved cybersecurity incident response companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-17T16:33:00+00:00"
     }
   ]
 }

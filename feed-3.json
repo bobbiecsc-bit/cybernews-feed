@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-23T19:58:10.241740+00:00",
+  "updated": "2026-06-24T02:55:09.731098+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f8eb1060791f8ee3d67646827d39443190780d987081c5a1c13994ec4075ff55",
+      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+      "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-17T18:14:24+00:00"
+    },
+    {
+      "id": "ea1cac5e48bf0965ccdbe9d720190d668f37b20744feeba6f9f62de8943d0217",
+      "title": "Hostile states behind three-quarters of attacks on Britain's critical infrastructure, cyber chief warns",
+      "url": "https://therecord.media/britain-nation-state-cyberattacks-richard-horne-rusi",
+      "summary": "NCSC CEO Richard Horne warned that “kinetic targeting in any conflict tomorrow will be based on intelligence gathered today” and that nation-state adversaries were “prepositioning” throughout British critical infrastructure.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-17T17:55:00+00:00"
+    },
+    {
+      "id": "a5a90539c857c9268c909503f562746ad27471c7137323ad0c96defde68cbe48",
+      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+      "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
+      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is awa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-17T17:36:28+00:00"
+    },
+    {
+      "id": "4722c9daa4aeb3b031c7fcace075e29131feaf651c76853472814baa33a8650b",
+      "title": "EU grants Ukraine access to cybersecurity reserve for major attacks",
+      "url": "https://therecord.media/ukraine-access-eu-cybersecurity-reserve",
+      "summary": "As Kyiv takes steps toward formal accession to the EU, the bloc is integrating Ukraine with its pool of pre-approved cybersecurity incident response companies.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-17T16:33:00+00:00"
+    },
     {
       "id": "538b5a7de057dcb5e312c57d63215a0ea3c6ffcd73d38277f792f99caa2079e1",
       "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-06-16T06:31:59+00:00"
-    },
-    {
-      "id": "bc976e2b924bb1f2b23b99e87d3f1f7be7f98a5f7f685e25d6eb1746b27660e4",
-      "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-      "url": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-      "summary": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write. The post Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-16T06:20:18+00:00"
-    },
-    {
-      "id": "2f89dbfc90451bc5e686c6c5aee6788777d68bcb5c55029198d1f8e440fc7c0a",
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manag",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-16T06:05:58+00:00"
-    },
-    {
-      "id": "4c841f86020ece33461de3978e434ed00abcf692d35196f2b755632e89ca220b",
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in que",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-16T05:41:52+00:00"
-    },
-    {
-      "id": "109afe17fa6d19ec58fd25456d91f3a9a7e68b019a5ff02ea673d5d1d4750d67",
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-15T20:06:52+00:00"
     }
   ]
 }
