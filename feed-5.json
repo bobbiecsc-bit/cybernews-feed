@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-24T14:23:42.100995+00:00",
+  "updated": "2026-06-24T19:41:40.204620+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1eee075318539b051f9eaf9e8a39b30dda93b8a9e23e84692262a9a80e53b92b",
+      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+      "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+      "summary": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-15T06:17:32+00:00"
+    },
+    {
+      "id": "8a1ed02a11384721536341b9969086d71d40aefe8d0b5e38738be47403f2f831",
+      "title": "Belarus-linked hackers target Gmail accounts of Polish public figures and their families",
+      "url": "https://therecord.media/ghostwriter-targets-personal-gmail-accounts-in-poland",
+      "summary": "Poland has warned that Ghostwriter, the Belarus-linked hacker group, has expanded its phishing operations to target personal Gmail accounts belonging to senior public figures and their relatives.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-14T23:00:00+00:00"
+    },
+    {
+      "id": "80cdc99fe3cd1db0aca9e45f3305d15669b74ac980b1f7cd776f953108386c10",
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "url": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-13T20:53:13+00:00"
+    },
+    {
+      "id": "5a22ebcf5c097ce48da29955783145603966d4ce1c658e05c29b1450e99c3f9f",
+      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+      "url": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
+      "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-13T15:52:58+00:00"
+    },
+    {
+      "id": "d8843f92a0d739b7b69a7ceefb08ea1df06e73d618a7e877619e919c8ec926f6",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterpris",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-13T13:23:03+00:00"
+    },
+    {
+      "id": "18edde89fbbb925ab625a99bbfa9e2d2a4f2e0eb946111b2872c60ee311527d5",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-12T19:33:32+00:00"
+    },
+    {
+      "id": "856c09d61358610a73d8ad490b21ab1a027d3589375a4d4d2158e39f1c6cfb7e",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-12T19:33:25+00:00"
+    },
     {
       "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
       "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-06-11T11:40:27+00:00"
-    },
-    {
-      "id": "700818b16f97a3caf503712cf9bff5a7ce658f82c7047d55c1d339f03cb6b9b2",
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that wor",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-11T11:30:00+00:00"
-    },
-    {
-      "id": "eb20d991d3d241ee1adc042dda0024eef45199fb813aebf3fbe0466b7b248144",
-      "title": "Enhanced License Plate Tracking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "summary": "The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and oth",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-11T11:01:19+00:00"
-    },
-    {
-      "id": "8fad778e94ed0eb863f5cd9e0ed0d0b526f23a963e49a710f047f61484d2454b",
-      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-      "summary": "The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources. The post Splunk, Palo Alto Networks Patch Severe Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-11T10:47:48+00:00"
-    },
-    {
-      "id": "84ef9451cd127cb27e492b4aed5ce38bfeb7d1e8fc44ff2d3cac36679fdcb8db",
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "url": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "summary": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode. The post &#8216;GreatXML&#8217; Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-11T09:56:12+00:00"
-    },
-    {
-      "id": "7cb817fdae15bc2c036fc77e1c7913935f26b373a071c8712d5dd486f5029d00",
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transpor",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-11T09:45:58+00:00"
-    },
-    {
-      "id": "1633e4943d02528fafd97aa432a34a5861289d78f2d9de6b2051e1eecd4e973b",
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "url": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "summary": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-11T08:30:02+00:00"
-    },
-    {
-      "id": "96b266d32acddaf376164c6f9aa9092f21d2bf6fcbf736a454e6fccec7294981",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-11T07:27:53+00:00"
     }
   ]
 }

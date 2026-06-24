@@ -1,10 +1,73 @@
 {
-  "updated": "2026-06-24T14:23:42.100995+00:00",
+  "updated": "2026-06-24T19:41:40.204620+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c3073875587026359441b406d06990931e72bb1d8436f85faff8cbc538da9a52",
+      "title": "Australian sugar producer works to restore operations as ransomware group claims attack",
+      "url": "https://therecord.media/mackay-sugar-cyberattack-claimed-gentlemen",
+      "summary": "Mackay Sugar said it was \"working urgently\" to verify claims that a highly active ransomware group was behind a cyberattack that shut down harvesting and milling operations.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-06-18T14:20:00+00:00"
+    },
+    {
+      "id": "4e6c61d3a63ec215b06507f2fb0b9e78cb62f86646f5c1cdadb919df8b45c072",
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T14:19:50+00:00"
+    },
+    {
+      "id": "913690af751cbf41ff0747510740c54b313515ca9cec36253c816c83392621c4",
+      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
+      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
+      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportuniti",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-18T14:12:48+00:00"
+    },
+    {
+      "id": "cd54cf376caee08761494555b7e746924ea759d4fb6e7fbe75195fedc8866617",
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-18T13:30:07+00:00"
+    },
+    {
+      "id": "661c1bc506c9199b7b71904a910cfe54cc8c91c0fb3c9897caf16a13cf294135",
+      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+      "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+      "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-18T13:25:47+00:00"
+    },
+    {
+      "id": "40d149b7b6c668e6621190d5e68c4a3a5123a04056e24c52464f4d548b3500a9",
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T12:55:36+00:00"
+    },
+    {
+      "id": "46079806e3c816680f41b91ca54c36a8fd3f240e1455a876cd57917b89cd62c2",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T12:54:39+00:00"
+    },
     {
       "id": "013abd52b7522128cb93fc0d326bbc44294b780516b905425e4fa29f53764f08",
       "title": "No Exploits Required",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-16T14:27:45+00:00"
-    },
-    {
-      "id": "50c8b7b40291bea90e13497a5e15951f81f695c6809e5838d7a5442d55956236",
-      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
-      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
-      "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-16T14:17:27+00:00"
-    },
-    {
-      "id": "a026e15efcf99bbc1a9652095a03f0cc250256ca9c14de95158ac66f34f7d290",
-      "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
-      "url": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "summary": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now. The post AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityW",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-16T13:15:34+00:00"
-    },
-    {
-      "id": "f9af2533fdd680159dced81549be2b459056b314c8cf24fb4bf55ff0c06a0e7e",
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "summary": "Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and s",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-16T13:10:17+00:00"
-    },
-    {
-      "id": "b529d86bde887979c17e4b628cb91ea81efddac9dd2606db06f3e5885cb41bcf",
-      "title": "Cybercrime Group Claims Novo Nordisk Hack",
-      "url": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
-      "summary": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant. The post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-16T12:32:27+00:00"
-    },
-    {
-      "id": "790a63ac4cb9801dcf4e9de8e4366a125c3a09f187334b4f3fbdbc9509c7a5a0",
-      "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: Comp",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "a532b416238c39f3622549b83aec066c963631977536a4f40fb62ed284c1f78b",
-      "title": "Rockwell Automation RSLinx",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic &lt;=4.50.00 (CVE-2020-1357",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "59af5c3f01e90d664a86446072d8653a39da1fcb71bf0bd290d3f5021000d49a",
-      "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-20",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
     }
   ]
 }
