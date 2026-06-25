@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-25T08:56:11.663249+00:00",
+  "updated": "2026-06-25T14:25:17.110130+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8b7bff9926fd1783a34598b146752b4b6d8a1e4c1999ae675dba15fa65efbfc2",
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "url": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-25T14:01:11+00:00"
+    },
+    {
+      "id": "3ea4be44eddd37450d6d1e44a6b3c57033c1d9d57a6a3b0d0eb41d3a9e1d8696",
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was no",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-25T12:24:43+00:00"
+    },
+    {
+      "id": "ac6df436368381d8aea64ec83e109665e76bff8b50da1f5e7f3a49967d379762",
+      "title": "Ukraine's state postal operator reports app disruption after cyberattack",
+      "url": "https://therecord.media/ukraine-state-postal-operator-reports-disruption",
+      "summary": "Ukraine's state-owned postal operator said it was experiencing disruptions to some of its app services due to a suspected cyberattack, but did not say who was behind it.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-25T12:16:00+00:00"
+    },
+    {
+      "id": "2c05ea884ee1b725ba6d6e2b06c59f6853360b91ce0a4a3213ba3f9f98acf301",
+      "title": "Russia used Cellebrite phone-hacking tool to crack down on dissident after firm cut off country",
+      "url": "https://therecord.media/russia-used-cellebrite-tool-after-company-pulled-out-of-country",
+      "summary": "The continued use of the powerful data extraction product soon after the company in March 2021 said it would stop working with Russia suggests the firm has been unable to pull back its technology from authoritarian government customers, researchers say.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-25T12:15:00+00:00"
+    },
+    {
+      "id": "e2767d5bece11992967b00c67916199f44992e816a2d4a69caf0f3903be1eaab",
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-25T12:12:20+00:00"
+    },
+    {
+      "id": "2409997df5bfed8006200b1dce95eefaf615c0b3aa47047dc1d90b6cd0fae637",
+      "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+      "url": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
+      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-25T12:07:00+00:00"
+    },
+    {
+      "id": "60db22c4c61ee788faa13b55c87889abed1db84f59499a1a715196aeaec2ce95",
+      "title": "Interesting Paper Exploring Prompt Injection",
+      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
+      "summary": "This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the ",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-06-25T11:23:58+00:00"
+    },
+    {
+      "id": "fbfd246ff3df52cb6a5668e7a217123ae9f7fc7a2297208f579032e32144874e",
+      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+      "url": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-25T11:23:40+00:00"
+    },
+    {
+      "id": "bdd63d04b540fc20391838cc5df726fd34b8e1274d4912cc159ac4f7163301c5",
+      "title": "25-Year-Old Vulnerability Patched in Curl",
+      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
+      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-25T09:25:02+00:00"
+    },
+    {
+      "id": "c96f9691fd679ba921770e08a346dde535ef4b5be13c0e7add4d14217ff585b1",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-25T09:23:03+00:00"
+    },
+    {
+      "id": "666b25b32ef0939bfeffc7aed3418cc44a20baf2533a282057631ef51f237b69",
+      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+      "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor,",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-25T08:54:37+00:00"
+    },
     {
       "id": "4ae331de38d6d1290476415a4f9e44beadd52e7f9815b58199bbffd049e2508a",
       "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-11T20:29:23+00:00"
-    },
-    {
-      "id": "d4d188a1b01ce8add8180f27736fd763df49f4934fe8498031adaa8adc3b6424",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-11T19:39:53+00:00"
-    },
-    {
-      "id": "0826b044b06cf7c96e4b948ed5f43008d1833202c5f2b0344278f46b81fc8731",
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and locatio",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-11T17:46:32+00:00"
-    },
-    {
-      "id": "c11d806ac43754f7a6e201a2873a15041c37a0e284e23ee01e9b718781103bb6",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-11T17:43:52+00:00"
-    },
-    {
-      "id": "c97d2a885188adbd23d7f4bf229bf189e86e06a107dd6031355341b812e6b759",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-11T16:50:47+00:00"
-    },
-    {
-      "id": "f6e3c1d8a56c0698abd8888af5639e27f7c65fae511b264c2b72c8e7b801ae5a",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "summary": "Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-11T15:55:41+00:00"
-    },
-    {
-      "id": "06d42da88b19bde6912505d6ab861b78f21c1f14c8344b46046a7e15aa61c1f1",
-      "title": "British high school sends students home following cyberattack",
-      "url": "https://therecord.media/british-school-sends-students-home-cyberattack",
-      "summary": "Great Marlow School, which has 1,428 pupils according to the Department for Education (DfE), said it was set to remain closed while it works with specialist IT and cybersecurity professionals to resolve the issue.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-11T15:25:00+00:00"
-    },
-    {
-      "id": "ff044c6a3d29dc964a823a6a747b7c2dcf81e4b4b55e8e453138361eb689fac8",
-      "title": "Hacker linked to Void Blizzard faces charges over cyberespionage campaign",
-      "url": "https://therecord.media/hacker-linked-to-void-blizzard-faces-charges",
-      "summary": "Denis Obrezko, 36, made his initial appearance in federal court in Boston on Tuesday after being transferred to U.S. custody from Thailand, where he was arrested last November.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-11T15:17:00+00:00"
-    },
-    {
-      "id": "1017c919b048f36afb8207eaaed0959a201ea5c5e5034fc052c77711b7e2127d",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-11T14:00:10+00:00"
-    },
-    {
-      "id": "2cb4345b31565ca5a242864d46eb51998402320ca024ffb63c26434b1836baed",
-      "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
-      "url": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
-      "summary": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-11T13:57:54+00:00"
-    },
-    {
-      "id": "6c99c7686eb833b701002dcd67a97b5ef0a3d2dfb72253cb0c20ac5a27f7accc",
-      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-      "url": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-      "summary": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-11T13:45:00+00:00"
-    },
-    {
-      "id": "a22c3f1dabbfdb929d72dccd736e69f2dce4a578fbf51e15921f45a5e0555f3a",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credent",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-11T13:20:41+00:00"
     }
   ]
 }
