@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-25T14:25:17.110130+00:00",
+  "updated": "2026-06-25T19:55:31.343081+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e1ab599cbd463057a48895332ef55e20fee2a10f8af626e83d490295cf984094",
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-15T17:37:07+00:00"
+    },
+    {
+      "id": "a6ba0eb317b9dab4e741173efad6d3553f3f4c5ffec59c7ac80c961029ec2ae6",
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-15T17:12:42+00:00"
+    },
+    {
+      "id": "a4843d5dd1c5e2f1080536425e21cf5cc81c5727534859180a023234a88f0efc",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenA",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-15T16:39:01+00:00"
+    },
     {
       "id": "431c581708beb39d798e3463bf3f0b42249a228a8184a0aa90782c81e99ef1f3",
       "title": "Council of Europe investigates ShinyHunters data breach claims",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-12T06:44:36+00:00"
-    },
-    {
-      "id": "9e0f80cd4c5101695043c2e2125ef77f05d73da4fe096840793de3604bc51ed3",
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The s",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T06:38:41+00:00"
-    },
-    {
-      "id": "b4e53837497396af5e9d6b215bd1acac8349e02b914bc5beb31d30ac737dd50b",
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-11T22:44:58+00:00"
-    },
-    {
-      "id": "04ac9e56c9c3fa07fcde301f0dd707037479a33c56dff8310923fd3fa6becb18",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity betwe",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-11T20:29:23+00:00"
     }
   ]
 }

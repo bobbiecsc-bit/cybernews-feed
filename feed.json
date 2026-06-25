@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-25T14:25:17.110130+00:00",
+  "updated": "2026-06-25T19:55:31.343081+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8607abaa7554c7e7fddadd81ff4c793a8e4ebe3a70193bf9ddee51cc89f7059c",
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-25T19:45:48+00:00"
+    },
+    {
+      "id": "9666d4678f35da2b196dc629edfd090f903a930b213a7f7e9d716b046e49dd3e",
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-25T16:23:19+00:00"
+    },
+    {
+      "id": "cda2a827615d954f24d2aa20cd2db58d8fa65aced6465544e44d52b301cf8543",
+      "title": "Another Russian dairy company reportedly disrupted by cyberattack",
+      "url": "https://therecord.media/russia-dairy-producter-cyberattack-ufa",
+      "summary": "A dairy products manufacturer in Russia's republic of Bashkortostan is the latest such company to have its operations snarled by a cyberattack.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-25T14:45:00+00:00"
+    },
     {
       "id": "8b7bff9926fd1783a34598b146752b4b6d8a1e4c1999ae675dba15fa65efbfc2",
       "title": "The Four Elevations of Effective Fraud Prevention",
@@ -52,9 +79,9 @@
     },
     {
       "id": "2409997df5bfed8006200b1dce95eefaf615c0b3aa47047dc1d90b6cd0fae637",
-      "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+      "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
       "url": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply appeared first on SecurityWeek.",
+      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-25T12:07:00+00:00"
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-06-23T17:10:00+00:00"
-    },
-    {
-      "id": "962d41e3a2c99a01513283d5ddc4e973dc8a4b4ee8272a3859b26e67162c7ca4",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-06-23T16:12:49+00:00"
-    },
-    {
-      "id": "c223d2c2ca32beb79146b64734b4e8ff9008343dbe06f415502f6e4dc34fcedb",
-      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
-      "url": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
-      "summary": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs. The post Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-23T15:36:24+00:00"
-    },
-    {
-      "id": "a790ae300b6d7f8bdbf9f1cbee023d770e204681e963528a9ae83457926cd6f5",
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-23T14:22:03+00:00"
     }
   ]
 }

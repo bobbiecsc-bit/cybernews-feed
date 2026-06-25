@@ -1,10 +1,37 @@
 {
-  "updated": "2026-06-25T14:25:17.110130+00:00",
+  "updated": "2026-06-25T19:55:31.343081+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1d5a81ae1b09677ec4e01519814dc48aa3f928d8a0ca11edf0a20aa0ce82a492",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-17T13:51:58+00:00"
+    },
+    {
+      "id": "a3de477662fd4c6fbd9c1a42c5f52c08646db0fd6c8ec2342178bf06add6c221",
+      "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
+      "url": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
+      "summary": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control. The post Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-06-17T10:38:00+00:00"
+    },
+    {
+      "id": "8b42903fcc68f5e9b485848c606b0ee5884d8b9b491345928f0a42f9563ec7ea",
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentic",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-17T10:30:00+00:00"
+    },
     {
       "id": "3ad8c13d516839b46335e5ad26ae6a3cfe8e4f5e465fa312caefa2444fde21ea",
       "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-06-15T18:23:00+00:00"
-    },
-    {
-      "id": "e1ab599cbd463057a48895332ef55e20fee2a10f8af626e83d490295cf984094",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-15T17:37:07+00:00"
-    },
-    {
-      "id": "a6ba0eb317b9dab4e741173efad6d3553f3f4c5ffec59c7ac80c961029ec2ae6",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-15T17:12:42+00:00"
-    },
-    {
-      "id": "a4843d5dd1c5e2f1080536425e21cf5cc81c5727534859180a023234a88f0efc",
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-      "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenA",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-15T16:39:01+00:00"
     }
   ]
 }
