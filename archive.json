@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-26T08:58:41.092285+00:00",
+  "updated": "2026-06-26T14:18:11.599450+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "92660f56b61f78c012f644ba658994478bdb30575474952f23c792621f7bf856",
+      "title": "Turla group adds more malware to Russia’s espionage efforts against Ukraine",
+      "url": "https://therecord.media/russia-turla-espionage-ukraine-stockstay-malware",
+      "summary": "Threat intelligence researchers at Google described StockStay, the latest malware developed by the Russian cyber-espionage group known as Turla.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-06-26T13:30:00+00:00"
+    },
+    {
+      "id": "3a0cb91d3ac1b8d8f2bb262150211c74e84f9c7bf2b0dafda0ed38b4fd9c76da",
+      "title": "Russia used social engineering to breach prominent messaging accounts, Ukraine says",
+      "url": "https://therecord.media/russia-ukraine-social-engineering-messaging-accounts",
+      "summary": "Ukraine's SBU described a long-running Russian operation that used fake tech-support workers to persuade people to hand over credentials to their messaging apps.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-26T13:10:00+00:00"
+    },
+    {
+      "id": "1b5999f52bb0ca151ee8f1766e8d0fdb121e24e54a262ca5240e1a6ce1e647b1",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:00:41+00:00"
+    },
+    {
+      "id": "791ebe6794b3e37117852eb3e4234f31121fec93ce2be35eb01ec05aa345d54f",
+      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+      "url": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+      "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-26T12:37:13+00:00"
+    },
+    {
+      "id": "b24c44ec2fbf1964ac70b97f18862ccd2a9c3706339eedf3f49812275382f9b5",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T12:31:56+00:00"
+    },
+    {
+      "id": "e0deeaecb1191050da81584d7703e689a1d1d8570bdcf2034b2af568f4c762c2",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant. Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T11:51:35+00:00"
+    },
+    {
+      "id": "a281862d1650b7fe2ac08ee23776d5ea4f3920fbf6c9ec9a590fef4f10e2497f",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-26T11:05:45+00:00"
+    },
+    {
+      "id": "372c1d0594271a7a50611129f26d5228ee292e829e64a93a385741f521b191d7",
+      "title": "One Million Passports Leaked Online",
+      "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
+      "summary": "A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&#8217;s the low-value system that got hacke",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-06-26T11:03:21+00:00"
+    },
+    {
+      "id": "f07ab68e4942787be7131282efba3bf6915be268aa825029eb26bfbda800a564",
+      "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+      "url": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
+      "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T09:47:35+00:00"
+    },
+    {
+      "id": "f183838f79464db09ae851f46f0eefafc82f21253f17b5df5785b623f6aefc66",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has&nbsp;not attributed&nbsp;the activity to a known ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-26T09:27:12+00:00"
+    },
     {
       "id": "6f521e98f4ba52ca4d65398778b93879c1c433d83b2df6f63fa9d6bb6023d217",
       "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
@@ -2161,96 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-12T16:17:26+00:00"
-    },
-    {
-      "id": "31e1e9cc1c5f5abc83b6ca5c1d5868db573034bec1be47a4760e3dc4ee671f9d",
-      "title": "South Korea hits Coupang with record $409 million fine over data breach",
-      "url": "https://therecord.media/south-korea-data-breach-record-fine-coupang",
-      "summary": "The penalty is the largest ever issued by the commission for a personal data breach, surpassing the record 134.8 billion won ($88.8 million) fine levied against SK Telecom earlier this year.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-12T15:56:00+00:00"
-    },
-    {
-      "id": "66fffad54cb9c79e0956dbe8c7c1b0d5f957afd133b16b9336e7a3bfcdb9a1fc",
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-12T14:01:11+00:00"
-    },
-    {
-      "id": "f5ac281a312586bcb4646161ae57c77d80c9e63417597168ce964b7bc575d46d",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted usin",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-12T12:04:33+00:00"
-    },
-    {
-      "id": "2c71754a0390c79bac3e3ff7c393c0414b01eaee8878e68cf0440ea4cd191cd8",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vect",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-12T12:00:00+00:00"
-    },
-    {
-      "id": "5e61457a53004ef2ec17384236683cf24fad508d006e2f37faf4b08a5d879a3b",
-      "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
-      "url": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
-      "summary": "The hackers published 5GB of data, including customer personal information and credentials for the RTKBase platform. The post Iranian Cyber Group Handala Claims Cal Water Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-12T11:30:23+00:00"
-    },
-    {
-      "id": "87fcd2c17bd01e95732942b62db6fcbae029e8e01fa12b5209339c3509e3ae77",
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has c",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-12T11:00:00+00:00"
-    },
-    {
-      "id": "e700f630cfa191fa897df37ecc2cc6892817da541aa42cff1c4c0c092c01e6c4",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-12T10:13:19+00:00"
-    },
-    {
-      "id": "b65eff504a63626acdfea1624254b188069d66a3b03367eb3be9e74d5530c2d7",
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artifi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-12T09:50:36+00:00"
-    },
-    {
-      "id": "90a6be35299f73b0b0ac9c4b716e45d6c5d5c35c2704589142cd998afe8801ad",
-      "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
-      "url": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
-      "summary": "The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges. The post Ivanti Sentry Exploitation Attempts Hitting Honeypots appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-12T09:44:16+00:00"
-    },
-    {
-      "id": "dcdf8080250b5ff66da140952d69e538c0379f1838ab027bafa0e7d5200b164d",
-      "title": "Chrome 149 Update Patches 28 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
-      "summary": "The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs. The post Chrome 149 Update Patches 28 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-12T09:27:08+00:00"
     }
   ]
 }
