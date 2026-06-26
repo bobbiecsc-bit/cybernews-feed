@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-26T14:18:11.599450+00:00",
+  "updated": "2026-06-26T19:42:47.896782+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "106115782ae58fb8571c6025da4227be26ce7e09efb718bad751a778a55ff549",
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-26T18:17:46+00:00"
+    },
+    {
+      "id": "b2c74908a5fe6c652b42a4d3bf4bc774f382b6ef51b2c4f01d6ae0ffffaa1871",
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-26T18:04:12+00:00"
+    },
+    {
+      "id": "db2eef207e4395b9b2ebfd2a051d43807bcf0faa5e4063a2b7745e56f705f630",
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-26T17:49:07+00:00"
+    },
+    {
+      "id": "5a776720550c539d415873f3de945375834f1b5ba226b002e15c4f1d6dfb6cca",
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-26T16:21:25+00:00"
+    },
+    {
+      "id": "7039d0c8754bd531baf6be8359aa2af0ca7a0529d4316c290ef16197ba38d376",
+      "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
+      "url": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
+      "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-26T15:23:46+00:00"
+    },
+    {
+      "id": "51c556a3429b96d76c2eafbd12ea5e5088acc3b44fc0ec592487da9113bf4ef5",
+      "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
+      "url": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
+      "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T15:01:33+00:00"
+    },
+    {
+      "id": "0ab149a4a2bb77be2584a515ede520ba96c041a1ea79a217c7fe3ffaecafc8af",
+      "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+      "url": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs a",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T14:30:00+00:00"
+    },
+    {
+      "id": "1b5999f52bb0ca151ee8f1766e8d0fdb121e24e54a262ca5240e1a6ce1e647b1",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:57:55+00:00"
+    },
+    {
+      "id": "1fc5c8704160b449bddf3ad432079a1565f81d3701977f37f356620c49f68c44",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:53:00+00:00"
+    },
     {
       "id": "92660f56b61f78c012f644ba658994478bdb30575474952f23c792621f7bf856",
       "title": "Turla group adds more malware to Russia’s espionage efforts against Ukraine",
@@ -19,15 +100,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-06-26T13:10:00+00:00"
-    },
-    {
-      "id": "1b5999f52bb0ca151ee8f1766e8d0fdb121e24e54a262ca5240e1a6ce1e647b1",
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbs",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-26T13:00:41+00:00"
     },
     {
       "id": "791ebe6794b3e37117852eb3e4234f31121fec93ce2be35eb01ec05aa345d54f",
@@ -2179,78 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-12T19:33:25+00:00"
-    },
-    {
-      "id": "ca2600a9b70b5caab4a5ff99c61dd432fe792ed7831be80330c62a5a4ba7db31",
-      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
-      "url": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T19:24:50+00:00"
-    },
-    {
-      "id": "8f8a91d1631a1602e553fb4a7dacb247bce85c1ee56d234e78bceb6fc15e6bb7",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (Ph",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-12T18:59:32+00:00"
-    },
-    {
-      "id": "7407a5b5da59913b6e9434f889c9460b36b324d8a5591b50c4f65aadd5dc1fd7",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-12T18:19:34+00:00"
-    },
-    {
-      "id": "5dff8089bf35a8b2ca3a839f9ad21e1661fe5459a5f3fe3f6cae7e71d07d2c36",
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, p",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T18:17:55+00:00"
-    },
-    {
-      "id": "5613fab1f40094b82779c27369b3d5c0e335e729b981b48db68881eb707cbc16",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-12T17:54:28+00:00"
-    },
-    {
-      "id": "bf5050a9316b6d59c808af3d1cbb4875332d714075882f9306d0db354029a490",
-      "title": "Bankruptcy admin approves settlement fund of $47 million for 23andMe data breach victims",
-      "url": "https://therecord.media/bankruptcy-admin-approves-settlement-for-23andme-breach-victims",
-      "summary": "About 7 million customers of the genetics testing company had their data stolen by hackers starting in April 2023, and many had their information posted on the dark web.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-12T17:12:00+00:00"
-    },
-    {
-      "id": "a36831d1aab4c2137850088bd5355a943ca77b6a7151bb71fd0a58020fd4d044",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-12T17:03:55+00:00"
-    },
-    {
-      "id": "bd6d2c4410950eef83c23f6d0758539bb85c7538288d2845592cfe76287d08eb",
-      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
-      "url": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&#038;T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-12T16:17:26+00:00"
     }
   ]
 }
