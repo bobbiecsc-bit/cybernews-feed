@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-26T19:42:47.896782+00:00",
+  "updated": "2026-06-27T02:49:20.743147+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "890dfe9b44f3062f8f2bf2f1438b93f41d3d32377ffdd9e7c34843b274fbcec6",
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-26T22:06:17+00:00"
+    },
+    {
+      "id": "e646fd2eaf72a8f1dbd8de76674028f18a2ba75cc226bc2e8095449ebf96bcfe",
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-26T19:43:06+00:00"
+    },
+    {
+      "id": "b65ad5370391f6ef219497e7ce46cd1a7dc3cd4da7b40c35ffa47eb81fc37ba3",
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read t",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-26T19:38:29+00:00"
+    },
     {
       "id": "106115782ae58fb8571c6025da4227be26ce7e09efb718bad751a778a55ff549",
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
@@ -2224,33 +2251,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-06-13T15:52:58+00:00"
-    },
-    {
-      "id": "d8843f92a0d739b7b69a7ceefb08ea1df06e73d618a7e877619e919c8ec926f6",
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterpris",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-13T13:23:03+00:00"
-    },
-    {
-      "id": "18edde89fbbb925ab625a99bbfa9e2d2a4f2e0eb946111b2872c60ee311527d5",
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-12T19:33:32+00:00"
-    },
-    {
-      "id": "856c09d61358610a73d8ad490b21ab1a027d3589375a4d4d2158e39f1c6cfb7e",
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF ro",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-12T19:33:25+00:00"
     }
   ]
 }
