@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-27T13:26:14.414504+00:00",
+  "updated": "2026-06-27T19:15:42.127415+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8762e9a00f1a6e2ce277ed9ec86fc3206322d94ba803c815623a518374eff29e",
+      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in questio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-24T17:19:18+00:00"
+    },
+    {
+      "id": "472190b28d242f8505c0bd3319c48b90d88e4a600de16d8d53f7c9911e9ac221",
+      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+      "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+      "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC. \"The main common goal was to disrupt the 'assembly lines' cybercriminals us",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-24T15:59:50+00:00"
+    },
     {
       "id": "d6802e07c524309451892814a5b25c530044b4ef76bbf3eee84a5664a007a298",
       "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-22T18:00:48+00:00"
-    },
-    {
-      "id": "9eeb02abbd1f4f43d95bba9a9a754cc89635876b13720f45944914a4a7761fe4",
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-22T17:28:57+00:00"
-    },
-    {
-      "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-22T16:29:00+00:00"
     }
   ]
 }
