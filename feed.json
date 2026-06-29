@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-29T03:35:41.346164+00:00",
+  "updated": "2026-06-29T10:50:54.162398+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1b547d7737d7f2d88b300c8c9a5ee1cca2d9531f5795df633426963487b65d15",
+      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+      "url": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+      "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-29T09:29:34+00:00"
+    },
+    {
+      "id": "6718181e9de8dfc9032c7a36fc2d659aba285974e139e9a2c917eb09769e4858",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it&nbsp;StegoAd, a mash-up of steganography and adware, ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-29T08:32:31+00:00"
+    },
+    {
+      "id": "f4a911d05ca8c2aec85c7e6d412d463e73a57f71512431d8b1c7cead0b9798f3",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T07:06:34+00:00"
+    },
+    {
+      "id": "7cabef5472985b2cc2b11457dd58130704f84a8260df413617d7c014a57dbad8",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T05:36:06+00:00"
+    },
     {
       "id": "cec26a23b69ea29a8ebf4f8393059cb93b1e7692224d8c9f696422f751125c4f",
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-25T05:46:54+00:00"
-    },
-    {
-      "id": "6a948f35af384c88c4ad415b0f94c0a65e51d248a477cca97ccc857268c05444",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-24T21:55:43+00:00"
-    },
-    {
-      "id": "b4039c7adbb32e2bd1232e51f254cac9a7791610fba270ab76e993e2fbaf77fa",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-24T21:29:10+00:00"
-    },
-    {
-      "id": "9fda4c921855366e8594d0c2ec19cce3a75a39d387e8498b70fa44e253348b08",
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-24T20:58:22+00:00"
-    },
-    {
-      "id": "ad57d6a41bf8e995e3e53f7e0b2eb60b57f48e4057349cf9ec193021d4ec7707",
-      "title": "Three ‘cybercrime as a service’ operations undercut by Microsoft, law enforcement",
-      "url": "https://therecord.media/stealc-amadey-socgholish-malware-takedown-europol-microsoft",
-      "summary": "Microsoft touted its latest action against malware infrastructure as a new approach aimed at the full cybercrime \"supply chain.\" Europol said more than 300 servers were targeted.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-06-24T20:00:00+00:00"
     }
   ]
 }

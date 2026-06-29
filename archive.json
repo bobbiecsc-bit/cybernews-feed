@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-29T03:35:41.346164+00:00",
+  "updated": "2026-06-29T10:50:54.162398+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1b547d7737d7f2d88b300c8c9a5ee1cca2d9531f5795df633426963487b65d15",
+      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+      "url": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+      "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-29T09:29:34+00:00"
+    },
+    {
+      "id": "6718181e9de8dfc9032c7a36fc2d659aba285974e139e9a2c917eb09769e4858",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it&nbsp;StegoAd, a mash-up of steganography and adware, ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-29T08:32:31+00:00"
+    },
+    {
+      "id": "f4a911d05ca8c2aec85c7e6d412d463e73a57f71512431d8b1c7cead0b9798f3",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T07:06:34+00:00"
+    },
+    {
+      "id": "7cabef5472985b2cc2b11457dd58130704f84a8260df413617d7c014a57dbad8",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T05:36:06+00:00"
+    },
     {
       "id": "cec26a23b69ea29a8ebf4f8393059cb93b1e7692224d8c9f696422f751125c4f",
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-15T11:09:10+00:00"
-    },
-    {
-      "id": "8447d4ed065a06e4d3a9252bde62bf82f088136ac1ed5b2fcd9a4e0d93ca303f",
-      "title": "ShinyHunters Claims Council of Europe Hack",
-      "url": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
-      "summary": "The extortion group threatens to leak 297 GB of data allegedly stolen from the Council of Europe, including employee personal information. The post ShinyHunters Claims Council of Europe Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-15T10:44:29+00:00"
-    },
-    {
-      "id": "593b4ce709c24a2f319e527f99b98d3a0c574a9d769e3248e72d7d493fd90d97",
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "url": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's cont",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-15T09:59:38+00:00"
-    },
-    {
-      "id": "d2bd8ff61626a6af8063f556996e24e75ba2388f154dc524d00aea23b622ad59",
-      "title": "Maine Disables Data Breach Portal Due to Fake Submissions",
-      "url": "https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/",
-      "summary": "Someone posted fake VRChat and Discord data breach reports on the system, prompting the Maine AG to take action. The post Maine Disables Data Breach Portal Due to Fake Submissions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-15T08:34:54+00:00"
-    },
-    {
-      "id": "0fdcf0b63553a9df980ba5f5f02473c66a67c071030966fa5bf6f730878aab67",
-      "title": "Evil MSI Background: BASE64 Statistical Analysis, (Mon, Jun 15th)",
-      "url": "https://isc.sans.edu/diary/rss/33072",
-      "summary": "I like it when a fellow handler posts a diary entry about images with malicious content. Last one is Xavier: \"The Evil MSI Background is Back&#x21;\".&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-06-15T07:16:00+00:00"
     }
   ]
 }
