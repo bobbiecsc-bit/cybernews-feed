@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-30T14:12:05.244076+00:00",
+  "updated": "2026-06-30T19:50:36.052603+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ce35f07949665590fe9c521e5e155109c1685ed19fad0aebdee6232c44f02133",
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-30T17:46:07+00:00"
+    },
+    {
+      "id": "288f4efe990f5fb852c16f841bf64914904d300c1f667878ecbf9ea1bfb9004a",
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and sa",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-30T17:45:25+00:00"
+    },
+    {
+      "id": "e0c03dad168c1e562526b2d6c1c9df19592738cfd85d3e762d229251f5d5db62",
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, i",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-30T15:47:20+00:00"
+    },
+    {
+      "id": "3df655a064153222ec5c273527a7c55432f3d846491d2d4e54b8ef025d34f6b7",
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campai",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-30T15:40:18+00:00"
+    },
     {
       "id": "464d8865c926603db35c0aff0a5971236ee574c63c50d5199b304d0bc9729db5",
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
@@ -19,6 +55,15 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-30T13:56:07+00:00"
+    },
+    {
+      "id": "cf4749442d70c5d6c862a28bc92db421244202eb8ac403d1c4d7eed0ad501c7c",
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted r",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-30T13:49:34+00:00"
     },
     {
       "id": "3e59a273be3f4d5f2bd47ca6e0c530dcb8478e1cd2285b25552636f8c6a7569b",
@@ -2206,51 +2251,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "0d2a248ba797844d402e42fb48db3df1f6b2af9441191f54289e61894d7eaae5",
-      "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX &lt;7.01 (CVE-2025-14272) CVSS Vendor Equipment Vul",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "4572165fd4875e0fb5b700c00c2c1477d6c162ba3fe625574410ab71ad9cd2e9",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber ac",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "b2308f951d156bcc4abc3dc24e490ed00f695107087e6b557107bb6a5611e6aa",
-      "title": "Cal Water Investigating Iranian Hackers’ Claims",
-      "url": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
-      "summary": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers&#8217; Claims appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-16T11:53:11+00:00"
-    },
-    {
-      "id": "33ab805fdf38edbbafe2ff87d93fc41aabcd7994b3c2ab47e542e52dfab23755",
-      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-      "url": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-16T11:30:00+00:00"
-    },
-    {
-      "id": "4bfcedeabe19d2ded4a81747f9f9288d9189d5ae76b2f945c3920b6d6ee6862a",
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "summary": "There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally stalk people. Alternate link.",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-16T11:03:31+00:00"
     }
   ]
 }
