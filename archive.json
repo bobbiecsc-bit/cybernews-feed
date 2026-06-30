@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-30T02:58:32.095861+00:00",
+  "updated": "2026-06-30T09:28:20.437765+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "93aebb554751e934670d7818bacd880c9bbf9337825f20f71a595f91eba5a719",
+      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+      "url": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+      "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-30T09:25:50+00:00"
+    },
+    {
+      "id": "2f24b5758f06196a08c2135e95eec30174eb670f1c89ff19d5af86aba6b2633d",
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-30T08:53:13+00:00"
+    },
+    {
+      "id": "a9cb62b5704855c967de2154442afae46fda21ff1d7cd9e14527beae33fa2202",
+      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+      "url": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+      "summary": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling. The post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-30T08:43:10+00:00"
+    },
+    {
+      "id": "5b8258d84489f945897878edaa4ace4a448cdbac0e677fff09faea73d1060b5a",
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets inc",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-30T08:37:19+00:00"
+    },
+    {
+      "id": "b67780783342b2077fcc45fd6b682b070c9f2feed18899f7da9d3eca2ca893fe",
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If y",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-30T07:38:07+00:00"
+    },
+    {
+      "id": "3dc834659c97c1b2c0a01962d49385e8d5a8a967223a83791b0b381be257eaa1",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-30T07:15:07+00:00"
+    },
+    {
+      "id": "3dea5c90119315dd12cc1b98d1d5f31c78ce521b7da47b3ef23ccd9fe5ce27e1",
+      "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+      "url": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+      "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-30T05:04:15+00:00"
+    },
+    {
+      "id": "441553fad7f4db8c11115c3ef2fcc195eff16c202ed0d9b7cd840352fdfc75d1",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-30T05:04:06+00:00"
+    },
     {
       "id": "bf572d2b4c624a79153b0d3d87e55fb54501504b1d9ff7b278ea7d1269a29c5d",
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
@@ -2179,78 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-16T06:05:58+00:00"
-    },
-    {
-      "id": "4c841f86020ece33461de3978e434ed00abcf692d35196f2b755632e89ca220b",
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in que",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-16T05:41:52+00:00"
-    },
-    {
-      "id": "109afe17fa6d19ec58fd25456d91f3a9a7e68b019a5ff02ea673d5d1d4750d67",
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-15T20:06:52+00:00"
-    },
-    {
-      "id": "72391304030e25318a33ebc2694ab933e95e6a8ddbb8d505929f8e4a8246c88d",
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the un",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-15T19:44:06+00:00"
-    },
-    {
-      "id": "b278cce1cb7979d2abd5ed8f898af4adc0a6727f618d3e5c886dc7cf05b1367f",
-      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-      "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has be",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-15T19:32:52+00:00"
-    },
-    {
-      "id": "b5b914e4f8d915b3861a7776b5e3afc23584d1e608b374c731e6f76d4c153fa5",
-      "title": "Maine closes data breach portal to the public after fake reports",
-      "url": "https://therecord.media/maine-turns-off-breach-portal-fake-reports",
-      "summary": "Maine is still allowing companies to report breaches, but won’t make the portal easily available to the public until after it completes an audit of its procedures to stop such incidents, according to a press release from the Maine attorney general’s office.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-15T18:23:00+00:00"
-    },
-    {
-      "id": "e1ab599cbd463057a48895332ef55e20fee2a10f8af626e83d490295cf984094",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-15T17:37:07+00:00"
-    },
-    {
-      "id": "a6ba0eb317b9dab4e741173efad6d3553f3f4c5ffec59c7ac80c961029ec2ae6",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-15T17:12:42+00:00"
-    },
-    {
-      "id": "a4843d5dd1c5e2f1080536425e21cf5cc81c5727534859180a023234a88f0efc",
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-      "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenA",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-15T16:39:01+00:00"
     }
   ]
 }
