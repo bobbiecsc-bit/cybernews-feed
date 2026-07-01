@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-01T03:31:09.561406+00:00",
+  "updated": "2026-07-01T09:39:50.168890+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1a2d68f57b3b7df95f5a8e7439a99c7f7443444bc27cf4e061e53874e36a3d49",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-22T21:05:01+00:00"
+    },
+    {
+      "id": "3e2c39543fbaa3da50e035f2ed9776be1b2ad44438ece227f26d785de413d56b",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-22T20:01:02+00:00"
+    },
+    {
+      "id": "2ce34d4bc99a9a63d164e8a5e0e631a458ea1dc642c959ef28bbb7f2efa0b111",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-22T18:00:48+00:00"
+    },
+    {
+      "id": "9eeb02abbd1f4f43d95bba9a9a754cc89635876b13720f45944914a4a7761fe4",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-22T17:28:57+00:00"
+    },
+    {
+      "id": "41444a2175f8fe01b12659de357d54cf916d89a1db4c1d32989000a306a6ebeb",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-22T16:29:00+00:00"
+    },
+    {
+      "id": "a5471bf11dc135a2b44736d9cb73349b2533fb26cac9b004d21893533b048bd3",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-22T16:13:28+00:00"
+    },
+    {
+      "id": "a9f77cbf52aa168e24c664a6e8677d986d5119e1ddefdf02b4e639d80bbb37bb",
+      "title": "Suspected cyberattack triggers false emergency alerts across parts of Brazil",
+      "url": "https://therecord.media/suspected-cyberattack-triggers-false-emergency-alerts-brazil",
+      "summary": "The incident occurred early Saturday when at least a dozen unauthorized alerts were sent through Brazil's Civil Defense Alert system, a platform designed to warn residents about imminent threats such as floods, landslides and other natural disasters.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-06-22T14:10:00+00:00"
+    },
     {
       "id": "e2d4ec625286b9c3f89dade186d3dcd16d5ba7f9fe1399a554975533b246b5cf",
       "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-18T16:20:06+00:00"
-    },
-    {
-      "id": "2f58bbb6cb85307e38e31f8dd2ae4a856a8b87db6851cfd94ea714bb9ff5ba81",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T15:27:54+00:00"
-    },
-    {
-      "id": "d25d1443c68d70701df3595132cb7586d563112e43c776e1882a302ddedb8f4b",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign codenamed CryptoBandits that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T14:30:42+00:00"
-    },
-    {
-      "id": "c3073875587026359441b406d06990931e72bb1d8436f85faff8cbc538da9a52",
-      "title": "Australian sugar producer works to restore operations as ransomware group claims attack",
-      "url": "https://therecord.media/mackay-sugar-cyberattack-claimed-gentlemen",
-      "summary": "Mackay Sugar said it was \"working urgently\" to verify claims that a highly active ransomware group was behind a cyberattack that shut down harvesting and milling operations.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-06-18T14:20:00+00:00"
-    },
-    {
-      "id": "4e6c61d3a63ec215b06507f2fb0b9e78cb62f86646f5c1cdadb919df8b45c072",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-18T14:19:50+00:00"
-    },
-    {
-      "id": "913690af751cbf41ff0747510740c54b313515ca9cec36253c816c83392621c4",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportuniti",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T14:12:48+00:00"
-    },
-    {
-      "id": "cd54cf376caee08761494555b7e746924ea759d4fb6e7fbe75195fedc8866617",
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-18T13:30:07+00:00"
-    },
-    {
-      "id": "661c1bc506c9199b7b71904a910cfe54cc8c91c0fb3c9897caf16a13cf294135",
-      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-      "url": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-      "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-18T13:25:47+00:00"
     }
   ]
 }
