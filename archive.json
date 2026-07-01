@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-01T14:28:19.821512+00:00",
+  "updated": "2026-07-01T19:49:28.830540+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c7215ce22f90724053bdc5bf94cf155ae788d7a3ed193a9072a7c0cd43221778",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masq",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-01T17:53:06+00:00"
+    },
+    {
+      "id": "9d448be0e0e491e30660a21e82f8a576b71f53e7509e6644df9d1f67175adc82",
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-01T17:32:22+00:00"
+    },
+    {
+      "id": "d8111281240765d82f8906d5de83a081515a7dbb858616f8ae71ae42be18791d",
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed ei",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T17:18:50+00:00"
+    },
+    {
+      "id": "7ca52314a96c22175c8ef67004e6829e93412751b9865334a68740fd39efacd1",
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and respo",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T16:54:22+00:00"
+    },
+    {
+      "id": "d03514b22c1620a50313656e4b4e768ddbccfa7ed457d36281e03777fb1798d5",
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-01T16:38:01+00:00"
+    },
+    {
+      "id": "ccbf8697f6b66d7be44e1abdb0bb792d1e2d6d4d0dcc736684a707e68fd1e588",
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hid",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T15:26:55+00:00"
+    },
+    {
+      "id": "291f9cd83783fb1cdac0e1f3419244d7f7d59cf608f423ffd4c807eb4c5f36dc",
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T15:25:46+00:00"
+    },
+    {
+      "id": "3b3d2e86775bb11119d6d8dab4167270a701e7383accb57206e508fa00b10e36",
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs&nbsp;found the pair and named them DuneSlide. They are",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T14:42:54+00:00"
+    },
     {
       "id": "63c4c93d353eea9bcf88413e1c1780d3dfd48838eb75257b078e9b4cf1db4df4",
       "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
@@ -2179,78 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-06-17T10:30:00+00:00"
-    },
-    {
-      "id": "3ad8c13d516839b46335e5ad26ae6a3cfe8e4f5e465fa312caefa2444fde21ea",
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-17T10:09:24+00:00"
-    },
-    {
-      "id": "c0ec450b4ca63f5841150665d9d0313ca1b72decbb8323d045e66f19a79fbcd3",
-      "title": "Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day",
-      "url": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
-      "summary": "The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges. The post Microsoft Working on Patch for &#8216;RoguePlanet&#8217; Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-17T09:41:07+00:00"
-    },
-    {
-      "id": "32507156c27982b1fe428d8eb9a1a56cfbf5ffde98ce6f75c6aa3fb44b13dc84",
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-17T08:32:29+00:00"
-    },
-    {
-      "id": "8fe015779b06b2e14a539db900636f9781202d8c5395ef4300926155667d4d27",
-      "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
-      "summary": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution. The post Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-17T08:21:05+00:00"
-    },
-    {
-      "id": "44495b28d6b9e60382eb90e2084c5c11d758aa40c982308a0536f7e7fcb6ae1f",
-      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "summary": "As many as 145 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from E",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-17T07:38:24+00:00"
-    },
-    {
-      "id": "8df3f137bfe68b0104cda9db0ba458c32ac177496de0cf07ff274e229e41ddd2",
-      "title": "Joomla, LiteSpeed Vulnerabilities Exploited in Attacks",
-      "url": "https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/",
-      "summary": "The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers. The post Joomla, LiteSpeed Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-17T07:28:20+00:00"
-    },
-    {
-      "id": "84f2a605f62c84e36a2a5e57a8cbe10e6fe08fdf746371a747d9f8322058a922",
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-17T07:07:56+00:00"
-    },
-    {
-      "id": "fcf13922a762659b52b6ad30739fb1faa8eb0f258379cf1057fda930c1e75b5d",
-      "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
-      "url": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
-      "summary": "SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking. The post 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-17T06:53:58+00:00"
     }
   ]
 }
