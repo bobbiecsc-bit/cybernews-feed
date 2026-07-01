@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-30T19:50:36.052603+00:00",
+  "updated": "2026-07-01T03:31:09.561406+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "40d149b7b6c668e6621190d5e68c4a3a5123a04056e24c52464f4d548b3500a9",
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T12:55:36+00:00"
+    },
+    {
+      "id": "46079806e3c816680f41b91ca54c36a8fd3f240e1455a876cd57917b89cd62c2",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-18T12:54:39+00:00"
+    },
     {
       "id": "013abd52b7522128cb93fc0d326bbc44294b780516b905425e4fa29f53764f08",
       "title": "No Exploits Required",
@@ -433,24 +451,6 @@
       "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: Comp",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "a532b416238c39f3622549b83aec066c963631977536a4f40fb62ed284c1f78b",
-      "title": "Rockwell Automation RSLinx",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic &lt;=4.50.00 (CVE-2020-1357",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "59af5c3f01e90d664a86446072d8653a39da1fcb71bf0bd290d3f5021000d49a",
-      "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-20",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-16T12:00:00+00:00"

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-30T19:50:36.052603+00:00",
+  "updated": "2026-07-01T03:31:09.561406+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f8f064e7c48c5c93fe683185adebc460ba53f6c5d24c202002720773856b555c",
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-30T21:50:24+00:00"
+    },
+    {
+      "id": "e1f38ad12459c8829f8353763de4a56e3cd7de152ba12bb362316bda09bf7604",
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-30T21:02:55+00:00"
+    },
     {
       "id": "ce35f07949665590fe9c521e5e155109c1685ed19fad0aebdee6232c44f02133",
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
@@ -2230,24 +2248,6 @@
       "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: Comp",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "a532b416238c39f3622549b83aec066c963631977536a4f40fb62ed284c1f78b",
-      "title": "Rockwell Automation RSLinx",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic &lt;=4.50.00 (CVE-2020-1357",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "59af5c3f01e90d664a86446072d8653a39da1fcb71bf0bd290d3f5021000d49a",
-      "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-20",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-16T12:00:00+00:00"
