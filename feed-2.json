@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-01T09:39:50.168890+00:00",
+  "updated": "2026-07-01T14:28:19.821512+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "52781c932d2c42d8b5934ec4f59e163ed33d78cfa14d2cf33af065974751a6f7",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T14:00:00+00:00"
+    },
+    {
+      "id": "ad4d93174220db78eedf6db5da45c71965002a0175c97da01d74a6a37953cc5f",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T13:46:17+00:00"
+    },
+    {
+      "id": "45b3de4134dc5b77026d4114e4a960bee925f769b5f91ad57c82d264c6e2990c",
+      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
+      "url": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
+      "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-29T13:42:28+00:00"
+    },
+    {
+      "id": "4913d1691ebd55e4d3bfd558f4911ac30fd2e94998e6f2d15ac2ec985230c06e",
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-29T12:14:22+00:00"
+    },
+    {
+      "id": "9eaf1ecb1081054777085824a13b8cd3f07b2c996d108bd5a05473be13d2164e",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-29T11:40:24+00:00"
+    },
+    {
+      "id": "c78a28c776a133e65cbbe3b4505e28ccdd690e5b43f1a511eb74d5e9f1e6d3a5",
+      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
+      "url": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
+      "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post &#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-29T11:20:13+00:00"
+    },
+    {
+      "id": "1b547d7737d7f2d88b300c8c9a5ee1cca2d9531f5795df633426963487b65d15",
+      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+      "url": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+      "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-29T09:29:34+00:00"
+    },
+    {
+      "id": "6718181e9de8dfc9032c7a36fc2d659aba285974e139e9a2c917eb09769e4858",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it&nbsp;StegoAd, a mash-up of steganography and adware, ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-29T08:32:31+00:00"
+    },
     {
       "id": "f4a911d05ca8c2aec85c7e6d412d463e73a57f71512431d8b1c7cead0b9798f3",
       "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-25T11:23:40+00:00"
-    },
-    {
-      "id": "bdd63d04b540fc20391838cc5df726fd34b8e1274d4912cc159ac4f7163301c5",
-      "title": "25-Year-Old Vulnerability Patched in Curl",
-      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T09:25:02+00:00"
-    },
-    {
-      "id": "c96f9691fd679ba921770e08a346dde535ef4b5be13c0e7add4d14217ff585b1",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-25T09:23:03+00:00"
-    },
-    {
-      "id": "666b25b32ef0939bfeffc7aed3418cc44a20baf2533a282057631ef51f237b69",
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "url": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor,",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-25T08:54:37+00:00"
-    },
-    {
-      "id": "4ae331de38d6d1290476415a4f9e44beadd52e7f9815b58199bbffd049e2508a",
-      "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-      "summary": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T07:56:03+00:00"
-    },
-    {
-      "id": "49425be03d3bdd528470dce0079d82a31f34badeb78088ebbd64f7fec6c19e41",
-      "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-      "summary": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T06:08:43+00:00"
-    },
-    {
-      "id": "b2d031cc00c908b13414e426f1efb81d1917db1df2b86f276d8a941afdf9cc66",
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8),",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-25T05:46:54+00:00"
-    },
-    {
-      "id": "6a948f35af384c88c4ad415b0f94c0a65e51d248a477cca97ccc857268c05444",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-24T21:55:43+00:00"
-    },
-    {
-      "id": "b4039c7adbb32e2bd1232e51f254cac9a7791610fba270ab76e993e2fbaf77fa",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-24T21:29:10+00:00"
     }
   ]
 }
