@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-01T19:49:28.830540+00:00",
+  "updated": "2026-07-02T02:56:04.209611+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b67780783342b2077fcc45fd6b682b070c9f2feed18899f7da9d3eca2ca893fe",
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If y",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-30T07:38:07+00:00"
+    },
+    {
+      "id": "3dea5c90119315dd12cc1b98d1d5f31c78ce521b7da47b3ef23ccd9fe5ce27e1",
+      "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+      "url": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+      "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-30T05:04:15+00:00"
+    },
+    {
+      "id": "441553fad7f4db8c11115c3ef2fcc195eff16c202ed0d9b7cd840352fdfc75d1",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-30T05:04:06+00:00"
+    },
+    {
+      "id": "bf572d2b4c624a79153b0d3d87e55fb54501504b1d9ff7b278ea7d1269a29c5d",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-29T20:40:44+00:00"
+    },
     {
       "id": "f1a33bf948ee20fef2b93554e1e39b5abf7a69f9fe77711058464905a0371581",
       "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-26T07:15:46+00:00"
-    },
-    {
-      "id": "84c87a4a4c75cb350326dc0adc7ad6296f0d87fcd20494c541ec888cbc4cfe38",
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "url": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-25T22:37:42+00:00"
-    },
-    {
-      "id": "8607abaa7554c7e7fddadd81ff4c793a8e4ebe3a70193bf9ddee51cc89f7059c",
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-25T19:45:48+00:00"
-    },
-    {
-      "id": "9666d4678f35da2b196dc629edfd090f903a930b213a7f7e9d716b046e49dd3e",
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "url": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-25T16:23:19+00:00"
-    },
-    {
-      "id": "cda2a827615d954f24d2aa20cd2db58d8fa65aced6465544e44d52b301cf8543",
-      "title": "Another Russian dairy company reportedly disrupted by cyberattack",
-      "url": "https://therecord.media/russia-dairy-producter-cyberattack-ufa",
-      "summary": "A dairy products manufacturer in Russia's republic of Bashkortostan is the latest such company to have its operations snarled by a cyberattack.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-25T14:45:00+00:00"
     }
   ]
 }

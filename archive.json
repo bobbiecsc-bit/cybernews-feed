@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-01T19:49:28.830540+00:00",
+  "updated": "2026-07-02T02:56:04.209611+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "26684e42397d6e65fdccedb299e4ebbd2f9f9354f9db732ca815f8154a4dbe0c",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-01T21:37:24+00:00"
+    },
+    {
+      "id": "ea1723a03c67f8126a9bbd1d92c14514d110c0b13a605c5b0115a3d17f3425d3",
+      "title": "Teen suspect in Scattered Spider hacks is extradited to US",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "summary": "A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a \"luxury-jewelry retailer\" in 2025.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-01T20:13:00+00:00"
+    },
+    {
+      "id": "1815aa1fb72dbe54f64af4efd27abdb9aab8f2336299e25d4bd3a7e3bba37855",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T20:08:13+00:00"
+    },
+    {
+      "id": "3ab818632c1707cc53c83bf76cf3223fb951a464f9de81fa17e2e79603dce972",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T19:40:06+00:00"
+    },
     {
       "id": "c7215ce22f90724053bdc5bf94cf155ae788d7a3ed193a9072a7c0cd43221778",
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-17T14:07:16+00:00"
-    },
-    {
-      "id": "468752dd089ebef136d616ec04e55d045ca7a9254285c9dc9e3be6915e1ed883",
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-17T14:00:10+00:00"
-    },
-    {
-      "id": "1d5a81ae1b09677ec4e01519814dc48aa3f928d8a0ca11edf0a20aa0ce82a492",
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other larg",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-17T13:51:58+00:00"
-    },
-    {
-      "id": "a3de477662fd4c6fbd9c1a42c5f52c08646db0fd6c8ec2342178bf06add6c221",
-      "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
-      "url": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
-      "summary": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control. The post Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-06-17T10:38:00+00:00"
-    },
-    {
-      "id": "8b42903fcc68f5e9b485848c606b0ee5884d8b9b491345928f0a42f9563ec7ea",
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentic",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-17T10:30:00+00:00"
     }
   ]
 }

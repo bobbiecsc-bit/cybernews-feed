@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-01T19:49:28.830540+00:00",
+  "updated": "2026-07-02T02:56:04.209611+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "26684e42397d6e65fdccedb299e4ebbd2f9f9354f9db732ca815f8154a4dbe0c",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-01T21:37:24+00:00"
+    },
+    {
+      "id": "ea1723a03c67f8126a9bbd1d92c14514d110c0b13a605c5b0115a3d17f3425d3",
+      "title": "Teen suspect in Scattered Spider hacks is extradited to US",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "summary": "A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a \"luxury-jewelry retailer\" in 2025.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-01T20:13:00+00:00"
+    },
+    {
+      "id": "1815aa1fb72dbe54f64af4efd27abdb9aab8f2336299e25d4bd3a7e3bba37855",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T20:08:13+00:00"
+    },
+    {
+      "id": "3ab818632c1707cc53c83bf76cf3223fb951a464f9de81fa17e2e79603dce972",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T19:40:06+00:00"
+    },
     {
       "id": "c7215ce22f90724053bdc5bf94cf155ae788d7a3ed193a9072a7c0cd43221778",
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-30T08:37:19+00:00"
-    },
-    {
-      "id": "b67780783342b2077fcc45fd6b682b070c9f2feed18899f7da9d3eca2ca893fe",
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-      "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as&nbsp;CVE-2026-8037, carries a CVSS score of&nbsp;9.8 according to ZDI. A patch is available. If y",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-30T07:38:07+00:00"
-    },
-    {
-      "id": "3dea5c90119315dd12cc1b98d1d5f31c78ce521b7da47b3ef23ccd9fe5ce27e1",
-      "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-      "url": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-      "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-30T05:04:15+00:00"
-    },
-    {
-      "id": "441553fad7f4db8c11115c3ef2fcc195eff16c202ed0d9b7cd840352fdfc75d1",
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-30T05:04:06+00:00"
-    },
-    {
-      "id": "bf572d2b4c624a79153b0d3d87e55fb54501504b1d9ff7b278ea7d1269a29c5d",
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-29T20:40:44+00:00"
     }
   ]
 }
