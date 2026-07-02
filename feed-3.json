@@ -1,10 +1,100 @@
 {
-  "updated": "2026-07-02T08:50:52.633237+00:00",
+  "updated": "2026-07-02T13:52:18.765404+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1fc5c8704160b449bddf3ad432079a1565f81d3701977f37f356620c49f68c44",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:53:00+00:00"
+    },
+    {
+      "id": "92660f56b61f78c012f644ba658994478bdb30575474952f23c792621f7bf856",
+      "title": "Turla group adds more malware to Russia’s espionage efforts against Ukraine",
+      "url": "https://therecord.media/russia-turla-espionage-ukraine-stockstay-malware",
+      "summary": "Threat intelligence researchers at Google described StockStay, the latest malware developed by the Russian cyber-espionage group known as Turla.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-06-26T13:30:00+00:00"
+    },
+    {
+      "id": "3a0cb91d3ac1b8d8f2bb262150211c74e84f9c7bf2b0dafda0ed38b4fd9c76da",
+      "title": "Russia used social engineering to breach prominent messaging accounts, Ukraine says",
+      "url": "https://therecord.media/russia-ukraine-social-engineering-messaging-accounts",
+      "summary": "Ukraine's SBU described a long-running Russian operation that used fake tech-support workers to persuade people to hand over credentials to their messaging apps.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-26T13:10:00+00:00"
+    },
+    {
+      "id": "791ebe6794b3e37117852eb3e4234f31121fec93ce2be35eb01ec05aa345d54f",
+      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+      "url": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+      "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-26T12:37:13+00:00"
+    },
+    {
+      "id": "b24c44ec2fbf1964ac70b97f18862ccd2a9c3706339eedf3f49812275382f9b5",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T12:31:56+00:00"
+    },
+    {
+      "id": "e0deeaecb1191050da81584d7703e689a1d1d8570bdcf2034b2af568f4c762c2",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant. Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T11:51:35+00:00"
+    },
+    {
+      "id": "a281862d1650b7fe2ac08ee23776d5ea4f3920fbf6c9ec9a590fef4f10e2497f",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-26T11:05:45+00:00"
+    },
+    {
+      "id": "372c1d0594271a7a50611129f26d5228ee292e829e64a93a385741f521b191d7",
+      "title": "One Million Passports Leaked Online",
+      "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
+      "summary": "A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&#8217;s the low-value system that got hacke",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-06-26T11:03:21+00:00"
+    },
+    {
+      "id": "f07ab68e4942787be7131282efba3bf6915be268aa825029eb26bfbda800a564",
+      "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+      "url": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
+      "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T09:47:35+00:00"
+    },
+    {
+      "id": "f183838f79464db09ae851f46f0eefafc82f21253f17b5df5785b623f6aefc66",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has&nbsp;not attributed&nbsp;the activity to a known ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-26T09:27:12+00:00"
+    },
     {
       "id": "6f521e98f4ba52ca4d65398778b93879c1c433d83b2df6f63fa9d6bb6023d217",
       "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-24T11:30:00+00:00"
-    },
-    {
-      "id": "0c4fd4988cafac827a679d5c5ccdd463c3f29975a1d27993750c227124cf398d",
-      "title": "Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking",
-      "url": "https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/",
-      "summary": "The security defects allow unauthenticated users to take control of the open source software supply chain. The post Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T10:55:05+00:00"
-    },
-    {
-      "id": "4e3e0174b1c9e07f708a1ebdca06f332ed437bdee6a332dbb7eca3044313d193",
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-24T10:41:51+00:00"
-    },
-    {
-      "id": "f73252cbc2472bfd8e5b64ed5879f1255212d1e77a6845f936c8a138c6ee6cb6",
-      "title": "BeyondTrust, LastPass Impacted by Klue-Salesforce Incident",
-      "url": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
-      "summary": "Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances. The post BeyondTrust, LastPass Impacted by Klue-Salesforce Incident appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-24T10:03:06+00:00"
-    },
-    {
-      "id": "174667085d103c98f88b6df3f4aac8b4c4e34365ee905b20dfaf1e46d6e5041b",
-      "title": "Webinar Today: Modern Exposure Validation in the AI Era",
-      "url": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
-      "summary": "The exploit timeline collapsed. Make sure your validation didn't. The post Webinar Today: Modern Exposure Validation in the AI Era appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T08:04:37+00:00"
-    },
-    {
-      "id": "445f28934d8b411a430b4cffced8eb27025dd5fe9c5ee90c8f809ec916d06b9c",
-      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-      "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of imp",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-24T06:50:38+00:00"
-    },
-    {
-      "id": "952d0d35ba967328a3b19ca82f37bff75a49c1d3057c1b299ce3fa125b5b0c3c",
-      "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
-      "url": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
-      "summary": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-24T05:44:15+00:00"
-    },
-    {
-      "id": "dcc72edfeb3bd32c85f0070673d6e0b1084c34dd809d2f953d32613227977b22",
-      "title": "Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
-      "url": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
-      "summary": "Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said. The post Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T03:29:58+00:00"
-    },
-    {
-      "id": "bca3c4953502f9cf1607896f65dfe015299be5c0e8d062d8a576fbcebf1a1db0",
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-23T21:48:32+00:00"
-    },
-    {
-      "id": "9b9d3ca3e7bd155f25c2be63c349316d96c98e8112cdf67e8577a9f80660d5fc",
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-23T21:06:32+00:00"
-    },
-    {
-      "id": "ff0a8d7817430e8eb06fd44de4b4c75d303b7d0c2cfc84e8ca6a7755d1a0cfd6",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-23T19:59:12+00:00"
     }
   ]
 }

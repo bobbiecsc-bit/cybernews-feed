@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-02T08:50:52.633237+00:00",
+  "updated": "2026-07-02T13:52:18.765404+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d29945b4554a14170a5cdb6c76f94498f2d408fdd4d97bb3fb1d9b1cfe4116f4",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "url": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, target",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-02T13:04:13+00:00"
+    },
+    {
+      "id": "077663096972c17508f3398d295e568a06b59f36254fecc46a20f0eaa1b9342c",
+      "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
+      "url": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
+      "summary": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations. The post FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-02T12:34:29+00:00"
+    },
+    {
+      "id": "d5a8ae57bbf0e6dc47b629663ce0a8b383ded3de561633f63783ca8e1a526592",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-02T11:35:25+00:00"
+    },
+    {
+      "id": "7baac3cbeb6c86ab46ee4f1646bab2aa0b303c01f74da7040bdae011853ff999",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-02T10:52:43+00:00"
+    },
+    {
+      "id": "8d270e663ad72545610fa2f901de5a1d1b045397c32f214aa560c76239f2a108",
+      "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
+      "url": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
+      "summary": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week. The post Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-02T10:48:43+00:00"
+    },
+    {
+      "id": "32dfa5c2b194ee7697da856f7e6ff99f8b4c5e7af7e660376b571dfb3abef571",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-02T10:46:58+00:00"
+    },
+    {
+      "id": "eb44eb178140f5a44dbb74cb48770f98e32e4f5d38b07f66b8823e2fda1f292e",
+      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
+      "url": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+      "summary": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post &#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-02T10:45:00+00:00"
+    },
+    {
+      "id": "6ff3509ec7d77aae0d59c2a795ade879cb29a6428c1e1a7c2806cb4def20c36c",
+      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+      "url": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+      "summary": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-02T10:30:42+00:00"
+    },
+    {
+      "id": "d30f5fa7c10d0d7d0176bdb1426ad7c9650a9f7b30f464d1fb69415eda32ce02",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper int",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T09:13:13+00:00"
+    },
+    {
+      "id": "5609962955aa5c95b50a7c8797c7d723360b97c20c274e6acf58f15f733fb2ac",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiatio",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-02T08:00:49+00:00"
+    },
     {
       "id": "a0ec5ca0dc3dddac12e85bdd4b9d729f09e0c682fcf767f80def9e44a965a180",
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -2161,96 +2251,6 @@
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-18T12:00:00+00:00"
-    },
-    {
-      "id": "62e130f2198856e5bbbca4007e2d0342856e7c778b5f00170857507f8f93080b",
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-18T11:33:00+00:00"
-    },
-    {
-      "id": "bd7eda8f63287b3ea9586ed7807add71dccb13ea060aad0f232206682f4aa563",
-      "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
-      "summary": "Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies. The post Atlassian, Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-18T10:59:50+00:00"
-    },
-    {
-      "id": "8368896f74bb271759ce49304506d29179742410dc512b6f718c7c85c7ca2245",
-      "title": "Rokarolla Banking Trojan Targets 200 Applications",
-      "url": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
-      "summary": "The Android malware allows its operators to take control of infected devices and harvest sensitive information. The post Rokarolla Banking Trojan Targets 200 Applications appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-06-18T10:42:21+00:00"
-    },
-    {
-      "id": "7af2158b32edbab8af1cfeee9b0f6bbfb8abfc71327cae8d2b62a0c7717b0188",
-      "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
-      "url": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
-      "summary": "Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root. The post Critical Command Execution Vulnerability Patched in Cisco ISE appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-18T10:27:14+00:00"
-    },
-    {
-      "id": "f9e80483baa8e4c54c86a970465ee907345fdbe8180c9daa372effa58f4b0082",
-      "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
-      "url": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
-      "summary": "Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code. The post F5 Patches Critical, High-Severity NGINX Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-18T09:39:24+00:00"
-    },
-    {
-      "id": "16cf99acb30053dcc5f5787810e6869d936633b54db475982b058492a7cefcd8",
-      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
-      "url": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
-      "summary": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-18T07:18:51+00:00"
-    },
-    {
-      "id": "98e2f7443d975af808e2c54f30d6ebca2960642a6bd7e55680464376b5aa1754",
-      "title": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months &#x5b;Guest Diary&#x5d;, (Wed, Jun 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33086",
-      "summary": "&#x5b;This is a Guest Diary by Adam Nason, an ISC intern as part of the SANS.edu BACS program&#x5d;&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-06-18T01:49:29+00:00"
-    },
-    {
-      "id": "f8eb1060791f8ee3d67646827d39443190780d987081c5a1c13994ec4075ff55",
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-17T18:14:24+00:00"
-    },
-    {
-      "id": "ea1cac5e48bf0965ccdbe9d720190d668f37b20744feeba6f9f62de8943d0217",
-      "title": "Hostile states behind three-quarters of attacks on Britain's critical infrastructure, cyber chief warns",
-      "url": "https://therecord.media/britain-nation-state-cyberattacks-richard-horne-rusi",
-      "summary": "NCSC CEO Richard Horne warned that “kinetic targeting in any conflict tomorrow will be based on intelligence gathered today” and that nation-state adversaries were “prepositioning” throughout British critical infrastructure.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-17T17:55:00+00:00"
-    },
-    {
-      "id": "a5a90539c857c9268c909503f562746ad27471c7137323ad0c96defde68cbe48",
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is awa",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-17T17:36:28+00:00"
     }
   ]
 }
