@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-02T13:52:18.765404+00:00",
+  "updated": "2026-07-02T19:19:27.355817+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ed4e64e007389fba6b9d900e7a599832655dab4063ce75d972e5c3a5ca6ed740",
+      "title": "Supreme Court decision threatens EU-US data transfer agreement",
+      "url": "https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing",
+      "summary": "In a Tuesday letter, Max Schrems, the founder of the Vienna-based privacy advocacy organization noyb, told European officials he plans to sue to invalidate the EU-U.S. Data Privacy Framework (DPF) that allows for the transfer of personal data from the EU to U.S. companies.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-02T16:50:00+00:00"
+    },
+    {
+      "id": "8baed1cc39c812768fd40b1a689db5c31e17a742bb96bf7c367f864d5d938edc",
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T15:24:18+00:00"
+    },
+    {
+      "id": "49aee205545cb8e2efe4e101b4c582c2a14fe74d6e170e91533b1aab75b21d19",
+      "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
+      "url": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
+      "summary": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response. The post New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-02T15:04:22+00:00"
+    },
+    {
+      "id": "0f7346a547b2f21002ee36c6eb7de11f26b6fb4b0abcd09095fadab76a87411f",
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-02T14:00:10+00:00"
+    },
     {
       "id": "d29945b4554a14170a5cdb6c76f94498f2d408fdd4d97bb3fb1d9b1cfe4116f4",
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
@@ -2212,42 +2248,6 @@
       "title": "Schneider Electric EasyLogic T150 and Saitel DP",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
       "summary": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit &amp",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-18T12:00:00+00:00"
-    },
-    {
-      "id": "f3c7668f5bd6886349b0be565daf393c95416b9b256b3ab119afe63ba6cf2fcc",
-      "title": "AVer PTC cameras",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PTC500+ vers:all/* (CVE-2026-40624) PTC115+ vers:all/* (CVE-2026-40624",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-18T12:00:00+00:00"
-    },
-    {
-      "id": "3fd67a8e01c95ee12382eb6adf97cf091494c1b7837b22454ebc22f36b5eb8f8",
-      "title": "AzeoTech DAQFactory",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory &lt;=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-18T12:00:00+00:00"
-    },
-    {
-      "id": "fab6330dffc2cb4c4896b20f711fab512269dfa5d8d8c2746a00787ec0b2ad44",
-      "title": "Mitsubishi Electric MELSEC iQ-F Series",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection manag",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-06-18T12:00:00+00:00"
-    },
-    {
-      "id": "de52f715aadda38d50d7a477a96c8d8efdcd298d7df84f02c86d9e363e9fae20",
-      "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing",
       "source": "CISA Alerts",
       "category": "vulnerability",
       "date": "2026-06-18T12:00:00+00:00"
