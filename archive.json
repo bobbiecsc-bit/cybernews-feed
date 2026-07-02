@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-02T02:56:04.209611+00:00",
+  "updated": "2026-07-02T08:50:52.633237+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a0ec5ca0dc3dddac12e85bdd4b9d729f09e0c682fcf767f80def9e44a965a180",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T07:24:23+00:00"
+    },
+    {
+      "id": "d8776f4785c28864dcd78401e43580dcb1cb72e005beb217943f8194e6608201",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8),",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T05:46:45+00:00"
+    },
+    {
+      "id": "51ea3a6f2d65f84ab6d21ba61c7df82ed479ee208304cfb6346eb708d1a3f326",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-02T04:25:42+00:00"
+    },
     {
       "id": "26684e42397d6e65fdccedb299e4ebbd2f9f9354f9db732ca815f8154a4dbe0c",
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
@@ -139,7 +166,7 @@
     },
     {
       "id": "b2ff03fc828da7b014a20e90d0e499946fe98301d8194d5aed000715ca4ca65b",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win",
       "source": "The Hacker News",
@@ -2224,33 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-17T17:36:28+00:00"
-    },
-    {
-      "id": "4722c9daa4aeb3b031c7fcace075e29131feaf651c76853472814baa33a8650b",
-      "title": "EU grants Ukraine access to cybersecurity reserve for major attacks",
-      "url": "https://therecord.media/ukraine-access-eu-cybersecurity-reserve",
-      "summary": "As Kyiv takes steps toward formal accession to the EU, the bloc is integrating Ukraine with its pool of pre-approved cybersecurity incident response companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-17T16:33:00+00:00"
-    },
-    {
-      "id": "538b5a7de057dcb5e312c57d63215a0ea3c6ffcd73d38277f792f99caa2079e1",
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "url": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a w",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-17T16:00:56+00:00"
-    },
-    {
-      "id": "55ae8588dc6a0c76ddaf8820f28dbf68017952a2c5b6d47195a091c19a79dcba",
-      "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
-      "url": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
-      "summary": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-17T14:07:16+00:00"
     }
   ]
 }

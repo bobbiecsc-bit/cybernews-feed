@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-02T02:56:04.209611+00:00",
+  "updated": "2026-07-02T08:50:52.633237+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a0ec5ca0dc3dddac12e85bdd4b9d729f09e0c682fcf767f80def9e44a965a180",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T07:24:23+00:00"
+    },
+    {
+      "id": "d8776f4785c28864dcd78401e43580dcb1cb72e005beb217943f8194e6608201",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8),",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T05:46:45+00:00"
+    },
+    {
+      "id": "51ea3a6f2d65f84ab6d21ba61c7df82ed479ee208304cfb6346eb708d1a3f326",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-02T04:25:42+00:00"
+    },
     {
       "id": "26684e42397d6e65fdccedb299e4ebbd2f9f9354f9db732ca815f8154a4dbe0c",
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
@@ -142,7 +169,7 @@
     },
     {
       "id": "b2ff03fc828da7b014a20e90d0e499946fe98301d8194d5aed000715ca4ca65b",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win",
       "source": "The Hacker News",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-30T09:25:50+00:00"
-    },
-    {
-      "id": "2f24b5758f06196a08c2135e95eec30174eb670f1c89ff19d5af86aba6b2633d",
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-30T08:53:13+00:00"
-    },
-    {
-      "id": "a9cb62b5704855c967de2154442afae46fda21ff1d7cd9e14527beae33fa2202",
-      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
-      "url": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
-      "summary": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling. The post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-30T08:43:10+00:00"
-    },
-    {
-      "id": "5b8258d84489f945897878edaa4ace4a448cdbac0e677fff09faea73d1060b5a",
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind&nbsp;BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets inc",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-30T08:37:19+00:00"
     }
   ]
 }
