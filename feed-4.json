@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-03T13:56:07.380027+00:00",
+  "updated": "2026-07-03T19:15:43.466654+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b4039c7adbb32e2bd1232e51f254cac9a7791610fba270ab76e993e2fbaf77fa",
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-24T21:29:10+00:00"
+    },
+    {
+      "id": "9fda4c921855366e8594d0c2ec19cce3a75a39d387e8498b70fa44e253348b08",
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-06-24T20:58:22+00:00"
+    },
+    {
+      "id": "ad57d6a41bf8e995e3e53f7e0b2eb60b57f48e4057349cf9ec193021d4ec7707",
+      "title": "Three ‘cybercrime as a service’ operations undercut by Microsoft, law enforcement",
+      "url": "https://therecord.media/stealc-amadey-socgholish-malware-takedown-europol-microsoft",
+      "summary": "Microsoft touted its latest action against malware infrastructure as a new approach aimed at the full cybercrime \"supply chain.\" Europol said more than 300 servers were targeted.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-06-24T20:00:00+00:00"
+    },
     {
       "id": "bc19a46504a234416b8a902727be66ad868c1488a724ae07429611dd1503192c",
       "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-06-22T22:42:21+00:00"
-    },
-    {
-      "id": "df550206f9f0525d89cabdaef4a9acd47af26a5f65ba28f05f1fb47e954c48ce",
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-22T21:52:18+00:00"
-    },
-    {
-      "id": "1a2d68f57b3b7df95f5a8e7439a99c7f7443444bc27cf4e061e53874e36a3d49",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-22T21:05:01+00:00"
-    },
-    {
-      "id": "3e2c39543fbaa3da50e035f2ed9776be1b2ad44438ece227f26d785de413d56b",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-22T20:01:02+00:00"
     }
   ]
 }
