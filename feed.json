@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-02T19:19:27.355817+00:00",
+  "updated": "2026-07-03T02:39:19.352167+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "417bdaa0c3e139ab2f3c73a51f0d82bd8d7cc49bfa535fbd99fa918e8dcb8694",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "id": "0e68a14cfc35d069d2c898c9007682be490c8cdf97b6435862cf989f9cfb37c2",
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-02T18:54:06+00:00"
+    },
+    {
+      "id": "05b1c5e4b319e6f6c44394cd471b0ed9556af2ebb44ef2cdf9e410a57588313c",
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Mo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T18:30:33+00:00"
+    },
     {
       "id": "ed4e64e007389fba6b9d900e7a599832655dab4063ce75d972e5c3a5ca6ed740",
       "title": "Supreme Court decision threatens EU-US data transfer agreement",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-30T17:46:07+00:00"
-    },
-    {
-      "id": "288f4efe990f5fb852c16f841bf64914904d300c1f667878ecbf9ea1bfb9004a",
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and sa",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-30T17:45:25+00:00"
-    },
-    {
-      "id": "e0c03dad168c1e562526b2d6c1c9df19592738cfd85d3e762d229251f5d5db62",
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, i",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-30T15:47:20+00:00"
-    },
-    {
-      "id": "3df655a064153222ec5c273527a7c55432f3d846491d2d4e54b8ef025d34f6b7",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campai",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-30T15:40:18+00:00"
     }
   ]
 }
