@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-03T19:15:43.466654+00:00",
+  "updated": "2026-07-04T02:36:12.833748+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d46c218220428012a55cb72242afb6a0846ea61f5cf060ad5179cb598e350687",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs secur",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T20:19:31+00:00"
+    },
+    {
+      "id": "2cc6f7ea502392316c4919c5f887bcc572666ea2bb4b0fad9c71b1d2a9c06331",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T19:40:01+00:00"
+    },
     {
       "id": "46e49c37279274c9c58f9531a9cbfea69022f57a75d476685d159de446675ffc",
       "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
@@ -2233,24 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-06-18T18:31:36+00:00"
-    },
-    {
-      "id": "7c4f2c9bb4d90cce506241380ae4232a66536fe001c766458733f430c7d47a03",
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet ",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-06-18T17:37:58+00:00"
-    },
-    {
-      "id": "937d45d23a40e23722bf6350d4d73edf0c4a0943fece4d308413945289173cf0",
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-18T17:32:14+00:00"
     }
   ]
 }

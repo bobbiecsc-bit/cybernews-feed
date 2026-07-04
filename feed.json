@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-03T19:15:43.466654+00:00",
+  "updated": "2026-07-04T02:36:12.833748+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d46c218220428012a55cb72242afb6a0846ea61f5cf060ad5179cb598e350687",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs secur",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T20:19:31+00:00"
+    },
+    {
+      "id": "2cc6f7ea502392316c4919c5f887bcc572666ea2bb4b0fad9c71b1d2a9c06331",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T19:40:01+00:00"
+    },
     {
       "id": "46e49c37279274c9c58f9531a9cbfea69022f57a75d476685d159de446675ffc",
       "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-01T12:30:01+00:00"
-    },
-    {
-      "id": "296baaa7e5eb3ddee116b27eb2809905b509a836685512a5a3932df2f270d72f",
-      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-01T11:27:07+00:00"
-    },
-    {
-      "id": "771760991c56201378c5abdb8c08b2ad42426cd4c3a6f22b2586051f170a7acc",
-      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
-      "url": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-      "summary": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-01T11:20:45+00:00"
     }
   ]
 }
