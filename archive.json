@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-06T15:24:48.437365+00:00",
+  "updated": "2026-07-06T19:50:59.188089+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "63ee79eaa6af8d90df69ea99e1c68cb6ba85d06b01678ee7d290bb71a194985b",
+      "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
+      "url": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
+      "summary": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer. The post Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-06T19:14:08+00:00"
+    },
+    {
+      "id": "65f10e970c5a1f01f343bec70769847f6c3a4aebc62ab55b978589a644a5a833",
+      "title": "Major medical device manufacturer notifies nearly 4 million of breach",
+      "url": "https://therecord.media/medical-device-maker-notifies-nearly-4-million-of-breach",
+      "summary": "Information like Social Security numbers and health-related data was accessed, but the company said it had “no evidence that impacted information has been publicly posted or exposed on the internet.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-06T18:03:00+00:00"
+    },
+    {
+      "id": "006a797fc25d645ec856667bfe9f2282bcdb1cfe4f1df71448d9d506080c6b8a",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The pu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-06T17:37:01+00:00"
+    },
+    {
+      "id": "895de4024c393f81fc90b48dd9c79d2fdb0125be9332f8e5940adbf9a15abc85",
+      "title": "Japanese teen arrested over cyberattack that disrupted anime streaming service",
+      "url": "https://therecord.media/japanese-teen-arrested-over-attack-disrupted-streaming-service",
+      "summary": "The unnamed student, who lives in a city near Tokyo, allegedly exploited a flaw in a subscription-based anime streaming platform to fraudulently cancel more than 46,000 user subscriptions.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-06T16:40:00+00:00"
+    },
+    {
+      "id": "4488624860bdc457aeacdd2a38bcd358a244a54a6b84ca074e94a486992535ab",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header fr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-06T16:28:59+00:00"
+    },
     {
       "id": "97f22e411dcd25bfd5fa0d01792bbd0b940d4bcb757f7270f238854ec4209b2e",
       "title": "Armored Likho APT Targeting Government, Electric Power Entities",
@@ -2206,51 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-19T20:25:02+00:00"
-    },
-    {
-      "id": "800b7492fcac870c2144bb28fb8ff15a76e21a7fda9bbfac09923a4b31424c21",
-      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-      "summary": "Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices w",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-19T18:37:41+00:00"
-    },
-    {
-      "id": "b837220888d79db5d2750102f2b58f0be0798b86f5a632f3e66d12649990e602",
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is cente",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-19T18:33:07+00:00"
-    },
-    {
-      "id": "4bb1ee2d2a3d23f62f0099469937b5eba0782c70e47444ebd192314c091b9927",
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-19T16:12:41+00:00"
-    },
-    {
-      "id": "d79c0ae88029c37e4988d716d87e7112c765afc3446024574fbe203f8fca201a",
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "summary": "Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-19T15:30:47+00:00"
-    },
-    {
-      "id": "1d6e27c1bc8a4893fd787a3c8b899809054acb49872bcf0e4b0ff1645b3d8f57",
-      "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-      "url": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStri",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-19T15:23:36+00:00"
     }
   ]
 }
