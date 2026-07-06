@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T02:52:48.245961+00:00",
+  "updated": "2026-07-06T10:12:21.306407+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "47517115b299a537ee4eb56a48537a9b533ef3d937edb6c88ac1606ad5174acd",
+      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+      "url": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-29T14:28:40+00:00"
+    },
+    {
+      "id": "4517650cc5d727ff70ab329c54e0b7977556d57d2a1c3372112b9224e2a786d3",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-29T14:01:11+00:00"
+    },
+    {
+      "id": "52781c932d2c42d8b5934ec4f59e163ed33d78cfa14d2cf33af065974751a6f7",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T14:00:00+00:00"
+    },
+    {
+      "id": "ad4d93174220db78eedf6db5da45c71965002a0175c97da01d74a6a37953cc5f",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T13:46:17+00:00"
+    },
     {
       "id": "45b3de4134dc5b77026d4114e4a960bee925f769b5f91ad57c82d264c6e2990c",
       "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-25T12:07:00+00:00"
-    },
-    {
-      "id": "60db22c4c61ee788faa13b55c87889abed1db84f59499a1a715196aeaec2ce95",
-      "title": "Interesting Paper Exploring Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
-      "summary": "This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the ",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-25T11:23:58+00:00"
-    },
-    {
-      "id": "fbfd246ff3df52cb6a5668e7a217123ae9f7fc7a2297208f579032e32144874e",
-      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
-      "url": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
-      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T11:23:40+00:00"
-    },
-    {
-      "id": "bdd63d04b540fc20391838cc5df726fd34b8e1274d4912cc159ac4f7163301c5",
-      "title": "25-Year-Old Vulnerability Patched in Curl",
-      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T09:25:02+00:00"
-    },
-    {
-      "id": "c96f9691fd679ba921770e08a346dde535ef4b5be13c0e7add4d14217ff585b1",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-25T09:23:03+00:00"
     }
   ]
 }

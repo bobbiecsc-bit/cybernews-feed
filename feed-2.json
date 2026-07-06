@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T02:52:48.245961+00:00",
+  "updated": "2026-07-06T10:12:21.306407+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "291f9cd83783fb1cdac0e1f3419244d7f7d59cf608f423ffd4c807eb4c5f36dc",
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T15:25:46+00:00"
+    },
+    {
+      "id": "3b3d2e86775bb11119d6d8dab4167270a701e7383accb57206e508fa00b10e36",
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs&nbsp;found the pair and named them DuneSlide. They are",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T14:42:54+00:00"
+    },
+    {
+      "id": "63c4c93d353eea9bcf88413e1c1780d3dfd48838eb75257b078e9b4cf1db4df4",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-01T14:01:11+00:00"
+    },
+    {
+      "id": "1dd7fefe18ac74e82735a0688a3f795ccc5ee928e4c0e8d2aac48e98f5caadb4",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score:",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T13:56:18+00:00"
+    },
     {
       "id": "7e80488f63fc4527f19c6acfd1336bd203d3620bf7b734590dfecbb9184ecd6e",
       "title": "Japanese insurer, brewer, manufacturer and telecom disclose cyber breaches",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-29T14:41:07+00:00"
-    },
-    {
-      "id": "47517115b299a537ee4eb56a48537a9b533ef3d937edb6c88ac1606ad5174acd",
-      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-      "url": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-29T14:28:40+00:00"
-    },
-    {
-      "id": "4517650cc5d727ff70ab329c54e0b7977556d57d2a1c3372112b9224e2a786d3",
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-29T14:01:11+00:00"
-    },
-    {
-      "id": "52781c932d2c42d8b5934ec4f59e163ed33d78cfa14d2cf33af065974751a6f7",
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-29T14:00:00+00:00"
-    },
-    {
-      "id": "ad4d93174220db78eedf6db5da45c71965002a0175c97da01d74a6a37953cc5f",
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-29T13:46:17+00:00"
     }
   ]
 }

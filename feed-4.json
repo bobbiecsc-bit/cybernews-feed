@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T02:52:48.245961+00:00",
+  "updated": "2026-07-06T10:12:21.306407+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "60db22c4c61ee788faa13b55c87889abed1db84f59499a1a715196aeaec2ce95",
+      "title": "Interesting Paper Exploring Prompt Injection",
+      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
+      "summary": "This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the ",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-06-25T11:23:58+00:00"
+    },
+    {
+      "id": "fbfd246ff3df52cb6a5668e7a217123ae9f7fc7a2297208f579032e32144874e",
+      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+      "url": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-25T11:23:40+00:00"
+    },
+    {
+      "id": "bdd63d04b540fc20391838cc5df726fd34b8e1274d4912cc159ac4f7163301c5",
+      "title": "25-Year-Old Vulnerability Patched in Curl",
+      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
+      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-25T09:25:02+00:00"
+    },
+    {
+      "id": "c96f9691fd679ba921770e08a346dde535ef4b5be13c0e7add4d14217ff585b1",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-25T09:23:03+00:00"
+    },
     {
       "id": "666b25b32ef0939bfeffc7aed3418cc44a20baf2533a282057631ef51f237b69",
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-23T11:48:06+00:00"
-    },
-    {
-      "id": "c348f31448293f8f440e0617773fa17554837aba1f617ef14062c93628888bcb",
-      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
-      "summary": "Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks. Well, that restriction was bypassed within days.",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-23T11:03:07+00:00"
-    },
-    {
-      "id": "93f9ffcc2ba29a549d4d1e8ad401f747762732c5b996a42f320f65ac831065af",
-      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
-      "url": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
-      "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-23T10:30:46+00:00"
-    },
-    {
-      "id": "5c9733fdf171c4cf368ccb9321be18b96da31abab4e6517f25659667b8530eeb",
-      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
-      "url": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
-      "summary": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information. The post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-23T09:25:22+00:00"
-    },
-    {
-      "id": "91ac02c25b00723c5ff90d625fc75bcd52dd99664818428ca31aa93d7ec717e6",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-23T08:54:32+00:00"
     }
   ]
 }
