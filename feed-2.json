@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-06T10:12:21.306407+00:00",
+  "updated": "2026-07-06T15:24:48.437365+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1815aa1fb72dbe54f64af4efd27abdb9aab8f2336299e25d4bd3a7e3bba37855",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T20:08:13+00:00"
+    },
+    {
+      "id": "3ab818632c1707cc53c83bf76cf3223fb951a464f9de81fa17e2e79603dce972",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T19:40:06+00:00"
+    },
+    {
+      "id": "c7215ce22f90724053bdc5bf94cf155ae788d7a3ed193a9072a7c0cd43221778",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masq",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-01T17:53:06+00:00"
+    },
+    {
+      "id": "9d448be0e0e491e30660a21e82f8a576b71f53e7509e6644df9d1f67175adc82",
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-01T17:32:22+00:00"
+    },
+    {
+      "id": "d8111281240765d82f8906d5de83a081515a7dbb858616f8ae71ae42be18791d",
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed ei",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T17:18:50+00:00"
+    },
+    {
+      "id": "7ca52314a96c22175c8ef67004e6829e93412751b9865334a68740fd39efacd1",
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and respo",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T16:54:22+00:00"
+    },
+    {
+      "id": "d03514b22c1620a50313656e4b4e768ddbccfa7ed457d36281e03777fb1798d5",
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-01T16:38:01+00:00"
+    },
+    {
+      "id": "ccbf8697f6b66d7be44e1abdb0bb792d1e2d6d4d0dcc736684a707e68fd1e588",
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hid",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T15:26:55+00:00"
+    },
     {
       "id": "291f9cd83783fb1cdac0e1f3419244d7f7d59cf608f423ffd4c807eb4c5f36dc",
       "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-30T05:04:15+00:00"
-    },
-    {
-      "id": "441553fad7f4db8c11115c3ef2fcc195eff16c202ed0d9b7cd840352fdfc75d1",
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-30T05:04:06+00:00"
-    },
-    {
-      "id": "bf572d2b4c624a79153b0d3d87e55fb54501504b1d9ff7b278ea7d1269a29c5d",
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-29T20:40:44+00:00"
-    },
-    {
-      "id": "f1a33bf948ee20fef2b93554e1e39b5abf7a69f9fe77711058464905a0371581",
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-29T20:30:28+00:00"
-    },
-    {
-      "id": "5ee7da80f016bb4849db45bf56023fa7d8e45156581d36d45958723f392b9332",
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft s",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-29T15:40:00+00:00"
-    },
-    {
-      "id": "3dc834659c97c1b2c0a01962d49385e8d5a8a967223a83791b0b381be257eaa1",
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-29T15:30:00+00:00"
-    },
-    {
-      "id": "b90cff942ffb533ab707172516b9f2446258e9b77e08038f3a20afbae29d474e",
-      "title": "US posts $10 million reward over Russian cyber campaign targeting Signal, WhatsApp",
-      "url": "https://therecord.media/10million-reward-us-russian-hackers-unc4221-unc5792",
-      "summary": "Russia-linked hacking groups tracked as UNC5792 and UNC4221 have socially engineered their way into the messaging accounts of government officials.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-29T15:20:00+00:00"
-    },
-    {
-      "id": "5b93a99b987c1db24855118f2848b143395019fa57b73230eca11ca9e0fbc320",
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "summary": "The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit&nbsp;found active compromises inside Indian gov",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-29T15:03:40+00:00"
-    },
-    {
-      "id": "39206295ba6c3c88c0fb22cc86a903b39720fdddfb94742ab7a9b448161cecfc",
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-29T14:41:07+00:00"
     }
   ]
 }
