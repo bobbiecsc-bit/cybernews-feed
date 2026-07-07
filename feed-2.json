@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-06T19:50:59.188089+00:00",
+  "updated": "2026-07-07T02:47:14.494620+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eb44eb178140f5a44dbb74cb48770f98e32e4f5d38b07f66b8823e2fda1f292e",
+      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
+      "url": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+      "summary": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post &#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-02T10:45:00+00:00"
+    },
+    {
+      "id": "6ff3509ec7d77aae0d59c2a795ade879cb29a6428c1e1a7c2806cb4def20c36c",
+      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+      "url": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+      "summary": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-02T10:30:42+00:00"
+    },
+    {
+      "id": "d30f5fa7c10d0d7d0176bdb1426ad7c9650a9f7b30f464d1fb69415eda32ce02",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper int",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-02T09:13:13+00:00"
+    },
+    {
+      "id": "5609962955aa5c95b50a7c8797c7d723360b97c20c274e6acf58f15f733fb2ac",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiatio",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-02T08:00:49+00:00"
+    },
     {
       "id": "a0ec5ca0dc3dddac12e85bdd4b9d729f09e0c682fcf767f80def9e44a965a180",
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-30T11:18:47+00:00"
-    },
-    {
-      "id": "3f4d0953dbbfeb113abc471588b2cb8e9905d683b1038beeffa9cd04a0ead21d",
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-      "url": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information of 4.38 million customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-30T11:12:18+00:00"
-    },
-    {
-      "id": "e8080f730d48256f958ce0d4e17aa651b3de8f48c1232eba62b6a161f76394ac",
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "url": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-30T09:41:05+00:00"
-    },
-    {
-      "id": "a8bf716c7e48e7c9beb7cf9267a2c8036ebe4bd4545338c233334e80e9d0bebc",
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-30T09:27:58+00:00"
-    },
-    {
-      "id": "93aebb554751e934670d7818bacd880c9bbf9337825f20f71a595f91eba5a719",
-      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
-      "url": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
-      "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-30T09:25:50+00:00"
     }
   ]
 }
