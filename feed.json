@@ -1,10 +1,91 @@
 {
-  "updated": "2026-07-07T14:24:58.962259+00:00",
+  "updated": "2026-07-07T19:50:25.277199+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d209aa72b2ff6de86d9c8d41263d3befd70b1bc975234d7af144b1ec4760b4a3",
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-07T18:52:19+00:00"
+    },
+    {
+      "id": "cede3de819da9d2ab12c5ed16c834652049e4e1037429e94829b1a430a70ade5",
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-07T17:27:22+00:00"
+    },
+    {
+      "id": "c992749379069fa6314da51bda863aff53b9d2b49562f22f4e10bba043668828",
+      "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+      "url": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
+      "summary": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets. The post Critical Gitea Flaw Under Active Exploitation, Researchers Warn appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-07T17:17:19+00:00"
+    },
+    {
+      "id": "31981167c8139385362489c25fb8f224d6a4fb2337b8d4cf8907bcd731ae1494",
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the o",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-07T17:10:15+00:00"
+    },
+    {
+      "id": "4a3aefd50bae8a4a25b4f41f0fe3692c3e273bfae5eeff115846d435bf7e26ea",
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal the data users shared, and make the bots send attac",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-07T16:37:33+00:00"
+    },
+    {
+      "id": "077b55e160886f7dc4154bd66969cb16bbfd5b93cd7887aaaa7b1b0e99e1d33c",
+      "title": "Britain plans to build autonomous AI 'Cyber Shield' to defend nation",
+      "url": "https://therecord.media/britain-plans-autonomous-ai-cyber-shield",
+      "summary": "The capability, called Cyber Shield, is designed to counter a threat the National Cyber Security Centre (NCSC) said could see attackers “move at machine speed and greater scale, reducing opportunities for detection and response.”",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-07T15:31:00+00:00"
+    },
+    {
+      "id": "30cd1218f1ee03dfbe7a37182213e915220dc0ae235e3384848228281e8f7ace",
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend on a fake Microsoft password page. It used a malici",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-07T15:14:14+00:00"
+    },
+    {
+      "id": "6e5216023ad7bf56b0620ccbdd54f1710dd2f7fc437bdefb1bcc241cf4a24a3a",
+      "title": "Major Japanese telco says cyberattack exposed 12 million emails",
+      "url": "https://therecord.media/major-japanese-telco-cyberattack-12-million-emails",
+      "summary": "The company said the breach affected an email system used to manage customer email accounts, webmail services and email storage for five Japanese internet service providers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-07T14:45:00+00:00"
+    },
+    {
+      "id": "3d9df116e5edd7c5e58abb79cc3b60b11c73cfb1a48a0f5ba318e548e4aad9fe",
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization.",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-07T14:04:50+00:00"
+    },
     {
       "id": "28a6609e1f2a0dcec9b0be671fb127f85f5e33152b70ca8561bf508885c25d08",
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-03T19:40:01+00:00"
-    },
-    {
-      "id": "46e49c37279274c9c58f9531a9cbfea69022f57a75d476685d159de446675ffc",
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recov",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-03T18:55:24+00:00"
-    },
-    {
-      "id": "af919c1063f3ac9eeea4167f722019d27ab281de498ace2821c396ba7fbbdf92",
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legiti",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-03T16:07:15+00:00"
-    },
-    {
-      "id": "70fe8b4c89fa43b8ac8ba8067110ea3d5e74f6018e9c8a82ea1c4f22ff3ed560",
-      "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
-      "url": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM ",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-03T15:10:42+00:00"
-    },
-    {
-      "id": "72b8c901a04ed3e25972cdcec950087a236a454b91aaeca0104a3c14506df6b8",
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "url": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cybe",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-03T13:36:33+00:00"
-    },
-    {
-      "id": "8f8ffebc335e9338d03722ad02d946a268c299834ca15fd8f027f850aad6b702",
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-03T11:05:43+00:00"
-    },
-    {
-      "id": "6eae28bb3566379824ee448f5134ed969f35fed0a8350397a10b4052cd81766b",
-      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
-      "url": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
-      "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-03T11:00:00+00:00"
-    },
-    {
-      "id": "3c0f3b4326504a06d25def7386f0d0110ff14bd22be3e6ba21f3cb953b2e83ff",
-      "title": "Medtronic Data Breach Impacts 3.8 Million People",
-      "url": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
-      "summary": "In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-03T10:00:00+00:00"
-    },
-    {
-      "id": "c1ee7af215588b233054d5c857d64d683eb70fefb99adbbdff2f23de3bf2ceaf",
-      "title": "Alleged Scattered Spider Hacker Extradited to US",
-      "url": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
-      "summary": "Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments. The post Alleged Scattered Spider Hacker Extradited to US appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-03T09:30:00+00:00"
-    },
-    {
-      "id": "34f818b82c269a3a13b30dc99c0568e9a01570c761920e308c43a158ccd10a02",
-      "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
-      "url": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
-      "summary": "NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks. The post Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-03T08:13:22+00:00"
     }
   ]
 }
