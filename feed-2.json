@@ -1,10 +1,109 @@
 {
-  "updated": "2026-07-08T13:56:00.394319+00:00",
+  "updated": "2026-07-08T19:19:55.794401+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "65cd137d440f27960c7b36da1477fe3f0d26c4e4f94a9b0ab700115d6eed0746",
+      "title": "Canadian spy agency reports hacking three criminal groups in 2025",
+      "url": "https://therecord.media/canada-cse-2025-cyber-operations-ransomware-drugs-extremism",
+      "summary": "A ransomware-as-a-service gang, an online foreign extremist group and drug traffickers were separately the targets of offensive operations in 2025, according to Canada's Communications Security Establishment.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-06T20:55:00+00:00"
+    },
+    {
+      "id": "52ec6aaf59fdd6dbcf89a561f64175494b2a51abffcd6cccef81569a4a848ab5",
+      "title": "Attackers vote themselves $20 million in BONK cryptocurrency",
+      "url": "https://therecord.media/attackers-vote-themselves-20-million-bonk-crypto",
+      "summary": "BonkDAO said in a social media post that it was the victim of a “malicious governance proposal,” or an attack in which holders of a large amount of BONK used that leverage to vote more coins into their wallets.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-06T20:35:00+00:00"
+    },
+    {
+      "id": "6f6081fec769fe0eb93d9561ac21d4cac3226b776489c458f25ca59a32217c15",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-06T20:27:37+00:00"
+    },
+    {
+      "id": "1bc1a16ef57f89098f0e8c2d90611417d635bd1d65ca64d44c34d0c5e4eea838",
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-06T20:23:45+00:00"
+    },
+    {
+      "id": "63ee79eaa6af8d90df69ea99e1c68cb6ba85d06b01678ee7d290bb71a194985b",
+      "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
+      "url": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
+      "summary": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer. The post Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-06T19:14:08+00:00"
+    },
+    {
+      "id": "65f10e970c5a1f01f343bec70769847f6c3a4aebc62ab55b978589a644a5a833",
+      "title": "Major medical device manufacturer notifies nearly 4 million of breach",
+      "url": "https://therecord.media/medical-device-maker-notifies-nearly-4-million-of-breach",
+      "summary": "Information like Social Security numbers and health-related data was accessed, but the company said it had “no evidence that impacted information has been publicly posted or exposed on the internet.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-06T18:03:00+00:00"
+    },
+    {
+      "id": "006a797fc25d645ec856667bfe9f2282bcdb1cfe4f1df71448d9d506080c6b8a",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The pu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-06T17:37:01+00:00"
+    },
+    {
+      "id": "895de4024c393f81fc90b48dd9c79d2fdb0125be9332f8e5940adbf9a15abc85",
+      "title": "Japanese teen arrested over cyberattack that disrupted anime streaming service",
+      "url": "https://therecord.media/japanese-teen-arrested-over-attack-disrupted-streaming-service",
+      "summary": "The unnamed student, who lives in a city near Tokyo, allegedly exploited a flaw in a subscription-based anime streaming platform to fraudulently cancel more than 46,000 user subscriptions.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-06T16:40:00+00:00"
+    },
+    {
+      "id": "4488624860bdc457aeacdd2a38bcd358a244a54a6b84ca074e94a486992535ab",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header fr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-06T16:28:59+00:00"
+    },
+    {
+      "id": "97f22e411dcd25bfd5fa0d01792bbd0b940d4bcb757f7270f238854ec4209b2e",
+      "title": "Armored Likho APT Targeting Government, Electric Power Entities",
+      "url": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
+      "summary": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns. The post Armored Likho APT Targeting Government, Electric Power Entities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-06T15:10:39+00:00"
+    },
+    {
+      "id": "afcffe395de7f8173634d1967937ccbe9aa9937750826288059aa62abbb3a4ab",
+      "title": "Ukrainian media outlets now among 'priority targets' for Russian hackers",
+      "url": "https://therecord.media/ukraine-media-organizations-priority-hacking-targets-russia",
+      "summary": "A top Ukrainian security official described two previously unreported attacks on TV media organizations and said Russia has ramped up hacking activities against the industry.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-06T13:20:00+00:00"
+    },
     {
       "id": "190da742e8622b8632880e7eb2e9161f562dea175be0391c31c770b3fef3fe5d",
       "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
@@ -355,105 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-02T10:46:58+00:00"
-    },
-    {
-      "id": "eb44eb178140f5a44dbb74cb48770f98e32e4f5d38b07f66b8823e2fda1f292e",
-      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
-      "url": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
-      "summary": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post &#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-02T10:45:00+00:00"
-    },
-    {
-      "id": "6ff3509ec7d77aae0d59c2a795ade879cb29a6428c1e1a7c2806cb4def20c36c",
-      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-      "url": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-      "summary": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-02T10:30:42+00:00"
-    },
-    {
-      "id": "d30f5fa7c10d0d7d0176bdb1426ad7c9650a9f7b30f464d1fb69415eda32ce02",
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "url": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper int",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-02T09:13:13+00:00"
-    },
-    {
-      "id": "5609962955aa5c95b50a7c8797c7d723360b97c20c274e6acf58f15f733fb2ac",
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "url": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiatio",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-02T08:00:49+00:00"
-    },
-    {
-      "id": "a0ec5ca0dc3dddac12e85bdd4b9d729f09e0c682fcf767f80def9e44a965a180",
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "url": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, b",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-02T07:24:23+00:00"
-    },
-    {
-      "id": "d8776f4785c28864dcd78401e43580dcb1cb72e005beb217943f8194e6608201",
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "url": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8),",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-02T05:46:45+00:00"
-    },
-    {
-      "id": "51ea3a6f2d65f84ab6d21ba61c7df82ed479ee208304cfb6346eb708d1a3f326",
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-02T04:25:42+00:00"
-    },
-    {
-      "id": "26684e42397d6e65fdccedb299e4ebbd2f9f9354f9db732ca815f8154a4dbe0c",
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-01T21:37:24+00:00"
-    },
-    {
-      "id": "ea1723a03c67f8126a9bbd1d92c14514d110c0b13a605c5b0115a3d17f3425d3",
-      "title": "Teen suspect in Scattered Spider hacks is extradited to US",
-      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
-      "summary": "A complaint unsealed this week accuses a 19-year-old of participating in incidents including a breach of a \"luxury-jewelry retailer\" in 2025.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-01T20:13:00+00:00"
-    },
-    {
-      "id": "1815aa1fb72dbe54f64af4efd27abdb9aab8f2336299e25d4bd3a7e3bba37855",
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-01T20:08:13+00:00"
-    },
-    {
-      "id": "3ab818632c1707cc53c83bf76cf3223fb951a464f9de81fa17e2e79603dce972",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T19:40:06+00:00"
     }
   ]
 }
