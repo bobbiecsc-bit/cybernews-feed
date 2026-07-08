@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-08T02:25:10.155807+00:00",
+  "updated": "2026-07-08T08:22:23.821797+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8fa0fcbc82e1ebb23415bd74b90d9f9ef03557385c1762e7d776c1643e6feb82",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-04T14:16:38+00:00"
+    },
+    {
+      "id": "05aacbc9930d8717a22d1345f396c16afe94a00080014114e3c89931322e0dc5",
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos,",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-04T12:47:53+00:00"
+    },
+    {
+      "id": "6e9f5188f8e28888dec0c453ee57ce4bb96329209a8d0b920776cefc911ea334",
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malic",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-04T11:17:24+00:00"
+    },
+    {
+      "id": "d46c218220428012a55cb72242afb6a0846ea61f5cf060ad5179cb598e350687",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs secur",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T20:19:31+00:00"
+    },
     {
       "id": "2cc6f7ea502392316c4919c5f887bcc572666ea2bb4b0fad9c71b1d2a9c06331",
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-01T13:56:18+00:00"
-    },
-    {
-      "id": "7e80488f63fc4527f19c6acfd1336bd203d3620bf7b734590dfecbb9184ecd6e",
-      "title": "Japanese insurer, brewer, manufacturer and telecom disclose cyber breaches",
-      "url": "https://therecord.media/japan-cyber-breaches-aflac-sapporo-nidec-kddi",
-      "summary": "Aflac's Tokyo arm and brewer Sapporo are among the major Japanese companies to recently notify the public about data breaches.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-01T13:10:00+00:00"
-    },
-    {
-      "id": "b2ff03fc828da7b014a20e90d0e499946fe98301d8194d5aed000715ca4ca65b",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
-      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T12:59:19+00:00"
-    },
-    {
-      "id": "bb8831b92008a9a6ffb890249e3528987726049f65e8f64f5eb04baf5f83082d",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-01T12:30:01+00:00"
-    },
-    {
-      "id": "296baaa7e5eb3ddee116b27eb2809905b509a836685512a5a3932df2f270d72f",
-      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-01T11:27:07+00:00"
     }
   ]
 }
