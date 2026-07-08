@@ -1,10 +1,100 @@
 {
-  "updated": "2026-07-08T08:22:23.821797+00:00",
+  "updated": "2026-07-08T13:56:00.394319+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f1a33bf948ee20fef2b93554e1e39b5abf7a69f9fe77711058464905a0371581",
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "url": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-29T20:30:28+00:00"
+    },
+    {
+      "id": "5ee7da80f016bb4849db45bf56023fa7d8e45156581d36d45958723f392b9332",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft s",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-29T15:40:00+00:00"
+    },
+    {
+      "id": "3dc834659c97c1b2c0a01962d49385e8d5a8a967223a83791b0b381be257eaa1",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-29T15:30:00+00:00"
+    },
+    {
+      "id": "b90cff942ffb533ab707172516b9f2446258e9b77e08038f3a20afbae29d474e",
+      "title": "US posts $10 million reward over Russian cyber campaign targeting Signal, WhatsApp",
+      "url": "https://therecord.media/10million-reward-us-russian-hackers-unc4221-unc5792",
+      "summary": "Russia-linked hacking groups tracked as UNC5792 and UNC4221 have socially engineered their way into the messaging accounts of government officials.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-29T15:20:00+00:00"
+    },
+    {
+      "id": "5b93a99b987c1db24855118f2848b143395019fa57b73230eca11ca9e0fbc320",
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "summary": "The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit&nbsp;found active compromises inside Indian gov",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-29T15:03:40+00:00"
+    },
+    {
+      "id": "39206295ba6c3c88c0fb22cc86a903b39720fdddfb94742ab7a9b448161cecfc",
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-29T14:41:07+00:00"
+    },
+    {
+      "id": "47517115b299a537ee4eb56a48537a9b533ef3d937edb6c88ac1606ad5174acd",
+      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+      "url": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-29T14:28:40+00:00"
+    },
+    {
+      "id": "4517650cc5d727ff70ab329c54e0b7977556d57d2a1c3372112b9224e2a786d3",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-29T14:01:11+00:00"
+    },
+    {
+      "id": "52781c932d2c42d8b5934ec4f59e163ed33d78cfa14d2cf33af065974751a6f7",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T14:00:00+00:00"
+    },
+    {
+      "id": "ad4d93174220db78eedf6db5da45c71965002a0175c97da01d74a6a37953cc5f",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-06-29T13:46:17+00:00"
+    },
     {
       "id": "45b3de4134dc5b77026d4114e4a960bee925f769b5f91ad57c82d264c6e2990c",
       "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
@@ -364,96 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-06-25T14:45:00+00:00"
-    },
-    {
-      "id": "8b7bff9926fd1783a34598b146752b4b6d8a1e4c1999ae675dba15fa65efbfc2",
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "url": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-25T14:01:11+00:00"
-    },
-    {
-      "id": "3ea4be44eddd37450d6d1e44a6b3c57033c1d9d57a6a3b0d0eb41d3a9e1d8696",
-      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-      "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was no",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-25T12:24:43+00:00"
-    },
-    {
-      "id": "ac6df436368381d8aea64ec83e109665e76bff8b50da1f5e7f3a49967d379762",
-      "title": "Ukraine's state postal operator reports app disruption after cyberattack",
-      "url": "https://therecord.media/ukraine-state-postal-operator-reports-disruption",
-      "summary": "Ukraine's state-owned postal operator said it was experiencing disruptions to some of its app services due to a suspected cyberattack, but did not say who was behind it.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-06-25T12:16:00+00:00"
-    },
-    {
-      "id": "2c05ea884ee1b725ba6d6e2b06c59f6853360b91ce0a4a3213ba3f9f98acf301",
-      "title": "Russia used Cellebrite phone-hacking tool to crack down on dissident after firm cut off country",
-      "url": "https://therecord.media/russia-used-cellebrite-tool-after-company-pulled-out-of-country",
-      "summary": "The continued use of the powerful data extraction product soon after the company in March 2021 said it would stop working with Russia suggests the firm has been unable to pull back its technology from authoritarian government customers, researchers say.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-06-25T12:15:00+00:00"
-    },
-    {
-      "id": "e2767d5bece11992967b00c67916199f44992e816a2d4a69caf0f3903be1eaab",
-      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-25T12:12:20+00:00"
-    },
-    {
-      "id": "2409997df5bfed8006200b1dce95eefaf615c0b3aa47047dc1d90b6cd0fae637",
-      "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
-      "url": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-25T12:07:00+00:00"
-    },
-    {
-      "id": "60db22c4c61ee788faa13b55c87889abed1db84f59499a1a715196aeaec2ce95",
-      "title": "Interesting Paper Exploring Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
-      "summary": "This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the ",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-06-25T11:23:58+00:00"
-    },
-    {
-      "id": "fbfd246ff3df52cb6a5668e7a217123ae9f7fc7a2297208f579032e32144874e",
-      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
-      "url": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
-      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T11:23:40+00:00"
-    },
-    {
-      "id": "bdd63d04b540fc20391838cc5df726fd34b8e1274d4912cc159ac4f7163301c5",
-      "title": "25-Year-Old Vulnerability Patched in Curl",
-      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T09:25:02+00:00"
-    },
-    {
-      "id": "c96f9691fd679ba921770e08a346dde535ef4b5be13c0e7add4d14217ff585b1",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-25T09:23:03+00:00"
     }
   ]
 }
