@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-09T14:50:48.161770+00:00",
+  "updated": "2026-07-09T19:40:02.110152+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f4a911d05ca8c2aec85c7e6d412d463e73a57f71512431d8b1c7cead0b9798f3",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T07:06:34+00:00"
+    },
+    {
+      "id": "7cabef5472985b2cc2b11457dd58130704f84a8260df413617d7c014a57dbad8",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-29T05:36:06+00:00"
+    },
+    {
+      "id": "cec26a23b69ea29a8ebf4f8393059cb93b1e7692224d8c9f696422f751125c4f",
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-06-28T14:13:46+00:00"
+    },
+    {
+      "id": "e86a6f4ab0d92bbe7ed8efec5768c5ce74e1e73787e87d69e25c9580abb7c97a",
+      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-27T17:27:11+00:00"
+    },
     {
       "id": "de56754b14d8a74bb8ca8b06b650583d5fe536c54c73c7ec3e5bab77513eb1ce",
       "title": "Clean GitHub repo tricks AI coding agents into running malware",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-06-24T21:29:10+00:00"
-    },
-    {
-      "id": "9fda4c921855366e8594d0c2ec19cce3a75a39d387e8498b70fa44e253348b08",
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-24T20:58:22+00:00"
-    },
-    {
-      "id": "ad57d6a41bf8e995e3e53f7e0b2eb60b57f48e4057349cf9ec193021d4ec7707",
-      "title": "Three ‘cybercrime as a service’ operations undercut by Microsoft, law enforcement",
-      "url": "https://therecord.media/stealc-amadey-socgholish-malware-takedown-europol-microsoft",
-      "summary": "Microsoft touted its latest action against malware infrastructure as a new approach aimed at the full cybercrime \"supply chain.\" Europol said more than 300 servers were targeted.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-06-24T20:00:00+00:00"
-    },
-    {
-      "id": "bc19a46504a234416b8a902727be66ad868c1488a724ae07429611dd1503192c",
-      "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
-      "url": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-      "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-24T17:37:57+00:00"
-    },
-    {
-      "id": "8762e9a00f1a6e2ce277ed9ec86fc3206322d94ba803c815623a518374eff29e",
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "url": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in questio",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-24T17:19:18+00:00"
     }
   ]
 }

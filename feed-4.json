@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-09T14:50:48.161770+00:00",
+  "updated": "2026-07-09T19:40:02.110152+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b7b25639c6d8c50e86024c744d74d0f9d88ab0b324efe0b5bf7ccbf9af86a4a0",
+      "title": "Massive Password Spray Campaign Targeting Azure CLI",
+      "url": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
+      "summary": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-01T07:46:33+00:00"
+    },
+    {
+      "id": "44a6c2420ef97e8c0cb96cde75d6aa9cbe3768bbb68199e0b0ea807e1e319e93",
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-01T07:34:52+00:00"
+    },
+    {
+      "id": "7479cc50fb44aa114a0d8295a37dd52b2e07dad5ba029d1f30d71f9a6b225078",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks'&nbsp;Unit 42&nbsp;calls the trick phantom squattin",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T07:20:51+00:00"
+    },
+    {
+      "id": "d98e0acdce403d781a88ef6437673568b8a4e41591ef48b278e82bd1ecd3a607",
+      "title": "Google Patches 382 Chrome Vulnerabilities",
+      "url": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
+      "summary": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’. The post Google Patches 382 Chrome Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-01T06:14:41+00:00"
+    },
     {
       "id": "374f9ab4167b64b568ae54f0b86f9fb949aefd1087aa2c5a4a8cf2584a7b5879",
       "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-29T08:32:31+00:00"
-    },
-    {
-      "id": "f4a911d05ca8c2aec85c7e6d412d463e73a57f71512431d8b1c7cead0b9798f3",
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-29T07:06:34+00:00"
-    },
-    {
-      "id": "7cabef5472985b2cc2b11457dd58130704f84a8260df413617d7c014a57dbad8",
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-29T05:36:06+00:00"
-    },
-    {
-      "id": "cec26a23b69ea29a8ebf4f8393059cb93b1e7692224d8c9f696422f751125c4f",
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-28T14:13:46+00:00"
-    },
-    {
-      "id": "e86a6f4ab0d92bbe7ed8efec5768c5ce74e1e73787e87d69e25c9580abb7c97a",
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-27T17:27:11+00:00"
     }
   ]
 }
