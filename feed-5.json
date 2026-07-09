@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-09T02:39:31.978684+00:00",
+  "updated": "2026-07-09T09:33:04.916971+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7039d0c8754bd531baf6be8359aa2af0ca7a0529d4316c290ef16197ba38d376",
+      "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
+      "url": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
+      "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-06-26T15:23:46+00:00"
+    },
+    {
+      "id": "51c556a3429b96d76c2eafbd12ea5e5088acc3b44fc0ec592487da9113bf4ef5",
+      "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
+      "url": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
+      "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T15:01:33+00:00"
+    },
+    {
+      "id": "0ab149a4a2bb77be2584a515ede520ba96c041a1ea79a217c7fe3ffaecafc8af",
+      "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+      "url": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs a",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-06-26T14:30:00+00:00"
+    },
+    {
+      "id": "1b5999f52bb0ca151ee8f1766e8d0fdb121e24e54a262ca5240e1a6ce1e647b1",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:57:55+00:00"
+    },
+    {
+      "id": "1fc5c8704160b449bddf3ad432079a1565f81d3701977f37f356620c49f68c44",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T13:53:00+00:00"
+    },
+    {
+      "id": "92660f56b61f78c012f644ba658994478bdb30575474952f23c792621f7bf856",
+      "title": "Turla group adds more malware to Russia’s espionage efforts against Ukraine",
+      "url": "https://therecord.media/russia-turla-espionage-ukraine-stockstay-malware",
+      "summary": "Threat intelligence researchers at Google described StockStay, the latest malware developed by the Russian cyber-espionage group known as Turla.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-06-26T13:30:00+00:00"
+    },
+    {
+      "id": "3a0cb91d3ac1b8d8f2bb262150211c74e84f9c7bf2b0dafda0ed38b4fd9c76da",
+      "title": "Russia used social engineering to breach prominent messaging accounts, Ukraine says",
+      "url": "https://therecord.media/russia-ukraine-social-engineering-messaging-accounts",
+      "summary": "Ukraine's SBU described a long-running Russian operation that used fake tech-support workers to persuade people to hand over credentials to their messaging apps.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-06-26T13:10:00+00:00"
+    },
+    {
+      "id": "791ebe6794b3e37117852eb3e4234f31121fec93ce2be35eb01ec05aa345d54f",
+      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+      "url": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+      "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-06-26T12:37:13+00:00"
+    },
     {
       "id": "b24c44ec2fbf1964ac70b97f18862ccd2a9c3706339eedf3f49812275382f9b5",
       "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-06-24T12:52:40+00:00"
-    },
-    {
-      "id": "2b83558ed41317dfb1dd65df0e5f67ab68b78e65051d530271a2ad0587815ef5",
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-      "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositori",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-24T12:48:11+00:00"
-    },
-    {
-      "id": "c984e2d610e5c199bb2050c75283fd7350d257336e7413a31f05c4a6aadb0004",
-      "title": "Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands. The post Critical Ubiquiti Vulnerabilities in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T12:32:17+00:00"
-    },
-    {
-      "id": "47b0a83b40fd2f82b809c4159a381537f2a80bc7d9d138fb23efd99c55dd3ad0",
-      "title": "New ‘Mistic’ RAT Opens Door to Several Ransomware Families",
-      "url": "https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/",
-      "summary": "Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta. The post New &#8216;Mistic&#8217; RAT Opens Door to Several Ransomware Families appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-06-24T11:42:38+00:00"
-    },
-    {
-      "id": "576c889a980f66ab082f8846d0634c1ad2be04c267bb1a0f5171f02429b7e7e7",
-      "title": "Dawn of the Apex Agentic Adversary",
-      "url": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-      "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats. For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-24T11:30:00+00:00"
-    },
-    {
-      "id": "0c4fd4988cafac827a679d5c5ccdd463c3f29975a1d27993750c227124cf398d",
-      "title": "Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking",
-      "url": "https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/",
-      "summary": "The security defects allow unauthenticated users to take control of the open source software supply chain. The post Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T10:55:05+00:00"
-    },
-    {
-      "id": "4e3e0174b1c9e07f708a1ebdca06f332ed437bdee6a332dbb7eca3044313d193",
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-24T10:41:51+00:00"
-    },
-    {
-      "id": "f73252cbc2472bfd8e5b64ed5879f1255212d1e77a6845f936c8a138c6ee6cb6",
-      "title": "BeyondTrust, LastPass Impacted by Klue-Salesforce Incident",
-      "url": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
-      "summary": "Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances. The post BeyondTrust, LastPass Impacted by Klue-Salesforce Incident appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-24T10:03:06+00:00"
-    },
-    {
-      "id": "174667085d103c98f88b6df3f4aac8b4c4e34365ee905b20dfaf1e46d6e5041b",
-      "title": "Webinar Today: Modern Exposure Validation in the AI Era",
-      "url": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
-      "summary": "The exploit timeline collapsed. Make sure your validation didn't. The post Webinar Today: Modern Exposure Validation in the AI Era appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-24T08:04:37+00:00"
     }
   ]
 }
