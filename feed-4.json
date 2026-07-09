@@ -1,10 +1,91 @@
 {
-  "updated": "2026-07-09T09:33:04.916971+00:00",
+  "updated": "2026-07-09T14:50:48.161770+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "374f9ab4167b64b568ae54f0b86f9fb949aefd1087aa2c5a4a8cf2584a7b5879",
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by int",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-01T05:46:03+00:00"
+    },
+    {
+      "id": "96018ae748e76824fd1f9de39dc1e2d2d390e97239c69793363e0f6f9bd9201a",
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T05:32:12+00:00"
+    },
+    {
+      "id": "1cb3b986e9fa401fa68600ede5a1600a2f47b2f159cbf080a816da85dffcdb32",
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T03:54:22+00:00"
+    },
+    {
+      "id": "f8f064e7c48c5c93fe683185adebc460ba53f6c5d24c202002720773856b555c",
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-30T21:50:24+00:00"
+    },
+    {
+      "id": "e1f38ad12459c8829f8353763de4a56e3cd7de152ba12bb362316bda09bf7604",
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-06-30T21:02:55+00:00"
+    },
+    {
+      "id": "ce35f07949665590fe9c521e5e155109c1685ed19fad0aebdee6232c44f02133",
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-30T17:46:07+00:00"
+    },
+    {
+      "id": "288f4efe990f5fb852c16f841bf64914904d300c1f667878ecbf9ea1bfb9004a",
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and sa",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-06-30T17:45:25+00:00"
+    },
+    {
+      "id": "e0c03dad168c1e562526b2d6c1c9df19592738cfd85d3e762d229251f5d5db62",
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, i",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-06-30T15:47:20+00:00"
+    },
+    {
+      "id": "3df655a064153222ec5c273527a7c55432f3d846491d2d4e54b8ef025d34f6b7",
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campai",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-06-30T15:40:18+00:00"
+    },
     {
       "id": "464d8865c926603db35c0aff0a5971236ee574c63c50d5199b304d0bc9729db5",
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-06-27T17:27:11+00:00"
-    },
-    {
-      "id": "de56754b14d8a74bb8ca8b06b650583d5fe536c54c73c7ec3e5bab77513eb1ce",
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-27T14:22:36+00:00"
-    },
-    {
-      "id": "08e813096a2015d65237129b571c66d049334ff73d4be0cc19e0cfb97353db97",
-      "title": "Chinese Framework Powers 200,000 Scam Sites",
-      "url": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-      "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-27T12:13:51+00:00"
-    },
-    {
-      "id": "890dfe9b44f3062f8f2bf2f1438b93f41d3d32377ffdd9e7c34843b274fbcec6",
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-26T22:06:17+00:00"
-    },
-    {
-      "id": "e646fd2eaf72a8f1dbd8de76674028f18a2ba75cc226bc2e8095449ebf96bcfe",
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-26T19:43:06+00:00"
-    },
-    {
-      "id": "b65ad5370391f6ef219497e7ce46cd1a7dc3cd4da7b40c35ffa47eb81fc37ba3",
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read t",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-26T19:38:29+00:00"
-    },
-    {
-      "id": "106115782ae58fb8571c6025da4227be26ce7e09efb718bad751a778a55ff549",
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-26T18:17:46+00:00"
-    },
-    {
-      "id": "b2c74908a5fe6c652b42a4d3bf4bc774f382b6ef51b2c4f01d6ae0ffffaa1871",
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-26T18:04:12+00:00"
-    },
-    {
-      "id": "db2eef207e4395b9b2ebfd2a051d43807bcf0faa5e4063a2b7745e56f705f630",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-26T17:49:07+00:00"
-    },
-    {
-      "id": "5a776720550c539d415873f3de945375834f1b5ba226b002e15c4f1d6dfb6cca",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-26T16:21:25+00:00"
     }
   ]
 }
