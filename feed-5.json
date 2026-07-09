@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-08T19:19:55.794401+00:00",
+  "updated": "2026-07-09T02:39:31.978684+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b24c44ec2fbf1964ac70b97f18862ccd2a9c3706339eedf3f49812275382f9b5",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T12:31:56+00:00"
+    },
+    {
+      "id": "e0deeaecb1191050da81584d7703e689a1d1d8570bdcf2034b2af568f4c762c2",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant. Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-06-26T11:51:35+00:00"
+    },
     {
       "id": "a281862d1650b7fe2ac08ee23776d5ea4f3920fbf6c9ec9a590fef4f10e2497f",
       "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-06-24T08:04:37+00:00"
-    },
-    {
-      "id": "445f28934d8b411a430b4cffced8eb27025dd5fe9c5ee90c8f809ec916d06b9c",
-      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-      "url": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of imp",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-24T06:50:38+00:00"
-    },
-    {
-      "id": "952d0d35ba967328a3b19ca82f37bff75a49c1d3057c1b299ce3fa125b5b0c3c",
-      "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
-      "url": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
-      "summary": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-24T05:44:15+00:00"
     }
   ]
 }
