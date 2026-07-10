@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-10T02:41:46.883699+00:00",
+  "updated": "2026-07-10T09:28:59.444785+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0e40a06dbfa836ba95b581eee2c701bf366cbad342932971392b485a0dcbbc11",
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-08T07:16:55+00:00"
+    },
+    {
+      "id": "ff55f94eaa8b8ae650888feda11dd4be0f8b057226e2830667cdabfe00cbe280",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "summary": "Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distrib",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-08T06:16:44+00:00"
+    },
+    {
+      "id": "963a877b9f495bda7b9c3ad9d21b691cd9c123e9300d6f03998f5d9b736e72ac",
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerabilit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-08T05:33:12+00:00"
+    },
+    {
+      "id": "8b7dadd2802da2169b005c76d0e4b1f0daa4e3cf45b67ead146f3710c217bd0a",
+      "title": "Accenture confirms breach after hacker offers stolen data for sale",
+      "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-07T22:06:07+00:00"
+    },
+    {
+      "id": "d209aa72b2ff6de86d9c8d41263d3befd70b1bc975234d7af144b1ec4760b4a3",
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-07T18:52:19+00:00"
+    },
     {
       "id": "cede3de819da9d2ab12c5ed16c834652049e4e1037429e94829b1a430a70ade5",
       "title": "Hidden backdoor in Tenda router firmware grants admin access",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-04T14:16:38+00:00"
-    },
-    {
-      "id": "05aacbc9930d8717a22d1345f396c16afe94a00080014114e3c89931322e0dc5",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos,",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-04T12:47:53+00:00"
-    },
-    {
-      "id": "6e9f5188f8e28888dec0c453ee57ce4bb96329209a8d0b920776cefc911ea334",
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malic",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-04T11:17:24+00:00"
-    },
-    {
-      "id": "d46c218220428012a55cb72242afb6a0846ea61f5cf060ad5179cb598e350687",
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "summary": "Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs secur",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-03T20:19:31+00:00"
-    },
-    {
-      "id": "2cc6f7ea502392316c4919c5f887bcc572666ea2bb4b0fad9c71b1d2a9c06331",
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-03T19:40:01+00:00"
-    },
-    {
-      "id": "46e49c37279274c9c58f9531a9cbfea69022f57a75d476685d159de446675ffc",
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recov",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-03T18:55:24+00:00"
     }
   ]
 }

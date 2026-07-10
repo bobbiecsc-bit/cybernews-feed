@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-10T02:41:46.883699+00:00",
+  "updated": "2026-07-10T09:28:59.444785+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f6d25d1da8c83e43335b254848c9de7aa3e3b7c95de9094cf124922c2b12b623",
+      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+      "url": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+      "summary": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command. The post GigaWiper Combines Multiple Malware for System-Level Sabotage appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-10T09:12:08+00:00"
+    },
+    {
+      "id": "e7072c365c4f14e2943c8ecbed82d018f48d70ceff463832e5ca2241ee487b31",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "summary": "Security firm&nbsp;Coinspect&nbsp;has disclosed a crypto wallet flaw it calls&nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can wo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-10T09:00:05+00:00"
+    },
+    {
+      "id": "ebb3f12406cbcb4fa46e1a8a57d3ddeba3c86d674272ab0d238eaf936e0890c3",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-10T08:17:52+00:00"
+    },
+    {
+      "id": "e3c6a613033a6321d7c588522992bc4909b3724c48ab39fd2fab48dc54d20864",
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-10T08:10:12+00:00"
+    },
+    {
+      "id": "9ad822f84b1496c6a01502b4c73fefae11cd002a769cdab186123d754739839d",
+      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+      "url": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+      "summary": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware. The post Network of 200 GitHub Repositories Used for Malware Infection appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-10T08:00:14+00:00"
+    },
     {
       "id": "107733d883d24ed35c8089c8a07189c1d66d70710f978f0e2e5ea96472c72c7e",
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-06-25T08:54:37+00:00"
-    },
-    {
-      "id": "4ae331de38d6d1290476415a4f9e44beadd52e7f9815b58199bbffd049e2508a",
-      "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-      "summary": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T07:56:03+00:00"
-    },
-    {
-      "id": "49425be03d3bdd528470dce0079d82a31f34badeb78088ebbd64f7fec6c19e41",
-      "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-      "summary": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-25T06:08:43+00:00"
-    },
-    {
-      "id": "b2d031cc00c908b13414e426f1efb81d1917db1df2b86f276d8a941afdf9cc66",
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8),",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-06-25T05:46:54+00:00"
-    },
-    {
-      "id": "6a948f35af384c88c4ad415b0f94c0a65e51d248a477cca97ccc857268c05444",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-24T21:55:43+00:00"
-    },
-    {
-      "id": "b4039c7adbb32e2bd1232e51f254cac9a7791610fba270ab76e993e2fbaf77fa",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-24T21:29:10+00:00"
     }
   ]
 }
