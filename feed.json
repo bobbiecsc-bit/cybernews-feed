@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-10T19:22:20.937348+00:00",
+  "updated": "2026-07-11T02:22:52.255324+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3876d90cd5c8f02c735bcb439d0d414f5a03137746b508a3f035f923a8a988fc",
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-10T21:59:02+00:00"
+    },
+    {
+      "id": "9bdf92e77473ac09b5d810927cb51dfef286c04e885095a0c08c23786cff05de",
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "summary": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-07-10T21:07:13+00:00"
+    },
     {
       "id": "c1cde371766464bd3a8a632707c8696c39e4c21940f5945bb9ca5a0c8a6a108c",
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-09T05:00:41+00:00"
-    },
-    {
-      "id": "4e6a511c59f1852d42cf810653617173fbb20c7f0bc2977cb09c4db19d4e483e",
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T04:27:18+00:00"
-    },
-    {
-      "id": "1c061cbc0f4453a3f17c9b831f630979e2882ca0600efab1aed7f84739e488b4",
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DN",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T04:01:49+00:00"
     }
   ]
 }
