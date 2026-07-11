@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-11T13:11:15.689593+00:00",
+  "updated": "2026-07-11T18:57:04.916725+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e5c47ef352f28d1b3d91ad980f98f4d0b8b749fdca69af1e87ebda2610fd021a",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+      "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-09T07:47:16+00:00"
+    },
+    {
+      "id": "ee8b09e1b07838302ab43a94825ec20f51902a8bd6589e555e287df1a742d775",
+      "title": "Chrome 150 Update Patches 27 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+      "summary": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google. The post Chrome 150 Update Patches 27 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-09T07:27:59+00:00"
+    },
+    {
+      "id": "3e97c161bf27062fe7e0bfc38bb5f5df6a9c1f96e4a8b19e99faed7cba3d2f6c",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-09T05:42:49+00:00"
+    },
+    {
+      "id": "85ed5e7b7d468fa62e1db025daadc47328b46d93418f8fe144a4869929336974",
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Clau",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-09T05:15:02+00:00"
+    },
     {
       "id": "7b6924f9c9bd369dd8acc94525c817bb5a2fb2855cd011d98a17b4525a69962a",
       "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-07T12:38:34+00:00"
-    },
-    {
-      "id": "e28a417268d11ac7e3bb3416412ecc7cb66033867770a0915a76937dd1e0dcba",
-      "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
-      "url": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
-      "summary": "Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel. The post Iran-Linked Hackers Using Modular C&amp;C Framework in Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-07T12:21:56+00:00"
-    },
-    {
-      "id": "46c8c5f2acb880df5730548770d6b768c3c42bda3a46cdd67830a3ceb9a53f08",
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated investigation and response workflows. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-07T12:12:20+00:00"
-    },
-    {
-      "id": "541ee5d1fb0abd5a33ea9285c9787a8b12c4adff0f001447e44bbd7214351a69",
-      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-      "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-07T12:06:09+00:00"
-    },
-    {
-      "id": "68c9c5cd7554d920c3fbe2abcd23d75c807f271cebd0e7a4abf8ea52d4c11d46",
-      "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
-      "url": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
-      "summary": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-07T10:00:00+00:00"
     }
   ]
 }
