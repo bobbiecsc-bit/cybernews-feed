@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-12T13:12:54.116212+00:00",
+  "updated": "2026-07-12T19:00:23.036858+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7c20169ea7d15f0eb2a55081fabfc2c42fe8ab34a70d120324d59fdc4bc0b42b",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-12T14:27:32+00:00"
+    },
     {
       "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-09T08:52:21+00:00"
-    },
-    {
-      "id": "d24c0cd60c39d202b7451e07b38b36f21025f913f2b98bf690634cd2a179d653",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T08:48:48+00:00"
     }
   ]
 }
