@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-11T18:57:04.916725+00:00",
+  "updated": "2026-07-12T02:27:40.956821+00:00",
   "total": 250,
   "articles": [
     {
       "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "Version&nbsp;8.14.0&nbsp;of the jscrambler npm package shipped with a malicious&nbsp;preinstall&nbsp;hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on July 11, 2026, it needs no import and no CLI call. Installing 8.",
+      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-07-11T17:59:26+00:00"
