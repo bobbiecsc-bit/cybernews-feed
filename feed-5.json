@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-13T14:29:46.119261+00:00",
+  "updated": "2026-07-13T19:19:07.798107+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "291f9cd83783fb1cdac0e1f3419244d7f7d59cf608f423ffd4c807eb4c5f36dc",
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T15:25:46+00:00"
+    },
+    {
+      "id": "3b3d2e86775bb11119d6d8dab4167270a701e7383accb57206e508fa00b10e36",
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs&nbsp;found the pair and named them DuneSlide. They are",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T14:42:54+00:00"
+    },
+    {
+      "id": "63c4c93d353eea9bcf88413e1c1780d3dfd48838eb75257b078e9b4cf1db4df4",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-01T14:01:11+00:00"
+    },
+    {
+      "id": "1dd7fefe18ac74e82735a0688a3f795ccc5ee928e4c0e8d2aac48e98f5caadb4",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score:",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-01T13:56:18+00:00"
+    },
+    {
+      "id": "7e80488f63fc4527f19c6acfd1336bd203d3620bf7b734590dfecbb9184ecd6e",
+      "title": "Japanese insurer, brewer, manufacturer and telecom disclose cyber breaches",
+      "url": "https://therecord.media/japan-cyber-breaches-aflac-sapporo-nidec-kddi",
+      "summary": "Aflac's Tokyo arm and brewer Sapporo are among the major Japanese companies to recently notify the public about data breaches.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-01T13:10:00+00:00"
+    },
+    {
+      "id": "b2ff03fc828da7b014a20e90d0e499946fe98301d8194d5aed000715ca4ca65b",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-01T12:59:19+00:00"
+    },
+    {
+      "id": "bb8831b92008a9a6ffb890249e3528987726049f65e8f64f5eb04baf5f83082d",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-01T12:30:01+00:00"
+    },
+    {
+      "id": "296baaa7e5eb3ddee116b27eb2809905b509a836685512a5a3932df2f270d72f",
+      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
+      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
+      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-01T11:27:07+00:00"
+    },
     {
       "id": "771760991c56201378c5abdb8c08b2ad42426cd4c3a6f22b2586051f170a7acc",
       "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
@@ -382,78 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-06-29T14:41:07+00:00"
-    },
-    {
-      "id": "47517115b299a537ee4eb56a48537a9b533ef3d937edb6c88ac1606ad5174acd",
-      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-      "url": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-06-29T14:28:40+00:00"
-    },
-    {
-      "id": "4517650cc5d727ff70ab329c54e0b7977556d57d2a1c3372112b9224e2a786d3",
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-29T14:01:11+00:00"
-    },
-    {
-      "id": "52781c932d2c42d8b5934ec4f59e163ed33d78cfa14d2cf33af065974751a6f7",
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-29T14:00:00+00:00"
-    },
-    {
-      "id": "ad4d93174220db78eedf6db5da45c71965002a0175c97da01d74a6a37953cc5f",
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-29T13:46:17+00:00"
-    },
-    {
-      "id": "45b3de4134dc5b77026d4114e4a960bee925f769b5f91ad57c82d264c6e2990c",
-      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-      "url": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-      "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-06-29T13:42:28+00:00"
-    },
-    {
-      "id": "4913d1691ebd55e4d3bfd558f4911ac30fd2e94998e6f2d15ac2ec985230c06e",
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-06-29T12:14:22+00:00"
-    },
-    {
-      "id": "9eaf1ecb1081054777085824a13b8cd3f07b2c996d108bd5a05473be13d2164e",
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-29T11:40:24+00:00"
-    },
-    {
-      "id": "c78a28c776a133e65cbbe3b4505e28ccdd690e5b43f1a511eb74d5e9f1e6d3a5",
-      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-      "url": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-      "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post &#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-06-29T11:20:13+00:00"
     }
   ]
 }
