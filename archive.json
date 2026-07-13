@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-13T02:28:56.066164+00:00",
+  "updated": "2026-07-13T09:19:17.877434+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "cb362daf6cb1dc5c1693fa0ff4dc1fbe91f067f56c1b3cfa26bc625ec1a8954d",
+      "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
+      "summary": "Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution. The post Organizations Warned of Exploited Joomla Extension Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-13T09:08:02+00:00"
+    },
+    {
+      "id": "859e0538709ba22f9183a7c7560311bca3145a6c2e295fc6e75ab820ba409fd1",
+      "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
+      "url": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
+      "summary": "The company notified customers to manually shut down their servers while it is investigating a credible threat. The post Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-13T08:20:46+00:00"
+    },
+    {
+      "id": "030a0870b535df11167db32dd630cb9b2b594d1690f0dd1c9245d1f299dd5b44",
+      "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+      "url": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
+      "summary": "The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider. The post Centers Laboratory Data Breach Affects 540,000 Individuals appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-13T08:10:44+00:00"
+    },
+    {
+      "id": "b23bf6e48280a3fd1f3f0b7db37a15e9a1938e07269536c759cbbe206903190d",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history. From that one lapse, French security fi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-13T07:30:00+00:00"
+    },
+    {
+      "id": "c1d2b64b551f5c7eafd0c82620e276d4a72f1b44c7cce8715bd8d654938d3535",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-13T05:36:02+00:00"
+    },
+    {
+      "id": "045279e770fb07842e6d510e79f3c4ef31461d696944c4053ba98d6aea04a220",
+      "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
+      "url": "https://isc.sans.edu/diary/rss/33150",
+      "summary": "The setup&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-07-13T04:22:02+00:00"
+    },
     {
       "id": "7c20169ea7d15f0eb2a55081fabfc2c42fe8ab34a70d120324d59fdc4bc0b42b",
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
@@ -2197,60 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-06-26T22:06:17+00:00"
-    },
-    {
-      "id": "e646fd2eaf72a8f1dbd8de76674028f18a2ba75cc226bc2e8095449ebf96bcfe",
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-06-26T19:43:06+00:00"
-    },
-    {
-      "id": "b65ad5370391f6ef219497e7ce46cd1a7dc3cd4da7b40c35ffa47eb81fc37ba3",
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read t",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-26T19:38:29+00:00"
-    },
-    {
-      "id": "106115782ae58fb8571c6025da4227be26ce7e09efb718bad751a778a55ff549",
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-06-26T18:17:46+00:00"
-    },
-    {
-      "id": "b2c74908a5fe6c652b42a4d3bf4bc774f382b6ef51b2c4f01d6ae0ffffaa1871",
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-06-26T18:04:12+00:00"
-    },
-    {
-      "id": "db2eef207e4395b9b2ebfd2a051d43807bcf0faa5e4063a2b7745e56f705f630",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-26T17:49:07+00:00"
-    },
-    {
-      "id": "5a776720550c539d415873f3de945375834f1b5ba226b002e15c4f1d6dfb6cca",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-26T16:21:25+00:00"
     }
   ]
 }
