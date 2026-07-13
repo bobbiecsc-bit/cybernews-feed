@@ -1,10 +1,91 @@
 {
-  "updated": "2026-07-13T09:19:17.877434+00:00",
+  "updated": "2026-07-13T14:29:46.119261+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2cc6f7ea502392316c4919c5f887bcc572666ea2bb4b0fad9c71b1d2a9c06331",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-03T19:40:01+00:00"
+    },
+    {
+      "id": "46e49c37279274c9c58f9531a9cbfea69022f57a75d476685d159de446675ffc",
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recov",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-03T18:55:24+00:00"
+    },
+    {
+      "id": "af919c1063f3ac9eeea4167f722019d27ab281de498ace2821c396ba7fbbdf92",
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legiti",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-03T16:07:15+00:00"
+    },
+    {
+      "id": "70fe8b4c89fa43b8ac8ba8067110ea3d5e74f6018e9c8a82ea1c4f22ff3ed560",
+      "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
+      "url": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM ",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-03T15:10:42+00:00"
+    },
+    {
+      "id": "72b8c901a04ed3e25972cdcec950087a236a454b91aaeca0104a3c14506df6b8",
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "url": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cybe",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-03T13:36:33+00:00"
+    },
+    {
+      "id": "8f8ffebc335e9338d03722ad02d946a268c299834ca15fd8f027f850aad6b702",
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
+      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-03T11:05:43+00:00"
+    },
+    {
+      "id": "6eae28bb3566379824ee448f5134ed969f35fed0a8350397a10b4052cd81766b",
+      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
+      "url": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+      "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-03T11:00:00+00:00"
+    },
+    {
+      "id": "3c0f3b4326504a06d25def7386f0d0110ff14bd22be3e6ba21f3cb953b2e83ff",
+      "title": "Medtronic Data Breach Impacts 3.8 Million People",
+      "url": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+      "summary": "In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-03T10:00:00+00:00"
+    },
+    {
+      "id": "c1ee7af215588b233054d5c857d64d683eb70fefb99adbbdff2f23de3bf2ceaf",
+      "title": "Alleged Scattered Spider Hacker Extradited to US",
+      "url": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
+      "summary": "Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments. The post Alleged Scattered Spider Hacker Extradited to US appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-03T09:30:00+00:00"
+    },
     {
       "id": "34f818b82c269a3a13b30dc99c0568e9a01570c761920e308c43a158ccd10a02",
       "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-01T11:27:07+00:00"
-    },
-    {
-      "id": "771760991c56201378c5abdb8c08b2ad42426cd4c3a6f22b2586051f170a7acc",
-      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
-      "url": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-      "summary": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-01T11:20:45+00:00"
-    },
-    {
-      "id": "a02db73a372d62794c904ad665abd75e24e888cb8f06a04ca4048ae4315a9555",
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "summary": "Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a ",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-01T10:53:23+00:00"
-    },
-    {
-      "id": "b7b25639c6d8c50e86024c744d74d0f9d88ab0b324efe0b5bf7ccbf9af86a4a0",
-      "title": "Massive Password Spray Campaign Targeting Azure CLI",
-      "url": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
-      "summary": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-01T07:46:33+00:00"
-    },
-    {
-      "id": "44a6c2420ef97e8c0cb96cde75d6aa9cbe3768bbb68199e0b0ea807e1e319e93",
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-01T07:34:52+00:00"
-    },
-    {
-      "id": "7479cc50fb44aa114a0d8295a37dd52b2e07dad5ba029d1f30d71f9a6b225078",
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks'&nbsp;Unit 42&nbsp;calls the trick phantom squattin",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T07:20:51+00:00"
-    },
-    {
-      "id": "d98e0acdce403d781a88ef6437673568b8a4e41591ef48b278e82bd1ecd3a607",
-      "title": "Google Patches 382 Chrome Vulnerabilities",
-      "url": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
-      "summary": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’. The post Google Patches 382 Chrome Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-01T06:14:41+00:00"
-    },
-    {
-      "id": "374f9ab4167b64b568ae54f0b86f9fb949aefd1087aa2c5a4a8cf2584a7b5879",
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by int",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-01T05:46:03+00:00"
-    },
-    {
-      "id": "96018ae748e76824fd1f9de39dc1e2d2d390e97239c69793363e0f6f9bd9201a",
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T05:32:12+00:00"
-    },
-    {
-      "id": "1cb3b986e9fa401fa68600ede5a1600a2f47b2f159cbf080a816da85dffcdb32",
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T03:54:22+00:00"
     }
   ]
 }
