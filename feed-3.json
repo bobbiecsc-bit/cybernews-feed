@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-15T02:06:01.631243+00:00",
+  "updated": "2026-07-15T08:02:38.747448+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "107733d883d24ed35c8089c8a07189c1d66d70710f978f0e2e5ea96472c72c7e",
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveragin",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-09T18:38:49+00:00"
+    },
+    {
+      "id": "eb95a634a0340b775650bc54fa2c06ec57dec782994edbe2618af99a5441ae29",
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from. Each is a different way to break a machine: wipe the whole disk, overw",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-09T18:08:07+00:00"
+    },
+    {
+      "id": "d7c8b88ca3e8f6cdc00537e812a2e2d149eda232aac2df9155b6f1bc69e1fc5e",
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-09T17:08:29+00:00"
+    },
+    {
+      "id": "0ade65d4f76df878699bd14cb3ff1b8a16c861bcb49b6f3f9ffaaf2b02ef56e9",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-09T15:09:28+00:00"
+    },
     {
       "id": "6a17846660449f51b1a3a3c35c598c897ef52ab39e1a7574d97010fb22faa23f",
       "title": "Latvian forestry company still restoring systems weeks after ransomware attack",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-07T18:52:19+00:00"
-    },
-    {
-      "id": "cede3de819da9d2ab12c5ed16c834652049e4e1037429e94829b1a430a70ade5",
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "url": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-07T17:27:22+00:00"
-    },
-    {
-      "id": "c992749379069fa6314da51bda863aff53b9d2b49562f22f4e10bba043668828",
-      "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
-      "url": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
-      "summary": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets. The post Critical Gitea Flaw Under Active Exploitation, Researchers Warn appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-07T17:17:19+00:00"
-    },
-    {
-      "id": "31981167c8139385362489c25fb8f224d6a4fb2337b8d4cf8907bcd731ae1494",
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-07T17:10:15+00:00"
-    },
-    {
-      "id": "4a3aefd50bae8a4a25b4f41f0fe3692c3e273bfae5eeff115846d435bf7e26ea",
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal the data users shared, and make the bots send attac",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-07T16:37:33+00:00"
     }
   ]
 }
