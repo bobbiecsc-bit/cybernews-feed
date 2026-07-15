@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-14T19:14:39.926545+00:00",
+  "updated": "2026-07-15T02:06:01.631243+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b30f9074e01f257cddc159682b74a153956ad261ace5981cec430aa752d13704",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-14T21:23:24+00:00"
+    },
+    {
+      "id": "404b4fa0d004aa61e064841e2f0ab59933ff3336f191570f54def0e3a600746b",
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200. Those two live b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T20:25:47+00:00"
+    },
+    {
+      "id": "14ed99351aac898cc7d4fabad605a883878b125d4475e732c89bd07ee15d44cb",
+      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-14T20:23:09+00:00"
+    },
+    {
+      "id": "b49a657379e32ffb18522a11ef0322750dc25460d92c70a30a6bd6ac1782b1f0",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "id": "697085a54575f51294580076cbf5ea1b54d19af7be48190d2ff180f13b6b74e8",
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-14T19:15:17+00:00"
+    },
     {
       "id": "2c05a6767febb2b2c76fc6e3cef6d20bec8e15046b36492114fba1cfbd1078d0",
       "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
@@ -21,6 +66,15 @@
       "date": "2026-07-14T18:18:45+00:00"
     },
     {
+      "id": "fc120127bd2524a32c303e2218bc2259cc6394288408b70ff97236de69cf8070",
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated at",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T18:17:57+00:00"
+    },
+    {
       "id": "4e4b1ba3efff3fb89640f7fe2da64ede65c066927fc236490a4689f8d811065c",
       "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
@@ -37,6 +91,15 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-14T17:28:00+00:00"
+    },
+    {
+      "id": "216158fa47db25733644bdd67ae3e0ffe03a133789dffd7c6b69505121b15d8a",
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is sco",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T17:27:23+00:00"
     },
     {
       "id": "9a26f90e93bd38075bb8d8f5dfb6cf3dc45e0bf2034f71dfb4b5411ae0c64b65",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-01T06:14:41+00:00"
-    },
-    {
-      "id": "374f9ab4167b64b568ae54f0b86f9fb949aefd1087aa2c5a4a8cf2584a7b5879",
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by int",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-01T05:46:03+00:00"
-    },
-    {
-      "id": "96018ae748e76824fd1f9de39dc1e2d2d390e97239c69793363e0f6f9bd9201a",
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T05:32:12+00:00"
-    },
-    {
-      "id": "1cb3b986e9fa401fa68600ede5a1600a2f47b2f159cbf080a816da85dffcdb32",
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T03:54:22+00:00"
-    },
-    {
-      "id": "f8f064e7c48c5c93fe683185adebc460ba53f6c5d24c202002720773856b555c",
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-30T21:50:24+00:00"
-    },
-    {
-      "id": "e1f38ad12459c8829f8353763de4a56e3cd7de152ba12bb362316bda09bf7604",
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-06-30T21:02:55+00:00"
-    },
-    {
-      "id": "ce35f07949665590fe9c521e5e155109c1685ed19fad0aebdee6232c44f02133",
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-06-30T17:46:07+00:00"
-    },
-    {
-      "id": "288f4efe990f5fb852c16f841bf64914904d300c1f667878ecbf9ea1bfb9004a",
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and sa",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-06-30T17:45:25+00:00"
     }
   ]
 }
