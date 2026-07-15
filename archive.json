@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-15T13:37:01.231468+00:00",
+  "updated": "2026-07-15T19:05:39.592024+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b748ab90fbca9729e9f6355896bd449d9d9dd00709f762505c2715d1ad156aef",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T18:33:48+00:00"
+    },
+    {
+      "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
+      "title": "23andMe reaches $18 million settlement with states for massive breach",
+      "url": "https://therecord.media/genetic-testing-settlement-data-breach",
+      "summary": "A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-15T17:45:00+00:00"
+    },
+    {
+      "id": "2765d5a2787925026e1547fdf10718be1660d230e12d3d08dfd049588c08386e",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T15:37:27+00:00"
+    },
+    {
+      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-15T15:30:30+00:00"
+    },
+    {
+      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:37:13+00:00"
+    },
+    {
+      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:07:44+00:00"
+    },
+    {
+      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:01:11+00:00"
+    },
+    {
+      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T13:18:53+00:00"
+    },
     {
       "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
       "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
@@ -2179,78 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-01T20:08:13+00:00"
-    },
-    {
-      "id": "3ab818632c1707cc53c83bf76cf3223fb951a464f9de81fa17e2e79603dce972",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T19:40:06+00:00"
-    },
-    {
-      "id": "c7215ce22f90724053bdc5bf94cf155ae788d7a3ed193a9072a7c0cd43221778",
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masq",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-01T17:53:06+00:00"
-    },
-    {
-      "id": "9d448be0e0e491e30660a21e82f8a576b71f53e7509e6644df9d1f67175adc82",
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-01T17:32:22+00:00"
-    },
-    {
-      "id": "d8111281240765d82f8906d5de83a081515a7dbb858616f8ae71ae42be18791d",
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed ei",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T17:18:50+00:00"
-    },
-    {
-      "id": "7ca52314a96c22175c8ef67004e6829e93412751b9865334a68740fd39efacd1",
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and respo",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-01T16:54:22+00:00"
-    },
-    {
-      "id": "d03514b22c1620a50313656e4b4e768ddbccfa7ed457d36281e03777fb1798d5",
-      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-01T16:38:01+00:00"
-    },
-    {
-      "id": "ccbf8697f6b66d7be44e1abdb0bb792d1e2d6d4d0dcc736684a707e68fd1e588",
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hid",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T15:26:55+00:00"
-    },
-    {
-      "id": "291f9cd83783fb1cdac0e1f3419244d7f7d59cf608f423ffd4c807eb4c5f36dc",
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and se",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T15:25:46+00:00"
     }
   ]
 }
