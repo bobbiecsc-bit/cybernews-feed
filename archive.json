@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-15T08:02:38.747448+00:00",
+  "updated": "2026-07-15T13:37:01.231468+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-15T13:00:00+00:00"
+    },
+    {
+      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
+      "title": "Microsoft smashes Patch Tuesday record for second successive month",
+      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
+      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-15T12:15:00+00:00"
+    },
+    {
+      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T11:07:07+00:00"
+    },
+    {
+      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
+      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-15T11:02:57+00:00"
+    },
+    {
+      "id": "48833fc438421200d33970a822b4f75a5983b48e05c2cab5ea2996a50fee4ff6",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T10:55:22+00:00"
+    },
+    {
+      "id": "a0851601e745292db9146547076b690f0f5498ebaced61bc47c7fe0bc2281945",
+      "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
+      "url": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+      "summary": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2. The post White House Launches AI-Driven &#8216;Gold Eagle&#8217; Vulnerability Coordination Initiative appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T10:18:25+00:00"
+    },
+    {
+      "id": "5a7f5d163f42c20cbe826cdbad4d6fcc93ecbb09b20cba533ba62db7dae5b044",
+      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+      "url": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+      "summary": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it. The post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T09:48:29+00:00"
+    },
+    {
+      "id": "98464d0ee1e848f1bddfc9eed33b81c1876c3cb81a5b82e29fcef5721dbc61e9",
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T09:44:52+00:00"
+    },
+    {
+      "id": "906c19b34cbfcaa35794e17d1ee334459eaf04c63c10fbe34dc4613ab2604ad0",
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-15T09:16:13+00:00"
+    },
     {
       "id": "ffe69ccc58ad3a918e023569eb52cc7a28ab89f5159555982beec2f901db43d3",
       "title": "US charges alleged operators of Russian bulletproof hosting service",
@@ -2170,87 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-01T15:25:46+00:00"
-    },
-    {
-      "id": "3b3d2e86775bb11119d6d8dab4167270a701e7383accb57206e508fa00b10e36",
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs&nbsp;found the pair and named them DuneSlide. They are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T14:42:54+00:00"
-    },
-    {
-      "id": "63c4c93d353eea9bcf88413e1c1780d3dfd48838eb75257b078e9b4cf1db4df4",
-      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-01T14:01:11+00:00"
-    },
-    {
-      "id": "1dd7fefe18ac74e82735a0688a3f795ccc5ee928e4c0e8d2aac48e98f5caadb4",
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score:",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-01T13:56:18+00:00"
-    },
-    {
-      "id": "7e80488f63fc4527f19c6acfd1336bd203d3620bf7b734590dfecbb9184ecd6e",
-      "title": "Japanese insurer, brewer, manufacturer and telecom disclose cyber breaches",
-      "url": "https://therecord.media/japan-cyber-breaches-aflac-sapporo-nidec-kddi",
-      "summary": "Aflac's Tokyo arm and brewer Sapporo are among the major Japanese companies to recently notify the public about data breaches.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-01T13:10:00+00:00"
-    },
-    {
-      "id": "b2ff03fc828da7b014a20e90d0e499946fe98301d8194d5aed000715ca4ca65b",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
-      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Win",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-01T12:59:19+00:00"
-    },
-    {
-      "id": "bb8831b92008a9a6ffb890249e3528987726049f65e8f64f5eb04baf5f83082d",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-01T12:30:01+00:00"
-    },
-    {
-      "id": "296baaa7e5eb3ddee116b27eb2809905b509a836685512a5a3932df2f270d72f",
-      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-01T11:27:07+00:00"
-    },
-    {
-      "id": "771760991c56201378c5abdb8c08b2ad42426cd4c3a6f22b2586051f170a7acc",
-      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
-      "url": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-      "summary": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-01T11:20:45+00:00"
-    },
-    {
-      "id": "a02db73a372d62794c904ad665abd75e24e888cb8f06a04ca4048ae4315a9555",
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "summary": "Papa Johns is spying on people&#8217;s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a ",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-01T10:53:23+00:00"
     }
   ]
 }
