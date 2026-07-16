@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-16T13:42:36.087718+00:00",
+  "updated": "2026-07-16T19:04:00.894383+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8c402b24a5d6ccc9d75ec822150ad2b0bb6251355f082d5f249cd9eeae71e19e",
+      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+      "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office t",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-16T17:09:25+00:00"
+    },
+    {
+      "id": "3c8f9fdd2670e9fa1b1df4bc4736ca3fdf53e75a0359ad641eb501902be31319",
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T15:41:15+00:00"
+    },
+    {
+      "id": "5fa78708c94106ba186e7c5eb83cf5a44dcdc13ed13d37c71b8ccd8ecb484681",
+      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+      "url": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+      "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-16T15:15:00+00:00"
+    },
+    {
+      "id": "4c8de262f485002a0791c2a7bdb950ecb401eb95f24d22b453ec0e2dae582546",
+      "title": "Sandworm hackers have a CAPTCHA trick for Ukrainians",
+      "url": "https://therecord.media/ukraine-sandworm-hacks-captcha-powershell",
+      "summary": "Rather than verifying they are human, the CAPTCHA users are instructed to copy and paste a PowerShell command into their Windows computers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-16T13:50:00+00:00"
+    },
+    {
+      "id": "ee3628432aef990c83dfba704140d59b819521ffac42d4f705db1af18d1f98bb",
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-16T13:47:23+00:00"
+    },
+    {
+      "id": "ae03488274cf3725120a47f888f22806fc59c11f99de4ee17467ef1d81e688d9",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss. A valid token from issuer A carrying a&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T13:33:25+00:00"
+    },
     {
       "id": "b636e0d74ff68310bc2d20285938d02a7e218a9170859b94d77a3e18f23bc0ef",
       "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
@@ -2197,60 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-03T08:13:22+00:00"
-    },
-    {
-      "id": "ce435047f21b8926bc14b92a27a49a0942bd9f33b9b3b3a5eb6525089a2ff38b",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legit",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-03T08:03:37+00:00"
-    },
-    {
-      "id": "52b79189b38f22e32bc58c6ede6cbe1a6dc548b679f1cdcbf5446ef24a5f3b90",
-      "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
-      "url": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
-      "summary": "The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system. The post Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-03T07:57:53+00:00"
-    },
-    {
-      "id": "417bdaa0c3e139ab2f3c73a51f0d82bd8d7cc49bfa535fbd99fa918e8dcb8694",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-07-02T19:27:33+00:00"
-    },
-    {
-      "id": "0e68a14cfc35d069d2c898c9007682be490c8cdf97b6435862cf989f9cfb37c2",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-02T18:54:06+00:00"
-    },
-    {
-      "id": "05b1c5e4b319e6f6c44394cd471b0ed9556af2ebb44ef2cdf9e410a57588313c",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Mo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-02T18:30:33+00:00"
-    },
-    {
-      "id": "ed4e64e007389fba6b9d900e7a599832655dab4063ce75d972e5c3a5ca6ed740",
-      "title": "Supreme Court decision threatens EU-US data transfer agreement",
-      "url": "https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing",
-      "summary": "In a Tuesday letter, Max Schrems, the founder of the Vienna-based privacy advocacy organization noyb, told European officials he plans to sue to invalidate the EU-U.S. Data Privacy Framework (DPF) that allows for the transfer of personal data from the EU to U.S. companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-02T16:50:00+00:00"
     }
   ]
 }

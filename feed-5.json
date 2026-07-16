@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-16T13:42:36.087718+00:00",
+  "updated": "2026-07-16T19:04:00.894383+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "28a6609e1f2a0dcec9b0be671fb127f85f5e33152b70ca8561bf508885c25d08",
+      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+      "url": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-07T14:01:11+00:00"
+    },
+    {
+      "id": "5055043985a48955f9cb54ebcd5cce640c7bc8a3da5c1a52c60e67f03d5d901d",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "url": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intru",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-07T13:27:20+00:00"
+    },
+    {
+      "id": "2a81d9b7c9192c38ec626f27c83a7af76bd82a461fd56888fe335ddd341cb8b3",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise. The one-click vulnerability has been codenamed WriteOut by the Sand Secu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-07T13:27:09+00:00"
+    },
+    {
+      "id": "d4b82bebae2ae9a3e5e461557a9aaea04cac753a933317eccc901f815f12bbdb",
+      "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
+      "url": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
+      "summary": "The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises. The post CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws appeared first on Secur",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-07T13:13:02+00:00"
+    },
+    {
+      "id": "a95d4659cc37d14b513d2e2556e7af0287ec8afca5d96dc8dd24b9102d9e2e62",
+      "title": "UK cyber pledge draws only a handful of top firms despite ministerial appeal",
+      "url": "https://therecord.media/uk-cyber-pledge-draws-limited-partners-despite-ministerial-appeal",
+      "summary": "Those that did sign include large firms such as Aviva, the London Stock Exchange Group and Marks & Spencer, which lost hundreds of millions of pounds in a cyberattack last year, as well as small cybersecurity consultancies.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-07T13:10:00+00:00"
+    },
+    {
+      "id": "016d70000d93ce9e9b86ed9e6dd12ae09306985cb43f104400d75f4cb0b4e9c1",
+      "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
+      "summary": "Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10. The post Critical Adobe ColdFusion Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-07T12:38:34+00:00"
+    },
     {
       "id": "e28a417268d11ac7e3bb3416412ecc7cb66033867770a0915a76937dd1e0dcba",
       "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-03T08:13:22+00:00"
-    },
-    {
-      "id": "ce435047f21b8926bc14b92a27a49a0942bd9f33b9b3b3a5eb6525089a2ff38b",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legit",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-03T08:03:37+00:00"
-    },
-    {
-      "id": "52b79189b38f22e32bc58c6ede6cbe1a6dc548b679f1cdcbf5446ef24a5f3b90",
-      "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
-      "url": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
-      "summary": "The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system. The post Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-03T07:57:53+00:00"
-    },
-    {
-      "id": "417bdaa0c3e139ab2f3c73a51f0d82bd8d7cc49bfa535fbd99fa918e8dcb8694",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-07-02T19:27:33+00:00"
-    },
-    {
-      "id": "0e68a14cfc35d069d2c898c9007682be490c8cdf97b6435862cf989f9cfb37c2",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-02T18:54:06+00:00"
-    },
-    {
-      "id": "05b1c5e4b319e6f6c44394cd471b0ed9556af2ebb44ef2cdf9e410a57588313c",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Mo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-02T18:30:33+00:00"
-    },
-    {
-      "id": "ed4e64e007389fba6b9d900e7a599832655dab4063ce75d972e5c3a5ca6ed740",
-      "title": "Supreme Court decision threatens EU-US data transfer agreement",
-      "url": "https://therecord.media/supreme-court-decision-threatens-eu-us-data-sharing",
-      "summary": "In a Tuesday letter, Max Schrems, the founder of the Vienna-based privacy advocacy organization noyb, told European officials he plans to sue to invalidate the EU-U.S. Data Privacy Framework (DPF) that allows for the transfer of personal data from the EU to U.S. companies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-02T16:50:00+00:00"
     }
   ]
 }
