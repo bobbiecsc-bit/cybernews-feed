@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-17T13:20:11.353047+00:00",
+  "updated": "2026-07-17T19:02:05.865939+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eb18b5e1d713b33c2265dad58b8dcccb9bae1b27ddffcee09f863a77f29f7a5f",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-17T17:56:21+00:00"
+    },
+    {
+      "id": "88543f91771f26b0c498bc895abd722ef7d0515dceacefe16c0ad0d18e91423e",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and w",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-17T17:12:23+00:00"
+    },
+    {
+      "id": "96d9ebe2a900947da649c189ebc72891669366dd7af39a13ed9f6721072d0cc7",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-17T16:39:16+00:00"
+    },
+    {
+      "id": "ac32bb8bdab52dda0242e09ab9a677b3b5344b42028a7d45cd73c7a31aa17d18",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-17T14:55:28+00:00"
+    },
+    {
+      "id": "7f6f0c7600509e6ac68459917ae183dd6f3d7812a367e926a22f7be3af02c3ff",
+      "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+      "url": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+      "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-17T14:27:54+00:00"
+    },
+    {
+      "id": "7dc9878f07222a0c31508eeefa298c2f868f4c79b9595f21c77dd387b8703615",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload ali",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-17T13:48:56+00:00"
+    },
     {
       "id": "3ad33dd2b52a84b6a75b0ab42aaaac9b80c23873514b8822e3e527035e75b895",
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-15T14:01:11+00:00"
-    },
-    {
-      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T13:18:53+00:00"
-    },
-    {
-      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
-      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-15T13:00:00+00:00"
-    },
-    {
-      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
-      "title": "Microsoft smashes Patch Tuesday record for second successive month",
-      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
-      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-07-15T12:15:00+00:00"
-    },
-    {
-      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T11:07:07+00:00"
-    },
-    {
-      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
-      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
-      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
-      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-15T11:02:57+00:00"
-    },
-    {
-      "id": "48833fc438421200d33970a822b4f75a5983b48e05c2cab5ea2996a50fee4ff6",
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T10:55:22+00:00"
     }
   ]
 }

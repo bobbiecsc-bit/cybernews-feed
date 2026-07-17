@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-17T13:20:11.353047+00:00",
+  "updated": "2026-07-17T19:02:05.865939+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T13:18:53+00:00"
+    },
+    {
+      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-15T13:00:00+00:00"
+    },
+    {
+      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
+      "title": "Microsoft smashes Patch Tuesday record for second successive month",
+      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
+      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-15T12:15:00+00:00"
+    },
+    {
+      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T11:07:07+00:00"
+    },
+    {
+      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
+      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-15T11:02:57+00:00"
+    },
+    {
+      "id": "48833fc438421200d33970a822b4f75a5983b48e05c2cab5ea2996a50fee4ff6",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T10:55:22+00:00"
+    },
     {
       "id": "a0851601e745292db9146547076b690f0f5498ebaced61bc47c7fe0bc2281945",
       "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-13T19:44:19+00:00"
-    },
-    {
-      "id": "a133d597433224c789e5778adf08fb227f1893652c1f72125ed162d164cd0ae7",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:04:02+00:00"
-    },
-    {
-      "id": "4215cfbfa6972977cfde61bfc293185cf16abae21432e3c6473ff7fb750e7ea0",
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups",
-      "summary": "The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware \"cryptors.\"",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-13T18:50:00+00:00"
-    },
-    {
-      "id": "eca7de3409a455c02e7eeedc4e9b787a1be378b552ab29dddc41c60bfa8f9d6e",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in nati",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-13T17:36:12+00:00"
-    },
-    {
-      "id": "e128c1f0a3de6bd263b8a07f7f7dba709677739e36eb61ae01d343b93dc997e6",
-      "title": "Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach",
-      "url": "https://therecord.media/ksenia-sobchak-russian-hackers-leak",
-      "summary": "Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T17:15:00+00:00"
-    },
-    {
-      "id": "7a709a882483af011842b23ab4faa2567675d2d12ce0f24412284af267b8c926",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:20:16+00:00"
-    },
-    {
-      "id": "ad3e33cb35b505dabdee6cb5d7e007dd00188c0ed9cf4719106562197b596614",
-      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the peop",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:05:57+00:00"
     }
   ]
 }

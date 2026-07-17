@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-17T13:20:11.353047+00:00",
+  "updated": "2026-07-17T19:02:05.865939+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "eb18b5e1d713b33c2265dad58b8dcccb9bae1b27ddffcee09f863a77f29f7a5f",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-17T17:56:21+00:00"
+    },
+    {
+      "id": "88543f91771f26b0c498bc895abd722ef7d0515dceacefe16c0ad0d18e91423e",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and w",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-17T17:12:23+00:00"
+    },
+    {
+      "id": "96d9ebe2a900947da649c189ebc72891669366dd7af39a13ed9f6721072d0cc7",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-17T16:39:16+00:00"
+    },
+    {
+      "id": "ac32bb8bdab52dda0242e09ab9a677b3b5344b42028a7d45cd73c7a31aa17d18",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-17T14:55:28+00:00"
+    },
+    {
+      "id": "7f6f0c7600509e6ac68459917ae183dd6f3d7812a367e926a22f7be3af02c3ff",
+      "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+      "url": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+      "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-17T14:27:54+00:00"
+    },
+    {
+      "id": "7dc9878f07222a0c31508eeefa298c2f868f4c79b9595f21c77dd387b8703615",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload ali",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-17T13:48:56+00:00"
+    },
     {
       "id": "3ad33dd2b52a84b6a75b0ab42aaaac9b80c23873514b8822e3e527035e75b895",
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-07-06T10:58:16+00:00"
-    },
-    {
-      "id": "95e3277ff5e99acb1f40ca1b80d76b9edbd9428133f9f32ce701a4fe653e160b",
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "summary": "Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-06T08:50:54+00:00"
-    },
-    {
-      "id": "b27915122c11cffa8c9e1908cfc4b0152a241ae686998483363a4c690a3e5c2b",
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere betwee",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-06T08:13:33+00:00"
-    },
-    {
-      "id": "a03b650e4a2388265bb984cd1e595ac4f7a8b92df1175e03cf5b01439eb7e0f5",
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "summary": "Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-06T07:27:50+00:00"
-    },
-    {
-      "id": "5ab4c1aa49300ecae62dfd79fd50dd8b07fc156cef4385aac1a46022ac7b7d07",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tes",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-06T06:33:56+00:00"
-    },
-    {
-      "id": "8fa0fcbc82e1ebb23415bd74b90d9f9ef03557385c1762e7d776c1643e6feb82",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-04T14:16:38+00:00"
-    },
-    {
-      "id": "05aacbc9930d8717a22d1345f396c16afe94a00080014114e3c89931322e0dc5",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos,",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-04T12:47:53+00:00"
     }
   ]
 }
