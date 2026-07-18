@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-18T02:07:35.374024+00:00",
+  "updated": "2026-07-18T07:43:30.527115+00:00",
   "total": 250,
   "articles": [
     {
       "id": "1f8fa8831f47fff50b11c062e4e9d4994e8c840adbb0060428b798b1f087e864",
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam K",
+      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in cor",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-17T21:20:10+00:00"
