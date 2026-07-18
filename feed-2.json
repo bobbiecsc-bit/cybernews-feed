@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-17T19:02:05.865939+00:00",
+  "updated": "2026-07-18T02:07:35.374024+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-15T15:30:30+00:00"
+    },
+    {
+      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:37:13+00:00"
+    },
+    {
+      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:07:44+00:00"
+    },
+    {
+      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:01:11+00:00"
+    },
     {
       "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-14T07:08:36+00:00"
-    },
-    {
-      "id": "cfe644fb99fa7be6ee3a6c9c36b1cc1692eec917eddf6a40add2fca75752f364",
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "summary": "Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organization had already extended, usually through the OAut",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T06:19:24+00:00"
-    },
-    {
-      "id": "7f06090b4b9739143fbfa23430794e4c31ec4aa987aca1d4568cd41a932ceabc",
-      "title": "Hackers steal Lidl customer data from external service provider",
-      "url": "https://therecord.media/hackers-steal-lidl-customer-data",
-      "summary": "The retailer said the incident did not affect its online shopping platform itself but involved a separately stored customer database maintained by a third-party provider. According to notifications sent to Lidl's German, Belgian and Dutch customers on Friday, the attackers briefly accessed the file ",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T23:00:00+00:00"
-    },
-    {
-      "id": "476e026194944e4fcda83e0d546ca8a2dae6763c7e950bb97d1a1ab8ff950cb1",
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-13T20:18:59+00:00"
-    },
-    {
-      "id": "54014ce85fb246d46a746596de5f7b6fc7ed1e20accede578f5b360f40cdf452",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:44:19+00:00"
     }
   ]
 }

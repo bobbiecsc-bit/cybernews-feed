@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17T19:02:05.865939+00:00",
+  "updated": "2026-07-18T02:07:35.374024+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1f8fa8831f47fff50b11c062e4e9d4994e8c840adbb0060428b798b1f087e864",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam K",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T21:20:10+00:00"
+    },
+    {
+      "id": "84a8a0cf069b7d7c928b5f6211bddec54244b7edf2d62eb42c773e5fd300864e",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data.",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-17T20:45:52+00:00"
+    },
+    {
+      "id": "d32c6279618330fc16bb2d7abdae62df2d96aad745a1164fb5dde0315b73ec77",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T20:20:53+00:00"
+    },
+    {
+      "id": "0c63b34da7a49315ab9a86b1c0939baec0a7591eb9c9a1349ad3fa56098bf5f7",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-17T18:54:51+00:00"
+    },
     {
       "id": "eb18b5e1d713b33c2265dad58b8dcccb9bae1b27ddffcee09f863a77f29f7a5f",
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-06T13:11:16+00:00"
-    },
-    {
-      "id": "cd04d93b37a55539278314e0d781db67e7df90b184eee0286dd98fb7a2816f28",
-      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity s",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-06T13:01:14+00:00"
-    },
-    {
-      "id": "9596a61f41ff7a085bc44e0bdd90b2c1455656a1cbd259af2cf89fa672982d5e",
-      "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
-      "url": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
-      "summary": "Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit. The post Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-06T12:48:01+00:00"
-    },
-    {
-      "id": "679505ec6be2e20c0fc47e96ee17a6fb4e05d1140b74c2721cf0047a1fc121b3",
-      "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
-      "url": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
-      "summary": "Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web. The post Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-06T11:19:47+00:00"
-    },
-    {
-      "id": "8189a92ce7bdf5d2b4b0e48abf76595b01f90c94307a3913c63f533f93e3b351",
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrit",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-06T10:58:16+00:00"
     }
   ]
 }

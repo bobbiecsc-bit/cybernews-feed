@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-17T19:02:05.865939+00:00",
+  "updated": "2026-07-18T02:07:35.374024+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f8fa8831f47fff50b11c062e4e9d4994e8c840adbb0060428b798b1f087e864",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam K",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T21:20:10+00:00"
+    },
+    {
+      "id": "84a8a0cf069b7d7c928b5f6211bddec54244b7edf2d62eb42c773e5fd300864e",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data.",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-17T20:45:52+00:00"
+    },
+    {
+      "id": "d32c6279618330fc16bb2d7abdae62df2d96aad745a1164fb5dde0315b73ec77",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T20:20:53+00:00"
+    },
+    {
+      "id": "0c63b34da7a49315ab9a86b1c0939baec0a7591eb9c9a1349ad3fa56098bf5f7",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-17T18:54:51+00:00"
+    },
     {
       "id": "eb18b5e1d713b33c2265dad58b8dcccb9bae1b27ddffcee09f863a77f29f7a5f",
       "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-15T15:37:27+00:00"
-    },
-    {
-      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-15T15:30:30+00:00"
-    },
-    {
-      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
-      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:37:13+00:00"
-    },
-    {
-      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
-      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:07:44+00:00"
-    },
-    {
-      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:01:11+00:00"
     }
   ]
 }
