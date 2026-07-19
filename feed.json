@@ -1,15 +1,42 @@
 {
-  "updated": "2026-07-19T13:10:25.665256+00:00",
+  "updated": "2026-07-19T19:01:10.663958+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
     {
+      "id": "32a7886bc9a4dbc5cb8f1e3686ba83e329c46406ac262832cc62c14d5ab49264",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-19T14:23:46+00:00"
+    },
+    {
+      "id": "3eace55fa61213fcdc9c700ebd0ec40beaed9103921f250b0de3ad634a057f1b",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-19T13:30:55+00:00"
+    },
+    {
+      "id": "ef3919eea15f184f3b4eac9600430eb2b4b47d2bb2cac178eeac7ff139d7e771",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the monik",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-19T13:18:56+00:00"
+    },
+    {
       "id": "6c26a6a845d6468aa6c59027547632c227676e7ae14c95cb1f6b4b43370bab96",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-18T19:32:02+00:00"
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-16T07:22:44+00:00"
-    },
-    {
-      "id": "fe70e597a2485ca83ba789e9b6edd1d3578fed45febe40f5eac4b1f9eab66d7b",
-      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-      "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops &#8216;LegacyHive&#8217; Windows Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-16T06:48:40+00:00"
-    },
-    {
-      "id": "86dd16d30666a582503ef8d3c85c5fa6b5d98d67766a2eee9d7e9bca7caae117",
-      "title": "Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies",
-      "url": "https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc",
-      "summary": "Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-15T23:00:00+00:00"
-    },
-    {
-      "id": "59248d0152d47170c84d4f4dcc3f305f3cd9f8eeb303de1bb76b70cfd778e377",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T20:16:02+00:00"
     }
   ]
 }

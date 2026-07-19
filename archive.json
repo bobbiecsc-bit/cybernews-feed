@@ -1,12 +1,39 @@
 {
-  "updated": "2026-07-19T13:10:25.665256+00:00",
+  "updated": "2026-07-19T19:01:10.663958+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "32a7886bc9a4dbc5cb8f1e3686ba83e329c46406ac262832cc62c14d5ab49264",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-19T14:23:46+00:00"
+    },
+    {
+      "id": "3eace55fa61213fcdc9c700ebd0ec40beaed9103921f250b0de3ad634a057f1b",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-19T13:30:55+00:00"
+    },
+    {
+      "id": "ef3919eea15f184f3b4eac9600430eb2b4b47d2bb2cac178eeac7ff139d7e771",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the monik",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-19T13:18:56+00:00"
+    },
     {
       "id": "6c26a6a845d6468aa6c59027547632c227676e7ae14c95cb1f6b4b43370bab96",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-18T19:32:02+00:00"
@@ -2224,33 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-06T17:37:01+00:00"
-    },
-    {
-      "id": "895de4024c393f81fc90b48dd9c79d2fdb0125be9332f8e5940adbf9a15abc85",
-      "title": "Japanese teen arrested over cyberattack that disrupted anime streaming service",
-      "url": "https://therecord.media/japanese-teen-arrested-over-attack-disrupted-streaming-service",
-      "summary": "The unnamed student, who lives in a city near Tokyo, allegedly exploited a flaw in a subscription-based anime streaming platform to fraudulently cancel more than 46,000 user subscriptions.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-07-06T16:40:00+00:00"
-    },
-    {
-      "id": "4488624860bdc457aeacdd2a38bcd358a244a54a6b84ca074e94a486992535ab",
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "url": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header fr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-06T16:28:59+00:00"
-    },
-    {
-      "id": "97f22e411dcd25bfd5fa0d01792bbd0b940d4bcb757f7270f238854ec4209b2e",
-      "title": "Armored Likho APT Targeting Government, Electric Power Entities",
-      "url": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
-      "summary": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns. The post Armored Likho APT Targeting Government, Electric Power Entities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-06T15:10:39+00:00"
     }
   ]
 }
