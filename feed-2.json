@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-18T18:58:24.468814+00:00",
+  "updated": "2026-07-19T02:24:34.901046+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b748ab90fbca9729e9f6355896bd449d9d9dd00709f762505c2715d1ad156aef",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T18:33:48+00:00"
+    },
     {
       "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
       "title": "23andMe reaches $18 million settlement with states for massive breach",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-14T09:04:39+00:00"
-    },
-    {
-      "id": "db63b36221ecde979e0d3d2af7a4123d3df5a5754fabe85a0eb101ffbc321878",
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-14T09:02:48+00:00"
     }
   ]
 }
