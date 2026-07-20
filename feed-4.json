@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-20T03:14:16.558851+00:00",
+  "updated": "2026-07-20T08:51:52.594348+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6a1f2bb00b6f21a5da5c2dad9a189146eaa4f47426a0153b08a5a6f31b52f713",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-10T16:29:00+00:00"
+    },
+    {
+      "id": "3365af60dbb394cc81384dd60396bcd64a6d975577b344b6f77850cc229218f0",
+      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-10T16:26:10+00:00"
+    },
+    {
+      "id": "fd4596900851b0c2c62cf707b825dc9fcda78dfac66465ffff0d383743c874fe",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacke",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-10T15:57:14+00:00"
+    },
+    {
+      "id": "36fa517ccdb8cb92e7e0ab495b565034e6734fa4134ec1a4f819632b89bf946c",
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-10T15:48:38+00:00"
+    },
     {
       "id": "e609a91e9ef924229c022616e6beb99370ac4fe1904b7c32e65f97bbc80a4f27",
       "title": "Money launderer accused of stealing seized crypto while in prison",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-08T17:02:12+00:00"
-    },
-    {
-      "id": "41a1c59cff592c1c533df633d3683c437aa445d1274710e903866e07758779f9",
-      "title": "Taiwan charges two businessmen over alleged role in Chinese espionage campaign",
-      "url": "https://therecord.media/taiwan-charges-businessmen-china-cyber-espionage-campaign",
-      "summary": "A company based in Taiwan was leasing out accounts on the popular LINE messaging app to Chinese spies, according to prosecutors, who charged two men in the alleged scheme.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-08T16:55:00+00:00"
-    },
-    {
-      "id": "26b7475c5d0d96b6a17deb222fd489bbffc69781a684a10e157c60bb6bdecbc9",
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "url": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-08T16:47:25+00:00"
-    },
-    {
-      "id": "2d81697decd872029d34442f0263217aa17fcd266091abafb85e2967d9f800d1",
-      "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
-      "url": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
-      "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-08T16:09:15+00:00"
-    },
-    {
-      "id": "4492dd6a04676e92210e8309a5a041066eae6ef77ceedc1a9abf23e3ee2144ed",
-      "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
-      "url": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
-      "summary": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors. The post China-Linked APT Expands Arsenal With New &#8216;Leash&#8217; Backdoors appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-08T15:42:11+00:00"
     }
   ]
 }

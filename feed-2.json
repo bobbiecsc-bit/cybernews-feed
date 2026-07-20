@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-20T03:14:16.558851+00:00",
+  "updated": "2026-07-20T08:51:52.594348+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cd161f1ce3949274b7b2727a91b625c817164453f53865298cd73168ca358a63",
+      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-16T10:00:00+00:00"
+    },
+    {
+      "id": "9a31af74370c2afd994d5a61307b5d1d71068debfd2c6efd758e545d68751941",
+      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the h",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T09:23:19+00:00"
+    },
+    {
+      "id": "fafa82308b2f0de9831cdfb62f1b9f3156ed2185b0b42b40d2635c1653dfd53b",
+      "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+      "url": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
+      "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-16T09:20:10+00:00"
+    },
+    {
+      "id": "ef5250380f030b58bac8370a0cd851e763646bc21d3b8d100a7c266165e1f159",
+      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T08:42:31+00:00"
+    },
     {
       "id": "2032bdb6bd2da087ebfb07cb4a631bf47268be5089ecdb75d9d4a54dd181444e",
       "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-14T12:49:00+00:00"
-    },
-    {
-      "id": "6f88e63f0b0c7123c6e054816b40119dbc58c2b800c75d40bb7bbb9a5a99a012",
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T12:46:18+00:00"
-    },
-    {
-      "id": "8267c1579a3e324746656cd7cf1b77f17ecc0b3638aee349a499921c11bfcf83",
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and e",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-14T11:30:00+00:00"
-    },
-    {
-      "id": "5019a8434d0696a536321a115066b3b9b476ecce008f96ae245f6cf50b29155c",
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever gener",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-14T11:21:35+00:00"
-    },
-    {
-      "id": "b1089a43230e00ba5a9b33df25ad6706b0fdf0ac983c187db9a786f883de612a",
-      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
-      "url": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
-      "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-14T11:17:56+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-20T03:14:16.558851+00:00",
+  "updated": "2026-07-20T08:51:52.594348+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6f88e63f0b0c7123c6e054816b40119dbc58c2b800c75d40bb7bbb9a5a99a012",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T12:46:18+00:00"
+    },
+    {
+      "id": "8267c1579a3e324746656cd7cf1b77f17ecc0b3638aee349a499921c11bfcf83",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and e",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-14T11:30:00+00:00"
+    },
+    {
+      "id": "5019a8434d0696a536321a115066b3b9b476ecce008f96ae245f6cf50b29155c",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever gener",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-14T11:21:35+00:00"
+    },
+    {
+      "id": "b1089a43230e00ba5a9b33df25ad6706b0fdf0ac983c187db9a786f883de612a",
+      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+      "url": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+      "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-14T11:17:56+00:00"
+    },
     {
       "id": "f170ea6fb52ab7fb9459483472bf4fd861138ea94e9976cc5233ad3d68310c30",
       "title": "Vulnerability in FIFA’s Network",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-10T16:30:00+00:00"
-    },
-    {
-      "id": "6a1f2bb00b6f21a5da5c2dad9a189146eaa4f47426a0153b08a5a6f31b52f713",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-10T16:29:00+00:00"
-    },
-    {
-      "id": "3365af60dbb394cc81384dd60396bcd64a6d975577b344b6f77850cc229218f0",
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-10T16:26:10+00:00"
-    },
-    {
-      "id": "fd4596900851b0c2c62cf707b825dc9fcda78dfac66465ffff0d383743c874fe",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacke",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:57:14+00:00"
-    },
-    {
-      "id": "36fa517ccdb8cb92e7e0ab495b565034e6734fa4134ec1a4f819632b89bf946c",
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:48:38+00:00"
     }
   ]
 }

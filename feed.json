@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-20T03:14:16.558851+00:00",
+  "updated": "2026-07-20T08:51:52.594348+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "188a2d9c231a52d5a8fd2e9b56204e42c5f4d72d2241f9837bd11f896d9bf05b",
+      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
+      "url": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+      "summary": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities. The post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T08:12:19+00:00"
+    },
+    {
+      "id": "e1150e91b4d3d344407f5982cfead8fcc433579345b2eab9a205085d9c46aa18",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identif",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-20T05:27:26+00:00"
+    },
+    {
+      "id": "445afe79c850072769f2f51fb1edd703a1918589e6b62fcc34b52e98039dab1e",
+      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
+      "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T05:21:29+00:00"
+    },
+    {
+      "id": "67d5dc078238689099bf5b2c6406ce0e0038a0ea4dc2f22b6c5a7a94d5432da3",
+      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-20T05:15:39+00:00"
+    },
     {
       "id": "89f3cdde9df9a892df0c8e7a735051d7a16b7f93e7e7830dc8941d0fbc2661fe",
       "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-16T10:10:00+00:00"
-    },
-    {
-      "id": "cd161f1ce3949274b7b2727a91b625c817164453f53865298cd73168ca358a63",
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-16T10:00:00+00:00"
-    },
-    {
-      "id": "9a31af74370c2afd994d5a61307b5d1d71068debfd2c6efd758e545d68751941",
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the h",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T09:23:19+00:00"
-    },
-    {
-      "id": "fafa82308b2f0de9831cdfb62f1b9f3156ed2185b0b42b40d2635c1653dfd53b",
-      "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
-      "url": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
-      "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-16T09:20:10+00:00"
-    },
-    {
-      "id": "ef5250380f030b58bac8370a0cd851e763646bc21d3b8d100a7c266165e1f159",
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T08:42:31+00:00"
     }
   ]
 }
