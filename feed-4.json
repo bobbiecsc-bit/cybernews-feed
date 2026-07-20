@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-20T08:51:52.594348+00:00",
+  "updated": "2026-07-20T13:58:26.113627+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7c20169ea7d15f0eb2a55081fabfc2c42fe8ab34a70d120324d59fdc4bc0b42b",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-12T14:27:32+00:00"
+    },
+    {
+      "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-11T17:59:26+00:00"
+    },
+    {
+      "id": "5a78286d4eea74fb31f26c8096b3dbd1db3cfbb7dcbea67fa05af998d14bd608",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-11T17:49:31+00:00"
+    },
+    {
+      "id": "da9dd91e2ef63909c9ce95eb089b0bc5c007240f4218d1c35d855dc7fab5b0a6",
+      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+      "url": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-11T17:30:00+00:00"
+    },
+    {
+      "id": "1c37f0a5062bb5c5d6336ced5699e232ae5ab535325a98fc8bd9e71a7fc17870",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-11T14:18:23+00:00"
+    },
+    {
+      "id": "2764346b77ff5d266c6d581f0eaf4a77a26e5ce08165215e30ea8dcbaaa41941",
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to ex",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-11T06:45:55+00:00"
+    },
+    {
+      "id": "3876d90cd5c8f02c735bcb439d0d414f5a03137746b508a3f035f923a8a988fc",
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-10T21:59:02+00:00"
+    },
+    {
+      "id": "9bdf92e77473ac09b5d810927cb51dfef286c04e885095a0c08c23786cff05de",
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "summary": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-07-10T21:07:13+00:00"
+    },
+    {
+      "id": "c1cde371766464bd3a8a632707c8696c39e4c21940f5945bb9ca5a0c8a6a108c",
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-10T17:46:10+00:00"
+    },
+    {
+      "id": "240016485f19aa7fdc90872ad0955218010b86a0402a5f9f23f78ce78532f908",
+      "title": "Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence",
+      "url": "https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced",
+      "summary": "One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for helping the Blackcat/AlphV gang extort multiple victims.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-07-10T17:01:00+00:00"
+    },
+    {
+      "id": "d5e2d6179868c4dad842f20fa3e1d0b394fe01fc63f85a0ee79322d4628fc893",
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-10T16:37:01+00:00"
+    },
+    {
+      "id": "903b418d1fc24610907358c4890bdae47def24fae427659c20e91bab153c192b",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says i",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-10T16:30:00+00:00"
+    },
     {
       "id": "6a1f2bb00b6f21a5da5c2dad9a189146eaa4f47426a0153b08a5a6f31b52f713",
       "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
@@ -346,114 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-09T08:52:21+00:00"
-    },
-    {
-      "id": "d24c0cd60c39d202b7451e07b38b36f21025f913f2b98bf690634cd2a179d653",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T08:48:48+00:00"
-    },
-    {
-      "id": "e5c47ef352f28d1b3d91ad980f98f4d0b8b749fdca69af1e87ebda2610fd021a",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-09T07:47:16+00:00"
-    },
-    {
-      "id": "ee8b09e1b07838302ab43a94825ec20f51902a8bd6589e555e287df1a742d775",
-      "title": "Chrome 150 Update Patches 27 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-      "summary": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google. The post Chrome 150 Update Patches 27 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T07:27:59+00:00"
-    },
-    {
-      "id": "3e97c161bf27062fe7e0bfc38bb5f5df6a9c1f96e4a8b19e99faed7cba3d2f6c",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:42:49+00:00"
-    },
-    {
-      "id": "85ed5e7b7d468fa62e1db025daadc47328b46d93418f8fe144a4869929336974",
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Clau",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T05:15:02+00:00"
-    },
-    {
-      "id": "7b6924f9c9bd369dd8acc94525c817bb5a2fb2855cd011d98a17b4525a69962a",
-      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-      "url": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-      "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:00:41+00:00"
-    },
-    {
-      "id": "4e6a511c59f1852d42cf810653617173fbb20c7f0bc2977cb09c4db19d4e483e",
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T04:27:18+00:00"
-    },
-    {
-      "id": "1c061cbc0f4453a3f17c9b831f630979e2882ca0600efab1aed7f84739e488b4",
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DN",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T04:01:49+00:00"
-    },
-    {
-      "id": "38dcb6c79cd5ccc71773823c7a40480e30014d1e148c70899031ad0502267b3a",
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-08T21:26:59+00:00"
-    },
-    {
-      "id": "11bd55b6e6a6a5564bb75997d72dcd9f735c8c5bf61a4628fe48035cff5e873f",
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-08T19:54:59+00:00"
-    },
-    {
-      "id": "6ebd28e1db31fee1a17225a87f665cc07151dd822713668cad9e15e0d327e7a1",
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-08T18:56:02+00:00"
-    },
-    {
-      "id": "7bc0e8327020ee0f85974af9d16008e11457d00a61e4224058fb6a18ae677a7a",
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-08T17:02:12+00:00"
     }
   ]
 }

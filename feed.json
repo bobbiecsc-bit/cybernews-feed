@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-20T08:51:52.594348+00:00",
+  "updated": "2026-07-20T13:58:26.113627+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8081f65b5a8e2d2ced2d13318fa6c694069cde5176f7206255823090a6b60132",
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-20T13:32:26+00:00"
+    },
+    {
+      "id": "cec3acf0a9aee416337eee471f17d18604ef4acd2baf8798445c0eedd5d891f3",
+      "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
+      "url": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+      "summary": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory. The post OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T12:32:40+00:00"
+    },
+    {
+      "id": "ff8863423d2dbc0623d2a22b2fb71f04091e1ae25706e7320cee292375a05a94",
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-20T11:56:28+00:00"
+    },
+    {
+      "id": "f3e9df9085a13dfba24f0f14a9a209a23204d1f8b5f4650e76bf35c1ec502d4b",
+      "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
+      "url": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
+      "summary": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens. The post New Index Tracks Material Breaches — And Refuses to Add Up the Losses appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-20T11:46:50+00:00"
+    },
+    {
+      "id": "e55af3cb9ea6ea84320ed9719c821f91289c1036ac808b595384ac7bf5fefa49",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Myt",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-20T11:30:00+00:00"
+    },
+    {
+      "id": "88457358c9f07141233edc541a5250836c341d84b75cbdc109890c8296c4cf33",
+      "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
+      "url": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
+      "summary": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform. The post Ernst &#038; Young Data Breach Affects Personal, Financial Information appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-20T11:27:38+00:00"
+    },
+    {
+      "id": "cb8701ed15f3474a3cfd58901e2b419e88c040fab6117505649d2bc18ddaf067",
+      "title": "Software provider to more than 2,000 US hospitals says hackers stole employee and customer data",
+      "url": "https://therecord.media/software-provider-for-us-hospitals-customer-data-breach",
+      "summary": "Craneware, which is headquartered in Edinburgh and listed on London's AIM market, told investors it detected unauthorized access to a “subset” of its data environment and has since brought in outside forensic investigators.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-20T11:00:00+00:00"
+    },
+    {
+      "id": "d7274c64421e824f96c60c4f5b5b6f47cc8c8fccbe1f6a587f508a634c3f403f",
+      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
+      "url": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
+      "summary": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T10:25:07+00:00"
+    },
+    {
+      "id": "2ccdb18900cf27ebc1cec0252e0a5f55a730477c51bc3c143038f0f884b4c054",
+      "title": "Hugging Face Hacked in Autonomous AI Attack",
+      "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
+      "summary": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-20T09:36:15+00:00"
+    },
+    {
+      "id": "dbe64c28f70c86fd5d1adf3bf128ff708b5063f3fe8b2a4f7a8f9d9be63be459",
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-20T09:29:20+00:00"
+    },
+    {
+      "id": "b8d5896fa88c764b985f8d87536094c82f46c67f86d369bb8ca2c7fb75e86c67",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. T",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-20T09:10:56+00:00"
+    },
+    {
+      "id": "3fb4b35d6d4d9f84b96a1f12bccfc61a160653316e089168bca0f23257efbdf1",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, whi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-20T09:07:11+00:00"
+    },
     {
       "id": "188a2d9c231a52d5a8fd2e9b56204e42c5f4d72d2241f9837bd11f896d9bf05b",
       "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
@@ -346,114 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-16T13:47:23+00:00"
-    },
-    {
-      "id": "ae03488274cf3725120a47f888f22806fc59c11f99de4ee17467ef1d81e688d9",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss. A valid token from issuer A carrying a&nbs",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T13:33:25+00:00"
-    },
-    {
-      "id": "b636e0d74ff68310bc2d20285938d02a7e218a9170859b94d77a3e18f23bc0ef",
-      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
-      "url": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-      "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-16T13:21:12+00:00"
-    },
-    {
-      "id": "9a667808f9a4bf6d5ea20081b8289f2caf9d129b37a9122e6757696f3421b5c0",
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-16T12:50:13+00:00"
-    },
-    {
-      "id": "1d520645c103f3b6dbb144bdb4f0af9f91fb938a67ca31ad3f46c8bb047cc591",
-      "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
-      "url": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
-      "summary": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. The post &#8216;ClickLock Stealer&#8217; Bypasses macOS Security With Social Engineering, Process Killing appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-16T12:43:59+00:00"
-    },
-    {
-      "id": "0362c0ddee89b68b63790f7bef665e192a0a60fdfbce1b719b53a3c503e3fc8a",
-      "title": "Scattered Spider hackers sentenced to 5.5 years over £29 million Transport for London hack",
-      "url": "https://therecord.media/scattered-spider-hackers-tfl-sentenced",
-      "summary": "Two leading members of the Scattered Spider cybercrime collective have been sentenced to more than five years in prison for carrying out the 2024 cyberattack against Transport for London (TfL).",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-16T12:00:00+00:00"
-    },
-    {
-      "id": "513abd6b75600e3ac6b442889f28e09199354e628390406bd15f7a307fc99213",
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdo",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-16T11:58:00+00:00"
-    },
-    {
-      "id": "3724184352f459b7524970d83e7904bd0e663fb4e3b1c76dcfd38ba028436f9c",
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the ag",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-16T11:32:28+00:00"
-    },
-    {
-      "id": "7ad96f159ce3ba94e465f18de0d5be19e70edc21c671734bb579832baa8bbc29",
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Br",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-16T11:17:23+00:00"
-    },
-    {
-      "id": "d4b510a9d80f07f0a9a61b1382a6ad20627335f394e092a2b6be82c19c4ac4b1",
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-16T10:56:03+00:00"
-    },
-    {
-      "id": "a8a686be3b44eab897da8f4bdbc0756fdb8baa81cc67b5d84efd44481a9b6a81",
-      "title": "Splunk, Zoom Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
-      "summary": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges. The post Splunk, Zoom Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-16T10:54:34+00:00"
-    },
-    {
-      "id": "0bb78fbc64d1f9232f1af1358e7593eae021c28fff06941ae3a4616244beacca",
-      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-      "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-16T10:19:34+00:00"
-    },
-    {
-      "id": "fbd1f8791c297ac628ca325802d2a97ba4ac41475a5bf9e25592b0d3f097c98c",
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T10:10:00+00:00"
     }
   ]
 }

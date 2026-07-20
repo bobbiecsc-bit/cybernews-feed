@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-20T08:51:52.594348+00:00",
+  "updated": "2026-07-20T13:58:26.113627+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ae03488274cf3725120a47f888f22806fc59c11f99de4ee17467ef1d81e688d9",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss. A valid token from issuer A carrying a&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T13:33:25+00:00"
+    },
+    {
+      "id": "b636e0d74ff68310bc2d20285938d02a7e218a9170859b94d77a3e18f23bc0ef",
+      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+      "url": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+      "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-16T13:21:12+00:00"
+    },
+    {
+      "id": "9a667808f9a4bf6d5ea20081b8289f2caf9d129b37a9122e6757696f3421b5c0",
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-16T12:50:13+00:00"
+    },
+    {
+      "id": "1d520645c103f3b6dbb144bdb4f0af9f91fb938a67ca31ad3f46c8bb047cc591",
+      "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
+      "url": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
+      "summary": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. The post &#8216;ClickLock Stealer&#8217; Bypasses macOS Security With Social Engineering, Process Killing appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-16T12:43:59+00:00"
+    },
+    {
+      "id": "0362c0ddee89b68b63790f7bef665e192a0a60fdfbce1b719b53a3c503e3fc8a",
+      "title": "Scattered Spider hackers sentenced to 5.5 years over £29 million Transport for London hack",
+      "url": "https://therecord.media/scattered-spider-hackers-tfl-sentenced",
+      "summary": "Two leading members of the Scattered Spider cybercrime collective have been sentenced to more than five years in prison for carrying out the 2024 cyberattack against Transport for London (TfL).",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-16T12:00:00+00:00"
+    },
+    {
+      "id": "513abd6b75600e3ac6b442889f28e09199354e628390406bd15f7a307fc99213",
+      "title": "20+ Hijacked Government Websites Became an Attack Channel",
+      "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdo",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-16T11:58:00+00:00"
+    },
+    {
+      "id": "3724184352f459b7524970d83e7904bd0e663fb4e3b1c76dcfd38ba028436f9c",
+      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the ag",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-16T11:32:28+00:00"
+    },
+    {
+      "id": "7ad96f159ce3ba94e465f18de0d5be19e70edc21c671734bb579832baa8bbc29",
+      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Br",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-16T11:17:23+00:00"
+    },
+    {
+      "id": "d4b510a9d80f07f0a9a61b1382a6ad20627335f394e092a2b6be82c19c4ac4b1",
+      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-16T10:56:03+00:00"
+    },
+    {
+      "id": "a8a686be3b44eab897da8f4bdbc0756fdb8baa81cc67b5d84efd44481a9b6a81",
+      "title": "Splunk, Zoom Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
+      "summary": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges. The post Splunk, Zoom Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-16T10:54:34+00:00"
+    },
+    {
+      "id": "0bb78fbc64d1f9232f1af1358e7593eae021c28fff06941ae3a4616244beacca",
+      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+      "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-16T10:19:34+00:00"
+    },
+    {
+      "id": "fbd1f8791c297ac628ca325802d2a97ba4ac41475a5bf9e25592b0d3f097c98c",
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T10:10:00+00:00"
+    },
     {
       "id": "cd161f1ce3949274b7b2727a91b625c817164453f53865298cd73168ca358a63",
       "title": "New Spirals ransomware encrypts victim network in under 24 hours",
@@ -346,114 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-14T18:01:36+00:00"
-    },
-    {
-      "id": "364fe9f7a57643e8ed97d514b06f5402698386621600fe1e5925c0125d32a3ad",
-      "title": "Finland issues wanted notice for hacker behind massive psychotherapy data breach",
-      "url": "https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach",
-      "summary": "The defendant's lawyer told Finnish media that he does not know where his client is but believes Kivimäki is outside Finland.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-14T17:28:00+00:00"
-    },
-    {
-      "id": "216158fa47db25733644bdd67ae3e0ffe03a133789dffd7c6b69505121b15d8a",
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is sco",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T17:27:23+00:00"
-    },
-    {
-      "id": "9a26f90e93bd38075bb8d8f5dfb6cf3dc45e0bf2034f71dfb4b5411ae0c64b65",
-      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-      "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-14T17:06:35+00:00"
-    },
-    {
-      "id": "bb49257ac2827077c3346e36b02605cb3d03d49f8f3361d44b623b9fc5895f27",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-14T16:52:37+00:00"
-    },
-    {
-      "id": "cb67bcbd4f9c5564c8e09bd7979e32cbc10ec5e08487f2f2fb9aa34fa5962499",
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-14T16:08:47+00:00"
-    },
-    {
-      "id": "56c6f5f41dc61ff3831b53d4558e14a24ef46ace93db6f2f226875840085d2a4",
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-14T15:31:52+00:00"
-    },
-    {
-      "id": "40e0a1043edbb236ce19ac3f108c81542498131834ac5e3d5a40d9a6d54f6933",
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launc",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-14T14:00:10+00:00"
-    },
-    {
-      "id": "ebbb684fba90c4fd8c7cae071401eae5ab9dd337656a3b9dc8c3985f4d137901",
-      "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
-      "url": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
-      "summary": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal. The post 7 Severe Vulnerabilities Patched in VMware Avi Load Balancer appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-14T13:55:41+00:00"
-    },
-    {
-      "id": "3aa3e7cb17bab7617acb4d4295c52ba5283bf640b7e2bb1536717c77207f63ca",
-      "title": "NATO logistics, Ukrainian troops are top subjects of Russian camera hacks, advisory says",
-      "url": "https://therecord.media/russian-intelligence-compromising-cameras-nato-ukraine-netherlands",
-      "summary": "Dutch intelligence officials report that at least one Russian agency is compromising internet-connected cameras across Europe to spy on military logistics and Ukrainian personnel.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-14T13:55:00+00:00"
-    },
-    {
-      "id": "32eaa1c6bd97f7231ce2ac92ecb5a3c74c7d86a0b986d7ae150266e0760aa4b9",
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security tea",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T13:48:07+00:00"
-    },
-    {
-      "id": "76de1f0e76512fe0b72763227142248689afd25872cff44cab90276b32d5c919",
-      "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
-      "url": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
-      "summary": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. The post Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-14T13:00:00+00:00"
-    },
-    {
-      "id": "4a1fc432d4cdfa8ea715d2382ba08e9e0812a1d78df706581aed45a6a84bb213",
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-14T12:49:00+00:00"
     }
   ]
 }
