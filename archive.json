@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-19T19:01:10.663958+00:00",
+  "updated": "2026-07-20T03:14:16.558851+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "89f3cdde9df9a892df0c8e7a735051d7a16b7f93e7e7830dc8941d0fbc2661fe",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-19T20:42:49+00:00"
+    },
     {
       "id": "32a7886bc9a4dbc5cb8f1e3686ba83e329c46406ac262832cc62c14d5ab49264",
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
@@ -2242,15 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-06T18:03:00+00:00"
-    },
-    {
-      "id": "006a797fc25d645ec856667bfe9f2282bcdb1cfe4f1df71448d9d506080c6b8a",
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The pu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-06T17:37:01+00:00"
     }
   ]
 }

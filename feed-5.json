@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-19T19:01:10.663958+00:00",
+  "updated": "2026-07-20T03:14:16.558851+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "84ad29f7ff7b2c12ef74528c77c9915b44d9ba6ee97a93f34cf1b44a71ccd1be",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call&nbsp;HalluSquatting, turns that habit into an attack: work out the fake names an AI rel",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-08T15:07:24+00:00"
+    },
     {
       "id": "ec83579026f5d3212dbe38e0353032b95c4e5f65517bf3315d9989d84cedab8c",
       "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-06T18:03:00+00:00"
-    },
-    {
-      "id": "006a797fc25d645ec856667bfe9f2282bcdb1cfe4f1df71448d9d506080c6b8a",
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The pu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-06T17:37:01+00:00"
     }
   ]
 }
