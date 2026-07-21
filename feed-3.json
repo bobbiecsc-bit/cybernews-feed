@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-20T19:39:41.189180+00:00",
+  "updated": "2026-07-21T02:23:30.835118+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "906c19b34cbfcaa35794e17d1ee334459eaf04c63c10fbe34dc4613ab2604ad0",
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-15T09:16:13+00:00"
+    },
+    {
+      "id": "ffe69ccc58ad3a918e023569eb52cc7a28ab89f5159555982beec2f901db43d3",
+      "title": "US charges alleged operators of Russian bulletproof hosting service",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T07:45:50+00:00"
+    },
+    {
+      "id": "0e102c0cfd07f18ddb9f42dcc540a2d8461c485ee891f4f48bb4ff9bc943336f",
+      "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
+      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
+      "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T07:24:52+00:00"
+    },
+    {
+      "id": "3b955360dbc6c0e9a47dbb5fa55e7852b8e98cfdc49ddf08f16887ac6cce933c",
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+      "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0) - A Server-side re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T05:30:21+00:00"
+    },
+    {
+      "id": "e0da64e49d0ee42f6ca8397468e2955d5e9b3e8d5cf2973d24f5448b72a7376c",
+      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+      "url": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
+      "summary": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution. The post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T05:19:42+00:00"
+    },
+    {
+      "id": "b30f9074e01f257cddc159682b74a153956ad261ace5981cec430aa752d13704",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-14T21:23:24+00:00"
+    },
     {
       "id": "404b4fa0d004aa61e064841e2f0ab59933ff3336f191570f54def0e3a600746b",
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-13T14:01:11+00:00"
-    },
-    {
-      "id": "b686c465336853b952e12bb17f0d15c530df44399447e332d451470e7924291e",
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the per",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-13T13:49:48+00:00"
-    },
-    {
-      "id": "bc44a3c520b138980514890a06058074747903684e1cbc3a7a26be4b70a459ba",
-      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-      "url": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
-      "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-13T12:00:00+00:00"
-    },
-    {
-      "id": "f0c6d4f76330505051c159cdc99d543ffddfa674ace4f2df581bcd403f715f3e",
-      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-      "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-13T11:19:05+00:00"
-    },
-    {
-      "id": "af8ae50feb023e74af4b4f0092ab79e72cd34e3a42754270ba421e1cad6634b3",
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting o",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-13T11:02:33+00:00"
-    },
-    {
-      "id": "3b98898a14a8ca6285f292c9b69d6d08e655b405ff50230db8324c52bd56ee3c",
-      "title": "Zimbra Patches Critical Code Execution Vulnerability",
-      "url": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-      "summary": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened. The post Zimbra Patches Critical Code Execution Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-13T10:03:47+00:00"
-    },
-    {
-      "id": "0ccaedbbf9cd816c36789dec64d3bf378da72678aa7904b9024983d4331b9990",
-      "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-      "url": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-      "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appea",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-13T10:00:00+00:00"
     }
   ]
 }

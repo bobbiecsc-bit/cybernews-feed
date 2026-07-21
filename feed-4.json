@@ -1,10 +1,64 @@
 {
-  "updated": "2026-07-20T19:39:41.189180+00:00",
+  "updated": "2026-07-21T02:23:30.835118+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b686c465336853b952e12bb17f0d15c530df44399447e332d451470e7924291e",
+      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the per",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-13T13:49:48+00:00"
+    },
+    {
+      "id": "bc44a3c520b138980514890a06058074747903684e1cbc3a7a26be4b70a459ba",
+      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+      "url": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+      "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-13T12:00:00+00:00"
+    },
+    {
+      "id": "f0c6d4f76330505051c159cdc99d543ffddfa674ace4f2df581bcd403f715f3e",
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-13T11:19:05+00:00"
+    },
+    {
+      "id": "af8ae50feb023e74af4b4f0092ab79e72cd34e3a42754270ba421e1cad6634b3",
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting o",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-13T11:02:33+00:00"
+    },
+    {
+      "id": "3b98898a14a8ca6285f292c9b69d6d08e655b405ff50230db8324c52bd56ee3c",
+      "title": "Zimbra Patches Critical Code Execution Vulnerability",
+      "url": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
+      "summary": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened. The post Zimbra Patches Critical Code Execution Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-13T10:03:47+00:00"
+    },
+    {
+      "id": "0ccaedbbf9cd816c36789dec64d3bf378da72678aa7904b9024983d4331b9990",
+      "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
+      "url": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
+      "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appea",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-13T10:00:00+00:00"
+    },
     {
       "id": "8689ebe44392673eeaabec7ead4581dc412561c27abb194bd38aa6b96a20a0ec",
       "title": "US and allies warn of Russian critical infrastructure attacks",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-10T08:00:14+00:00"
-    },
-    {
-      "id": "b3a6b7d917a3624d8719a01bcef9307612fe0c0e4eda6bb776e6c57298522616",
-      "title": "Dutch police trace Odido telco cyberattack to suspected local accomplice",
-      "url": "https://therecord.media/dutch-police-suspect-dutch-accomplice-in-odido-cyberattack",
-      "summary": "Dutch police said Thursday they had uncovered evidence suggesting that Dutch criminals were involved in the cyberattack on telecom provider Odido that exposed the personal data of more than 6 million customers earlier this year.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-09T23:00:00+00:00"
-    },
-    {
-      "id": "107733d883d24ed35c8089c8a07189c1d66d70710f978f0e2e5ea96472c72c7e",
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveragin",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T18:38:49+00:00"
-    },
-    {
-      "id": "eb95a634a0340b775650bc54fa2c06ec57dec782994edbe2618af99a5441ae29",
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from. Each is a different way to break a machine: wipe the whole disk, overw",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-09T18:08:07+00:00"
-    },
-    {
-      "id": "d7c8b88ca3e8f6cdc00537e812a2e2d149eda232aac2df9155b6f1bc69e1fc5e",
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-09T17:08:29+00:00"
-    },
-    {
-      "id": "0ade65d4f76df878699bd14cb3ff1b8a16c861bcb49b6f3f9ffaaf2b02ef56e9",
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it a",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T15:09:28+00:00"
-    },
-    {
-      "id": "6a17846660449f51b1a3a3c35c598c897ef52ab39e1a7574d97010fb22faa23f",
-      "title": "Latvian forestry company still restoring systems weeks after ransomware attack",
-      "url": "https://therecord.media/latvia-state-owned-foresty-company-lvm-ransomware",
-      "summary": "A foreign, financially motivated group was responsible for a cyberattack on state-owned forestry company Latvijas Valsts Mezi (LVM), officials said.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-09T14:20:00+00:00"
     }
   ]
 }
