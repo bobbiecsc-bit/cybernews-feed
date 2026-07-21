@@ -1,10 +1,100 @@
 {
-  "updated": "2026-07-21T13:41:01.450693+00:00",
+  "updated": "2026-07-21T19:15:41.772137+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4a1fc432d4cdfa8ea715d2382ba08e9e0812a1d78df706581aed45a6a84bb213",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-14T12:49:00+00:00"
+    },
+    {
+      "id": "6f88e63f0b0c7123c6e054816b40119dbc58c2b800c75d40bb7bbb9a5a99a012",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrus",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T12:46:18+00:00"
+    },
+    {
+      "id": "8267c1579a3e324746656cd7cf1b77f17ecc0b3638aee349a499921c11bfcf83",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "url": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and e",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-14T11:30:00+00:00"
+    },
+    {
+      "id": "5019a8434d0696a536321a115066b3b9b476ecce008f96ae245f6cf50b29155c",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "url": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever gener",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-14T11:21:35+00:00"
+    },
+    {
+      "id": "b1089a43230e00ba5a9b33df25ad6706b0fdf0ac983c187db9a786f883de612a",
+      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+      "url": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+      "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-14T11:17:56+00:00"
+    },
+    {
+      "id": "f170ea6fb52ab7fb9459483472bf4fd861138ea94e9976cc5233ad3d68310c30",
+      "title": "Vulnerability in FIFA’s Network",
+      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
+      "summary": "FIFA&#8217;s network was vulnerable to anyone with even minimal access.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-07-14T11:06:51+00:00"
+    },
+    {
+      "id": "020747a90a3719b588747518ac809a9b95fc96c461e6b7caeb0bd072549416ea",
+      "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
+      "url": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
+      "summary": "Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks. The post US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-14T10:51:01+00:00"
+    },
+    {
+      "id": "e16d4d8b148e52030de0c91d0cde889c8834f0f644cf315b745fdc75464d87fd",
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-14T09:40:13+00:00"
+    },
+    {
+      "id": "5ee01386a94abbb0c3514cd128e7febffa4c7adb6e6504433c9087911c2fc6ba",
+      "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
+      "url": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
+      "summary": "A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer. The post Multiple Jscrambler Packages Impacted by Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-14T09:04:39+00:00"
+    },
+    {
+      "id": "db63b36221ecde979e0d3d2af7a4123d3df5a5754fabe85a0eb101ffbc321878",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-14T09:02:48+00:00"
+    },
     {
       "id": "d20a2c9910e9f645420fc1edb8f5d28d75bb6b24879be7c7be8d21f8bd46ee83",
       "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-10T16:37:01+00:00"
-    },
-    {
-      "id": "903b418d1fc24610907358c4890bdae47def24fae427659c20e91bab153c192b",
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says i",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-10T16:30:00+00:00"
-    },
-    {
-      "id": "6a1f2bb00b6f21a5da5c2dad9a189146eaa4f47426a0153b08a5a6f31b52f713",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-10T16:29:00+00:00"
-    },
-    {
-      "id": "3365af60dbb394cc81384dd60396bcd64a6d975577b344b6f77850cc229218f0",
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-10T16:26:10+00:00"
-    },
-    {
-      "id": "fd4596900851b0c2c62cf707b825dc9fcda78dfac66465ffff0d383743c874fe",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacke",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:57:14+00:00"
-    },
-    {
-      "id": "36fa517ccdb8cb92e7e0ab495b565034e6734fa4134ec1a4f819632b89bf946c",
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:48:38+00:00"
-    },
-    {
-      "id": "e609a91e9ef924229c022616e6beb99370ac4fe1904b7c32e65f97bbc80a4f27",
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-10T15:30:19+00:00"
-    },
-    {
-      "id": "b3571b4b358438b50e83c3a86f88fcdf856c6b07c55cdbb7726c8f0c9c2d6e30",
-      "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-      "url": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on Secur",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-10T15:01:19+00:00"
-    },
-    {
-      "id": "2910e42f04a2858ccce87496c2e81af60a2bcc41ae59b9171c1243524c678d42",
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wal",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T14:51:49+00:00"
-    },
-    {
-      "id": "fafcd912b165396df623ca4ba335b1151f5dd33400a57c724ced16be221b7e27",
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnera",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T14:19:50+00:00"
-    },
-    {
-      "id": "f0d2bd0b4396707d51d7e3467e15db6fbbccdd0fff1422c7c2b2b497b5f56200",
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-10T14:00:10+00:00"
     }
   ]
 }
