@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-21T08:22:13.859506+00:00",
+  "updated": "2026-07-21T13:41:01.450693+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
+      "title": "23andMe reaches $18 million settlement with states for massive breach",
+      "url": "https://therecord.media/genetic-testing-settlement-data-breach",
+      "summary": "A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-15T17:45:00+00:00"
+    },
+    {
+      "id": "2765d5a2787925026e1547fdf10718be1660d230e12d3d08dfd049588c08386e",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T15:37:27+00:00"
+    },
+    {
+      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-15T15:30:30+00:00"
+    },
+    {
+      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:37:13+00:00"
+    },
+    {
+      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:07:44+00:00"
+    },
+    {
+      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:01:11+00:00"
+    },
+    {
+      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T13:18:53+00:00"
+    },
+    {
+      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-15T13:00:00+00:00"
+    },
+    {
+      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
+      "title": "Microsoft smashes Patch Tuesday record for second successive month",
+      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
+      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-15T12:15:00+00:00"
+    },
+    {
+      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T11:07:07+00:00"
+    },
+    {
+      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
+      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-15T11:02:57+00:00"
+    },
+    {
+      "id": "48833fc438421200d33970a822b4f75a5983b48e05c2cab5ea2996a50fee4ff6",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "url": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T10:55:22+00:00"
+    },
     {
       "id": "a0851601e745292db9146547076b690f0f5498ebaced61bc47c7fe0bc2281945",
       "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
@@ -346,114 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-14T09:02:48+00:00"
-    },
-    {
-      "id": "d20a2c9910e9f645420fc1edb8f5d28d75bb6b24879be7c7be8d21f8bd46ee83",
-      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-      "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans. The VPN, named First VPN Service (1VPNS), h",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-14T08:02:33+00:00"
-    },
-    {
-      "id": "7eacb300a052d427209d5982b2d67f5d221daf1f46150636fe4bbda2a9649887",
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog. The packages did not go after the developers who might install them. The operators used the r",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-14T07:08:36+00:00"
-    },
-    {
-      "id": "cfe644fb99fa7be6ee3a6c9c36b1cc1692eec917eddf6a40add2fca75752f364",
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "summary": "Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organization had already extended, usually through the OAut",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T06:19:24+00:00"
-    },
-    {
-      "id": "7f06090b4b9739143fbfa23430794e4c31ec4aa987aca1d4568cd41a932ceabc",
-      "title": "Hackers steal Lidl customer data from external service provider",
-      "url": "https://therecord.media/hackers-steal-lidl-customer-data",
-      "summary": "The retailer said the incident did not affect its online shopping platform itself but involved a separately stored customer database maintained by a third-party provider. According to notifications sent to Lidl's German, Belgian and Dutch customers on Friday, the attackers briefly accessed the file ",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T23:00:00+00:00"
-    },
-    {
-      "id": "476e026194944e4fcda83e0d546ca8a2dae6763c7e950bb97d1a1ab8ff950cb1",
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-13T20:18:59+00:00"
-    },
-    {
-      "id": "54014ce85fb246d46a746596de5f7b6fc7ed1e20accede578f5b360f40cdf452",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:44:19+00:00"
-    },
-    {
-      "id": "a133d597433224c789e5778adf08fb227f1893652c1f72125ed162d164cd0ae7",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:04:02+00:00"
-    },
-    {
-      "id": "4215cfbfa6972977cfde61bfc293185cf16abae21432e3c6473ff7fb750e7ea0",
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups",
-      "summary": "The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware \"cryptors.\"",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-13T18:50:00+00:00"
-    },
-    {
-      "id": "eca7de3409a455c02e7eeedc4e9b787a1be378b552ab29dddc41c60bfa8f9d6e",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in nati",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-13T17:36:12+00:00"
-    },
-    {
-      "id": "e128c1f0a3de6bd263b8a07f7f7dba709677739e36eb61ae01d343b93dc997e6",
-      "title": "Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach",
-      "url": "https://therecord.media/ksenia-sobchak-russian-hackers-leak",
-      "summary": "Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T17:15:00+00:00"
-    },
-    {
-      "id": "7a709a882483af011842b23ab4faa2567675d2d12ce0f24412284af267b8c926",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:20:16+00:00"
-    },
-    {
-      "id": "ad3e33cb35b505dabdee6cb5d7e007dd00188c0ed9cf4719106562197b596614",
-      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the peop",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:05:57+00:00"
     }
   ]
 }
