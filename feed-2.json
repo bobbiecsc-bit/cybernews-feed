@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-22T08:22:33.356123+00:00",
+  "updated": "2026-07-22T13:43:51.309941+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fd3d6b21ff4eb2bcd8c22e7d13c550899c0967a22e920a980f096820dab3d88f",
+      "title": "Hackers were inside South Korea's diplomat training system for 9 months",
+      "url": "https://therecord.media/south-korea-cyberattack-foreign-ministry",
+      "summary": "Unidentified hackers compromised an online education system used by South Korea's diplomatic academy, stealing personal information belonging to former and current employees of the country's Ministry of Foreign Affairs.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-20T15:15:00+00:00"
+    },
+    {
+      "id": "cdc5baeb0f6604821bc5e61902ab16419b93921a34c1ccf00e6fd3c5362814e8",
+      "title": "Romania races to restore land registry after cyberattack disrupts property market",
+      "url": "https://therecord.media/romania-cyberattack-land-registry",
+      "summary": "Romania's land registry agency is still recovering from a cyberattack it called \"the most serious technical incident in the institution's history.\"",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-20T14:45:00+00:00"
+    },
+    {
+      "id": "d7859924946fd9b5e0c153e509e6f70bf856aef7db8e514c6984be31d6bdbd0b",
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-20T14:33:43+00:00"
+    },
+    {
+      "id": "4860fd06c1861d8136c646fc97425b13bc84d8c50ea14728911bad866473e8b3",
+      "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+      "url": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+      "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T14:11:05+00:00"
+    },
+    {
+      "id": "8081f65b5a8e2d2ced2d13318fa6c694069cde5176f7206255823090a6b60132",
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-20T13:32:26+00:00"
+    },
+    {
+      "id": "cec3acf0a9aee416337eee471f17d18604ef4acd2baf8798445c0eedd5d891f3",
+      "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
+      "url": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+      "summary": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory. The post OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-20T12:32:40+00:00"
+    },
+    {
+      "id": "ff8863423d2dbc0623d2a22b2fb71f04091e1ae25706e7320cee292375a05a94",
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-20T11:56:28+00:00"
+    },
     {
       "id": "f3e9df9085a13dfba24f0f14a9a209a23204d1f8b5f4650e76bf35c1ec502d4b",
       "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-16T17:09:25+00:00"
-    },
-    {
-      "id": "3c8f9fdd2670e9fa1b1df4bc4736ca3fdf53e75a0359ad641eb501902be31319",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T15:41:15+00:00"
-    },
-    {
-      "id": "5fa78708c94106ba186e7c5eb83cf5a44dcdc13ed13d37c71b8ccd8ecb484681",
-      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
-      "url": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
-      "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-16T15:15:00+00:00"
-    },
-    {
-      "id": "4c8de262f485002a0791c2a7bdb950ecb401eb95f24d22b453ec0e2dae582546",
-      "title": "Sandworm hackers have a CAPTCHA trick for Ukrainians",
-      "url": "https://therecord.media/ukraine-sandworm-hacks-captcha-powershell",
-      "summary": "Rather than verifying they are human, the CAPTCHA users are instructed to copy and paste a PowerShell command into their Windows computers.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-16T13:50:00+00:00"
-    },
-    {
-      "id": "ee3628432aef990c83dfba704140d59b819521ffac42d4f705db1af18d1f98bb",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-16T13:47:23+00:00"
-    },
-    {
-      "id": "ae03488274cf3725120a47f888f22806fc59c11f99de4ee17467ef1d81e688d9",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss. A valid token from issuer A carrying a&nbs",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-16T13:33:25+00:00"
-    },
-    {
-      "id": "b636e0d74ff68310bc2d20285938d02a7e218a9170859b94d77a3e18f23bc0ef",
-      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
-      "url": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-      "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-16T13:21:12+00:00"
-    },
-    {
-      "id": "9a667808f9a4bf6d5ea20081b8289f2caf9d129b37a9122e6757696f3421b5c0",
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-16T12:50:13+00:00"
     }
   ]
 }

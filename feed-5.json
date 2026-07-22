@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-22T08:22:33.356123+00:00",
+  "updated": "2026-07-22T13:43:51.309941+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b23bf6e48280a3fd1f3f0b7db37a15e9a1938e07269536c759cbbe206903190d",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history. From that one lapse, French security fi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-13T07:30:00+00:00"
+    },
+    {
+      "id": "c1d2b64b551f5c7eafd0c82620e276d4a72f1b44c7cce8715bd8d654938d3535",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-13T05:36:02+00:00"
+    },
+    {
+      "id": "045279e770fb07842e6d510e79f3c4ef31461d696944c4053ba98d6aea04a220",
+      "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
+      "url": "https://isc.sans.edu/diary/rss/33150",
+      "summary": "The setup&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-07-13T04:22:02+00:00"
+    },
+    {
+      "id": "b16b18aecbf1495ee479bcd57989489d3bf66dec7fb6851e496cc6a89fa6dd7d",
+      "title": "Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions",
+      "url": "https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package",
+      "summary": "The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber activities with growing severity.”",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-12T23:00:00+00:00"
+    },
+    {
+      "id": "7c20169ea7d15f0eb2a55081fabfc2c42fe8ab34a70d120324d59fdc4bc0b42b",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-12T14:27:32+00:00"
+    },
+    {
+      "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-11T17:59:26+00:00"
+    },
+    {
+      "id": "5a78286d4eea74fb31f26c8096b3dbd1db3cfbb7dcbea67fa05af998d14bd608",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-11T17:49:31+00:00"
+    },
     {
       "id": "da9dd91e2ef63909c9ce95eb089b0bc5c007240f4218d1c35d855dc7fab5b0a6",
       "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-09T11:52:35+00:00"
-    },
-    {
-      "id": "d49881cebcbe44a1ffd7b36d7d64e2268121a9f84d3d4f3ed485387b50d30685",
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "url": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-09T10:43:09+00:00"
-    },
-    {
-      "id": "60d15b5d64553d8d1de129ef8f4766c0af5adf41c81516ad936513902cdb92f0",
-      "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
-      "url": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
-      "summary": "The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update. The post Microsoft Patches Defender &#8216;RoguePlanet&#8217; Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T10:28:35+00:00"
-    },
-    {
-      "id": "e535ade8b3010e53c8adb9019d484dd59725f5b5db9642e9d48ce3d2551ff0d0",
-      "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
-      "url": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
-      "summary": "Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data. The post Mount Royal University Confirms Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-09T10:06:18+00:00"
-    },
-    {
-      "id": "5d7ffdcb80a81aad7d5a0c42584162e2ce8981292b69f2b3ccbdda5558c6b1f8",
-      "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
-      "url": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
-      "summary": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval. The post AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-09T08:52:21+00:00"
-    },
-    {
-      "id": "d24c0cd60c39d202b7451e07b38b36f21025f913f2b98bf690634cd2a179d653",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T08:48:48+00:00"
-    },
-    {
-      "id": "e5c47ef352f28d1b3d91ad980f98f4d0b8b749fdca69af1e87ebda2610fd021a",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "url": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-09T07:47:16+00:00"
-    },
-    {
-      "id": "ee8b09e1b07838302ab43a94825ec20f51902a8bd6589e555e287df1a742d775",
-      "title": "Chrome 150 Update Patches 27 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-      "summary": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google. The post Chrome 150 Update Patches 27 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T07:27:59+00:00"
     }
   ]
 }

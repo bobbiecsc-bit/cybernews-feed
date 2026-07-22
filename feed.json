@@ -1,15 +1,78 @@
 {
-  "updated": "2026-07-22T08:22:33.356123+00:00",
+  "updated": "2026-07-22T13:43:51.309941+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
     {
+      "id": "a289123c5cbc99bb63d4fa437e7c83669f78923679cda712299e9b7df31077ef",
+      "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
+      "url": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
+      "summary": "Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues. The post Vibe-Coded Apps Riddled With Exploitable Security Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-22T13:00:00+00:00"
+    },
+    {
+      "id": "0deff6acddf68d2ea0d79f4aeebc455a22f399a78e39d8fe7a08ad852c3decdd",
+      "title": "OpenAI models behind breach of Hugging Face systems, companies say",
+      "url": "https://therecord.media/openai-cyberattack-hugging-face",
+      "summary": "OpenAI announced that its models were behind a breach of the AI platform Hugging Face, which had earlier detected an attack carried out by \"by an autonomous AI agent.\"",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-22T12:00:00+00:00"
+    },
+    {
+      "id": "e26cffc4fd1ffc55ac4d3bc7fc9741ae4122f986c449b87804a309f844688078",
+      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-22T11:43:28+00:00"
+    },
+    {
+      "id": "ca869bb4da59f983495aab36320aa51580a1063991403726d08e2f21afa3c5a0",
+      "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
+      "url": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
+      "summary": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access. The post Fourth SharePoint Vulnerability Exploited in Past Month&#8217;s Wave of Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-22T11:29:16+00:00"
+    },
+    {
+      "id": "71e53440e68a58a51d893bf451b9d8a192b04dea4cffb25d55a473de491cdba1",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Globa",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-22T11:25:35+00:00"
+    },
+    {
+      "id": "aa9dd3107ab74dbb30cd094c5d4b27e4ee8d78543935e88b5ab4d1bf08d41e8d",
+      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
+      "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+      "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-22T10:00:00+00:00"
+    },
+    {
+      "id": "877d96fb1f8c75f690eeee3ae9d15d5e9884571141e2af9c21e877bc9f3245c6",
+      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+      "url": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+      "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-22T08:32:02+00:00"
+    },
+    {
       "id": "9fe570483e988c2c878bd8a14dfe8dcff393db5ac4140a219691ba10d5e2deb0",
       "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
       "url": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-      "summary": "The admission comes days after Hugging Face disclosed an attack powered by autonomous AI agents. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
+      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-22T07:48:49+00:00"
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-07-20T17:29:50+00:00"
-    },
-    {
-      "id": "fd3d6b21ff4eb2bcd8c22e7d13c550899c0967a22e920a980f096820dab3d88f",
-      "title": "Hackers were inside South Korea's diplomat training system for 9 months",
-      "url": "https://therecord.media/south-korea-cyberattack-foreign-ministry",
-      "summary": "Unidentified hackers compromised an online education system used by South Korea's diplomatic academy, stealing personal information belonging to former and current employees of the country's Ministry of Foreign Affairs.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-20T15:15:00+00:00"
-    },
-    {
-      "id": "cdc5baeb0f6604821bc5e61902ab16419b93921a34c1ccf00e6fd3c5362814e8",
-      "title": "Romania races to restore land registry after cyberattack disrupts property market",
-      "url": "https://therecord.media/romania-cyberattack-land-registry",
-      "summary": "Romania's land registry agency is still recovering from a cyberattack it called \"the most serious technical incident in the institution's history.\"",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-20T14:45:00+00:00"
-    },
-    {
-      "id": "d7859924946fd9b5e0c153e509e6f70bf856aef7db8e514c6984be31d6bdbd0b",
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-20T14:33:43+00:00"
-    },
-    {
-      "id": "4860fd06c1861d8136c646fc97425b13bc84d8c50ea14728911bad866473e8b3",
-      "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
-      "url": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
-      "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T14:11:05+00:00"
-    },
-    {
-      "id": "8081f65b5a8e2d2ced2d13318fa6c694069cde5176f7206255823090a6b60132",
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs we",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-20T13:32:26+00:00"
-    },
-    {
-      "id": "cec3acf0a9aee416337eee471f17d18604ef4acd2baf8798445c0eedd5d891f3",
-      "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
-      "url": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
-      "summary": "Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory. The post OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T12:32:40+00:00"
-    },
-    {
-      "id": "ff8863423d2dbc0623d2a22b2fb71f04091e1ae25706e7320cee292375a05a94",
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-20T11:56:28+00:00"
     }
   ]
 }

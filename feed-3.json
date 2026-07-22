@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-22T08:22:33.356123+00:00",
+  "updated": "2026-07-22T13:43:51.309941+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3c8f9fdd2670e9fa1b1df4bc4736ca3fdf53e75a0359ad641eb501902be31319",
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T15:41:15+00:00"
+    },
+    {
+      "id": "5fa78708c94106ba186e7c5eb83cf5a44dcdc13ed13d37c71b8ccd8ecb484681",
+      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+      "url": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+      "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-16T15:15:00+00:00"
+    },
+    {
+      "id": "4c8de262f485002a0791c2a7bdb950ecb401eb95f24d22b453ec0e2dae582546",
+      "title": "Sandworm hackers have a CAPTCHA trick for Ukrainians",
+      "url": "https://therecord.media/ukraine-sandworm-hacks-captcha-powershell",
+      "summary": "Rather than verifying they are human, the CAPTCHA users are instructed to copy and paste a PowerShell command into their Windows computers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-16T13:50:00+00:00"
+    },
+    {
+      "id": "ee3628432aef990c83dfba704140d59b819521ffac42d4f705db1af18d1f98bb",
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "url": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-16T13:47:23+00:00"
+    },
+    {
+      "id": "ae03488274cf3725120a47f888f22806fc59c11f99de4ee17467ef1d81e688d9",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss. A valid token from issuer A carrying a&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-16T13:33:25+00:00"
+    },
+    {
+      "id": "b636e0d74ff68310bc2d20285938d02a7e218a9170859b94d77a3e18f23bc0ef",
+      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
+      "url": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
+      "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-16T13:21:12+00:00"
+    },
+    {
+      "id": "9a667808f9a4bf6d5ea20081b8289f2caf9d129b37a9122e6757696f3421b5c0",
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-16T12:50:13+00:00"
+    },
     {
       "id": "1d520645c103f3b6dbb144bdb4f0af9f91fb938a67ca31ad3f46c8bb047cc591",
       "title": "‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-14T19:15:17+00:00"
-    },
-    {
-      "id": "2c05a6767febb2b2c76fc6e3cef6d20bec8e15046b36492114fba1cfbd1078d0",
-      "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-      "url": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-      "summary": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed. The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-14T18:50:20+00:00"
-    },
-    {
-      "id": "e51c8b875e1d596ec9b905d54dd4c645eaac8df18e22e84211fefe6b24cc8340",
-      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-      "url": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-      "summary": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. The post Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-14T18:18:45+00:00"
-    },
-    {
-      "id": "fc120127bd2524a32c303e2218bc2259cc6394288408b70ff97236de69cf8070",
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated at",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T18:17:57+00:00"
-    },
-    {
-      "id": "4e4b1ba3efff3fb89640f7fe2da64ede65c066927fc236490a4689f8d811065c",
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-14T18:01:36+00:00"
-    },
-    {
-      "id": "364fe9f7a57643e8ed97d514b06f5402698386621600fe1e5925c0125d32a3ad",
-      "title": "Finland issues wanted notice for hacker behind massive psychotherapy data breach",
-      "url": "https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach",
-      "summary": "The defendant's lawyer told Finnish media that he does not know where his client is but believes Kivimäki is outside Finland.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-14T17:28:00+00:00"
-    },
-    {
-      "id": "216158fa47db25733644bdd67ae3e0ffe03a133789dffd7c6b69505121b15d8a",
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is sco",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T17:27:23+00:00"
-    },
-    {
-      "id": "9a26f90e93bd38075bb8d8f5dfb6cf3dc45e0bf2034f71dfb4b5411ae0c64b65",
-      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-      "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-14T17:06:35+00:00"
     }
   ]
 }
