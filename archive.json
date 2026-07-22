@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-21T19:15:41.772137+00:00",
+  "updated": "2026-07-22T02:21:56.644724+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-21T22:34:17+00:00"
+    },
+    {
+      "id": "5788b4c60bfc8e18e2992e1cd1c4ce40eebdffb93c2b9a168441cdd3de567222",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-21T20:06:55+00:00"
+    },
     {
       "id": "070d62f63023131244ce2163ce97122abd74c83fa1ca59a97e6d609b87311431",
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
@@ -10,6 +28,15 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-21T18:50:54+00:00"
+    },
+    {
+      "id": "e70e19482056cfbd5d395518594ce018a26d12abdb13eb046735dfd6e0819b18",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-21T18:46:32+00:00"
     },
     {
       "id": "baa47ef690b92fd0c28472c8da45c7937dd2b612591d047c7568bcb2a6ed13ad",
@@ -231,7 +258,7 @@
       "id": "9be792a0f71e6f67417816e5b7c63da2809ab84aa6f4b72276146fa5f368466b",
       "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
       "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+      "summary": "Cosmetics giant Estée Lauder is notifying employees of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-20T22:39:30+00:00"
@@ -2224,33 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-07-09T04:01:49+00:00"
-    },
-    {
-      "id": "38dcb6c79cd5ccc71773823c7a40480e30014d1e148c70899031ad0502267b3a",
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-08T21:26:59+00:00"
-    },
-    {
-      "id": "11bd55b6e6a6a5564bb75997d72dcd9f735c8c5bf61a4628fe48035cff5e873f",
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-08T19:54:59+00:00"
-    },
-    {
-      "id": "6ebd28e1db31fee1a17225a87f665cc07151dd822713668cad9e15e0d327e7a1",
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-08T18:56:02+00:00"
     }
   ]
 }
