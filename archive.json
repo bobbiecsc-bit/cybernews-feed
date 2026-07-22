@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-22T02:21:56.644724+00:00",
+  "updated": "2026-07-22T08:22:33.356123+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9fe570483e988c2c878bd8a14dfe8dcff393db5ac4140a219691ba10d5e2deb0",
+      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+      "url": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+      "summary": "The admission comes days after Hugging Face disclosed an attack powered by autonomous AI agents. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-22T07:48:49+00:00"
+    },
+    {
+      "id": "f19e3d55d9f11a51d89630daca32c0dc9686a9f134236c01ba3bd3776e00a974",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-22T06:40:29+00:00"
+    },
+    {
+      "id": "6485f682b06f440094135db6799a6f82a9220e19d301fe31fa42cc01270d48f2",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Jso",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-22T06:00:06+00:00"
+    },
+    {
+      "id": "699ccacee3ffc7d88977e316b630a63843ba0ddc8b5cfe7dc1f55da35ad9b23a",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-22T05:19:20+00:00"
+    },
+    {
+      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-22T04:57:52+00:00"
+    },
     {
       "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
       "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-09T07:27:59+00:00"
-    },
-    {
-      "id": "3e97c161bf27062fe7e0bfc38bb5f5df6a9c1f96e4a8b19e99faed7cba3d2f6c",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:42:49+00:00"
-    },
-    {
-      "id": "85ed5e7b7d468fa62e1db025daadc47328b46d93418f8fe144a4869929336974",
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Clau",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T05:15:02+00:00"
-    },
-    {
-      "id": "7b6924f9c9bd369dd8acc94525c817bb5a2fb2855cd011d98a17b4525a69962a",
-      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-      "url": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-      "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:00:41+00:00"
-    },
-    {
-      "id": "4e6a511c59f1852d42cf810653617173fbb20c7f0bc2977cb09c4db19d4e483e",
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T04:27:18+00:00"
-    },
-    {
-      "id": "1c061cbc0f4453a3f17c9b831f630979e2882ca0600efab1aed7f84739e488b4",
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DN",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T04:01:49+00:00"
     }
   ]
 }

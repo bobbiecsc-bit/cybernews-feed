@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-22T02:21:56.644724+00:00",
+  "updated": "2026-07-22T08:22:33.356123+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "da9dd91e2ef63909c9ce95eb089b0bc5c007240f4218d1c35d855dc7fab5b0a6",
+      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+      "url": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-11T17:30:00+00:00"
+    },
+    {
+      "id": "1c37f0a5062bb5c5d6336ced5699e232ae5ab535325a98fc8bd9e71a7fc17870",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-11T14:18:23+00:00"
+    },
+    {
+      "id": "2764346b77ff5d266c6d581f0eaf4a77a26e5ce08165215e30ea8dcbaaa41941",
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to ex",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-11T06:45:55+00:00"
+    },
+    {
+      "id": "3876d90cd5c8f02c735bcb439d0d414f5a03137746b508a3f035f923a8a988fc",
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-10T21:59:02+00:00"
+    },
+    {
+      "id": "9bdf92e77473ac09b5d810927cb51dfef286c04e885095a0c08c23786cff05de",
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "summary": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-07-10T21:07:13+00:00"
+    },
     {
       "id": "c1cde371766464bd3a8a632707c8696c39e4c21940f5945bb9ca5a0c8a6a108c",
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-09T07:27:59+00:00"
-    },
-    {
-      "id": "3e97c161bf27062fe7e0bfc38bb5f5df6a9c1f96e4a8b19e99faed7cba3d2f6c",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:42:49+00:00"
-    },
-    {
-      "id": "85ed5e7b7d468fa62e1db025daadc47328b46d93418f8fe144a4869929336974",
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Clau",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T05:15:02+00:00"
-    },
-    {
-      "id": "7b6924f9c9bd369dd8acc94525c817bb5a2fb2855cd011d98a17b4525a69962a",
-      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-      "url": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-      "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-09T05:00:41+00:00"
-    },
-    {
-      "id": "4e6a511c59f1852d42cf810653617173fbb20c7f0bc2977cb09c4db19d4e483e",
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-09T04:27:18+00:00"
-    },
-    {
-      "id": "1c061cbc0f4453a3f17c9b831f630979e2882ca0600efab1aed7f84739e488b4",
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DN",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-09T04:01:49+00:00"
     }
   ]
 }
