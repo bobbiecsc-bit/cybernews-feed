@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-23T02:27:10.998894+00:00",
+  "updated": "2026-07-23T08:24:00.528479+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
+      "title": "Microsoft smashes Patch Tuesday record for second successive month",
+      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
+      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-07-15T12:15:00+00:00"
+    },
+    {
+      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T11:07:07+00:00"
+    },
+    {
+      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
+      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-15T11:02:57+00:00"
+    },
     {
       "id": "48833fc438421200d33970a822b4f75a5983b48e05c2cab5ea2996a50fee4ff6",
       "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "malware",
       "date": "2026-07-13T18:50:00+00:00"
-    },
-    {
-      "id": "eca7de3409a455c02e7eeedc4e9b787a1be378b552ab29dddc41c60bfa8f9d6e",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in nati",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-13T17:36:12+00:00"
-    },
-    {
-      "id": "e128c1f0a3de6bd263b8a07f7f7dba709677739e36eb61ae01d343b93dc997e6",
-      "title": "Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach",
-      "url": "https://therecord.media/ksenia-sobchak-russian-hackers-leak",
-      "summary": "Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T17:15:00+00:00"
-    },
-    {
-      "id": "7a709a882483af011842b23ab4faa2567675d2d12ce0f24412284af267b8c926",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:20:16+00:00"
     }
   ]
 }
