@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-22T19:10:55.125708+00:00",
+  "updated": "2026-07-23T02:27:10.998894+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4d491fd7a7f8e25d0bc37df54f0057b2f7fc1d436617d411757877adc015fc1f",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-22T21:43:39+00:00"
+    },
+    {
+      "id": "9b6513ea679226cf04af5bc3f48d37150cabd31dea9f297f925414e749422a86",
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-22T20:06:54+00:00"
+    },
+    {
+      "id": "7e83016e7e678ae9246a592770856784756909f9b0267caf91f025357301d1fb",
+      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
+      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
+      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-22T19:18:00+00:00"
+    },
+    {
+      "id": "4263055e9b99c07ba0e72514a6b19d74082c50f6a3fd0ce34a80de8ef6b2d4d4",
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more. Reports filed before that date, including those alread",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-22T18:37:42+00:00"
+    },
     {
       "id": "83c96b979abbb111297825955718407a7ae440e81097500d2b4937aeb4c75f4d",
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-21T08:59:30+00:00"
-    },
-    {
-      "id": "3b51726f9c540cb935e579328c33980b10c8b7760d52a76d60d2fe63d0c4fa62",
-      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-      "url": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-      "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-21T08:41:53+00:00"
-    },
-    {
-      "id": "466424b32bb760c0237a00b87300d245205ab9c8d39395a86a5791e0f2a9a76d",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-21T08:06:26+00:00"
-    },
-    {
-      "id": "0edace9f3bea69f2acf988512fa492ff0b8483183f83509e3c1e4ae0145954a0",
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes,",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-21T07:34:32+00:00"
-    },
-    {
-      "id": "c8dac0ed07a67a1ce46ba95ec84e4d7162f0e3453b34f8a44684bc0ccd4ee7aa",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerabili",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T06:29:26+00:00"
     }
   ]
 }
