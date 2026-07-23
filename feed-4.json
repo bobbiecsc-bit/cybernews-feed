@@ -1,10 +1,109 @@
 {
-  "updated": "2026-07-23T08:24:00.528479+00:00",
+  "updated": "2026-07-23T13:49:06.261567+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "86dd16d30666a582503ef8d3c85c5fa6b5d98d67766a2eee9d7e9bca7caae117",
+      "title": "Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies",
+      "url": "https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc",
+      "summary": "Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-15T23:00:00+00:00"
+    },
+    {
+      "id": "59248d0152d47170c84d4f4dcc3f305f3cd9f8eeb303de1bb76b70cfd778e377",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T20:16:02+00:00"
+    },
+    {
+      "id": "b748ab90fbca9729e9f6355896bd449d9d9dd00709f762505c2715d1ad156aef",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T18:33:48+00:00"
+    },
+    {
+      "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
+      "title": "23andMe reaches $18 million settlement with states for massive breach",
+      "url": "https://therecord.media/genetic-testing-settlement-data-breach",
+      "summary": "A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-15T17:45:00+00:00"
+    },
+    {
+      "id": "2765d5a2787925026e1547fdf10718be1660d230e12d3d08dfd049588c08386e",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-15T15:37:27+00:00"
+    },
+    {
+      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-15T15:30:30+00:00"
+    },
+    {
+      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:37:13+00:00"
+    },
+    {
+      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:07:44+00:00"
+    },
+    {
+      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:01:11+00:00"
+    },
+    {
+      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T13:18:53+00:00"
+    },
+    {
+      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-15T13:00:00+00:00"
+    },
     {
       "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
       "title": "Microsoft smashes Patch Tuesday record for second successive month",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-14T10:51:01+00:00"
-    },
-    {
-      "id": "e16d4d8b148e52030de0c91d0cde889c8834f0f644cf315b745fdc75464d87fd",
-      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-14T09:40:13+00:00"
-    },
-    {
-      "id": "5ee01386a94abbb0c3514cd128e7febffa4c7adb6e6504433c9087911c2fc6ba",
-      "title": "Multiple Jscrambler Packages Impacted by Supply Chain Attack",
-      "url": "https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/",
-      "summary": "A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer. The post Multiple Jscrambler Packages Impacted by Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-14T09:04:39+00:00"
-    },
-    {
-      "id": "db63b36221ecde979e0d3d2af7a4123d3df5a5754fabe85a0eb101ffbc321878",
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "url": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-14T09:02:48+00:00"
-    },
-    {
-      "id": "d20a2c9910e9f645420fc1edb8f5d28d75bb6b24879be7c7be8d21f8bd46ee83",
-      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-      "url": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans. The VPN, named First VPN Service (1VPNS), h",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-14T08:02:33+00:00"
-    },
-    {
-      "id": "7eacb300a052d427209d5982b2d67f5d221daf1f46150636fe4bbda2a9649887",
-      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-      "url": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-      "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&nbsp;JFrog. The packages did not go after the developers who might install them. The operators used the r",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-14T07:08:36+00:00"
-    },
-    {
-      "id": "cfe644fb99fa7be6ee3a6c9c36b1cc1692eec917eddf6a40add2fca75752f364",
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "summary": "Attackers whose methods line up with the data-extortion group&nbsp;ShinyHunters&nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organization had already extended, usually through the OAut",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-14T06:19:24+00:00"
-    },
-    {
-      "id": "7f06090b4b9739143fbfa23430794e4c31ec4aa987aca1d4568cd41a932ceabc",
-      "title": "Hackers steal Lidl customer data from external service provider",
-      "url": "https://therecord.media/hackers-steal-lidl-customer-data",
-      "summary": "The retailer said the incident did not affect its online shopping platform itself but involved a separately stored customer database maintained by a third-party provider. According to notifications sent to Lidl's German, Belgian and Dutch customers on Friday, the attackers briefly accessed the file ",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T23:00:00+00:00"
-    },
-    {
-      "id": "476e026194944e4fcda83e0d546ca8a2dae6763c7e950bb97d1a1ab8ff950cb1",
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-13T20:18:59+00:00"
-    },
-    {
-      "id": "54014ce85fb246d46a746596de5f7b6fc7ed1e20accede578f5b360f40cdf452",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:44:19+00:00"
-    },
-    {
-      "id": "a133d597433224c789e5778adf08fb227f1893652c1f72125ed162d164cd0ae7",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:04:02+00:00"
-    },
-    {
-      "id": "4215cfbfa6972977cfde61bfc293185cf16abae21432e3c6473ff7fb750e7ea0",
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups",
-      "summary": "The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware \"cryptors.\"",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-13T18:50:00+00:00"
     }
   ]
 }

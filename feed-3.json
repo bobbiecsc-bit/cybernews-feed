@@ -1,10 +1,109 @@
 {
-  "updated": "2026-07-23T08:24:00.528479+00:00",
+  "updated": "2026-07-23T13:49:06.261567+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3eace55fa61213fcdc9c700ebd0ec40beaed9103921f250b0de3ad634a057f1b",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-19T13:30:55+00:00"
+    },
+    {
+      "id": "ef3919eea15f184f3b4eac9600430eb2b4b47d2bb2cac178eeac7ff139d7e771",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the monik",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-19T13:18:56+00:00"
+    },
+    {
+      "id": "6c26a6a845d6468aa6c59027547632c227676e7ae14c95cb1f6b4b43370bab96",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "url": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-18T19:32:02+00:00"
+    },
+    {
+      "id": "b5637df4b14a86fe50ce9dc2957298759ba83a5f13e5cc0af4dae77372610183",
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-18T17:22:47+00:00"
+    },
+    {
+      "id": "3198a5fdb24da4f92ba899c3aef7135a84ea5b3194df3fc0af6d37260c5eb072",
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-18T14:17:19+00:00"
+    },
+    {
+      "id": "1f8fa8831f47fff50b11c062e4e9d4994e8c840adbb0060428b798b1f087e864",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in cor",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T21:20:10+00:00"
+    },
+    {
+      "id": "84a8a0cf069b7d7c928b5f6211bddec54244b7edf2d62eb42c773e5fd300864e",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "url": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data.",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-17T20:45:52+00:00"
+    },
+    {
+      "id": "d32c6279618330fc16bb2d7abdae62df2d96aad745a1164fb5dde0315b73ec77",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-17T20:20:53+00:00"
+    },
+    {
+      "id": "0c63b34da7a49315ab9a86b1c0939baec0a7591eb9c9a1349ad3fa56098bf5f7",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-17T18:54:51+00:00"
+    },
+    {
+      "id": "eb18b5e1d713b33c2265dad58b8dcccb9bae1b27ddffcee09f863a77f29f7a5f",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-17T17:56:21+00:00"
+    },
+    {
+      "id": "88543f91771f26b0c498bc895abd722ef7d0515dceacefe16c0ad0d18e91423e",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and w",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-17T17:12:23+00:00"
+    },
     {
       "id": "96d9ebe2a900947da649c189ebc72891669366dd7af39a13ed9f6721072d0cc7",
       "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-16T06:48:40+00:00"
-    },
-    {
-      "id": "86dd16d30666a582503ef8d3c85c5fa6b5d98d67766a2eee9d7e9bca7caae117",
-      "title": "Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies",
-      "url": "https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc",
-      "summary": "Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-15T23:00:00+00:00"
-    },
-    {
-      "id": "59248d0152d47170c84d4f4dcc3f305f3cd9f8eeb303de1bb76b70cfd778e377",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T20:16:02+00:00"
-    },
-    {
-      "id": "b748ab90fbca9729e9f6355896bd449d9d9dd00709f762505c2715d1ad156aef",
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-15T18:33:48+00:00"
-    },
-    {
-      "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
-      "title": "23andMe reaches $18 million settlement with states for massive breach",
-      "url": "https://therecord.media/genetic-testing-settlement-data-breach",
-      "summary": "A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-15T17:45:00+00:00"
-    },
-    {
-      "id": "2765d5a2787925026e1547fdf10718be1660d230e12d3d08dfd049588c08386e",
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-15T15:37:27+00:00"
-    },
-    {
-      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-15T15:30:30+00:00"
-    },
-    {
-      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
-      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:37:13+00:00"
-    },
-    {
-      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
-      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:07:44+00:00"
-    },
-    {
-      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:01:11+00:00"
-    },
-    {
-      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T13:18:53+00:00"
-    },
-    {
-      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
-      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-15T13:00:00+00:00"
     }
   ]
 }

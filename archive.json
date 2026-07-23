@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-23T08:24:00.528479+00:00",
+  "updated": "2026-07-23T13:49:06.261567+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d6f8931e233f0ec439a31901d66b24de804a4b300f7056be66f02c9457d14e07",
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33180",
+      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-07-23T13:40:27+00:00"
+    },
+    {
+      "id": "e2859c8ee39945dfa92c354891991fc7b2c04d7acaebb942da8fc4a818ac8f41",
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-23T13:20:00+00:00"
+    },
+    {
+      "id": "d8710e86e06f6927a48122df21152c3f980f090f601c48bf313d796b903cc5e6",
+      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+      "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+      "summary": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-23T12:42:12+00:00"
+    },
+    {
+      "id": "b9c865580c2715325bbdccaa522afb0642aec56e855f98de2be74929e6c02c94",
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points wi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-23T11:45:00+00:00"
+    },
+    {
+      "id": "20c1dee2f48f812ef1c47d316fb7b707977449b37c445a63cf5d51a87a96fc43",
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-23T11:40:16+00:00"
+    },
+    {
+      "id": "2f8c8b729b601484d357b25c3b79ea487083c2619be95d5dd3402adad7ad8719",
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 package",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T11:28:54+00:00"
+    },
+    {
+      "id": "2a5a85345e817049e1159e9a62511e8694f7824db8d1209a314ef8078869e523",
+      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+      "summary": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T10:49:10+00:00"
+    },
+    {
+      "id": "64a0279d0351d769a2ab4abf8abffab7e60dffa18a92a801ec8d91f751c8b47b",
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T10:00:00+00:00"
+    },
+    {
+      "id": "a0b940c1323762a50d56388d5c59ab746570c7ede788e4ce2380781ffb27d36e",
+      "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations. The post New Check Point Zero-Day Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-23T09:06:04+00:00"
+    },
     {
       "id": "f359f550fade57a7c81dd7c45edc56c540b59764c7767f2ff8cdb75ee18bbd80",
       "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
@@ -10,6 +91,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-23T08:13:07+00:00"
+    },
+    {
+      "id": "624c6b980255a780eff8f70d75510a4e19075dbfb46030dfe6f370ab434c92c2",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T08:04:35+00:00"
     },
     {
       "id": "cf457a6325533fbcb0d0d92b06c6739020c49f8d8337aa339c0cd2ccc7309644",
@@ -28,6 +118,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-23T05:28:50+00:00"
+    },
+    {
+      "id": "7348392bcfb6c61b0055869b2d95b92f63d780fa1d2bfd3e85f2d7c91efdf8ce",
+      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
+      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
+      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-07-22T23:00:00+00:00"
     },
     {
       "id": "4d491fd7a7f8e25d0bc37df54f0057b2f7fc1d436617d411757877adc015fc1f",
@@ -2152,105 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-10T15:01:19+00:00"
-    },
-    {
-      "id": "2910e42f04a2858ccce87496c2e81af60a2bcc41ae59b9171c1243524c678d42",
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wal",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T14:51:49+00:00"
-    },
-    {
-      "id": "fafcd912b165396df623ca4ba335b1151f5dd33400a57c724ced16be221b7e27",
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnera",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T14:19:50+00:00"
-    },
-    {
-      "id": "f0d2bd0b4396707d51d7e3467e15db6fbbccdd0fff1422c7c2b2b497b5f56200",
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "url": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-10T14:00:10+00:00"
-    },
-    {
-      "id": "af370b9c06a095f399d752db7ad6262eed3700196107c121ee7d10cdf96aae52",
-      "title": "China, India ran separate spying campaigns against same Pakistani police force",
-      "url": "https://therecord.media/china-india-ran-separate-spy-campaigns-against-same-police-force",
-      "summary": "The activity, in some cases breaching the exact same systems, ran between February 2024 and April 2026 and centered on the force responsible for the country’s southwestern province that has been the site of a long-running separatist insurgency.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-10T13:20:00+00:00"
-    },
-    {
-      "id": "eec67c8de33d1e31d88a403e313983c0cde2eb2696a0f6099add0faee18c2a2d",
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware vi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-10T13:15:23+00:00"
-    },
-    {
-      "id": "3b94999cf8f8224eb509404aa5ec7bd28b8fcd463a97aae5bba8806e18d20924",
-      "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-      "url": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-      "summary": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group. The post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-10T12:58:39+00:00"
-    },
-    {
-      "id": "8682dbe06cd32ccbc7a998b3c570eabbbf09270c6c653183da851630594319c0",
-      "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-      "url": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-      "summary": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne. The post China, India-Linked Hackers Both Targeted Same Pakistani Police Force appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-10T11:55:11+00:00"
-    },
-    {
-      "id": "605a1c16a58a0af68297c041d443ef25253eca9065694c51af87596f79145983",
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry&nbsp;disclosed the flaw on July 8&nbsp;and nicknamed it XRING. He says it needs ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T11:47:43+00:00"
-    },
-    {
-      "id": "f2503fadd9705035af0d5f7b0a31347876e54a5476cd4a3eb4ab67d06b58d665",
-      "title": "Zimbra urges customers to patch critical web client XSS flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-      "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-10T11:47:38+00:00"
-    },
-    {
-      "id": "3d14a355740b65bb6635df9bc49457d7b843819c0419a96edde050b9b7c54c55",
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed rese",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-10T11:30:02+00:00"
-    },
-    {
-      "id": "68f44805faf8de4a44d6bd524a92a76db6e0501e5bb16971f56f9a8234a0a214",
-      "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-      "url": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-      "summary": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages. The post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-10T11:06:36+00:00"
     }
   ]
 }
