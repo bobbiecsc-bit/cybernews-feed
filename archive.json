@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-23T13:49:06.261567+00:00",
+  "updated": "2026-07-23T19:09:58.112288+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5518fb6b7eb971cc33861d96c9d7923b4ee92924f1d6d51a27c9751a41eab89f",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T18:36:08+00:00"
+    },
+    {
+      "id": "4cacdce3551026f29b4b09e31c4c155b48240c6c4c6a69364f43f638f9cd3d28",
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-23T16:58:00+00:00"
+    },
+    {
+      "id": "3735cdeb2403e76a6bf3879b2c297e458c2c962088c69e3ed6bf763b53eb9a16",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-23T16:49:27+00:00"
+    },
+    {
+      "id": "915e709a7e69a73a4ee5d4b6abc6b33b3a7e0558c6b47f0de119acb84c02da7b",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T16:32:35+00:00"
+    },
+    {
+      "id": "d0071bdd88ad1a3d26dc7781b2730cd0e3e561bf1974e5d68cef2c0aacd375d6",
+      "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
+      "url": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
+      "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-23T15:09:59+00:00"
+    },
+    {
+      "id": "0fad97e2f1c1223d951ec9dd7501782537f4d84ec3a910290932e88cb90461a2",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-23T15:02:07+00:00"
+    },
+    {
+      "id": "95e6f42abf570ad927e86a102781d3014a3a960c05aba88e569ef9dc3fedd512",
+      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
+      "url": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
+      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Post-Mythos Era appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-23T15:00:00+00:00"
+    },
+    {
+      "id": "631165e9503e4d0a74e9e123ad65ae4b71f46e3de5288fbd43c3d1f8e3659f49",
+      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
+      "url": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
+      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T14:55:19+00:00"
+    },
     {
       "id": "d6f8931e233f0ec439a31901d66b24de804a4b300f7056be66f02c9457d14e07",
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
@@ -10,6 +82,15 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-07-23T13:40:27+00:00"
+    },
+    {
+      "id": "e159988bd46b5a0aba74067e74412e7737606aea5a61ec213e861ef3765466c2",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T13:27:59+00:00"
     },
     {
       "id": "e2859c8ee39945dfa92c354891991fc7b2c04d7acaebb942da8fc4a818ac8f41",
@@ -21,6 +102,15 @@
       "date": "2026-07-23T13:20:00+00:00"
     },
     {
+      "id": "fafb9124e07e3f123b2eadfd8fce3706bead703810fc332732f3d5500657848d",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T13:11:09+00:00"
+    },
+    {
       "id": "d8710e86e06f6927a48122df21152c3f980f090f601c48bf313d796b903cc5e6",
       "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
       "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
@@ -28,6 +118,15 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-23T12:42:12+00:00"
+    },
+    {
+      "id": "fc34dbd20e32ba62b0608e9a4e509502bcf25529e57999b249be742611cfcee7",
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the se",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T12:20:23+00:00"
     },
     {
       "id": "b9c865580c2715325bbdccaa522afb0642aec56e855f98de2be74929e6c02c94",
@@ -2152,105 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-10T21:59:02+00:00"
-    },
-    {
-      "id": "9bdf92e77473ac09b5d810927cb51dfef286c04e885095a0c08c23786cff05de",
-      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
-      "summary": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-07-10T21:07:13+00:00"
-    },
-    {
-      "id": "c1cde371766464bd3a8a632707c8696c39e4c21940f5945bb9ca5a0c8a6a108c",
-      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-10T17:46:10+00:00"
-    },
-    {
-      "id": "240016485f19aa7fdc90872ad0955218010b86a0402a5f9f23f78ce78532f908",
-      "title": "Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence",
-      "url": "https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced",
-      "summary": "One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for helping the Blackcat/AlphV gang extort multiple victims.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-10T17:01:00+00:00"
-    },
-    {
-      "id": "d5e2d6179868c4dad842f20fa3e1d0b394fe01fc63f85a0ee79322d4628fc893",
-      "title": "Police suspects Dutch hackers were involved in Odido breach",
-      "url": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-10T16:37:01+00:00"
-    },
-    {
-      "id": "903b418d1fc24610907358c4890bdae47def24fae427659c20e91bab153c192b",
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says i",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-10T16:30:00+00:00"
-    },
-    {
-      "id": "6a1f2bb00b6f21a5da5c2dad9a189146eaa4f47426a0153b08a5a6f31b52f713",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with f",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-10T16:29:00+00:00"
-    },
-    {
-      "id": "3365af60dbb394cc81384dd60396bcd64a6d975577b344b6f77850cc229218f0",
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "url": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-10T16:26:10+00:00"
-    },
-    {
-      "id": "fd4596900851b0c2c62cf707b825dc9fcda78dfac66465ffff0d383743c874fe",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacke",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:57:14+00:00"
-    },
-    {
-      "id": "36fa517ccdb8cb92e7e0ab495b565034e6734fa4134ec1a4f819632b89bf946c",
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-10T15:48:38+00:00"
-    },
-    {
-      "id": "e609a91e9ef924229c022616e6beb99370ac4fe1904b7c32e65f97bbc80a4f27",
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-10T15:30:19+00:00"
-    },
-    {
-      "id": "b3571b4b358438b50e83c3a86f88fcdf856c6b07c55cdbb7726c8f0c9c2d6e30",
-      "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-      "url": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on Secur",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-10T15:01:19+00:00"
     }
   ]
 }

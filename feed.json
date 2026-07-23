@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-23T13:49:06.261567+00:00",
+  "updated": "2026-07-23T19:09:58.112288+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5518fb6b7eb971cc33861d96c9d7923b4ee92924f1d6d51a27c9751a41eab89f",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T18:36:08+00:00"
+    },
+    {
+      "id": "4cacdce3551026f29b4b09e31c4c155b48240c6c4c6a69364f43f638f9cd3d28",
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-23T16:58:00+00:00"
+    },
+    {
+      "id": "3735cdeb2403e76a6bf3879b2c297e458c2c962088c69e3ed6bf763b53eb9a16",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-23T16:49:27+00:00"
+    },
+    {
+      "id": "915e709a7e69a73a4ee5d4b6abc6b33b3a7e0558c6b47f0de119acb84c02da7b",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T16:32:35+00:00"
+    },
+    {
+      "id": "d0071bdd88ad1a3d26dc7781b2730cd0e3e561bf1974e5d68cef2c0aacd375d6",
+      "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
+      "url": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
+      "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-23T15:09:59+00:00"
+    },
+    {
+      "id": "0fad97e2f1c1223d951ec9dd7501782537f4d84ec3a910290932e88cb90461a2",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-23T15:02:07+00:00"
+    },
+    {
+      "id": "95e6f42abf570ad927e86a102781d3014a3a960c05aba88e569ef9dc3fedd512",
+      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
+      "url": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
+      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Post-Mythos Era appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-23T15:00:00+00:00"
+    },
+    {
+      "id": "631165e9503e4d0a74e9e123ad65ae4b71f46e3de5288fbd43c3d1f8e3659f49",
+      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
+      "url": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
+      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T14:55:19+00:00"
+    },
     {
       "id": "d6f8931e233f0ec439a31901d66b24de804a4b300f7056be66f02c9457d14e07",
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
@@ -13,6 +85,15 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-07-23T13:40:27+00:00"
+    },
+    {
+      "id": "e159988bd46b5a0aba74067e74412e7737606aea5a61ec213e861ef3765466c2",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T13:27:59+00:00"
     },
     {
       "id": "e2859c8ee39945dfa92c354891991fc7b2c04d7acaebb942da8fc4a818ac8f41",
@@ -24,6 +105,15 @@
       "date": "2026-07-23T13:20:00+00:00"
     },
     {
+      "id": "fafb9124e07e3f123b2eadfd8fce3706bead703810fc332732f3d5500657848d",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T13:11:09+00:00"
+    },
+    {
       "id": "d8710e86e06f6927a48122df21152c3f980f090f601c48bf313d796b903cc5e6",
       "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
       "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
@@ -31,6 +121,15 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-23T12:42:12+00:00"
+    },
+    {
+      "id": "fc34dbd20e32ba62b0608e9a4e509502bcf25529e57999b249be742611cfcee7",
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the se",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T12:20:23+00:00"
     },
     {
       "id": "b9c865580c2715325bbdccaa522afb0642aec56e855f98de2be74929e6c02c94",
@@ -355,105 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-22T05:19:20+00:00"
-    },
-    {
-      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-22T04:57:52+00:00"
-    },
-    {
-      "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-21T22:34:17+00:00"
-    },
-    {
-      "id": "5788b4c60bfc8e18e2992e1cd1c4ce40eebdffb93c2b9a168441cdd3de567222",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-21T20:06:55+00:00"
-    },
-    {
-      "id": "070d62f63023131244ce2163ce97122abd74c83fa1ca59a97e6d609b87311431",
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T18:50:54+00:00"
-    },
-    {
-      "id": "e70e19482056cfbd5d395518594ce018a26d12abdb13eb046735dfd6e0819b18",
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-21T18:46:32+00:00"
-    },
-    {
-      "id": "baa47ef690b92fd0c28472c8da45c7937dd2b612591d047c7568bcb2a6ed13ad",
-      "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
-      "url": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
-      "summary": "The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-21T17:10:00+00:00"
-    },
-    {
-      "id": "8371d69d75b50cfb2a2a541154c889d51f25db0c79f70d12a1fd986b682cc812",
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-21T16:41:50+00:00"
-    },
-    {
-      "id": "ab0fdeb9c644c7e68cb7661a1220aca5139b9c2768b78d5ed195bce9242f4c14",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to sum",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T16:06:12+00:00"
-    },
-    {
-      "id": "4e75cbdb57f144ea96ca44d941a09c97f70667f4a3f1c88ae055cb53f405731c",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively ava",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T15:09:28+00:00"
-    },
-    {
-      "id": "e654be4a6a911d35f0cbe0344aedcdfd1a591d1d435a3bfd8bb6dddc455fb6af",
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T14:57:51+00:00"
-    },
-    {
-      "id": "c18df8f6951c9d568b9e0b9b93801692267117b2d7a00521a2b7e0cd1b9c370b",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T14:04:57+00:00"
     }
   ]
 }

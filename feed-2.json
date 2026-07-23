@@ -1,10 +1,109 @@
 {
-  "updated": "2026-07-23T13:49:06.261567+00:00",
+  "updated": "2026-07-23T19:09:58.112288+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-22T04:57:52+00:00"
+    },
+    {
+      "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-21T22:34:17+00:00"
+    },
+    {
+      "id": "5788b4c60bfc8e18e2992e1cd1c4ce40eebdffb93c2b9a168441cdd3de567222",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-21T20:06:55+00:00"
+    },
+    {
+      "id": "070d62f63023131244ce2163ce97122abd74c83fa1ca59a97e6d609b87311431",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-21T18:50:54+00:00"
+    },
+    {
+      "id": "e70e19482056cfbd5d395518594ce018a26d12abdb13eb046735dfd6e0819b18",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-21T18:46:32+00:00"
+    },
+    {
+      "id": "baa47ef690b92fd0c28472c8da45c7937dd2b612591d047c7568bcb2a6ed13ad",
+      "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
+      "url": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
+      "summary": "The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-21T17:10:00+00:00"
+    },
+    {
+      "id": "8371d69d75b50cfb2a2a541154c889d51f25db0c79f70d12a1fd986b682cc812",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-21T16:41:50+00:00"
+    },
+    {
+      "id": "ab0fdeb9c644c7e68cb7661a1220aca5139b9c2768b78d5ed195bce9242f4c14",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to sum",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T16:06:12+00:00"
+    },
+    {
+      "id": "4e75cbdb57f144ea96ca44d941a09c97f70667f4a3f1c88ae055cb53f405731c",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively ava",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T15:09:28+00:00"
+    },
+    {
+      "id": "e654be4a6a911d35f0cbe0344aedcdfd1a591d1d435a3bfd8bb6dddc455fb6af",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T14:57:51+00:00"
+    },
+    {
+      "id": "c18df8f6951c9d568b9e0b9b93801692267117b2d7a00521a2b7e0cd1b9c370b",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T14:04:57+00:00"
+    },
     {
       "id": "24962bcd107430a60513f9072144f69eecbb5061be40ba9f3d55f3e67904d162",
       "title": "Closing the Identity Gaps in Critical Infrastructure Security",
@@ -355,105 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-20T11:00:00+00:00"
-    },
-    {
-      "id": "d7274c64421e824f96c60c4f5b5b6f47cc8c8fccbe1f6a587f508a634c3f403f",
-      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-      "url": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "summary": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T10:25:07+00:00"
-    },
-    {
-      "id": "2ccdb18900cf27ebc1cec0252e0a5f55a730477c51bc3c143038f0f884b4c054",
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "summary": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-20T09:36:15+00:00"
-    },
-    {
-      "id": "dbe64c28f70c86fd5d1adf3bf128ff708b5063f3fe8b2a4f7a8f9d9be63be459",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-20T09:29:20+00:00"
-    },
-    {
-      "id": "b8d5896fa88c764b985f8d87536094c82f46c67f86d369bb8ca2c7fb75e86c67",
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. T",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-20T09:10:56+00:00"
-    },
-    {
-      "id": "3fb4b35d6d4d9f84b96a1f12bccfc61a160653316e089168bca0f23257efbdf1",
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, whi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-20T09:07:11+00:00"
-    },
-    {
-      "id": "188a2d9c231a52d5a8fd2e9b56204e42c5f4d72d2241f9837bd11f896d9bf05b",
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "url": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "summary": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities. The post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T08:12:19+00:00"
-    },
-    {
-      "id": "e1150e91b4d3d344407f5982cfead8fcc433579345b2eab9a205085d9c46aa18",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identif",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-20T05:27:26+00:00"
-    },
-    {
-      "id": "445afe79c850072769f2f51fb1edd703a1918589e6b62fcc34b52e98039dab1e",
-      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-      "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T05:21:29+00:00"
-    },
-    {
-      "id": "67d5dc078238689099bf5b2c6406ce0e0038a0ea4dc2f22b6c5a7a94d5432da3",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-20T05:15:39+00:00"
-    },
-    {
-      "id": "89f3cdde9df9a892df0c8e7a735051d7a16b7f93e7e7830dc8941d0fbc2661fe",
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-19T20:42:49+00:00"
-    },
-    {
-      "id": "32a7886bc9a4dbc5cb8f1e3686ba83e329c46406ac262832cc62c14d5ab49264",
-      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-19T14:23:46+00:00"
     }
   ]
 }
