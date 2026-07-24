@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-23T19:09:58.112288+00:00",
+  "updated": "2026-07-24T02:24:37.084014+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "cb67bcbd4f9c5564c8e09bd7979e32cbc10ec5e08487f2f2fb9aa34fa5962499",
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "url": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-14T16:08:47+00:00"
+    },
+    {
+      "id": "56c6f5f41dc61ff3831b53d4558e14a24ef46ace93db6f2f226875840085d2a4",
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-14T15:31:52+00:00"
+    },
+    {
+      "id": "40e0a1043edbb236ce19ac3f108c81542498131834ac5e3d5a40d9a6d54f6933",
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "url": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launc",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-14T14:00:10+00:00"
+    },
     {
       "id": "ebbb684fba90c4fd8c7cae071401eae5ab9dd337656a3b9dc8c3985f4d137901",
       "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-11T17:30:00+00:00"
-    },
-    {
-      "id": "1c37f0a5062bb5c5d6336ced5699e232ae5ab535325a98fc8bd9e71a7fc17870",
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-11T14:18:23+00:00"
-    },
-    {
-      "id": "2764346b77ff5d266c6d581f0eaf4a77a26e5ce08165215e30ea8dcbaaa41941",
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to ex",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-11T06:45:55+00:00"
-    },
-    {
-      "id": "3876d90cd5c8f02c735bcb439d0d414f5a03137746b508a3f035f923a8a988fc",
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-10T21:59:02+00:00"
     }
   ]
 }
