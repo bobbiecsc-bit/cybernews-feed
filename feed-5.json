@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-24T02:24:37.084014+00:00",
+  "updated": "2026-07-24T08:21:34.365720+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "216158fa47db25733644bdd67ae3e0ffe03a133789dffd7c6b69505121b15d8a",
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is sco",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-14T17:27:23+00:00"
+    },
+    {
+      "id": "9a26f90e93bd38075bb8d8f5dfb6cf3dc45e0bf2034f71dfb4b5411ae0c64b65",
+      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
+      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
+      "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-14T17:06:35+00:00"
+    },
+    {
+      "id": "bb49257ac2827077c3346e36b02605cb3d03d49f8f3361d44b623b9fc5895f27",
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-14T16:52:37+00:00"
+    },
     {
       "id": "cb67bcbd4f9c5564c8e09bd7979e32cbc10ec5e08487f2f2fb9aa34fa5962499",
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-12T14:27:32+00:00"
-    },
-    {
-      "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-11T17:59:26+00:00"
-    },
-    {
-      "id": "5a78286d4eea74fb31f26c8096b3dbd1db3cfbb7dcbea67fa05af998d14bd608",
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-11T17:49:31+00:00"
-    },
-    {
-      "id": "da9dd91e2ef63909c9ce95eb089b0bc5c007240f4218d1c35d855dc7fab5b0a6",
-      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
-      "url": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
-      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-11T17:30:00+00:00"
     }
   ]
 }

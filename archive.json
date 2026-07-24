@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-24T02:24:37.084014+00:00",
+  "updated": "2026-07-24T08:21:34.365720+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "afe4a14794443d12d28ee0369c5bfee2f216ed564bc7cdde9a6d70d9398239e2",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-24T07:36:39+00:00"
+    },
+    {
+      "id": "852d7225f48a5e8d4de614b3d1e1f3ae67139e2f865b24dc4de110ca7da93035",
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-24T06:50:57+00:00"
+    },
+    {
+      "id": "c022636a9ec2a180d737a3be61079896342d75bb8ce7ca3c407e488648ac8ea8",
+      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
+      "url": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
+      "summary": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-24T05:52:31+00:00"
+    },
     {
       "id": "5e70f980b85c031446a910b178bef3ba7601baa2389319d887487b0a0aadf2ad",
       "title": "New Dolphin X malware uses AI to rank high-value targets",
@@ -222,7 +249,7 @@
       "id": "624c6b980255a780eff8f70d75510a4e19075dbfb46030dfe6f370ab434c92c2",
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
       "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and",
+      "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Ama",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-23T08:04:35+00:00"
@@ -2224,33 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-12T14:27:32+00:00"
-    },
-    {
-      "id": "440f70b0e78588e23ea6cb49b170ef95db10e009d2648e8468063ce756c12378",
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-11T17:59:26+00:00"
-    },
-    {
-      "id": "5a78286d4eea74fb31f26c8096b3dbd1db3cfbb7dcbea67fa05af998d14bd608",
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-11T17:49:31+00:00"
-    },
-    {
-      "id": "da9dd91e2ef63909c9ce95eb089b0bc5c007240f4218d1c35d855dc7fab5b0a6",
-      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
-      "url": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
-      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-11T17:30:00+00:00"
     }
   ]
 }
