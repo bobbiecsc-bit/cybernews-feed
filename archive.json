@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-24T08:21:34.365720+00:00",
+  "updated": "2026-07-24T13:36:31.539118+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d43d2a88720f40da74a003ed2ae10363a93e0dc3479a2bad6e07fbda033d2d15",
+      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T11:53:55+00:00"
+    },
+    {
+      "id": "3f283ad957ed4a4e992d8ef71afb5e5c0d26fabc3fcf23c9b91b53effcadaebf",
+      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+      "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in B",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T11:45:17+00:00"
+    },
+    {
+      "id": "580b0be83ea14d42dc6847b395f2fd3e0abea4190cd3fedbb3664358db4f4aef",
+      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
+      "url": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
+      "summary": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone. The post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-24T11:19:46+00:00"
+    },
+    {
+      "id": "8239526967df147abf93f1ff75ab59558769f50a956e1467db099da7b799768c",
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's netwo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T10:15:29+00:00"
+    },
+    {
+      "id": "2320d2a00fa5bc02bbc4f927d8acc97ebf2bf05957e85f97e1f8513cad1041ca",
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: Tiny",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-24T10:09:24+00:00"
+    },
+    {
+      "id": "dd3c71c164d4d5a58e969f2d5a4dce09adf529f67513aacdfc2e1a1a520aa187",
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T07:41:06+00:00"
+    },
     {
       "id": "afe4a14794443d12d28ee0369c5bfee2f216ed564bc7cdde9a6d70d9398239e2",
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
@@ -10,6 +64,15 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-24T07:36:39+00:00"
+    },
+    {
+      "id": "6d85941f139ee717fb185d70f56f37b46375b1a4a336566c48d44db1a10ebb0d",
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T06:58:27+00:00"
     },
     {
       "id": "852d7225f48a5e8d4de614b3d1e1f3ae67139e2f865b24dc4de110ca7da93035",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-13T09:08:02+00:00"
-    },
-    {
-      "id": "859e0538709ba22f9183a7c7560311bca3145a6c2e295fc6e75ab820ba409fd1",
-      "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
-      "url": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
-      "summary": "The company notified customers to manually shut down their servers while it is investigating a credible threat. The post Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-13T08:20:46+00:00"
-    },
-    {
-      "id": "030a0870b535df11167db32dd630cb9b2b594d1690f0dd1c9245d1f299dd5b44",
-      "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
-      "url": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
-      "summary": "The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider. The post Centers Laboratory Data Breach Affects 540,000 Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-13T08:10:44+00:00"
-    },
-    {
-      "id": "b23bf6e48280a3fd1f3f0b7db37a15e9a1938e07269536c759cbbe206903190d",
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history. From that one lapse, French security fi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-13T07:30:00+00:00"
-    },
-    {
-      "id": "c1d2b64b551f5c7eafd0c82620e276d4a72f1b44c7cce8715bd8d654938d3535",
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-13T05:36:02+00:00"
-    },
-    {
-      "id": "045279e770fb07842e6d510e79f3c4ef31461d696944c4053ba98d6aea04a220",
-      "title": "Someone Is Scanning for Your MCP Servers and AI Assistant Credentials, (Mon, Jul 13th)",
-      "url": "https://isc.sans.edu/diary/rss/33150",
-      "summary": "The setup&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-07-13T04:22:02+00:00"
-    },
-    {
-      "id": "b16b18aecbf1495ee479bcd57989489d3bf66dec7fb6851e496cc6a89fa6dd7d",
-      "title": "Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions",
-      "url": "https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package",
-      "summary": "The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber activities with growing severity.”",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-12T23:00:00+00:00"
-    },
-    {
-      "id": "7c20169ea7d15f0eb2a55081fabfc2c42fe8ab34a70d120324d59fdc4bc0b42b",
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "url": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-12T14:27:32+00:00"
     }
   ]
 }
