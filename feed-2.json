@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-25T13:17:16.971658+00:00",
+  "updated": "2026-07-25T19:01:59.595777+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "624c6b980255a780eff8f70d75510a4e19075dbfb46030dfe6f370ab434c92c2",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Ama",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T08:04:35+00:00"
+    },
+    {
+      "id": "cf457a6325533fbcb0d0d92b06c6739020c49f8d8337aa339c0cd2ccc7309644",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T06:34:36+00:00"
+    },
+    {
+      "id": "a9a284f5294030d4636d4f32c33d04d8aa5314ea0e7c6c83928fd7b3fa9c0175",
+      "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
+      "url": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+      "summary": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T05:28:50+00:00"
+    },
     {
       "id": "7348392bcfb6c61b0055869b2d95b92f63d780fa1d2bfd3e85f2d7c91efdf8ce",
       "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
@@ -427,33 +454,6 @@
       "source": "Schneier on Security",
       "category": "threat",
       "date": "2026-07-21T11:07:13+00:00"
-    },
-    {
-      "id": "0450ef68b6352a195ce51549e9b2c9c8eaf6957934c122331ba9fd02af5e8b8f",
-      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-      "url": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-      "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-21T10:19:21+00:00"
-    },
-    {
-      "id": "02a53136b1170d506f0c66176555b5da22691f9da64205a4d752c87044ed9ffd",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T10:12:24+00:00"
-    },
-    {
-      "id": "7b37dcb49abf339c80f9fae657a6eccd6b8cba6beedc1d65aebe4f66189ca729",
-      "title": "Clover Health Investments Discloses Data Breach",
-      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-      "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-21T09:36:51+00:00"
     }
   ]
 }

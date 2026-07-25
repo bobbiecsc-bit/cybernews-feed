@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-25T13:17:16.971658+00:00",
+  "updated": "2026-07-25T19:01:59.595777+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-25T15:21:09+00:00"
+    },
+    {
+      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-25T14:16:26+00:00"
+    },
+    {
+      "id": "8083b86f8749ba300ef2922e99460c178b8eed195413a30f1910f6a2e5b1c6f4",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-25T12:52:43+00:00"
+    },
     {
       "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
@@ -2224,33 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-13T19:04:02+00:00"
-    },
-    {
-      "id": "4215cfbfa6972977cfde61bfc293185cf16abae21432e3c6473ff7fb750e7ea0",
-      "title": "VPN service favored by ransomware groups is sanctioned by US",
-      "url": "https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups",
-      "summary": "The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware \"cryptors.\"",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-13T18:50:00+00:00"
-    },
-    {
-      "id": "eca7de3409a455c02e7eeedc4e9b787a1be378b552ab29dddc41c60bfa8f9d6e",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in nati",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-13T17:36:12+00:00"
-    },
-    {
-      "id": "e128c1f0a3de6bd263b8a07f7f7dba709677739e36eb61ae01d343b93dc997e6",
-      "title": "Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach",
-      "url": "https://therecord.media/ksenia-sobchak-russian-hackers-leak",
-      "summary": "Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-13T17:15:00+00:00"
     }
   ]
 }
