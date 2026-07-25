@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-25T08:01:30.510962+00:00",
+  "updated": "2026-07-25T13:17:16.971658+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-25T10:14:26+00:00"
+    },
+    {
+      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-25T10:14:21+00:00"
+    },
+    {
+      "id": "2771e2dd44890caa97abbd2a4593bb71930b31d126253995e3e8fcc097e13a2c",
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-25T10:14:03+00:00"
+    },
+    {
+      "id": "6fdd8513ac9daf93db60afb549eb76dd30a28f93c74a5f6c3e3280352f9cb67a",
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-25T09:53:41+00:00"
+    },
+    {
+      "id": "e592f02e572a7c162133a679a767191ab5075155465835d15f0d9aae7808302b",
+      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-25T08:30:00+00:00"
+    },
     {
       "id": "ce229faccda08040fc214bba68e3378b1410a4f8555bb5947ca9a08ba4fc844e",
       "title": "OnTrac notifies customers of data breach after network hack",
@@ -2206,51 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-13T17:15:00+00:00"
-    },
-    {
-      "id": "7a709a882483af011842b23ab4faa2567675d2d12ce0f24412284af267b8c926",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:20:16+00:00"
-    },
-    {
-      "id": "ad3e33cb35b505dabdee6cb5d7e007dd00188c0ed9cf4719106562197b596614",
-      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the peop",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-13T15:05:57+00:00"
-    },
-    {
-      "id": "ed4439defcc94362bcac69e2d10a4137c732d2c29330c296d76704ec44eb89db",
-      "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
-      "url": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
-      "summary": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate. The post Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-13T14:30:00+00:00"
-    },
-    {
-      "id": "9d70fa79923da413b09903a1b27b0998098fa2df925e6d739a06cb41db9bd2ba",
-      "title": "Lidl discloses online shop breach after service provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-      "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-13T14:19:43+00:00"
-    },
-    {
-      "id": "9d050cd12fe53c393a137008b082ac91d104a80a4afa0aa5a43d7e53d8b0d5dd",
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "url": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-13T14:01:11+00:00"
     }
   ]
 }
