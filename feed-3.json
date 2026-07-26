@@ -1,10 +1,19 @@
 {
-  "updated": "2026-07-26T13:13:00.904829+00:00",
+  "updated": "2026-07-26T19:05:22.512646+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b8d5639678db12de3e09d68ce3b8e5572289557f12e0e20ae88b6c49827f8dc7",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T11:24:50+00:00"
+    },
     {
       "id": "ba7ab92ea0dce3acfd7e183f60c4d993926c4aeaca52fe10b01bf72e897e4430",
       "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-17T20:45:52+00:00"
-    },
-    {
-      "id": "d32c6279618330fc16bb2d7abdae62df2d96aad745a1164fb5dde0315b73ec77",
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-17T20:20:53+00:00"
     }
   ]
 }
