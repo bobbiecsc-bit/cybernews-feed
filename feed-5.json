@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-25T19:01:59.595777+00:00",
+  "updated": "2026-07-26T02:28:47.568280+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-15T14:01:11+00:00"
+    },
+    {
+      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-15T13:18:53+00:00"
+    },
     {
       "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
       "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-13T20:18:59+00:00"
-    },
-    {
-      "id": "54014ce85fb246d46a746596de5f7b6fc7ed1e20accede578f5b360f40cdf452",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:44:19+00:00"
-    },
-    {
-      "id": "a133d597433224c789e5778adf08fb227f1893652c1f72125ed162d164cd0ae7",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-13T19:04:02+00:00"
     }
   ]
 }
