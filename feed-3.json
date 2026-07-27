@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-27T14:25:35.731215+00:00",
+  "updated": "2026-07-27T19:21:45.307379+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9fe570483e988c2c878bd8a14dfe8dcff393db5ac4140a219691ba10d5e2deb0",
+      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+      "url": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-22T07:48:49+00:00"
+    },
+    {
+      "id": "f19e3d55d9f11a51d89630daca32c0dc9686a9f134236c01ba3bd3776e00a974",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-22T06:40:29+00:00"
+    },
+    {
+      "id": "6485f682b06f440094135db6799a6f82a9220e19d301fe31fa42cc01270d48f2",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Jso",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-22T06:00:06+00:00"
+    },
+    {
+      "id": "699ccacee3ffc7d88977e316b630a63843ba0ddc8b5cfe7dc1f55da35ad9b23a",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-22T05:19:20+00:00"
+    },
+    {
+      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-22T04:57:52+00:00"
+    },
+    {
+      "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-21T22:34:17+00:00"
+    },
+    {
+      "id": "5788b4c60bfc8e18e2992e1cd1c4ce40eebdffb93c2b9a168441cdd3de567222",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-21T20:06:55+00:00"
+    },
+    {
+      "id": "070d62f63023131244ce2163ce97122abd74c83fa1ca59a97e6d609b87311431",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-21T18:50:54+00:00"
+    },
     {
       "id": "e70e19482056cfbd5d395518594ce018a26d12abdb13eb046735dfd6e0819b18",
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-20T11:56:28+00:00"
-    },
-    {
-      "id": "f3e9df9085a13dfba24f0f14a9a209a23204d1f8b5f4650e76bf35c1ec502d4b",
-      "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
-      "url": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
-      "summary": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens. The post New Index Tracks Material Breaches — And Refuses to Add Up the Losses appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-20T11:46:50+00:00"
-    },
-    {
-      "id": "e55af3cb9ea6ea84320ed9719c821f91289c1036ac808b595384ac7bf5fefa49",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Myt",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-20T11:30:00+00:00"
-    },
-    {
-      "id": "88457358c9f07141233edc541a5250836c341d84b75cbdc109890c8296c4cf33",
-      "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
-      "url": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
-      "summary": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform. The post Ernst &#038; Young Data Breach Affects Personal, Financial Information appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-20T11:27:38+00:00"
-    },
-    {
-      "id": "cb8701ed15f3474a3cfd58901e2b419e88c040fab6117505649d2bc18ddaf067",
-      "title": "Software provider to more than 2,000 US hospitals says hackers stole employee and customer data",
-      "url": "https://therecord.media/software-provider-for-us-hospitals-customer-data-breach",
-      "summary": "Craneware, which is headquartered in Edinburgh and listed on London's AIM market, told investors it detected unauthorized access to a “subset” of its data environment and has since brought in outside forensic investigators.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-20T11:00:00+00:00"
-    },
-    {
-      "id": "d7274c64421e824f96c60c4f5b5b6f47cc8c8fccbe1f6a587f508a634c3f403f",
-      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-      "url": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "summary": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-20T10:25:07+00:00"
-    },
-    {
-      "id": "2ccdb18900cf27ebc1cec0252e0a5f55a730477c51bc3c143038f0f884b4c054",
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "summary": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-20T09:36:15+00:00"
-    },
-    {
-      "id": "dbe64c28f70c86fd5d1adf3bf128ff708b5063f3fe8b2a4f7a8f9d9be63be459",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-20T09:29:20+00:00"
-    },
-    {
-      "id": "b8d5896fa88c764b985f8d87536094c82f46c67f86d369bb8ca2c7fb75e86c67",
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. T",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-20T09:10:56+00:00"
     }
   ]
 }

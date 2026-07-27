@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-27T14:25:35.731215+00:00",
+  "updated": "2026-07-27T19:21:45.307379+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c022636a9ec2a180d737a3be61079896342d75bb8ce7ca3c407e488648ac8ea8",
+      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
+      "url": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
+      "summary": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-24T05:52:31+00:00"
+    },
+    {
+      "id": "5e70f980b85c031446a910b178bef3ba7601baa2389319d887487b0a0aadf2ad",
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T21:20:34+00:00"
+    },
+    {
+      "id": "b80be0dc24d5a6b92a27321f3d20691e363373b0b51fb61df96c8278d935708a",
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-23T20:14:35+00:00"
+    },
+    {
+      "id": "2cb10c32bd7a427284b2af2e0c3a938ef491956ee50e974557fbdd83bf28ef3b",
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T19:48:30+00:00"
+    },
+    {
+      "id": "5518fb6b7eb971cc33861d96c9d7923b4ee92924f1d6d51a27c9751a41eab89f",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T18:36:08+00:00"
+    },
+    {
+      "id": "4cacdce3551026f29b4b09e31c4c155b48240c6c4c6a69364f43f638f9cd3d28",
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-23T16:58:00+00:00"
+    },
+    {
+      "id": "3735cdeb2403e76a6bf3879b2c297e458c2c962088c69e3ed6bf763b53eb9a16",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-23T16:49:27+00:00"
+    },
+    {
+      "id": "915e709a7e69a73a4ee5d4b6abc6b33b3a7e0558c6b47f0de119acb84c02da7b",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-23T16:32:35+00:00"
+    },
     {
       "id": "d0071bdd88ad1a3d26dc7781b2730cd0e3e561bf1974e5d68cef2c0aacd375d6",
       "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-22T08:32:02+00:00"
-    },
-    {
-      "id": "9fe570483e988c2c878bd8a14dfe8dcff393db5ac4140a219691ba10d5e2deb0",
-      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
-      "url": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-22T07:48:49+00:00"
-    },
-    {
-      "id": "f19e3d55d9f11a51d89630daca32c0dc9686a9f134236c01ba3bd3776e00a974",
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-22T06:40:29+00:00"
-    },
-    {
-      "id": "6485f682b06f440094135db6799a6f82a9220e19d301fe31fa42cc01270d48f2",
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Jso",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-22T06:00:06+00:00"
-    },
-    {
-      "id": "699ccacee3ffc7d88977e316b630a63843ba0ddc8b5cfe7dc1f55da35ad9b23a",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-22T05:19:20+00:00"
-    },
-    {
-      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-22T04:57:52+00:00"
-    },
-    {
-      "id": "7dbe7337f451898e3d539d514f20ffb1a3a6293a6aa875f28766347d8d29649f",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-21T22:34:17+00:00"
-    },
-    {
-      "id": "5788b4c60bfc8e18e2992e1cd1c4ce40eebdffb93c2b9a168441cdd3de567222",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-21T20:06:55+00:00"
-    },
-    {
-      "id": "070d62f63023131244ce2163ce97122abd74c83fa1ca59a97e6d609b87311431",
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T18:50:54+00:00"
     }
   ]
 }
