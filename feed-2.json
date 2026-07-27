@@ -1,10 +1,37 @@
 {
-  "updated": "2026-07-27T02:36:40.339565+00:00",
+  "updated": "2026-07-27T09:43:21.858893+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "20c1dee2f48f812ef1c47d316fb7b707977449b37c445a63cf5d51a87a96fc43",
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-23T11:40:16+00:00"
+    },
+    {
+      "id": "2f8c8b729b601484d357b25c3b79ea487083c2619be95d5dd3402adad7ad8719",
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 package",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T11:28:54+00:00"
+    },
+    {
+      "id": "2a5a85345e817049e1159e9a62511e8694f7824db8d1209a314ef8078869e523",
+      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+      "summary": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T10:49:10+00:00"
+    },
     {
       "id": "64a0279d0351d769a2ab4abf8abffab7e60dffa18a92a801ec8d91f751c8b47b",
       "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-21T12:47:18+00:00"
-    },
-    {
-      "id": "ac638606f89080d5942b03ba4ac42024c354d540d293644be7d59a565e28b592",
-      "title": "Kenya probes hack of president's website after bitcoin ransom demand",
-      "url": "https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand",
-      "summary": "The website was hacked on Saturday, when its homepage was replaced with a message displaying a cryptocurrency wallet address and threatening to publish unspecified information about President William Ruto unless the ransom was paid.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-21T12:08:00+00:00"
-    },
-    {
-      "id": "29c35c861c3f263439352117dfec607fea66547ae7760649996753846a11df8f",
-      "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-      "url": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-      "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-21T11:55:28+00:00"
-    },
-    {
-      "id": "524095d98a7adefdba7baa1de85cd6502629a11ba84cd37bca3a1d1102eada84",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T11:42:23+00:00"
     }
   ]
 }
