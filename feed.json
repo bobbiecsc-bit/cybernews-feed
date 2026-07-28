@@ -1,10 +1,100 @@
 {
-  "updated": "2026-07-28T08:27:54.037095+00:00",
+  "updated": "2026-07-28T13:57:54.401002+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T13:33:47+00:00"
+    },
+    {
+      "id": "507ba26671cda44a19fc50d36c892657567cf3060cdbc32eea0ca89bb1513676",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T12:56:14+00:00"
+    },
+    {
+      "id": "ddb0db774a554b6d316145e7fb97796dcbc140924ab5b312cb263f7ef2708dd3",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T12:10:23+00:00"
+    },
+    {
+      "id": "3961ed94abdabaf2dc6b241ccb4a4cb9a75b951b02660d97871a63c3b4f7e2ad",
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previous",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-28T11:55:20+00:00"
+    },
+    {
+      "id": "32328cb9bdc077e2052dc8cdedccb7e4f369f809c458be5c17e7ad54f646dedd",
+      "title": "Axon Is Another License Plate Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
+      "summary": "Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&#8217;s like a g",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-28T11:06:30+00:00"
+    },
+    {
+      "id": "a5893f54b592f2e742ee5078198d2ad4cebeb3ba4a4ceaecee4f5b6e30556c19",
+      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
+      "url": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-28T11:00:00+00:00"
+    },
+    {
+      "id": "641ea5c9eac6a71ffb21ad4eb34fccd92d3fbe590ff4c63730096fa1383ff046",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-28T09:10:03+00:00"
+    },
+    {
+      "id": "b1198a252ea30aea0d4ef8c134ddc0489479153340f9e48033147b56a4a4307e",
+      "title": "Google Adopts New Threat Actor Naming System",
+      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-28T08:42:52+00:00"
+    },
+    {
+      "id": "2669504f3fb39551aa8ea74c001af4473d70fa2d02d9013b0fa6d1d5146a69b7",
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T08:11:22+00:00"
+    },
+    {
+      "id": "6b4aede28ee3f8e9877b969d40a88ff2c11381478e9de7cdca6e28551ff49d22",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T08:04:44+00:00"
+    },
     {
       "id": "2c6f37e219bb9758395db67953cc2ac8bb20b90bbca3c5886ed5026d2832bac3",
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
@@ -34,7 +124,7 @@
     },
     {
       "id": "f45f0d6e0fd0ce79770d4c788d414944407287f2dd9defd107702f67a5b36aa7",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current b",
       "source": "The Hacker News",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-25T10:14:26+00:00"
-    },
-    {
-      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:21+00:00"
-    },
-    {
-      "id": "2771e2dd44890caa97abbd2a4593bb71930b31d126253995e3e8fcc097e13a2c",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:03+00:00"
-    },
-    {
-      "id": "6fdd8513ac9daf93db60afb549eb76dd30a28f93c74a5f6c3e3280352f9cb67a",
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T09:53:41+00:00"
-    },
-    {
-      "id": "e592f02e572a7c162133a679a767191ab5075155465835d15f0d9aae7808302b",
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-25T08:30:00+00:00"
-    },
-    {
-      "id": "ce229faccda08040fc214bba68e3378b1410a4f8555bb5947ca9a08ba4fc844e",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:55:01+00:00"
-    },
-    {
-      "id": "d3aafaf0b39734abb760e378e62b9a4419ceebe5a5a0efb1b1e01c788dda29d2",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:09:09+00:00"
-    },
-    {
-      "id": "1f939d585832fcf41983a4c34565f2d31700eef607605b84ad34d8685042234a",
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-24T15:55:00+00:00"
-    },
-    {
-      "id": "33203de2679af61346a3fe998a5eba50260f358adadeef27fd1de0252b87c099",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-24T15:12:35+00:00"
-    },
-    {
-      "id": "cd76ed705e4f6c6aac25b0d9341096efcc78f480f139c453a51639b8364a0933",
-      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "url": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-24T14:20:00+00:00"
-    },
-    {
-      "id": "283f9b048caadb8724bb1e7fba4e7c4f2a53dcba2ee48ae1d35c3cbe6a36d870",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-24T14:15:21+00:00"
     }
   ]
 }
