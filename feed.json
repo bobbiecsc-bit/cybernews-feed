@@ -1,10 +1,73 @@
 {
-  "updated": "2026-07-28T13:57:54.401002+00:00",
+  "updated": "2026-07-28T19:17:57.641531+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "834f71b07c6beddee72fd60dac53c6dd37e7f5ac3c6d94e4fb3b40b54f3d14a4",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:59:07+00:00"
+    },
+    {
+      "id": "cca80125d09ead74929b9200d749969e6057fd36f80ccadca4067c52777cc2b2",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T18:41:04+00:00"
+    },
+    {
+      "id": "a479ff887ff6960e3403bcb9f175b7a1ec11526b513d11aacee6d6ca7afc414a",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:08:50+00:00"
+    },
+    {
+      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T15:01:33+00:00"
+    },
+    {
+      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-28T14:45:57+00:00"
+    },
+    {
+      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T14:41:36+00:00"
+    },
+    {
+      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T14:00:10+00:00"
+    },
     {
       "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-27T04:51:32+00:00"
-    },
-    {
-      "id": "5c3b2927268feb4b2f489d71e7506e13001bafe196c97cfc91f7b292b5c984e5",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-26T14:13:39+00:00"
-    },
-    {
-      "id": "a7df7ffa5e05842f983ef73dc64b9b830ae07e3410903660ce561c1481272dbb",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-25T22:37:47+00:00"
-    },
-    {
-      "id": "17ff6787fa795c5a00362ca953468728f647b23a7fb8cd0267cc6f65fe8b4476",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operate",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T18:48:44+00:00"
-    },
-    {
-      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-25T15:21:09+00:00"
-    },
-    {
-      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-25T14:16:26+00:00"
-    },
-    {
-      "id": "8083b86f8749ba300ef2922e99460c178b8eed195413a30f1910f6a2e5b1c6f4",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T12:52:43+00:00"
-    },
-    {
-      "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T10:14:26+00:00"
     }
   ]
 }

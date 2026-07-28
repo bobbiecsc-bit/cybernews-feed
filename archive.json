@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-28T13:57:54.401002+00:00",
+  "updated": "2026-07-28T19:17:57.641531+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "834f71b07c6beddee72fd60dac53c6dd37e7f5ac3c6d94e4fb3b40b54f3d14a4",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:59:07+00:00"
+    },
+    {
+      "id": "cca80125d09ead74929b9200d749969e6057fd36f80ccadca4067c52777cc2b2",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T18:41:04+00:00"
+    },
+    {
+      "id": "a479ff887ff6960e3403bcb9f175b7a1ec11526b513d11aacee6d6ca7afc414a",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:08:50+00:00"
+    },
+    {
+      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T15:01:33+00:00"
+    },
+    {
+      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-28T14:45:57+00:00"
+    },
+    {
+      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T14:41:36+00:00"
+    },
+    {
+      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T14:00:10+00:00"
+    },
     {
       "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-15T14:37:13+00:00"
-    },
-    {
-      "id": "5ef4ab0cac260d5cbb051a72e0abb1974e1bcbccdc088c07180b9bd4e09ce437",
-      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:07:44+00:00"
-    },
-    {
-      "id": "59dbd682588b3a523ff60d2c4e42306783cff1004bd8e0ce2170a44e2ca65674",
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already un",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:01:11+00:00"
-    },
-    {
-      "id": "19d53f59b5a41ad7c92e03a7c34189f092f424396c5dd7a6ebea0975a8086170",
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T13:18:53+00:00"
-    },
-    {
-      "id": "dc1a9b4bf1cdba3999b643af7be19dccc11cf415b0b86bd6581c0b91dbbfa460",
-      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
-      "url": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-15T13:00:00+00:00"
-    },
-    {
-      "id": "ec3b5d32b5409aa01aafa050c364500ba649acdc8d0e6ae719995224b94a24ac",
-      "title": "Microsoft smashes Patch Tuesday record for second successive month",
-      "url": "https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release",
-      "summary": "Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-07-15T12:15:00+00:00"
-    },
-    {
-      "id": "3296da29813217b1904a8a2d6960c8e8c22074e75009bf4014266b3209f4dd61",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as Pr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-15T11:07:07+00:00"
-    },
-    {
-      "id": "912788503eff07e3f117c0a967039b3b5a79564702edbd51c3629e22e9dfb0ca",
-      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
-      "url": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
-      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-15T11:02:57+00:00"
     }
   ]
 }
