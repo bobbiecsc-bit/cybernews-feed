@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-27T19:21:45.307379+00:00",
+  "updated": "2026-07-28T02:11:22.759783+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dd3c71c164d4d5a58e969f2d5a4dce09adf529f67513aacdfc2e1a1a520aa187",
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T07:41:06+00:00"
+    },
+    {
+      "id": "afe4a14794443d12d28ee0369c5bfee2f216ed564bc7cdde9a6d70d9398239e2",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-24T07:36:39+00:00"
+    },
+    {
+      "id": "6d85941f139ee717fb185d70f56f37b46375b1a4a336566c48d44db1a10ebb0d",
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T06:58:27+00:00"
+    },
+    {
+      "id": "852d7225f48a5e8d4de614b3d1e1f3ae67139e2f865b24dc4de110ca7da93035",
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-24T06:50:57+00:00"
+    },
     {
       "id": "c022636a9ec2a180d737a3be61079896342d75bb8ce7ca3c407e488648ac8ea8",
       "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-22T11:43:28+00:00"
-    },
-    {
-      "id": "ca869bb4da59f983495aab36320aa51580a1063991403726d08e2f21afa3c5a0",
-      "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
-      "url": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
-      "summary": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access. The post Fourth SharePoint Vulnerability Exploited in Past Month&#8217;s Wave of Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-22T11:29:16+00:00"
-    },
-    {
-      "id": "71e53440e68a58a51d893bf451b9d8a192b04dea4cffb25d55a473de491cdba1",
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Globa",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-22T11:25:35+00:00"
-    },
-    {
-      "id": "aa9dd3107ab74dbb30cd094c5d4b27e4ee8d78543935e88b5ab4d1bf08d41e8d",
-      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-      "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-      "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-22T10:00:00+00:00"
-    },
-    {
-      "id": "877d96fb1f8c75f690eeee3ae9d15d5e9884571141e2af9c21e877bc9f3245c6",
-      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
-      "url": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
-      "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-22T08:32:02+00:00"
     }
   ]
 }
