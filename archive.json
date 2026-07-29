@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-28T19:17:57.641531+00:00",
+  "updated": "2026-07-29T02:21:12.135441+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "summary": "There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to benchmark the ability of LLMs to discover new mathem",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-29T01:47:05+00:00"
+    },
+    {
+      "id": "c12616944c9c5a375db98722741094a6bd93d3dc11871049e6b172df8eaa757d",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T21:17:39+00:00"
+    },
+    {
+      "id": "c864b86b42b594eea9d1f061457615126da775e311de5fe4c1b9820e266a68fd",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T20:37:06+00:00"
+    },
     {
       "id": "834f71b07c6beddee72fd60dac53c6dd37e7f5ac3c6d94e4fb3b40b54f3d14a4",
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
@@ -2224,33 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-15T17:45:00+00:00"
-    },
-    {
-      "id": "2765d5a2787925026e1547fdf10718be1660d230e12d3d08dfd049588c08386e",
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-15T15:37:27+00:00"
-    },
-    {
-      "id": "2ec1086be1ac1ce17ac1f858af93e729de086042cedb29bc71de0b5326138393",
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
-      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug t",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-15T15:30:30+00:00"
-    },
-    {
-      "id": "8adb3641111b2f39866f23a857ec445c8c58e0fc798be187e7a15160cc8f257e",
-      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
-      "url": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
-      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-15T14:37:13+00:00"
     }
   ]
 }
