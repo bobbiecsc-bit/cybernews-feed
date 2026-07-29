@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-29T02:21:12.135441+00:00",
+  "updated": "2026-07-29T08:34:14.094011+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e2859c8ee39945dfa92c354891991fc7b2c04d7acaebb942da8fc4a818ac8f41",
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-23T13:20:00+00:00"
+    },
+    {
+      "id": "fafb9124e07e3f123b2eadfd8fce3706bead703810fc332732f3d5500657848d",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T13:11:09+00:00"
+    },
+    {
+      "id": "d8710e86e06f6927a48122df21152c3f980f090f601c48bf313d796b903cc5e6",
+      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+      "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+      "summary": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-07-23T12:42:12+00:00"
+    },
+    {
+      "id": "fc34dbd20e32ba62b0608e9a4e509502bcf25529e57999b249be742611cfcee7",
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the se",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T12:20:23+00:00"
+    },
+    {
+      "id": "b9c865580c2715325bbdccaa522afb0642aec56e855f98de2be74929e6c02c94",
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points wi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-23T11:45:00+00:00"
+    },
     {
       "id": "20c1dee2f48f812ef1c47d316fb7b707977449b37c445a63cf5d51a87a96fc43",
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-21T14:57:51+00:00"
-    },
-    {
-      "id": "c18df8f6951c9d568b9e0b9b93801692267117b2d7a00521a2b7e0cd1b9c370b",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T14:04:57+00:00"
-    },
-    {
-      "id": "24962bcd107430a60513f9072144f69eecbb5061be40ba9f3d55f3e67904d162",
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T14:00:10+00:00"
-    },
-    {
-      "id": "ca14faa98d3e01c1a564f047f06cbdeef69baa4a234f4488f61329572f4332b2",
-      "title": "Captive Portal Detection, (Tue, Jul 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33172",
-      "summary": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-07-21T13:44:56+00:00"
-    },
-    {
-      "id": "04d7cf1784ec628d2aeb237a0f09ca0a6e1435c58c95274381e7671604054747",
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T13:18:31+00:00"
-    },
-    {
-      "id": "d03fb6eb030332983da233557477ffd377bce36bb1763a35a8fd179150a2e5e0",
-      "title": "Empirical Security Raises $25 Million in Series A Funding",
-      "url": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
-      "summary": "The startup will use the investment to accelerate the development of its threat prediction and discovery products. The post Empirical Security Raises $25 Million in Series A Funding appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-21T12:47:18+00:00"
     }
   ]
 }

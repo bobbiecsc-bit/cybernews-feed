@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-29T02:21:12.135441+00:00",
+  "updated": "2026-07-29T08:34:14.094011+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bd28e4f1e928a0874424227e3b34a2b844170cceaf725844b1527ef0738c67ab",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-29T07:53:22+00:00"
+    },
+    {
+      "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public S",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-29T07:07:23+00:00"
+    },
+    {
+      "id": "01627ef4584aebe7500ea4ffa4f01b5eb3c563767668f9e0b888d2055bbeaa68",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T06:45:02+00:00"
+    },
+    {
+      "id": "d5631943f8536b1e3ec088029e17521df75f0551fde145fe2b05a298a3a9c730",
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "summary": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-29T06:23:34+00:00"
+    },
+    {
+      "id": "42d1eedeb284c954018c399a9432a97086ccad0bed7075a45a4bc7cb1b2fc5a1",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T04:20:57+00:00"
+    },
     {
       "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
       "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-16T07:22:44+00:00"
-    },
-    {
-      "id": "fe70e597a2485ca83ba789e9b6edd1d3578fed45febe40f5eac4b1f9eab66d7b",
-      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-      "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops &#8216;LegacyHive&#8217; Windows Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-16T06:48:40+00:00"
-    },
-    {
-      "id": "86dd16d30666a582503ef8d3c85c5fa6b5d98d67766a2eee9d7e9bca7caae117",
-      "title": "Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies",
-      "url": "https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc",
-      "summary": "Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-15T23:00:00+00:00"
-    },
-    {
-      "id": "59248d0152d47170c84d4f4dcc3f305f3cd9f8eeb303de1bb76b70cfd778e377",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-15T20:16:02+00:00"
-    },
-    {
-      "id": "b748ab90fbca9729e9f6355896bd449d9d9dd00709f762505c2715d1ad156aef",
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-15T18:33:48+00:00"
-    },
-    {
-      "id": "18673a8b13e057ba2c93c16e853c0c2e27050fa6d1b97d59784bdb208f476874",
-      "title": "23andMe reaches $18 million settlement with states for massive breach",
-      "url": "https://therecord.media/genetic-testing-settlement-data-breach",
-      "summary": "A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-15T17:45:00+00:00"
     }
   ]
 }
