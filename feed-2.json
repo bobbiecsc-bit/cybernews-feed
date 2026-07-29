@@ -1,10 +1,118 @@
 {
-  "updated": "2026-07-29T08:34:14.094011+00:00",
+  "updated": "2026-07-29T14:02:06.285564+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8c3cf13619552cfd8d3c08ba9df2e686515b3746c1017138c8461305d66ae67c",
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-27T17:29:07+00:00"
+    },
+    {
+      "id": "7f05891bef8a4a57f6ccb5461e327ddfdc87efe838dfc7ce97ef65e2509eb77c",
+      "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
+      "url": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
+      "summary": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-27T16:00:00+00:00"
+    },
+    {
+      "id": "0dbbf636baae4cecd97f19958fe69c6b98e1c0054c66e6780b6e6e5a96d95df3",
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-27T15:39:51+00:00"
+    },
+    {
+      "id": "c9d9f99a67fd8241e13e188df40969e1e4efb69a4f74fcda175bd1f474b73e88",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-27T15:12:27+00:00"
+    },
+    {
+      "id": "5937bd850a8b331f12540fc30f91d8973d89d56e34e784ff61259c5c35880ed3",
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulleti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-27T14:40:00+00:00"
+    },
+    {
+      "id": "cfc6397c37eceb5fa7d078d890ee033be25eb6a1b9dfe009e30af12d65dbd80a",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-27T14:10:54+00:00"
+    },
+    {
+      "id": "10f16505becdd0c8686c4e844cc07d1154deb0ea8fc7307357d937a22ef25133",
+      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+      "url": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+      "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-27T13:19:30+00:00"
+    },
+    {
+      "id": "a95dd26365a570d9de8915c7a3350ea2895f103f8ffed56571ad9a8a77b440f5",
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-27T13:05:15+00:00"
+    },
+    {
+      "id": "ef6804797897562db7210556e29ce6d079f525d59727f0126738fdbe5d13ee7e",
+      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+      "url": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+      "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-27T13:00:00+00:00"
+    },
+    {
+      "id": "3e98a5e93866883493d52cfefc368526d8f4c1804afa77954c6a39fbd356d7bf",
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming th",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-27T12:37:49+00:00"
+    },
+    {
+      "id": "ae62fba4b132888587e50cd9048ba54ff26db53ba3ecbefe5ccf1a7275463377",
+      "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
+      "url": "https://therecord.media/thailand-hackers-ai-finance-ministry",
+      "summary": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "id": "8032ec6029deb6397d7383e7bf3047a1007937c3f0a1b441617fecd806db455b",
+      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+      "url": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+      "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-27T11:29:03+00:00"
+    },
     {
       "id": "afab916af8947b95b6c9533eee763cd7fe31fa05be289e3adc7c5019589022c7",
       "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
@@ -346,114 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-23T21:20:34+00:00"
-    },
-    {
-      "id": "b80be0dc24d5a6b92a27321f3d20691e363373b0b51fb61df96c8278d935708a",
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-23T20:14:35+00:00"
-    },
-    {
-      "id": "2cb10c32bd7a427284b2af2e0c3a938ef491956ee50e974557fbdd83bf28ef3b",
-      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-23T19:48:30+00:00"
-    },
-    {
-      "id": "5518fb6b7eb971cc33861d96c9d7923b4ee92924f1d6d51a27c9751a41eab89f",
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor re",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-23T18:36:08+00:00"
-    },
-    {
-      "id": "4cacdce3551026f29b4b09e31c4c155b48240c6c4c6a69364f43f638f9cd3d28",
-      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
-      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-23T16:58:00+00:00"
-    },
-    {
-      "id": "3735cdeb2403e76a6bf3879b2c297e458c2c962088c69e3ed6bf763b53eb9a16",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-23T16:49:27+00:00"
-    },
-    {
-      "id": "915e709a7e69a73a4ee5d4b6abc6b33b3a7e0558c6b47f0de119acb84c02da7b",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-23T16:32:35+00:00"
-    },
-    {
-      "id": "d0071bdd88ad1a3d26dc7781b2730cd0e3e561bf1974e5d68cef2c0aacd375d6",
-      "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
-      "url": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
-      "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-23T15:09:59+00:00"
-    },
-    {
-      "id": "0fad97e2f1c1223d951ec9dd7501782537f4d84ec3a910290932e88cb90461a2",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-23T15:02:07+00:00"
-    },
-    {
-      "id": "95e6f42abf570ad927e86a102781d3014a3a960c05aba88e569ef9dc3fedd512",
-      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-      "url": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Post-Mythos Era appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-23T15:00:00+00:00"
-    },
-    {
-      "id": "631165e9503e4d0a74e9e123ad65ae4b71f46e3de5288fbd43c3d1f8e3659f49",
-      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-      "url": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-23T14:55:19+00:00"
-    },
-    {
-      "id": "d6f8931e233f0ec439a31901d66b24de804a4b300f7056be66f02c9457d14e07",
-      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33180",
-      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-07-23T13:40:27+00:00"
-    },
-    {
-      "id": "e159988bd46b5a0aba74067e74412e7737606aea5a61ec213e861ef3765466c2",
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-23T13:27:59+00:00"
     }
   ]
 }
