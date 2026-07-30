@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-29T19:09:46.865247+00:00",
+  "updated": "2026-07-30T02:03:34.912944+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e595dba041d5ef9c355dcf5884aa9855208de53cc7a6bb461f281704c339bcdd",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-29T23:44:07+00:00"
+    },
+    {
+      "id": "8f821d2f9cd7a216055202255cc7d257bd057b2f775057dcbb059b9dab72e4f0",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-29T21:35:40+00:00"
+    },
     {
       "id": "5226afe42a903f3d903c66bb3448ffefb7ac2fba0ffdb692d1c5c93c7c2f9e11",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-28T08:04:44+00:00"
-    },
-    {
-      "id": "2c6f37e219bb9758395db67953cc2ac8bb20b90bbca3c5886ed5026d2832bac3",
-      "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33192",
-      "summary": "For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you&#x27ll see below.&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-07-28T07:42:27+00:00"
-    },
-    {
-      "id": "0488184302881443411b8e3c9ab92997f3e401811401503c980b572344bccd4a",
-      "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-      "summary": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-28T07:27:55+00:00"
     }
   ]
 }
