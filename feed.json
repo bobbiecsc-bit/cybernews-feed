@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-30T02:03:34.912944+00:00",
+  "updated": "2026-07-30T08:19:51.959440+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "08772ea58b8c9e26ae3b8b54638cb5627afaeb02da8c74de9b8f50cb47940f24",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T07:40:48+00:00"
+    },
+    {
+      "id": "5ea03de1aea77a45d12fecb6d08a506c86a8cd25434f7c0651a56ecafbf124ea",
+      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-30T06:31:31+00:00"
+    },
+    {
+      "id": "c446184a12ad0dbfab281c7295b0f862d2ed2e3a4d294d019163b605c011fc89",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T06:05:17+00:00"
+    },
+    {
+      "id": "5b323651846af4f48bd2f7e2950f6d90faa99ede356f99eec145c47f8c3bdc26",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T05:08:39+00:00"
+    },
     {
       "id": "e595dba041d5ef9c355dcf5884aa9855208de53cc7a6bb461f281704c339bcdd",
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-28T11:00:00+00:00"
-    },
-    {
-      "id": "641ea5c9eac6a71ffb21ad4eb34fccd92d3fbe590ff4c63730096fa1383ff046",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-28T09:10:03+00:00"
-    },
-    {
-      "id": "b1198a252ea30aea0d4ef8c134ddc0489479153340f9e48033147b56a4a4307e",
-      "title": "Google Adopts New Threat Actor Naming System",
-      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
-      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-28T08:42:52+00:00"
-    },
-    {
-      "id": "2669504f3fb39551aa8ea74c001af4473d70fa2d02d9013b0fa6d1d5146a69b7",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T08:11:22+00:00"
-    },
-    {
-      "id": "6b4aede28ee3f8e9877b969d40a88ff2c11381478e9de7cdca6e28551ff49d22",
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T08:04:44+00:00"
     }
   ]
 }

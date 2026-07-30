@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-30T02:03:34.912944+00:00",
+  "updated": "2026-07-30T08:19:51.959440+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "72697d315627de33fa42550cb4c6ea770ff233898d5b8491f2993ec2ecbc7cba",
+      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+      "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-20T22:22:56+00:00"
+    },
+    {
+      "id": "1179d4e88192baace0903df41757cd5af69812c8311d7a40c97b1d3f7b67437a",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-20T21:14:42+00:00"
+    },
+    {
+      "id": "f57be79927466e20a4d21622b0b35ee6225f7f8080c416609e58c191f2997988",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-20T21:08:02+00:00"
+    },
+    {
+      "id": "335d2af40c1a56240baed9c8bf048de3eba5f73be463df8e3a94d05dbd65ecef",
+      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+      "url": "https://isc.sans.edu/diary/rss/33168",
+      "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. ",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-07-20T18:41:24+00:00"
+    },
     {
       "id": "0823fe2e9d3257827a981a80c0c54ee0d9f939339f37c19cbc9675474750563c",
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-17T08:13:37+00:00"
-    },
-    {
-      "id": "68bd69ed4f0232ae8735ee3dc264980f1135673400a358e5868e9f6815d575e0",
-      "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
-      "url": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
-      "summary": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-17T07:15:59+00:00"
-    },
-    {
-      "id": "d70c88aad58913a700d9eed1f10b44e9556b7288b3a18f82b674bba6c6dd4fca",
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-17T07:03:33+00:00"
-    },
-    {
-      "id": "05042d22e617047f6de03e3e2e7aaf55c6d28f26738486d7178f41443250540b",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-17T06:42:23+00:00"
-    },
-    {
-      "id": "1366ebe6617f40fc991bfb43bd39d9c170852c4ed2ec09026471d18d28dbd017",
-      "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
-      "url": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
-      "summary": "The company has yet to determine the full scope, nature, and impact of the incident. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-07-17T06:23:08+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-30T02:03:34.912944+00:00",
+  "updated": "2026-07-30T08:19:51.959440+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "641ea5c9eac6a71ffb21ad4eb34fccd92d3fbe590ff4c63730096fa1383ff046",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-28T09:10:03+00:00"
+    },
+    {
+      "id": "b1198a252ea30aea0d4ef8c134ddc0489479153340f9e48033147b56a4a4307e",
+      "title": "Google Adopts New Threat Actor Naming System",
+      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-28T08:42:52+00:00"
+    },
+    {
+      "id": "2669504f3fb39551aa8ea74c001af4473d70fa2d02d9013b0fa6d1d5146a69b7",
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T08:11:22+00:00"
+    },
+    {
+      "id": "6b4aede28ee3f8e9877b969d40a88ff2c11381478e9de7cdca6e28551ff49d22",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T08:04:44+00:00"
+    },
     {
       "id": "2c6f37e219bb9758395db67953cc2ac8bb20b90bbca3c5886ed5026d2832bac3",
       "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-24T19:09:09+00:00"
-    },
-    {
-      "id": "1f939d585832fcf41983a4c34565f2d31700eef607605b84ad34d8685042234a",
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-24T15:55:00+00:00"
-    },
-    {
-      "id": "33203de2679af61346a3fe998a5eba50260f358adadeef27fd1de0252b87c099",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-24T15:12:35+00:00"
-    },
-    {
-      "id": "cd76ed705e4f6c6aac25b0d9341096efcc78f480f139c453a51639b8364a0933",
-      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "url": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-24T14:20:00+00:00"
-    },
-    {
-      "id": "283f9b048caadb8724bb1e7fba4e7c4f2a53dcba2ee48ae1d35c3cbe6a36d870",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-24T14:15:21+00:00"
     }
   ]
 }

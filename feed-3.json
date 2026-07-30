@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-30T02:03:34.912944+00:00",
+  "updated": "2026-07-30T08:19:51.959440+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1f939d585832fcf41983a4c34565f2d31700eef607605b84ad34d8685042234a",
+      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
+      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
+      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-24T15:55:00+00:00"
+    },
+    {
+      "id": "33203de2679af61346a3fe998a5eba50260f358adadeef27fd1de0252b87c099",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-24T15:12:35+00:00"
+    },
+    {
+      "id": "cd76ed705e4f6c6aac25b0d9341096efcc78f480f139c453a51639b8364a0933",
+      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+      "url": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-24T14:20:00+00:00"
+    },
+    {
+      "id": "283f9b048caadb8724bb1e7fba4e7c4f2a53dcba2ee48ae1d35c3cbe6a36d870",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-24T14:15:21+00:00"
+    },
     {
       "id": "8bba9e0e00948187119461d76dd8289b711289b0f9bb7a2ba7d9ff1aa268e314",
       "title": "Chick-fil-A data breach affects more than 13,000 customers",
@@ -418,42 +454,6 @@
       "source": "SANS ISC",
       "category": "threat",
       "date": "2026-07-22T17:35:33+00:00"
-    },
-    {
-      "id": "8b2bec85deeb80d77462065efa6d86de15b2ee20c8cadd080e823b310a9af438",
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-22T16:59:17+00:00"
-    },
-    {
-      "id": "0c9bb7e0e1b4eae03338761a8371b807b8dc38261ac4541652f531e52a07f5df",
-      "title": "New Kimsuky campaign compromised South Korean software vendors",
-      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-22T16:47:00+00:00"
-    },
-    {
-      "id": "1a745d529a40bc605227b259072b8aedc41c77b0c2b28cde8a922a701e420a66",
-      "title": "Japanese food logistics giant recovers as extortion group claims cyberattack",
-      "url": "https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery",
-      "summary": "Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-22T15:40:00+00:00"
-    },
-    {
-      "id": "6f74290201d6dbea5d7cceef12c376e099d08d9a935e56e717cb2ffd1ed4fe29",
-      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
-      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-22T15:30:00+00:00"
     }
   ]
 }
