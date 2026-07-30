@@ -1,10 +1,82 @@
 {
-  "updated": "2026-07-30T08:19:51.959440+00:00",
+  "updated": "2026-07-30T13:50:57.808322+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7b37dcb49abf339c80f9fae657a6eccd6b8cba6beedc1d65aebe4f66189ca729",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+      "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-21T09:36:51+00:00"
+    },
+    {
+      "id": "1af09c10cfc038418757e649f9e283ea637a81620f88489149503459e8b18911",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shel",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T08:59:30+00:00"
+    },
+    {
+      "id": "3b51726f9c540cb935e579328c33980b10c8b7760d52a76d60d2fe63d0c4fa62",
+      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+      "url": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+      "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-21T08:41:53+00:00"
+    },
+    {
+      "id": "466424b32bb760c0237a00b87300d245205ab9c8d39395a86a5791e0f2a9a76d",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-21T08:06:26+00:00"
+    },
+    {
+      "id": "0edace9f3bea69f2acf988512fa492ff0b8483183f83509e3c1e4ae0145954a0",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes,",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-21T07:34:32+00:00"
+    },
+    {
+      "id": "c8dac0ed07a67a1ce46ba95ec84e4d7162f0e3453b34f8a44684bc0ccd4ee7aa",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerabili",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-21T06:29:26+00:00"
+    },
+    {
+      "id": "9be792a0f71e6f67417816e5b7c63da2809ab84aa6f4b72276146fa5f368466b",
+      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+      "summary": "Cosmetics giant Estée Lauder is notifying employees of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-20T22:39:30+00:00"
+    },
+    {
+      "id": "1aa7731f271da3673d7e333e9fb9ff6386f0209b453b513e5186ed481ce71dc7",
+      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+      "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-20T22:23:23+00:00"
+    },
     {
       "id": "72697d315627de33fa42550cb4c6ea770ff233898d5b8491f2993ec2ecbc7cba",
       "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
@@ -382,78 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-07-17T16:39:16+00:00"
-    },
-    {
-      "id": "ac32bb8bdab52dda0242e09ab9a677b3b5344b42028a7d45cd73c7a31aa17d18",
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-17T14:55:28+00:00"
-    },
-    {
-      "id": "7f6f0c7600509e6ac68459917ae183dd6f3d7812a367e926a22f7be3af02c3ff",
-      "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
-      "url": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
-      "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-17T14:27:54+00:00"
-    },
-    {
-      "id": "7dc9878f07222a0c31508eeefa298c2f868f4c79b9595f21c77dd387b8703615",
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload ali",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-17T13:48:56+00:00"
-    },
-    {
-      "id": "3ad33dd2b52a84b6a75b0ab42aaaac9b80c23873514b8822e3e527035e75b895",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-17T11:05:30+00:00"
-    },
-    {
-      "id": "58eb82db51083b67f692d398a13bcf692947764362ed5fd4995e0244dfd78e16",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots a",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-17T10:53:31+00:00"
-    },
-    {
-      "id": "a170e827de49df394a0ed14767c172f624c84f314bae0cde076bc5c9bc8f43c2",
-      "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
-      "url": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
-      "summary": "The company disconnected its systems on July 13 and is starting to gradually restore operations. The post Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-17T09:06:27+00:00"
-    },
-    {
-      "id": "cf5dd33c642dfd46dbdfe5ba33785cacdacd518d8f963d593a1aad2f301c2fb2",
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering. Russian cybersecurity company Kaspersky, which unco",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-17T08:46:45+00:00"
-    },
-    {
-      "id": "932d8c7a52c25bfdd88e7dcefa137cafb5eab6869459996ae678e5bffb14ff52",
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-17T08:13:37+00:00"
     }
   ]
 }
