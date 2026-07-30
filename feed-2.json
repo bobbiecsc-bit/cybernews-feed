@@ -1,10 +1,109 @@
 {
-  "updated": "2026-07-30T13:50:57.808322+00:00",
+  "updated": "2026-07-30T19:20:11.537778+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public S",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-29T07:07:23+00:00"
+    },
+    {
+      "id": "d5631943f8536b1e3ec088029e17521df75f0551fde145fe2b05a298a3a9c730",
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "summary": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-29T06:23:34+00:00"
+    },
+    {
+      "id": "42d1eedeb284c954018c399a9432a97086ccad0bed7075a45a4bc7cb1b2fc5a1",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T04:20:57+00:00"
+    },
+    {
+      "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "summary": "There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to benchmark the ability of LLMs to discover new mathem",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-29T01:47:05+00:00"
+    },
+    {
+      "id": "c12616944c9c5a375db98722741094a6bd93d3dc11871049e6b172df8eaa757d",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T21:17:39+00:00"
+    },
+    {
+      "id": "c864b86b42b594eea9d1f061457615126da775e311de5fe4c1b9820e266a68fd",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T20:37:06+00:00"
+    },
+    {
+      "id": "834f71b07c6beddee72fd60dac53c6dd37e7f5ac3c6d94e4fb3b40b54f3d14a4",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:59:07+00:00"
+    },
+    {
+      "id": "cca80125d09ead74929b9200d749969e6057fd36f80ccadca4067c52777cc2b2",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T18:41:04+00:00"
+    },
+    {
+      "id": "a479ff887ff6960e3403bcb9f175b7a1ec11526b513d11aacee6d6ca7afc414a",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:08:50+00:00"
+    },
+    {
+      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T15:01:33+00:00"
+    },
+    {
+      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-28T14:45:57+00:00"
+    },
     {
       "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
       "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
@@ -355,105 +454,6 @@
       "source": "Schneier on Security",
       "category": "threat",
       "date": "2026-07-27T11:04:30+00:00"
-    },
-    {
-      "id": "7c7cdda876d9d9477d44c6233981d844490682693de9edcc2f0e8dd71fbd260c",
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been u",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-27T10:51:45+00:00"
-    },
-    {
-      "id": "8129ea6c236e4c69b28c86359437b52ff15784a48a28d66090ff3d207dcc8e70",
-      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-      "url": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-      "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T10:50:19+00:00"
-    },
-    {
-      "id": "de9e7d0fa0c0381cfae604e9453b4700003237bd27b949bc6230977c66b2afa5",
-      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-      "url": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-      "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-27T10:02:41+00:00"
-    },
-    {
-      "id": "c5f0ec26ac7de834dfc5cecb6fc442ab298d0aff89ffc6e94e4355b1efb71787",
-      "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-      "url": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-      "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T09:34:12+00:00"
-    },
-    {
-      "id": "e5e6a527b664ed39bd551b9793d0b47826d463c7190a1ad45f86e5c7b6e98af8",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, accordin",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-27T08:48:47+00:00"
-    },
-    {
-      "id": "9149698fc1286564395c0cbf8991b098843df9d041a9c4afee2468fa5961bf24",
-      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-      "url": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-      "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T04:51:32+00:00"
-    },
-    {
-      "id": "5c3b2927268feb4b2f489d71e7506e13001bafe196c97cfc91f7b292b5c984e5",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-26T14:13:39+00:00"
-    },
-    {
-      "id": "a7df7ffa5e05842f983ef73dc64b9b830ae07e3410903660ce561c1481272dbb",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-25T22:37:47+00:00"
-    },
-    {
-      "id": "17ff6787fa795c5a00362ca953468728f647b23a7fb8cd0267cc6f65fe8b4476",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operate",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T18:48:44+00:00"
-    },
-    {
-      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-25T15:21:09+00:00"
-    },
-    {
-      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-25T14:16:26+00:00"
     }
   ]
 }
