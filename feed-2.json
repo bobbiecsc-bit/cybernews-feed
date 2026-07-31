@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-30T19:20:11.537778+00:00",
+  "updated": "2026-07-31T02:30:11.404981+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "07443345164ec12b05255595f5df262e35c71128d767214c82034acc98430a00",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T08:58:27+00:00"
+    },
+    {
+      "id": "5e346aa3a7c994ac271edd31fa7bcd3e321c198aa4ceb63d176d630d2aa018b6",
+      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+      "url": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+      "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-29T08:46:30+00:00"
+    },
+    {
+      "id": "bd28e4f1e928a0874424227e3b34a2b844170cceaf725844b1527ef0738c67ab",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-29T07:53:22+00:00"
+    },
+    {
+      "id": "01627ef4584aebe7500ea4ffa4f01b5eb3c563767668f9e0b888d2055bbeaa68",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security inci",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T07:51:00+00:00"
+    },
+    {
+      "id": "e6e8cfad2170ead0e1ade0cb8e5dc8564033ad1468b687f6999aaf38b8f1fbe2",
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T07:47:19+00:00"
+    },
     {
       "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
       "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-27T13:00:00+00:00"
-    },
-    {
-      "id": "3e98a5e93866883493d52cfefc368526d8f4c1804afa77954c6a39fbd356d7bf",
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming th",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-27T12:37:49+00:00"
-    },
-    {
-      "id": "ae62fba4b132888587e50cd9048ba54ff26db53ba3ecbefe5ccf1a7275463377",
-      "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
-      "url": "https://therecord.media/thailand-hackers-ai-finance-ministry",
-      "summary": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-27T12:00:00+00:00"
-    },
-    {
-      "id": "8032ec6029deb6397d7383e7bf3047a1007937c3f0a1b441617fecd806db455b",
-      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-      "url": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-      "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T11:29:03+00:00"
-    },
-    {
-      "id": "afab916af8947b95b6c9533eee763cd7fe31fa05be289e3adc7c5019589022c7",
-      "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
-      "url": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
-      "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T11:06:24+00:00"
-    },
-    {
-      "id": "42ed4032d26d95f1a453121029b947b31c49919a6904b837487ca9d7291d8bce",
-      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-      "summary": "Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity ­ whether they’re owned by a suspect in a case or not. Cogny",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-27T11:04:30+00:00"
     }
   ]
 }

@@ -1,10 +1,55 @@
 {
-  "updated": "2026-07-30T19:20:11.537778+00:00",
+  "updated": "2026-07-31T02:30:11.404981+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "631165e9503e4d0a74e9e123ad65ae4b71f46e3de5288fbd43c3d1f8e3659f49",
+      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
+      "url": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
+      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T14:55:19+00:00"
+    },
+    {
+      "id": "d6f8931e233f0ec439a31901d66b24de804a4b300f7056be66f02c9457d14e07",
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33180",
+      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends &#xe2;&#x20ac;&#x201d;&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-07-23T13:40:27+00:00"
+    },
+    {
+      "id": "e159988bd46b5a0aba74067e74412e7737606aea5a61ec213e861ef3765466c2",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T13:27:59+00:00"
+    },
+    {
+      "id": "e2859c8ee39945dfa92c354891991fc7b2c04d7acaebb942da8fc4a818ac8f41",
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-23T13:20:00+00:00"
+    },
+    {
+      "id": "fafb9124e07e3f123b2eadfd8fce3706bead703810fc332732f3d5500657848d",
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-23T13:11:09+00:00"
+    },
     {
       "id": "d8710e86e06f6927a48122df21152c3f980f090f601c48bf313d796b903cc5e6",
       "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-21T16:41:50+00:00"
-    },
-    {
-      "id": "ab0fdeb9c644c7e68cb7661a1220aca5139b9c2768b78d5ed195bce9242f4c14",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to sum",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T16:06:12+00:00"
-    },
-    {
-      "id": "4e75cbdb57f144ea96ca44d941a09c97f70667f4a3f1c88ae055cb53f405731c",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively ava",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T15:09:28+00:00"
-    },
-    {
-      "id": "e654be4a6a911d35f0cbe0344aedcdfd1a591d1d435a3bfd8bb6dddc455fb6af",
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T14:57:51+00:00"
-    },
-    {
-      "id": "c18df8f6951c9d568b9e0b9b93801692267117b2d7a00521a2b7e0cd1b9c370b",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T14:04:57+00:00"
-    },
-    {
-      "id": "24962bcd107430a60513f9072144f69eecbb5061be40ba9f3d55f3e67904d162",
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T14:00:10+00:00"
     }
   ]
 }
