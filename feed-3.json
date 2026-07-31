@@ -1,10 +1,28 @@
 {
-  "updated": "2026-07-31T02:30:11.404981+00:00",
+  "updated": "2026-07-31T08:44:16.708368+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a95dd26365a570d9de8915c7a3350ea2895f103f8ffed56571ad9a8a77b440f5",
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-27T13:05:15+00:00"
+    },
+    {
+      "id": "ef6804797897562db7210556e29ce6d079f525d59727f0126738fdbe5d13ee7e",
+      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+      "url": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+      "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-27T13:00:00+00:00"
+    },
     {
       "id": "3e98a5e93866883493d52cfefc368526d8f4c1804afa77954c6a39fbd356d7bf",
       "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-07-23T15:09:59+00:00"
-    },
-    {
-      "id": "0fad97e2f1c1223d951ec9dd7501782537f4d84ec3a910290932e88cb90461a2",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week.",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-23T15:02:07+00:00"
-    },
-    {
-      "id": "95e6f42abf570ad927e86a102781d3014a3a960c05aba88e569ef9dc3fedd512",
-      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-      "url": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Post-Mythos Era appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-23T15:00:00+00:00"
     }
   ]
 }
