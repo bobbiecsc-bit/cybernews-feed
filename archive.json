@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-01T13:12:09.944039+00:00",
+  "updated": "2026-08-01T19:03:28.446150+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "33d64b684b386f21f4b0aac2f0d2804a5e1ea8528a9236ae89ca8573093db3a1",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integra",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-01T17:17:22+00:00"
+    },
+    {
+      "id": "e64f30381c40bc651cbba6d7570f4ddfc1d22981edaf92058aa767b8dbc19132",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-01T14:20:30+00:00"
+    },
     {
       "id": "cdd2d5be99e725f94df7ff2d3e943f033b61fc2f0cd82f981a16beb36357e732",
       "title": "Ruby on Rails Patches Critical Vulnerability",
@@ -2233,24 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-21T08:06:26+00:00"
-    },
-    {
-      "id": "0edace9f3bea69f2acf988512fa492ff0b8483183f83509e3c1e4ae0145954a0",
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes,",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-21T07:34:32+00:00"
-    },
-    {
-      "id": "c8dac0ed07a67a1ce46ba95ec84e4d7162f0e3453b34f8a44684bc0ccd4ee7aa",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerabili",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T06:29:26+00:00"
     }
   ]
 }
