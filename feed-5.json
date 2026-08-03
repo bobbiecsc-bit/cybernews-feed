@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-03T02:30:19.925019+00:00",
+  "updated": "2026-08-03T09:36:44.065289+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "624c6b980255a780eff8f70d75510a4e19075dbfb46030dfe6f370ab434c92c2",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Ama",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T08:04:35+00:00"
+    },
+    {
+      "id": "cf457a6325533fbcb0d0d92b06c6739020c49f8d8337aa339c0cd2ccc7309644",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-23T06:34:36+00:00"
+    },
+    {
+      "id": "a9a284f5294030d4636d4f32c33d04d8aa5314ea0e7c6c83928fd7b3fa9c0175",
+      "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
+      "url": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+      "summary": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-23T05:28:50+00:00"
+    },
+    {
+      "id": "7348392bcfb6c61b0055869b2d95b92f63d780fa1d2bfd3e85f2d7c91efdf8ce",
+      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
+      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
+      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-07-22T23:00:00+00:00"
+    },
+    {
+      "id": "4d491fd7a7f8e25d0bc37df54f0057b2f7fc1d436617d411757877adc015fc1f",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-22T21:43:39+00:00"
+    },
     {
       "id": "9b6513ea679226cf04af5bc3f48d37150cabd31dea9f297f925414e749422a86",
       "title": "South Korea discloses data breach impacting diplomats worldwide",
@@ -409,51 +454,6 @@
       "source": "Schneier on Security",
       "category": "threat",
       "date": "2026-07-21T11:07:13+00:00"
-    },
-    {
-      "id": "0450ef68b6352a195ce51549e9b2c9c8eaf6957934c122331ba9fd02af5e8b8f",
-      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-      "url": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-      "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-21T10:19:21+00:00"
-    },
-    {
-      "id": "02a53136b1170d506f0c66176555b5da22691f9da64205a4d752c87044ed9ffd",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-21T10:12:24+00:00"
-    },
-    {
-      "id": "7b37dcb49abf339c80f9fae657a6eccd6b8cba6beedc1d65aebe4f66189ca729",
-      "title": "Clover Health Investments Discloses Data Breach",
-      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-      "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-21T09:36:51+00:00"
-    },
-    {
-      "id": "1af09c10cfc038418757e649f9e283ea637a81620f88489149503459e8b18911",
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shel",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-21T08:59:30+00:00"
-    },
-    {
-      "id": "3b51726f9c540cb935e579328c33980b10c8b7760d52a76d60d2fe63d0c4fa62",
-      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-      "url": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-      "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-21T08:41:53+00:00"
     }
   ]
 }

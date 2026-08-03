@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-03T02:30:19.925019+00:00",
+  "updated": "2026-08-03T09:36:44.065289+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2e1534cd61c95a376128079ad9a9a1022a9edeb20635f7eaec77a851cade4fcf",
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "url": "https://therecord.media/north-korea-hackers-ransomware",
+      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "id": "c286bac49280d314b3ca26c4f6153c498f802a2dcd9530c48a1653469ef2102d",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-30T13:34:09+00:00"
+    },
+    {
+      "id": "9c999c458e9a561ce0c3c88dee92597df7820d9485ef1e9b41401b33ab785f98",
+      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
+      "url": "https://therecord.media/north-korea-hackers-amazon-malware",
+      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "91befb253f00c46dc2a54ce8d239f07897ca7b656fb58d0f5434b7fe0ca5f624",
+      "title": "Cyber extortionists steal data from UK Department for Education",
+      "url": "https://therecord.media/united-kingdom-ransomware-education",
+      "summary": "Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "id": "2c60365677673e8b49dd267d4f713dc1ec3561c87308290b9c759727da426b2f",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, appli",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-30T11:32:46+00:00"
+    },
     {
       "id": "6f87b9874c51506f805d37a9666b1cee21b6dcbc6af62bd35ce7a118050a688a",
       "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-07-28T18:08:50+00:00"
-    },
-    {
-      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T15:01:33+00:00"
-    },
-    {
-      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
-      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
-      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
-      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-28T14:45:57+00:00"
-    },
-    {
-      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T14:41:36+00:00"
-    },
-    {
-      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-28T14:00:10+00:00"
-    },
-    {
-      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T13:33:47+00:00"
     }
   ]
 }

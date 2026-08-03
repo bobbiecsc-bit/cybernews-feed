@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-03T02:30:19.925019+00:00",
+  "updated": "2026-08-03T09:36:44.065289+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T15:01:33+00:00"
+    },
+    {
+      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-28T14:45:57+00:00"
+    },
+    {
+      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T14:41:36+00:00"
+    },
+    {
+      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T14:00:10+00:00"
+    },
+    {
+      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T13:33:47+00:00"
+    },
     {
       "id": "507ba26671cda44a19fc50d36c892657567cf3060cdbc32eea0ca89bb1513676",
       "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-07-25T18:48:44+00:00"
-    },
-    {
-      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-25T15:21:09+00:00"
-    },
-    {
-      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-25T14:16:26+00:00"
-    },
-    {
-      "id": "8083b86f8749ba300ef2922e99460c178b8eed195413a30f1910f6a2e5b1c6f4",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T12:52:43+00:00"
-    },
-    {
-      "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T10:14:26+00:00"
-    },
-    {
-      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:21+00:00"
     }
   ]
 }
