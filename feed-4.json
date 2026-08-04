@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-04T02:09:51.522342+00:00",
+  "updated": "2026-08-04T08:30:48.952682+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "307824cb79d68303d1865bf97311a212f9e241e5e3866c74fd7dafc8a19397fc",
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-27T21:08:15+00:00"
+    },
+    {
+      "id": "4911b57668ad6ecff18f653c4d0c22568c9da1fe487c319ec8892cf165afee01",
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-27T21:00:25+00:00"
+    },
     {
       "id": "17bed50f3e9f04f92928fcc02a160811d1f644f9d8719ccbbc6a3e97c1007de3",
       "title": "UK court rejects Bahrain immunity claim in spyware case",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-07-24T07:36:39+00:00"
-    },
-    {
-      "id": "6d85941f139ee717fb185d70f56f37b46375b1a4a336566c48d44db1a10ebb0d",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-24T06:58:27+00:00"
-    },
-    {
-      "id": "852d7225f48a5e8d4de614b3d1e1f3ae67139e2f865b24dc4de110ca7da93035",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-24T06:50:57+00:00"
     }
   ]
 }
