@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-03T19:25:37.804557+00:00",
+  "updated": "2026-08-04T02:09:51.522342+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c75486cdf9647a45762a2c862a192190a549cd836dcc07bcf51a90ebfcc7e2d5",
+      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
+      "url": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
+      "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-04T01:54:00+00:00"
+    },
+    {
+      "id": "d3d8e65b0f59a7a3a231a0ada1f169cae1cab500dfc15b1070b57e653e2c4c61",
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-04T00:17:15+00:00"
+    },
+    {
+      "id": "3356ba58fa21399bfe5d9c89c277a4bf420f29bf0deb67991674f258c384c198",
+      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-03T23:58:01+00:00"
+    },
+    {
+      "id": "76ef6fbfa91c21a93adfea98fad11a6d4d28c55118f614e45a1806fb12b640c8",
+      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
+      "url": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
+      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-08-03T20:15:00+00:00"
+    },
+    {
+      "id": "1074e2818821486218889bb4c44960cabb75023a71d2a8a680f0d297aab451fe",
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-03T20:01:22+00:00"
+    },
     {
       "id": "490a320f59bde25f016cdea079810593213a02af2c031d716041a38d0d23a0e1",
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-22T08:32:02+00:00"
-    },
-    {
-      "id": "9fe570483e988c2c878bd8a14dfe8dcff393db5ac4140a219691ba10d5e2deb0",
-      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
-      "url": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-22T07:48:49+00:00"
-    },
-    {
-      "id": "f19e3d55d9f11a51d89630daca32c0dc9686a9f134236c01ba3bd3776e00a974",
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-22T06:40:29+00:00"
-    },
-    {
-      "id": "6485f682b06f440094135db6799a6f82a9220e19d301fe31fa42cc01270d48f2",
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Jso",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-22T06:00:06+00:00"
-    },
-    {
-      "id": "699ccacee3ffc7d88977e316b630a63843ba0ddc8b5cfe7dc1f55da35ad9b23a",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-22T05:19:20+00:00"
-    },
-    {
-      "id": "8c8679da622e5e3cc4400978a2dc773fbf844279c4f1b08e29c1088da67ebb2f",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-22T04:57:52+00:00"
     }
   ]
 }
