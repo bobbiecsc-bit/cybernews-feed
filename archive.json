@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-05T08:29:45.255836+00:00",
+  "updated": "2026-08-05T14:00:14.833878+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T12:48:49+00:00"
+    },
+    {
+      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:43:27+00:00"
+    },
+    {
+      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-05T11:43:19+00:00"
+    },
+    {
+      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-05T11:35:23+00:00"
+    },
+    {
+      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:04:23+00:00"
+    },
+    {
+      "id": "b4f3d444777d8f3bda2c06530f6191bd9fd480f2d5abb4167e64d8d717604c1c",
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-05T10:35:29+00:00"
+    },
+    {
+      "id": "6b629757533608da1662ecaa9de65b23ceeb17384ebd24e69fb6a38fc2dbb20f",
+      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-05T09:44:50+00:00"
+    },
+    {
+      "id": "3d50751ddee0fc9cb04cce199eaac0373d50f8f4e6a191cf55275b6aa890b2ed",
+      "title": "Vulnerabilities in Car Anti-Theft Device",
+      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
+      "summary": "This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to si",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-08-05T09:42:43+00:00"
+    },
+    {
+      "id": "79cdb252bae3e478010234b165e7ceb686967de379be456749270f55c721be15",
+      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+      "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T08:56:58+00:00"
+    },
+    {
+      "id": "359c14ceebc6119f38da1e5ed36b39a05356b483a4ec9c9476fc0b12d0bd5b1e",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T07:53:50+00:00"
+    },
+    {
+      "id": "df47d13d8d896952ed574eb2d8872c90227f2778ca47922fae3c79c68d0fa5c4",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code inject",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T07:40:39+00:00"
+    },
     {
       "id": "2efc51fb7134378b39150c1a2fea46b2a75386375709c71b99f61c5c736ba3d9",
       "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
@@ -2143,114 +2251,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-07-23T12:42:12+00:00"
-    },
-    {
-      "id": "fc34dbd20e32ba62b0608e9a4e509502bcf25529e57999b249be742611cfcee7",
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the se",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-23T12:20:23+00:00"
-    },
-    {
-      "id": "b9c865580c2715325bbdccaa522afb0642aec56e855f98de2be74929e6c02c94",
-      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points wi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-23T11:45:00+00:00"
-    },
-    {
-      "id": "20c1dee2f48f812ef1c47d316fb7b707977449b37c445a63cf5d51a87a96fc43",
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-23T11:40:16+00:00"
-    },
-    {
-      "id": "2f8c8b729b601484d357b25c3b79ea487083c2619be95d5dd3402adad7ad8719",
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 package",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-23T11:28:54+00:00"
-    },
-    {
-      "id": "2a5a85345e817049e1159e9a62511e8694f7824db8d1209a314ef8078869e523",
-      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
-      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
-      "summary": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-23T10:49:10+00:00"
-    },
-    {
-      "id": "64a0279d0351d769a2ab4abf8abffab7e60dffa18a92a801ec8d91f751c8b47b",
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-23T10:00:00+00:00"
-    },
-    {
-      "id": "a0b940c1323762a50d56388d5c59ab746570c7ede788e4ce2380781ffb27d36e",
-      "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations. The post New Check Point Zero-Day Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-23T09:06:04+00:00"
-    },
-    {
-      "id": "f359f550fade57a7c81dd7c45edc56c540b59764c7767f2ff8cdb75ee18bbd80",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-23T08:13:07+00:00"
-    },
-    {
-      "id": "624c6b980255a780eff8f70d75510a4e19075dbfb46030dfe6f370ab434c92c2",
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Ama",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-23T08:04:35+00:00"
-    },
-    {
-      "id": "cf457a6325533fbcb0d0d92b06c6739020c49f8d8337aa339c0cd2ccc7309644",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-23T06:34:36+00:00"
-    },
-    {
-      "id": "a9a284f5294030d4636d4f32c33d04d8aa5314ea0e7c6c83928fd7b3fa9c0175",
-      "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
-      "url": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
-      "summary": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-23T05:28:50+00:00"
-    },
-    {
-      "id": "7348392bcfb6c61b0055869b2d95b92f63d780fa1d2bfd3e85f2d7c91efdf8ce",
-      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
-      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
-      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-07-22T23:00:00+00:00"
     }
   ]
 }
