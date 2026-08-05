@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-05T02:09:01.435442+00:00",
+  "updated": "2026-08-05T08:29:45.255836+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0a3d3912cd46c461b65c40551d1078dec596fb7e06e281113c04012ce3653ead",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are byp",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-03T06:40:31+00:00"
+    },
+    {
+      "id": "b4f28f9ce09cd0f0e01c667f94c474427058c24f8869729959dd0fb2675a4904",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-02T21:14:29+00:00"
+    },
     {
       "id": "33d64b684b386f21f4b0aac2f0d2804a5e1ea8528a9236ae89ca8573093db3a1",
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-07-30T12:00:00+00:00"
-    },
-    {
-      "id": "2c60365677673e8b49dd267d4f713dc1ec3561c87308290b9c759727da426b2f",
-      "title": "The Network Has Become the Control Plane for AI Security",
-      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, appli",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-30T11:32:46+00:00"
-    },
-    {
-      "id": "6f87b9874c51506f805d37a9666b1cee21b6dcbc6af62bd35ce7a118050a688a",
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "url": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-30T11:16:23+00:00"
     }
   ]
 }

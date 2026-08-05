@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-05T02:09:01.435442+00:00",
+  "updated": "2026-08-05T08:29:45.255836+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T13:33:47+00:00"
+    },
+    {
+      "id": "507ba26671cda44a19fc50d36c892657567cf3060cdbc32eea0ca89bb1513676",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T12:56:14+00:00"
+    },
     {
       "id": "ddb0db774a554b6d316145e7fb97796dcbc140924ab5b312cb263f7ef2708dd3",
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-25T10:14:26+00:00"
-    },
-    {
-      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:21+00:00"
-    },
-    {
-      "id": "2771e2dd44890caa97abbd2a4593bb71930b31d126253995e3e8fcc097e13a2c",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:03+00:00"
     }
   ]
 }
