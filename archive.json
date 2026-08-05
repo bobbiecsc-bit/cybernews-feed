@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-04T19:26:41.395730+00:00",
+  "updated": "2026-08-05T02:09:01.435442+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ab3159d443b1d305ea10f30e5f257ec251e1d992f07e55af067b928de9f6cfdf",
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-04T23:39:59+00:00"
+    },
+    {
+      "id": "6e88043f8643dbf3a8ec4301dccfd599775876aa72a1cdc1f9ed1c530a9a62e0",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-04T22:18:20+00:00"
+    },
+    {
+      "id": "27d1686feff412b6ab4d1c9d5db291cbec047377ad660619e5a9a17cba647bc5",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-04T21:45:36+00:00"
+    },
     {
       "id": "836ef3adc75c0596a7e7b85010cb6c59da0bd222990d1890da6ef261a38d2346",
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
@@ -2224,33 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-22T20:06:54+00:00"
-    },
-    {
-      "id": "7e83016e7e678ae9246a592770856784756909f9b0267caf91f025357301d1fb",
-      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
-      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
-      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-22T19:18:00+00:00"
-    },
-    {
-      "id": "4263055e9b99c07ba0e72514a6b19d74082c50f6a3fd0ce34a80de8ef6b2d4d4",
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more. Reports filed before that date, including those alread",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-22T18:37:42+00:00"
-    },
-    {
-      "id": "83c96b979abbb111297825955718407a7ae440e81097500d2b4937aeb4c75f4d",
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-22T18:07:16+00:00"
     }
   ]
 }
