@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-06T08:29:28.637433+00:00",
+  "updated": "2026-08-06T13:58:30.719067+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c446184a12ad0dbfab281c7295b0f862d2ed2e3a4d294d019163b605c011fc89",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T06:05:17+00:00"
+    },
+    {
+      "id": "5b323651846af4f48bd2f7e2950f6d90faa99ede356f99eec145c47f8c3bdc26",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T05:08:39+00:00"
+    },
+    {
+      "id": "e595dba041d5ef9c355dcf5884aa9855208de53cc7a6bb461f281704c339bcdd",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-29T23:44:07+00:00"
+    },
+    {
+      "id": "8f821d2f9cd7a216055202255cc7d257bd057b2f775057dcbb059b9dab72e4f0",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-29T21:35:40+00:00"
+    },
+    {
+      "id": "5226afe42a903f3d903c66bb3448ffefb7ac2fba0ffdb692d1c5c93c7c2f9e11",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T18:10:00+00:00"
+    },
+    {
+      "id": "377d823ae424ce528c088b5f8dc4bed3e851d6a67c85554bd14272c85e1e048a",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-29T17:54:05+00:00"
+    },
+    {
+      "id": "10713f4b3e091baa952f9a2ff348af7a521885dddb2a9a7f6ca6c1c9f4786126",
+      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
+      "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
+      "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-29T17:22:00+00:00"
+    },
+    {
+      "id": "d2be0131910e4316f284e37b6ab8b166b02a3572b0376c5c5befcc3a067c2f4e",
+      "title": "Measuring the Tendency of AI Agents to Go Rogue",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
+      "summary": "This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it ca",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-07-29T17:07:53+00:00"
+    },
+    {
+      "id": "8f44a724389475a97a28c9ec560c811a7c8c79bee24309c83771d1532da466ae",
+      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-29T16:04:59+00:00"
+    },
     {
       "id": "19447019942cf67fe9b4bce83bb03668d5925f964053df399a585a3d69541a55",
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-28T08:42:52+00:00"
-    },
-    {
-      "id": "2669504f3fb39551aa8ea74c001af4473d70fa2d02d9013b0fa6d1d5146a69b7",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "url": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T08:11:22+00:00"
-    },
-    {
-      "id": "6b4aede28ee3f8e9877b969d40a88ff2c11381478e9de7cdca6e28551ff49d22",
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "url": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificia",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T08:04:44+00:00"
-    },
-    {
-      "id": "2c6f37e219bb9758395db67953cc2ac8bb20b90bbca3c5886ed5026d2832bac3",
-      "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33192",
-      "summary": "For a long time, AutoIT&#x5b;1&#x5d; has been pretty common in the malware ecosystem. Threat actors still use it because it&#x27s easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you&#x27ll see below.&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-07-28T07:42:27+00:00"
-    },
-    {
-      "id": "0488184302881443411b8e3c9ab92997f3e401811401503c980b572344bccd4a",
-      "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-      "summary": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-28T07:27:55+00:00"
-    },
-    {
-      "id": "de0e130367c0affd6cd60f2a3215ea07a3f3c0aac5febedef416b8979466df60",
-      "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
-      "summary": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-28T06:40:36+00:00"
-    },
-    {
-      "id": "f45f0d6e0fd0ce79770d4c788d414944407287f2dd9defd107702f67a5b36aa7",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current b",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T06:07:22+00:00"
-    },
-    {
-      "id": "da0b15ec9cd11050529f348e5ff9cf64054ebd98eef9912dbf812434bb8402ea",
-      "title": "Origin Energy Data Breach Affects 900,000 Australians",
-      "url": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-      "summary": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-28T05:01:05+00:00"
-    },
-    {
-      "id": "953c9254dfa40fb0622240d157e6ddcbf9196e5d023fb57a33afb5a83407bc37",
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrar",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T04:43:53+00:00"
-    },
-    {
-      "id": "c8ab60d5301897f4934e2a0fb8dd7db81459ce6f209f70c350e03d1f5afdc2ed",
-      "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-      "url": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-      "summary": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup appeared first on ",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-28T02:28:03+00:00"
     }
   ]
 }

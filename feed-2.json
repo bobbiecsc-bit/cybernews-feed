@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-06T08:29:28.637433+00:00",
+  "updated": "2026-08-06T13:58:30.719067+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e53eb847ac65b3fdb8d8e5f36ff93be69ac71ad72b58ad1bf4426095877f329f",
+      "title": "Polish convenience store chain Żabka hacked through third-party account",
+      "url": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
+      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-04T15:55:00+00:00"
+    },
+    {
+      "id": "dabae787120b338e51b02f7e107d950e83160a8bc57186a4361c1412363d9ede",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-04T15:24:35+00:00"
+    },
+    {
+      "id": "e54ef74d69409201352fd0d859682315bf0bbad757e0df210aeb3f02e600f0c2",
+      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+      "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+      "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-04T13:54:13+00:00"
+    },
+    {
+      "id": "db6c2ae7b2b21caafca3c0a5c5f9dbfd2f59d470c8992eb4e4f9c38c0494239b",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs lik",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-04T13:11:22+00:00"
+    },
+    {
+      "id": "44c17a442b68172e80a71b41c5182519b76fe5c45ffda1a2d41367f7afed0fbd",
+      "title": "Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected",
+      "url": "https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities",
+      "summary": "The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-04T12:45:00+00:00"
+    },
+    {
+      "id": "06c0ec5ab822387d991e6d45869de17cd760ea18eb9c6a9a58e2f63abdded126",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. I",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-04T11:30:00+00:00"
+    },
+    {
+      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
+      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-04T10:54:30+00:00"
+    },
+    {
+      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-04T10:36:27+00:00"
+    },
+    {
+      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-04T09:56:06+00:00"
+    },
     {
       "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
       "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-01T06:29:05+00:00"
-    },
-    {
-      "id": "e0cbfbb17f2a64cb5a82814bcf6b9c8e75e77667f8654eaaf6a4ab39aa089248",
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-31T22:16:42+00:00"
-    },
-    {
-      "id": "67fd5bee3590021fdbed6ac32cd9675b8e549b359d557297e7851cd86b7fbc05",
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-31T21:38:08+00:00"
-    },
-    {
-      "id": "93672d4a35e04c86fce656cf0fd0455e23b9a34700ba1f332df76102b9a00041",
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T21:09:25+00:00"
-    },
-    {
-      "id": "63ae4bfd895ffdf8f579a2540cf007bfaf5f1ffd006ff44811ccd5c833ba8845",
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizat",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-31T18:52:04+00:00"
-    },
-    {
-      "id": "ba8a43dd2d16a7582081ca93cd151d8b58ca0af5590232c20b85e99960b1da21",
-      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
-      "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
-      "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-31T17:47:00+00:00"
-    },
-    {
-      "id": "b06dad6c3071ec1f70fe24a4746beba5c309ad2a9b0f6a233e5dc2d935deeced",
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T17:35:35+00:00"
-    },
-    {
-      "id": "51780d4e71c2b648e80d998647de442a968906e296a486072f206e421057bf78",
-      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-      "summary": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-31T17:23:16+00:00"
-    },
-    {
-      "id": "0bef394e8ba869a8275787d7ee9c5a6567e00345922433571476d3861c8672e9",
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T16:49:49+00:00"
-    },
-    {
-      "id": "b854b6f9db795aeb0451395e51435a703c6564873a0f438fd09642b16052d97c",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted arch",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-31T16:39:31+00:00"
     }
   ]
 }
