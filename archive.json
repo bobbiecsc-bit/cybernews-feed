@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-06T02:13:00.826108+00:00",
+  "updated": "2026-08-06T08:29:28.637433+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T08:05:22+00:00"
+    },
+    {
+      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T07:19:54+00:00"
+    },
+    {
+      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T06:51:43+00:00"
+    },
+    {
+      "id": "c55cfcc724b8a2a9eb8d271a682560a27ff0759a8eb2a199ea62438632473180",
+      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T06:37:44+00:00"
+    },
+    {
+      "id": "b41d695ada7747c6903de3bab21f2e978522c0ade4707b6a3c35000c3a374fb5",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T06:04:30+00:00"
+    },
     {
       "id": "0426f429b00fdb6e3eca6292c404b28aeea5074e14501ede4b1899a3d0e7d97c",
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-07-24T10:09:24+00:00"
-    },
-    {
-      "id": "dd3c71c164d4d5a58e969f2d5a4dce09adf529f67513aacdfc2e1a1a520aa187",
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-24T07:41:06+00:00"
-    },
-    {
-      "id": "afe4a14794443d12d28ee0369c5bfee2f216ed564bc7cdde9a6d70d9398239e2",
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-24T07:36:39+00:00"
-    },
-    {
-      "id": "6d85941f139ee717fb185d70f56f37b46375b1a4a336566c48d44db1a10ebb0d",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-24T06:58:27+00:00"
-    },
-    {
-      "id": "852d7225f48a5e8d4de614b3d1e1f3ae67139e2f865b24dc4de110ca7da93035",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-24T06:50:57+00:00"
-    },
-    {
-      "id": "c022636a9ec2a180d737a3be61079896342d75bb8ce7ca3c407e488648ac8ea8",
-      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
-      "url": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-      "summary": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-24T05:52:31+00:00"
     }
   ]
 }
