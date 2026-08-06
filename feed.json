@@ -1,10 +1,118 @@
 {
-  "updated": "2026-08-06T13:58:30.719067+00:00",
+  "updated": "2026-08-06T23:54:34.901799+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "67ef6de8627292beeecfedf60fb85154ad7e0ad14fbdcaa9fc8bfe8dde6757aa",
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-06T22:37:17+00:00"
+    },
+    {
+      "id": "cc3545b0d1d0cecc8fc2ddc3566cfb99cecca58f48c0d654a161008e35251d84",
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-06T20:07:24+00:00"
+    },
+    {
+      "id": "453404a975a886681126c7116d5e329b93113230602d9f733a44fcd170857be4",
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T18:14:19+00:00"
+    },
+    {
+      "id": "e04150fe0f1daa409e295f042d2dddc90f5d90ab586f07b9f8c1df338fa433b9",
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-06T18:03:45+00:00"
+    },
+    {
+      "id": "76d72c59e4a3096db7ebdcb3434b6e5685e5a50cf2eda41dd904150d179a9230",
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as&nbsp;CVE-2026-64",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T17:58:30+00:00"
+    },
+    {
+      "id": "66c48fedbb6c00a9768e9fa210a5defdeca697d2a4743bd334e3d0bb58f91b0f",
+      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+      "url": "https://therecord.media/cyberattack-north-carolina-ports",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-06T17:15:00+00:00"
+    },
+    {
+      "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T17:13:15+00:00"
+    },
+    {
+      "id": "58eb3ce5569a189e46a004213c41b56d2a8602c129fd65c6bf379e03f9c17af1",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar",
+      "source": "Krebs on Security",
+      "category": "threat",
+      "date": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "id": "23bdedbf23716bd51b26eb6973f473cea77602f33ff73916ecd6a880ab8a2c7b",
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECT",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-06T16:17:13+00:00"
+    },
+    {
+      "id": "dc7a67c37196dcfa24966a3c982132a4f342eb997a99c2425cada0feeb9308a1",
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T16:11:39+00:00"
+    },
+    {
+      "id": "8347f09debcf9426794d1e121ac966d13aeabba37c3d4c0b06dd3f0d8f5aa027",
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T15:24:31+00:00"
+    },
+    {
+      "id": "4f0c336410c07297ab9d4979f33b4469e7f89a15541a311f9501f4a9d1b83bec",
+      "title": "Snowflake Hacker Pleads Guilty in US Court",
+      "url": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
+      "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T14:56:31+00:00"
+    },
     {
       "id": "2a18cdb7ff80a1e4b7159eec0995e5e1633d0e96d9295edffe070fddc28e8ed8",
       "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
@@ -130,6 +238,15 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-06T06:04:30+00:00"
+    },
+    {
+      "id": "edd6a93cbc09badc455736f8710e460a4376c0ef6292b775f188cd64b27acba6",
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-06T04:00:00+00:00"
     },
     {
       "id": "0426f429b00fdb6e3eca6292c404b28aeea5074e14501ede4b1899a3d0e7d97c",
@@ -337,123 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-05T10:35:29+00:00"
-    },
-    {
-      "id": "6b629757533608da1662ecaa9de65b23ceeb17384ebd24e69fb6a38fc2dbb20f",
-      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-05T09:44:50+00:00"
-    },
-    {
-      "id": "3d50751ddee0fc9cb04cce199eaac0373d50f8f4e6a191cf55275b6aa890b2ed",
-      "title": "Vulnerabilities in Car Anti-Theft Device",
-      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-      "summary": "This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to si",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-05T09:42:43+00:00"
-    },
-    {
-      "id": "79cdb252bae3e478010234b165e7ceb686967de379be456749270f55c721be15",
-      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
-      "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-05T08:56:58+00:00"
-    },
-    {
-      "id": "359c14ceebc6119f38da1e5ed36b39a05356b483a4ec9c9476fc0b12d0bd5b1e",
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T07:53:50+00:00"
-    },
-    {
-      "id": "df47d13d8d896952ed574eb2d8872c90227f2778ca47922fae3c79c68d0fa5c4",
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code inject",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T07:40:39+00:00"
-    },
-    {
-      "id": "2efc51fb7134378b39150c1a2fea46b2a75386375709c71b99f61c5c736ba3d9",
-      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
-      "url": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
-      "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-05T07:24:52+00:00"
-    },
-    {
-      "id": "81a8a88680d37b170d3ccf6bc24b0c5aef6583cf32a84a18fc980273db5fcf8b",
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing si",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T05:47:19+00:00"
-    },
-    {
-      "id": "ab3159d443b1d305ea10f30e5f257ec251e1d992f07e55af067b928de9f6cfdf",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T23:39:59+00:00"
-    },
-    {
-      "id": "6e88043f8643dbf3a8ec4301dccfd599775876aa72a1cdc1f9ed1c530a9a62e0",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T22:18:20+00:00"
-    },
-    {
-      "id": "27d1686feff412b6ab4d1c9d5db291cbec047377ad660619e5a9a17cba647bc5",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-04T21:45:36+00:00"
-    },
-    {
-      "id": "836ef3adc75c0596a7e7b85010cb6c59da0bd222990d1890da6ef261a38d2346",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-04T19:03:09+00:00"
-    },
-    {
-      "id": "f9e8990175012b1d69da80caa9cd85a4c0c21092cd6ebdb6ee52f3bf70d523da",
-      "title": "Iran Cyberattacks Against Minnesota Water Systems",
-      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-      "summary": "Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn&#8217;t believe it&#8217;s Iran and that Minnesota&#8230;I guess&#8230;hacked itself. &#8220;I thi",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-04T19:00:53+00:00"
-    },
-    {
-      "id": "bc208a99b0f1cf428b4a11d5001af7a80e12beb6d9388ef77159f6dffd780473",
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and sei",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-04T17:27:39+00:00"
     }
   ]
 }

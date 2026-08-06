@@ -1,10 +1,127 @@
 {
-  "updated": "2026-08-06T13:58:30.719067+00:00",
+  "updated": "2026-08-06T23:54:34.901799+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a479ff887ff6960e3403bcb9f175b7a1ec11526b513d11aacee6d6ca7afc414a",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:08:50+00:00"
+    },
+    {
+      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T15:01:33+00:00"
+    },
+    {
+      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-28T14:45:57+00:00"
+    },
+    {
+      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T14:41:36+00:00"
+    },
+    {
+      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T14:00:10+00:00"
+    },
+    {
+      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-28T13:33:47+00:00"
+    },
+    {
+      "id": "507ba26671cda44a19fc50d36c892657567cf3060cdbc32eea0ca89bb1513676",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T12:56:14+00:00"
+    },
+    {
+      "id": "ddb0db774a554b6d316145e7fb97796dcbc140924ab5b312cb263f7ef2708dd3",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T12:10:23+00:00"
+    },
+    {
+      "id": "3961ed94abdabaf2dc6b241ccb4a4cb9a75b951b02660d97871a63c3b4f7e2ad",
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previous",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-28T11:55:20+00:00"
+    },
+    {
+      "id": "32328cb9bdc077e2052dc8cdedccb7e4f369f809c458be5c17e7ad54f646dedd",
+      "title": "Axon Is Another License Plate Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
+      "summary": "Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&#8217;s like a g",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-28T11:06:30+00:00"
+    },
+    {
+      "id": "a5893f54b592f2e742ee5078198d2ad4cebeb3ba4a4ceaecee4f5b6e30556c19",
+      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
+      "url": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-28T11:00:00+00:00"
+    },
+    {
+      "id": "641ea5c9eac6a71ffb21ad4eb34fccd92d3fbe590ff4c63730096fa1383ff046",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-28T09:10:03+00:00"
+    },
+    {
+      "id": "b1198a252ea30aea0d4ef8c134ddc0489479153340f9e48033147b56a4a4307e",
+      "title": "Google Adopts New Threat Actor Naming System",
+      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
+      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-28T08:42:52+00:00"
+    },
     {
       "id": "2669504f3fb39551aa8ea74c001af4473d70fa2d02d9013b0fa6d1d5146a69b7",
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
@@ -337,123 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-25T22:37:47+00:00"
-    },
-    {
-      "id": "17ff6787fa795c5a00362ca953468728f647b23a7fb8cd0267cc6f65fe8b4476",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operate",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T18:48:44+00:00"
-    },
-    {
-      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-25T15:21:09+00:00"
-    },
-    {
-      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-25T14:16:26+00:00"
-    },
-    {
-      "id": "8083b86f8749ba300ef2922e99460c178b8eed195413a30f1910f6a2e5b1c6f4",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T12:52:43+00:00"
-    },
-    {
-      "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T10:14:26+00:00"
-    },
-    {
-      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:21+00:00"
-    },
-    {
-      "id": "2771e2dd44890caa97abbd2a4593bb71930b31d126253995e3e8fcc097e13a2c",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:03+00:00"
-    },
-    {
-      "id": "6fdd8513ac9daf93db60afb549eb76dd30a28f93c74a5f6c3e3280352f9cb67a",
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T09:53:41+00:00"
-    },
-    {
-      "id": "e592f02e572a7c162133a679a767191ab5075155465835d15f0d9aae7808302b",
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-25T08:30:00+00:00"
-    },
-    {
-      "id": "ce229faccda08040fc214bba68e3378b1410a4f8555bb5947ca9a08ba4fc844e",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:55:01+00:00"
-    },
-    {
-      "id": "d3aafaf0b39734abb760e378e62b9a4419ceebe5a5a0efb1b1e01c788dda29d2",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:09:09+00:00"
-    },
-    {
-      "id": "1f939d585832fcf41983a4c34565f2d31700eef607605b84ad34d8685042234a",
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-24T15:55:00+00:00"
-    },
-    {
-      "id": "33203de2679af61346a3fe998a5eba50260f358adadeef27fd1de0252b87c099",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-24T15:12:35+00:00"
     }
   ]
 }

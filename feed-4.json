@@ -1,10 +1,127 @@
 {
-  "updated": "2026-08-06T13:58:30.719067+00:00",
+  "updated": "2026-08-06T23:54:34.901799+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2d601d2e82293a637ecf4ad5739d2299fa73488c862fac1ee37e4922faa1b7f1",
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-30T14:01:11+00:00"
+    },
+    {
+      "id": "2e1534cd61c95a376128079ad9a9a1022a9edeb20635f7eaec77a851cade4fcf",
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "url": "https://therecord.media/north-korea-hackers-ransomware",
+      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "id": "c286bac49280d314b3ca26c4f6153c498f802a2dcd9530c48a1653469ef2102d",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-30T13:34:09+00:00"
+    },
+    {
+      "id": "9c999c458e9a561ce0c3c88dee92597df7820d9485ef1e9b41401b33ab785f98",
+      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
+      "url": "https://therecord.media/north-korea-hackers-amazon-malware",
+      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T13:00:00+00:00"
+    },
+    {
+      "id": "91befb253f00c46dc2a54ce8d239f07897ca7b656fb58d0f5434b7fe0ca5f624",
+      "title": "Cyber extortionists steal data from UK Department for Education",
+      "url": "https://therecord.media/united-kingdom-ransomware-education",
+      "summary": "Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T12:00:00+00:00"
+    },
+    {
+      "id": "2c60365677673e8b49dd267d4f713dc1ec3561c87308290b9c759727da426b2f",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, appli",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-30T11:32:46+00:00"
+    },
+    {
+      "id": "6f87b9874c51506f805d37a9666b1cee21b6dcbc6af62bd35ce7a118050a688a",
+      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+      "url": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+      "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-30T11:16:23+00:00"
+    },
+    {
+      "id": "4e0ec4d769a524dab2d3fef62c879dc12c4079117fcb0dea79b954eedbe914b0",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-30T10:33:15+00:00"
+    },
+    {
+      "id": "81a89a30e34cda8e4ab84fa375fefea952be5fef537e8c7f954d14e03d64d798",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-30T10:32:59+00:00"
+    },
+    {
+      "id": "35c59b7cd98a696a3666e8789744714e00e9d472f7aa083352065b8744a5f8bc",
+      "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+      "url": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+      "summary": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-30T09:56:10+00:00"
+    },
+    {
+      "id": "fd286e4b3d9451069cb39189ef15c1f954d6b9347db83f0c00a90cc52c03efbe",
+      "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+      "url": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+      "summary": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-30T09:28:37+00:00"
+    },
+    {
+      "id": "08772ea58b8c9e26ae3b8b54638cb5627afaeb02da8c74de9b8f50cb47940f24",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-30T07:40:48+00:00"
+    },
+    {
+      "id": "5ea03de1aea77a45d12fecb6d08a506c86a8cd25434f7c0651a56ecafbf124ea",
+      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-30T06:31:31+00:00"
+    },
     {
       "id": "c446184a12ad0dbfab281c7295b0f862d2ed2e3a4d294d019163b605c011fc89",
       "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
@@ -337,123 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-28T18:41:04+00:00"
-    },
-    {
-      "id": "a479ff887ff6960e3403bcb9f175b7a1ec11526b513d11aacee6d6ca7afc414a",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-28T18:08:50+00:00"
-    },
-    {
-      "id": "25a6aa3b9fadee7c14ee89880144c66f97f0d539a41cdc0ea7a90d2756ae2f65",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T15:01:33+00:00"
-    },
-    {
-      "id": "adca6d6bf4b82023c7fca333f90fd255b506948eb21f09c04280de12133fb629",
-      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
-      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
-      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-28T14:45:57+00:00"
-    },
-    {
-      "id": "81917f51ec1dcd5caa08b8ebac9bcd939d1b52aa6b4db6f45f24e8155bd5ae71",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T14:41:36+00:00"
-    },
-    {
-      "id": "45a9706f39c1a83cbadec846d0df3346ee1a9fd2c90d4ac28f5199f0c5a42af6",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-28T14:00:10+00:00"
-    },
-    {
-      "id": "03429ea5c1ea7e0e76468efec567899889c1ae88041b640ff558fac9d566b51e",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-28T13:33:47+00:00"
-    },
-    {
-      "id": "507ba26671cda44a19fc50d36c892657567cf3060cdbc32eea0ca89bb1513676",
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-28T12:56:14+00:00"
-    },
-    {
-      "id": "ddb0db774a554b6d316145e7fb97796dcbc140924ab5b312cb263f7ef2708dd3",
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-28T12:10:23+00:00"
-    },
-    {
-      "id": "3961ed94abdabaf2dc6b241ccb4a4cb9a75b951b02660d97871a63c3b4f7e2ad",
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previous",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-28T11:55:20+00:00"
-    },
-    {
-      "id": "32328cb9bdc077e2052dc8cdedccb7e4f369f809c458be5c17e7ad54f646dedd",
-      "title": "Axon Is Another License Plate Surveillance Company",
-      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
-      "summary": "Governments are switching, but I&#8217;m not sure it makes a difference: &#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&#8217;s like a g",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-28T11:06:30+00:00"
-    },
-    {
-      "id": "a5893f54b592f2e742ee5078198d2ad4cebeb3ba4a4ceaecee4f5b6e30556c19",
-      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
-      "url": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
-      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-28T11:00:00+00:00"
-    },
-    {
-      "id": "641ea5c9eac6a71ffb21ad4eb34fccd92d3fbe590ff4c63730096fa1383ff046",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-28T09:10:03+00:00"
-    },
-    {
-      "id": "b1198a252ea30aea0d4ef8c134ddc0489479153340f9e48033147b56a4a4307e",
-      "title": "Google Adopts New Threat Actor Naming System",
-      "url": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
-      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-28T08:42:52+00:00"
     }
   ]
 }

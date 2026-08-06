@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-06T13:58:30.719067+00:00",
+  "updated": "2026-08-06T23:54:34.901799+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "67ef6de8627292beeecfedf60fb85154ad7e0ad14fbdcaa9fc8bfe8dde6757aa",
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-06T22:37:17+00:00"
+    },
+    {
+      "id": "cc3545b0d1d0cecc8fc2ddc3566cfb99cecca58f48c0d654a161008e35251d84",
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-06T20:07:24+00:00"
+    },
+    {
+      "id": "453404a975a886681126c7116d5e329b93113230602d9f733a44fcd170857be4",
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T18:14:19+00:00"
+    },
+    {
+      "id": "e04150fe0f1daa409e295f042d2dddc90f5d90ab586f07b9f8c1df338fa433b9",
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-06T18:03:45+00:00"
+    },
+    {
+      "id": "76d72c59e4a3096db7ebdcb3434b6e5685e5a50cf2eda41dd904150d179a9230",
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as&nbsp;CVE-2026-64",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T17:58:30+00:00"
+    },
+    {
+      "id": "66c48fedbb6c00a9768e9fa210a5defdeca697d2a4743bd334e3d0bb58f91b0f",
+      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+      "url": "https://therecord.media/cyberattack-north-carolina-ports",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-06T17:15:00+00:00"
+    },
+    {
+      "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T17:13:15+00:00"
+    },
+    {
+      "id": "58eb3ce5569a189e46a004213c41b56d2a8602c129fd65c6bf379e03f9c17af1",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar",
+      "source": "Krebs on Security",
+      "category": "threat",
+      "date": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "id": "23bdedbf23716bd51b26eb6973f473cea77602f33ff73916ecd6a880ab8a2c7b",
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECT",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-06T16:17:13+00:00"
+    },
+    {
+      "id": "dc7a67c37196dcfa24966a3c982132a4f342eb997a99c2425cada0feeb9308a1",
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T16:11:39+00:00"
+    },
+    {
+      "id": "8347f09debcf9426794d1e121ac966d13aeabba37c3d4c0b06dd3f0d8f5aa027",
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T15:24:31+00:00"
+    },
+    {
+      "id": "4f0c336410c07297ab9d4979f33b4469e7f89a15541a311f9501f4a9d1b83bec",
+      "title": "Snowflake Hacker Pleads Guilty in US Court",
+      "url": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
+      "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T14:56:31+00:00"
+    },
     {
       "id": "2a18cdb7ff80a1e4b7159eec0995e5e1633d0e96d9295edffe070fddc28e8ed8",
       "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
@@ -127,6 +235,15 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-06T06:04:30+00:00"
+    },
+    {
+      "id": "edd6a93cbc09badc455736f8710e460a4376c0ef6292b775f188cd64b27acba6",
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-06T04:00:00+00:00"
     },
     {
       "id": "0426f429b00fdb6e3eca6292c404b28aeea5074e14501ede4b1899a3d0e7d97c",
@@ -2134,123 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-25T22:37:47+00:00"
-    },
-    {
-      "id": "17ff6787fa795c5a00362ca953468728f647b23a7fb8cd0267cc6f65fe8b4476",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operate",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T18:48:44+00:00"
-    },
-    {
-      "id": "207ba2c04dca11605159767a5762db6be1257bb4a03b1bbb12678ec5f599d355",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-25T15:21:09+00:00"
-    },
-    {
-      "id": "761b2a971cb2b35730e1ccfd5889a1f4792a18c8d78a81bafde2be8923d1dcf6",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-25T14:16:26+00:00"
-    },
-    {
-      "id": "8083b86f8749ba300ef2922e99460c178b8eed195413a30f1910f6a2e5b1c6f4",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T12:52:43+00:00"
-    },
-    {
-      "id": "272cc44a5c21921f110d4955fdc03b0b10a8dfc3776e28c24c7c350f43e6eeec",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-25T10:14:26+00:00"
-    },
-    {
-      "id": "bb8d98fdc318d866d20f859259bdbc5b708300b14a1d5953bcb21545d6ad4564",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations int",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:21+00:00"
-    },
-    {
-      "id": "2771e2dd44890caa97abbd2a4593bb71930b31d126253995e3e8fcc097e13a2c",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-25T10:14:03+00:00"
-    },
-    {
-      "id": "6fdd8513ac9daf93db60afb549eb76dd30a28f93c74a5f6c3e3280352f9cb67a",
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-25T09:53:41+00:00"
-    },
-    {
-      "id": "e592f02e572a7c162133a679a767191ab5075155465835d15f0d9aae7808302b",
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-25T08:30:00+00:00"
-    },
-    {
-      "id": "ce229faccda08040fc214bba68e3378b1410a4f8555bb5947ca9a08ba4fc844e",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:55:01+00:00"
-    },
-    {
-      "id": "d3aafaf0b39734abb760e378e62b9a4419ceebe5a5a0efb1b1e01c788dda29d2",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-24T19:09:09+00:00"
-    },
-    {
-      "id": "1f939d585832fcf41983a4c34565f2d31700eef607605b84ad34d8685042234a",
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-24T15:55:00+00:00"
-    },
-    {
-      "id": "33203de2679af61346a3fe998a5eba50260f358adadeef27fd1de0252b87c099",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-24T15:12:35+00:00"
     }
   ]
 }
