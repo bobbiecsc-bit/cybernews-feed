@@ -1,10 +1,82 @@
 {
-  "updated": "2026-08-07T12:55:02.955844+00:00",
+  "updated": "2026-08-07T18:50:39.106199+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "aab2a0bc8fdc6bd72e671c60e91d37ee33ea64e506f0a53b7b6d11e0170d14e7",
+      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T11:57:00+00:00"
+    },
+    {
+      "id": "f9b7964dc0e2eac6e603de8188885988e0cbd9913f8e1f78fd90410c664a9315",
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "url": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-29T11:42:38+00:00"
+    },
+    {
+      "id": "2060b2a9da54527d32aa434f427b2a335c6869fbd63da2f9255a48db1ef1aad7",
+      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+      "url": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, b",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-29T11:13:10+00:00"
+    },
+    {
+      "id": "1a9e46cd1847acc3e71bd98bfae4db2f1db0ff57f273eb73e41e6e1819efbbb4",
+      "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
+      "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
+      "summary": "Microsoft&#8217;s Secure Boot has had a serious vulnerability for most of its existence. An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by resear",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-07-29T11:01:09+00:00"
+    },
+    {
+      "id": "20ae7f3db82634f5a354e151de48beb3d62bb1d46e1b60f87f10bbd64232fb4c",
+      "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
+      "url": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
+      "summary": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI&#8217;s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-29T10:10:09+00:00"
+    },
+    {
+      "id": "07443345164ec12b05255595f5df262e35c71128d767214c82034acc98430a00",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T08:58:27+00:00"
+    },
+    {
+      "id": "5e346aa3a7c994ac271edd31fa7bcd3e321c198aa4ceb63d176d630d2aa018b6",
+      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+      "url": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+      "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-29T08:46:30+00:00"
+    },
+    {
+      "id": "bd28e4f1e928a0874424227e3b34a2b844170cceaf725844b1527ef0738c67ab",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-07-29T07:53:22+00:00"
+    },
     {
       "id": "01627ef4584aebe7500ea4ffa4f01b5eb3c563767668f9e0b888d2055bbeaa68",
       "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-07-27T15:12:27+00:00"
-    },
-    {
-      "id": "5937bd850a8b331f12540fc30f91d8973d89d56e34e784ff61259c5c35880ed3",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulleti",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-27T14:40:00+00:00"
-    },
-    {
-      "id": "cfc6397c37eceb5fa7d078d890ee033be25eb6a1b9dfe009e30af12d65dbd80a",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-27T14:10:54+00:00"
-    },
-    {
-      "id": "10f16505becdd0c8686c4e844cc07d1154deb0ea8fc7307357d937a22ef25133",
-      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-      "url": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-      "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-27T13:19:30+00:00"
-    },
-    {
-      "id": "a95dd26365a570d9de8915c7a3350ea2895f103f8ffed56571ad9a8a77b440f5",
-      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-27T13:05:15+00:00"
-    },
-    {
-      "id": "ef6804797897562db7210556e29ce6d079f525d59727f0126738fdbe5d13ee7e",
-      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
-      "url": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
-      "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T13:00:00+00:00"
-    },
-    {
-      "id": "3e98a5e93866883493d52cfefc368526d8f4c1804afa77954c6a39fbd356d7bf",
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming th",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-27T12:37:49+00:00"
-    },
-    {
-      "id": "ae62fba4b132888587e50cd9048ba54ff26db53ba3ecbefe5ccf1a7275463377",
-      "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
-      "url": "https://therecord.media/thailand-hackers-ai-finance-ministry",
-      "summary": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-27T12:00:00+00:00"
-    },
-    {
-      "id": "8032ec6029deb6397d7383e7bf3047a1007937c3f0a1b441617fecd806db455b",
-      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-      "url": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-      "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T11:29:03+00:00"
     }
   ]
 }
