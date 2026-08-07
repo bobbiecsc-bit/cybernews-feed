@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-07T07:09:31.327846+00:00",
+  "updated": "2026-08-07T12:55:02.955844+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "01627ef4584aebe7500ea4ffa4f01b5eb3c563767668f9e0b888d2055bbeaa68",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security inci",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T07:51:00+00:00"
+    },
+    {
+      "id": "e6e8cfad2170ead0e1ade0cb8e5dc8564033ad1468b687f6999aaf38b8f1fbe2",
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-29T07:47:19+00:00"
+    },
+    {
+      "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public S",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-29T07:07:23+00:00"
+    },
+    {
+      "id": "d5631943f8536b1e3ec088029e17521df75f0551fde145fe2b05a298a3a9c730",
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "summary": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-29T06:23:34+00:00"
+    },
+    {
+      "id": "42d1eedeb284c954018c399a9432a97086ccad0bed7075a45a4bc7cb1b2fc5a1",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-07-29T04:20:57+00:00"
+    },
+    {
+      "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "summary": "There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to benchmark the ability of LLMs to discover new mathem",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-29T01:47:05+00:00"
+    },
+    {
+      "id": "c12616944c9c5a375db98722741094a6bd93d3dc11871049e6b172df8eaa757d",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-28T21:17:39+00:00"
+    },
+    {
+      "id": "c864b86b42b594eea9d1f061457615126da775e311de5fe4c1b9820e266a68fd",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-07-28T20:37:06+00:00"
+    },
+    {
+      "id": "834f71b07c6beddee72fd60dac53c6dd37e7f5ac3c6d94e4fb3b40b54f3d14a4",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-28T18:59:07+00:00"
+    },
     {
       "id": "cca80125d09ead74929b9200d749969e6057fd36f80ccadca4067c52777cc2b2",
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-07-27T11:29:03+00:00"
-    },
-    {
-      "id": "afab916af8947b95b6c9533eee763cd7fe31fa05be289e3adc7c5019589022c7",
-      "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
-      "url": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
-      "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T11:06:24+00:00"
-    },
-    {
-      "id": "42ed4032d26d95f1a453121029b947b31c49919a6904b837487ca9d7291d8bce",
-      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-      "summary": "Yet another Israeli mass surveillance company: Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity ­ whether they’re owned by a suspect in a case or not. Cogny",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-27T11:04:30+00:00"
-    },
-    {
-      "id": "7c7cdda876d9d9477d44c6233981d844490682693de9edcc2f0e8dd71fbd260c",
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been u",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-27T10:51:45+00:00"
-    },
-    {
-      "id": "8129ea6c236e4c69b28c86359437b52ff15784a48a28d66090ff3d207dcc8e70",
-      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-      "url": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-      "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T10:50:19+00:00"
-    },
-    {
-      "id": "de9e7d0fa0c0381cfae604e9453b4700003237bd27b949bc6230977c66b2afa5",
-      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-      "url": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-      "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-27T10:02:41+00:00"
-    },
-    {
-      "id": "c5f0ec26ac7de834dfc5cecb6fc442ab298d0aff89ffc6e94e4355b1efb71787",
-      "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-      "url": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-      "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T09:34:12+00:00"
-    },
-    {
-      "id": "e5e6a527b664ed39bd551b9793d0b47826d463c7190a1ad45f86e5c7b6e98af8",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, accordin",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-27T08:48:47+00:00"
-    },
-    {
-      "id": "9149698fc1286564395c0cbf8991b098843df9d041a9c4afee2468fa5961bf24",
-      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-      "url": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-      "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-27T04:51:32+00:00"
-    },
-    {
-      "id": "5c3b2927268feb4b2f489d71e7506e13001bafe196c97cfc91f7b292b5c984e5",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-26T14:13:39+00:00"
     }
   ]
 }

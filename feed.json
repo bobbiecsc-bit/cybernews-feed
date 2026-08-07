@@ -1,10 +1,82 @@
 {
-  "updated": "2026-08-07T07:09:31.327846+00:00",
+  "updated": "2026-08-07T12:55:02.955844+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f801e0519d7aff32262688ac2675565c3507ca46a1a3f616635ff0c80fe3361c",
+      "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
+      "url": "https://therecord.media/french-rugby-club-restores-systems-after-cyberattack",
+      "summary": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain fully operational.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "id": "897a98755e75ee3ffcc0387b88b07237b13fc9bd132793d3a3bbc0ab49859561",
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T11:10:33+00:00"
+    },
+    {
+      "id": "db7fd783f4de3ba0565565c4711cd7e3c122ac45e93092d1bed50afcad9c2029",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the resear",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:58:38+00:00"
+    },
+    {
+      "id": "e7fa1f5e0b0290eb3e136585607c6ec4ff8d255410afed6031877a5ce61788eb",
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"T",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:38:27+00:00"
+    },
+    {
+      "id": "862642bee841f0265480a7c64a273d532a62d63a2cb440276aec2147ea8e19d9",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-07T10:09:54+00:00"
+    },
+    {
+      "id": "2749aa1817e210383a8864db42dab34bfbc86483b912d384caa9d02d19a0a68e",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, o",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-07T08:52:11+00:00"
+    },
+    {
+      "id": "8eab464cc4e63c7731109fc3d551bf8eff4cac2b9836eb49651b7aba1fe1092e",
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the conf",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T08:18:35+00:00"
+    },
+    {
+      "id": "ccbc9a4c08a3b29c7b3cbc04bc0ec5814c76578f0dd288bad37855a8cdd8c41b",
+      "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+      "url": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+      "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-07T07:22:05+00:00"
+    },
     {
       "id": "5dba717354aa685dee91e97ba87e82d7fd4c89173573f0561da248b8847fbe99",
       "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
@@ -13,6 +85,15 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-07T06:56:56+00:00"
+    },
+    {
+      "id": "78779d6a9c8be62207fe544821bb682d53254a1d08cc6dd9539e4c606e8f8ab6",
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is support",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T06:50:05+00:00"
     },
     {
       "id": "67ef6de8627292beeecfedf60fb85154ad7e0ad14fbdcaa9fc8bfe8dde6757aa",
@@ -70,7 +151,7 @@
     },
     {
       "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
       "source": "The Hacker News",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-05T14:27:30+00:00"
-    },
-    {
-      "id": "75eec0e8b4a4109f05c45ae20da1fb7a8f7f836aa41b63edbbbc8028edf44e43",
-      "title": "How AI-powered phishing killed blocklists for good",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-05T14:01:11+00:00"
-    },
-    {
-      "id": "5f87ddc8febb691c29a75f40f742cd63db3e6abaed44937f16d82840a9b16da2",
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T13:41:27+00:00"
-    },
-    {
-      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
-      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-      "url": "https://therecord.media/anthropic-ai-hacking-uk",
-      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
-      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
-      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
-      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-05T12:48:49+00:00"
-    },
-    {
-      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:43:27+00:00"
-    },
-    {
-      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-05T11:43:19+00:00"
-    },
-    {
-      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
-      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
-      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-05T11:35:23+00:00"
-    },
-    {
-      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:04:23+00:00"
     }
   ]
 }

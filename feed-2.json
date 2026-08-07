@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-07T07:09:31.327846+00:00",
+  "updated": "2026-08-07T12:55:02.955844+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "75eec0e8b4a4109f05c45ae20da1fb7a8f7f836aa41b63edbbbc8028edf44e43",
+      "title": "How AI-powered phishing killed blocklists for good",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-05T14:01:11+00:00"
+    },
+    {
+      "id": "5f87ddc8febb691c29a75f40f742cd63db3e6abaed44937f16d82840a9b16da2",
+      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
+      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
+      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T14:00:00+00:00"
+    },
+    {
+      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T13:41:27+00:00"
+    },
+    {
+      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T12:48:49+00:00"
+    },
+    {
+      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:43:27+00:00"
+    },
+    {
+      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-05T11:43:19+00:00"
+    },
+    {
+      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-05T11:35:23+00:00"
+    },
+    {
+      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:04:23+00:00"
+    },
     {
       "id": "b4f3d444777d8f3bda2c06530f6191bd9fd480f2d5abb4167e64d8d717604c1c",
       "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-03T15:04:39+00:00"
-    },
-    {
-      "id": "484b7de72129a32f890892bc21eb1668af7c009cf601688063f790c2369bf2ed",
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T14:45:55+00:00"
-    },
-    {
-      "id": "05bc9225a21d8a356b799bc82576e53797c446018dcf14d48ef91e0ad78a7fb3",
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-03T14:03:11+00:00"
-    },
-    {
-      "id": "fedd24ec4d5b7d88266de4995fbec35e057f60534bd6c6b6cc0f0f8db3284dcf",
-      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-      "url": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T13:02:06+00:00"
-    },
-    {
-      "id": "760a01c80869eb04af2672a77e29dbba60a2e652ad5321c21d600a5f17dd78d4",
-      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-      "url": "https://therecord.media/amgen-hackers-cyberattack-sec",
-      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:45:00+00:00"
-    },
-    {
-      "id": "7378d93cdd183e1091dd7e0c3303fcedb6849300b78d74bdafe7ff06488fa7a3",
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "url": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T12:34:06+00:00"
-    },
-    {
-      "id": "a2027b3e46c57a697680034577b46dbb3e3f36a81ada422aa57a8d8dcda6d5a0",
-      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-      "url": "https://therecord.media/russian-wifi-hackers-hotels",
-      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:00:00+00:00"
-    },
-    {
-      "id": "35f7631d5763d4a88ae428b13bf8be79b4aeb5d49331b27c87dec5f62b786f19",
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "url": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T11:45:14+00:00"
-    },
-    {
-      "id": "8f03bf579ace704a7a38c7e77c207facb2ef249a825b9f13e9b89b86dce593a4",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-03T10:49:06+00:00"
-    },
-    {
-      "id": "2ac2b3a55a63df264dbd7f6877773e791b332a4b25501461887f437b4c42b9ae",
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "summary": "This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its models: GPT-5.6 Sol and an unreleased model that is al",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-03T10:47:47+00:00"
     }
   ]
 }
