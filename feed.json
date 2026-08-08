@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-08T12:39:31.221093+00:00",
+  "updated": "2026-08-08T18:32:00.299648+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "efca8e4dba84b56993353b65044f5289dd5cb137ab4e57d45f85c4085816db1f",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-08T14:16:23+00:00"
+    },
     {
       "id": "8ce9e4d219e1f1ccc2cf9e20c70cb3074d87b288dce39b19cabc85199c8280be",
       "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-08-06T09:30:30+00:00"
-    },
-    {
-      "id": "4c338a28ee4465db8153a5a71145a2e37b6cf1833a9f628193176b7769d5de71",
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and r",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T09:19:23+00:00"
     }
   ]
 }

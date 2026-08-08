@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-08T12:39:31.221093+00:00",
+  "updated": "2026-08-08T18:32:00.299648+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4c338a28ee4465db8153a5a71145a2e37b6cf1833a9f628193176b7769d5de71",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and r",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T09:19:23+00:00"
+    },
     {
       "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
       "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
@@ -445,15 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-04T11:30:00+00:00"
-    },
-    {
-      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
-      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T10:54:30+00:00"
     }
   ]
 }

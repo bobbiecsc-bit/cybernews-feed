@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-08T12:39:31.221093+00:00",
+  "updated": "2026-08-08T18:32:00.299648+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
+      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-04T10:54:30+00:00"
+    },
     {
       "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-31T17:35:35+00:00"
-    },
-    {
-      "id": "51780d4e71c2b648e80d998647de442a968906e296a486072f206e421057bf78",
-      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-      "summary": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-31T17:23:16+00:00"
     }
   ]
 }

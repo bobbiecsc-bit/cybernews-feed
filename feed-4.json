@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-08T12:39:31.221093+00:00",
+  "updated": "2026-08-08T18:32:00.299648+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "51780d4e71c2b648e80d998647de442a968906e296a486072f206e421057bf78",
+      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
+      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+      "summary": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-31T17:23:16+00:00"
+    },
     {
       "id": "0bef394e8ba869a8275787d7ee9c5a6567e00345922433571476d3861c8672e9",
       "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-29T17:54:05+00:00"
-    },
-    {
-      "id": "10713f4b3e091baa952f9a2ff348af7a521885dddb2a9a7f6ca6c1c9f4786126",
-      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
-      "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
-      "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-29T17:22:00+00:00"
     }
   ]
 }
