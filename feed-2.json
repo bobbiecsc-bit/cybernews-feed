@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-08T06:44:09.858150+00:00",
+  "updated": "2026-08-08T12:39:31.221093+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T08:57:30+00:00"
+    },
+    {
+      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T08:05:22+00:00"
+    },
+    {
+      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T07:19:54+00:00"
+    },
+    {
+      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T06:51:43+00:00"
+    },
+    {
+      "id": "c55cfcc724b8a2a9eb8d271a682560a27ff0759a8eb2a199ea62438632473180",
+      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T06:37:44+00:00"
+    },
+    {
+      "id": "b41d695ada7747c6903de3bab21f2e978522c0ade4707b6a3c35000c3a374fb5",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T06:04:30+00:00"
+    },
     {
       "id": "edd6a93cbc09badc455736f8710e460a4376c0ef6292b775f188cd64b27acba6",
       "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-08-04T10:54:30+00:00"
-    },
-    {
-      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T10:36:27+00:00"
-    },
-    {
-      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T09:56:06+00:00"
-    },
-    {
-      "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a stegano",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-04T09:03:23+00:00"
-    },
-    {
-      "id": "778f2bd22ac0af82ae85ce471010513931ebfd1435cbdca7af188261ea40334d",
-      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-04T08:33:45+00:00"
-    },
-    {
-      "id": "da4061a77e664dfa9d5b33938fac8ff54e5c898c81e2b0757640b423ed59744b",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS scor",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T07:00:13+00:00"
-    },
-    {
-      "id": "916c86d45b40960eb0ee2b99b5a6caee42bb9ae4aa0c630c84002cc13b011507",
-      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T05:18:34+00:00"
     }
   ]
 }

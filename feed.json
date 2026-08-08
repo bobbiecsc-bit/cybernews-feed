@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-08T06:44:09.858150+00:00",
+  "updated": "2026-08-08T12:39:31.221093+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8ce9e4d219e1f1ccc2cf9e20c70cb3074d87b288dce39b19cabc85199c8280be",
+      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+      "url": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-08T11:30:00+00:00"
+    },
+    {
+      "id": "ab2cf02445d4050eb2a042ccfbda3d29515934a092e115467cc449c3b608854a",
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArm",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-08T08:54:50+00:00"
+    },
+    {
+      "id": "92a77f3ffeabd187872485bbaa3fcc2f67567145007d337d9da0abe0b55602a9",
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijac",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-08T08:03:57+00:00"
+    },
+    {
+      "id": "ecc4777c9ae87466f333c26238c4e461dc2f07715990b822776d4cab3300e5d6",
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-08T06:58:31+00:00"
+    },
+    {
+      "id": "62e6df9d879f730cdaa0ccc24d00864aa5ccdef478a11c65264a350e9c008fcc",
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-08T06:57:43+00:00"
+    },
+    {
+      "id": "10b04d43afc84376b464877ef51104eef819a7cc31e5ac0d7bf45ffecc67b083",
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-803",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-08T06:52:16+00:00"
+    },
     {
       "id": "ab513bf86405d81c910a00308ca360130154d185d10fddebeddd4fbc5fe50670",
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-06T09:19:23+00:00"
-    },
-    {
-      "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T08:57:30+00:00"
-    },
-    {
-      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-06T08:05:22+00:00"
-    },
-    {
-      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-06T07:19:54+00:00"
-    },
-    {
-      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T06:51:43+00:00"
-    },
-    {
-      "id": "c55cfcc724b8a2a9eb8d271a682560a27ff0759a8eb2a199ea62438632473180",
-      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
-      "url": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
-      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-06T06:37:44+00:00"
-    },
-    {
-      "id": "b41d695ada7747c6903de3bab21f2e978522c0ade4707b6a3c35000c3a374fb5",
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-06T06:04:30+00:00"
     }
   ]
 }

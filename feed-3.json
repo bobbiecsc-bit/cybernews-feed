@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-08T06:44:09.858150+00:00",
+  "updated": "2026-08-08T12:39:31.221093+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-04T10:36:27+00:00"
+    },
+    {
+      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-04T09:56:06+00:00"
+    },
+    {
+      "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a stegano",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-04T09:03:23+00:00"
+    },
+    {
+      "id": "778f2bd22ac0af82ae85ce471010513931ebfd1435cbdca7af188261ea40334d",
+      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-04T08:33:45+00:00"
+    },
+    {
+      "id": "da4061a77e664dfa9d5b33938fac8ff54e5c898c81e2b0757640b423ed59744b",
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS scor",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-04T07:00:13+00:00"
+    },
+    {
+      "id": "916c86d45b40960eb0ee2b99b5a6caee42bb9ae4aa0c630c84002cc13b011507",
+      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
+      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
+      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-04T05:18:34+00:00"
+    },
     {
       "id": "c75486cdf9647a45762a2c862a192190a549cd836dcc07bcf51a90ebfcc7e2d5",
       "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
@@ -400,60 +454,6 @@
       "source": "Schneier on Security",
       "category": "threat",
       "date": "2026-07-31T17:23:16+00:00"
-    },
-    {
-      "id": "0bef394e8ba869a8275787d7ee9c5a6567e00345922433571476d3861c8672e9",
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T16:49:49+00:00"
-    },
-    {
-      "id": "b854b6f9db795aeb0451395e51435a703c6564873a0f438fd09642b16052d97c",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted arch",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-31T16:39:31+00:00"
-    },
-    {
-      "id": "e74935451af59a4c7e3dfedc2caa3dc050d6d584037ba1b88d12ebd38542c18b",
-      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
-      "url": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-      "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-31T15:47:02+00:00"
-    },
-    {
-      "id": "67bae3a5b8a18e5fc76968a9cf5d18d448a3b79493c631f58f6aaf2515bafa1f",
-      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-      "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-      "summary": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-31T15:17:41+00:00"
-    },
-    {
-      "id": "7b0535bbb7f51436c8087e767e78cbcb2dc3743b61ac1e601fc60809049701be",
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security soft",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-07-31T14:01:11+00:00"
-    },
-    {
-      "id": "f5592a08f538ab49c4d4806c0629c55ce2d1880757082976b4ba938699f17d87",
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-31T12:51:52+00:00"
     }
   ]
 }
