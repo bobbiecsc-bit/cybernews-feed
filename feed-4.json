@@ -1,10 +1,100 @@
 {
-  "updated": "2026-08-10T07:25:00.798440+00:00",
+  "updated": "2026-08-10T12:59:20.593079+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e64f30381c40bc651cbba6d7570f4ddfc1d22981edaf92058aa767b8dbc19132",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-01T14:20:30+00:00"
+    },
+    {
+      "id": "cdd2d5be99e725f94df7ff2d3e943f033b61fc2f0cd82f981a16beb36357e732",
+      "title": "Ruby on Rails Patches Critical Vulnerability",
+      "url": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+      "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-01T11:15:00+00:00"
+    },
+    {
+      "id": "0fa86a6b2f57fc9d8dcf3f8c68488f84bfac5b17578d4d88192938889e10b17c",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authoritie",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-01T09:03:07+00:00"
+    },
+    {
+      "id": "097fcbe5b08ca7e56f3460f25dff76ef9826b04b1b2096b3c79c146adec9745e",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-01T07:12:42+00:00"
+    },
+    {
+      "id": "ef832fb7175ff4cbeb8653d6eb6b58bf2497ccf89baed810ec45a8c0115ef30f",
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-29",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-01T06:29:05+00:00"
+    },
+    {
+      "id": "e0cbfbb17f2a64cb5a82814bcf6b9c8e75e77667f8654eaaf6a4ab39aa089248",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-07-31T22:16:42+00:00"
+    },
+    {
+      "id": "67fd5bee3590021fdbed6ac32cd9675b8e549b359d557297e7851cd86b7fbc05",
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-31T21:38:08+00:00"
+    },
+    {
+      "id": "93672d4a35e04c86fce656cf0fd0455e23b9a34700ba1f332df76102b9a00041",
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-31T21:09:25+00:00"
+    },
+    {
+      "id": "63ae4bfd895ffdf8f579a2540cf007bfaf5f1ffd006ff44811ccd5c833ba8845",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizat",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-31T18:52:04+00:00"
+    },
+    {
+      "id": "ba8a43dd2d16a7582081ca93cd151d8b58ca0af5590232c20b85e99960b1da21",
+      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+      "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+      "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-07-31T17:47:00+00:00"
+    },
     {
       "id": "b06dad6c3071ec1f70fe24a4746beba5c309ad2a9b0f6a233e5dc2d935deeced",
       "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-07-30T10:33:15+00:00"
-    },
-    {
-      "id": "81a89a30e34cda8e4ab84fa375fefea952be5fef537e8c7f954d14e03d64d798",
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-30T10:32:59+00:00"
-    },
-    {
-      "id": "35c59b7cd98a696a3666e8789744714e00e9d472f7aa083352065b8744a5f8bc",
-      "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
-      "url": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
-      "summary": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-30T09:56:10+00:00"
-    },
-    {
-      "id": "fd286e4b3d9451069cb39189ef15c1f954d6b9347db83f0c00a90cc52c03efbe",
-      "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
-      "url": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
-      "summary": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-30T09:28:37+00:00"
-    },
-    {
-      "id": "08772ea58b8c9e26ae3b8b54638cb5627afaeb02da8c74de9b8f50cb47940f24",
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T07:40:48+00:00"
-    },
-    {
-      "id": "5ea03de1aea77a45d12fecb6d08a506c86a8cd25434f7c0651a56ecafbf124ea",
-      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-30T06:31:31+00:00"
-    },
-    {
-      "id": "c446184a12ad0dbfab281c7295b0f862d2ed2e3a4d294d019163b605c011fc89",
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T06:05:17+00:00"
-    },
-    {
-      "id": "5b323651846af4f48bd2f7e2950f6d90faa99ede356f99eec145c47f8c3bdc26",
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T05:08:39+00:00"
-    },
-    {
-      "id": "e595dba041d5ef9c355dcf5884aa9855208de53cc7a6bb461f281704c339bcdd",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-29T23:44:07+00:00"
-    },
-    {
-      "id": "8f821d2f9cd7a216055202255cc7d257bd057b2f775057dcbb059b9dab72e4f0",
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-29T21:35:40+00:00"
-    },
-    {
-      "id": "5226afe42a903f3d903c66bb3448ffefb7ac2fba0ffdb692d1c5c93c7c2f9e11",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T18:10:00+00:00"
     }
   ]
 }
