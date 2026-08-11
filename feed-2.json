@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-10T18:52:00.932817+00:00",
+  "updated": "2026-08-11T01:22:37.566798+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "db7fd783f4de3ba0565565c4711cd7e3c122ac45e93092d1bed50afcad9c2029",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the resear",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:58:38+00:00"
+    },
+    {
+      "id": "e7fa1f5e0b0290eb3e136585607c6ec4ff8d255410afed6031877a5ce61788eb",
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"T",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:38:27+00:00"
+    },
+    {
+      "id": "862642bee841f0265480a7c64a273d532a62d63a2cb440276aec2147ea8e19d9",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-07T10:09:54+00:00"
+    },
+    {
+      "id": "2749aa1817e210383a8864db42dab34bfbc86483b912d384caa9d02d19a0a68e",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, o",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-07T08:52:11+00:00"
+    },
     {
       "id": "8eab464cc4e63c7731109fc3d551bf8eff4cac2b9836eb49651b7aba1fe1092e",
       "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
@@ -418,42 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T13:41:27+00:00"
-    },
-    {
-      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
-      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-      "url": "https://therecord.media/anthropic-ai-hacking-uk",
-      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
-      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
-      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
-      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-05T12:48:49+00:00"
-    },
-    {
-      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:43:27+00:00"
     }
   ]
 }

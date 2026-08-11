@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-10T18:52:00.932817+00:00",
+  "updated": "2026-08-11T01:22:37.566798+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T13:41:27+00:00"
+    },
+    {
+      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T12:48:49+00:00"
+    },
+    {
+      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:43:27+00:00"
+    },
     {
       "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
       "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-03T14:03:11+00:00"
-    },
-    {
-      "id": "fedd24ec4d5b7d88266de4995fbec35e057f60534bd6c6b6cc0f0f8db3284dcf",
-      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-      "url": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T13:02:06+00:00"
-    },
-    {
-      "id": "760a01c80869eb04af2672a77e29dbba60a2e652ad5321c21d600a5f17dd78d4",
-      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-      "url": "https://therecord.media/amgen-hackers-cyberattack-sec",
-      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:45:00+00:00"
-    },
-    {
-      "id": "7378d93cdd183e1091dd7e0c3303fcedb6849300b78d74bdafe7ff06488fa7a3",
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "url": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T12:34:06+00:00"
-    },
-    {
-      "id": "a2027b3e46c57a697680034577b46dbb3e3f36a81ada422aa57a8d8dcda6d5a0",
-      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-      "url": "https://therecord.media/russian-wifi-hackers-hotels",
-      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:00:00+00:00"
     }
   ]
 }

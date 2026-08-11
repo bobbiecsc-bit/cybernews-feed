@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-10T18:52:00.932817+00:00",
+  "updated": "2026-08-11T01:22:37.566798+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d319044c80010cfd5c46d489dacb0ecf5298040f307f6a4affb6a229b369dab4",
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-10T23:07:21+00:00"
+    },
+    {
+      "id": "1e9db20c8145329035cd5789262b324432a7cc187e2f51b83f6cb1d15c4effd1",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-10T21:12:10+00:00"
+    },
+    {
+      "id": "318e8811c831b0975d21aa89ff3fbe46c38afc4624238f304025c27b5ca454b8",
+      "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
+      "url": "https://therecord.media/ransomware-south-korea-fbi-gunra",
+      "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-10T19:30:00+00:00"
+    },
+    {
+      "id": "171ab376d7c2fca0bf675ccf72681fedcaa268abc0eb77d053d2afd0e4d015b4",
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-10T19:24:40+00:00"
+    },
     {
       "id": "d38595acce9573b0b450b262660563682519cb5cd81f3edf7c1180804a7f8a02",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-07T11:10:33+00:00"
-    },
-    {
-      "id": "db7fd783f4de3ba0565565c4711cd7e3c122ac45e93092d1bed50afcad9c2029",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the resear",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-07T10:58:38+00:00"
-    },
-    {
-      "id": "e7fa1f5e0b0290eb3e136585607c6ec4ff8d255410afed6031877a5ce61788eb",
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"T",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-07T10:38:27+00:00"
-    },
-    {
-      "id": "862642bee841f0265480a7c64a273d532a62d63a2cb440276aec2147ea8e19d9",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-07T10:09:54+00:00"
-    },
-    {
-      "id": "2749aa1817e210383a8864db42dab34bfbc86483b912d384caa9d02d19a0a68e",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-07T08:52:11+00:00"
     }
   ]
 }

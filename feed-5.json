@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-10T18:52:00.932817+00:00",
+  "updated": "2026-08-11T01:22:37.566798+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "368a7457c6d078ef4d3382669ba7178e677d737d591a8f255815173fe177b8b1",
+      "title": "Semiconductor chip titan Analog Devices reports data breach",
+      "url": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
+      "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-30T19:10:00+00:00"
+    },
+    {
+      "id": "e63683e834969b44f44a9b2ef7d1f01fddd13c6bbecd2a90b026e9098096a2a1",
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview ca",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-30T18:18:24+00:00"
+    },
+    {
+      "id": "0134de5ca7fd6fb4204891923e5298e69e3bdf8ef0a06c2c68d98b80966ee7f8",
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-30T18:13:24+00:00"
+    },
+    {
+      "id": "6d59866226821ffe96688e83ffc999da4540c2d8dae1fda54b61bcca0e3b7c29",
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-30T18:00:51+00:00"
+    },
     {
       "id": "c11337c1a2f37517af6062171f33f62236a4a0bc3e59f08f6dc4eca54a0017ad",
       "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-29T07:47:19+00:00"
-    },
-    {
-      "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public S",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-29T07:07:23+00:00"
-    },
-    {
-      "id": "d5631943f8536b1e3ec088029e17521df75f0551fde145fe2b05a298a3a9c730",
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "summary": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-29T06:23:34+00:00"
-    },
-    {
-      "id": "42d1eedeb284c954018c399a9432a97086ccad0bed7075a45a4bc7cb1b2fc5a1",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-29T04:20:57+00:00"
-    },
-    {
-      "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
-      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "summary": "There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to benchmark the ability of LLMs to discover new mathem",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-29T01:47:05+00:00"
     }
   ]
 }

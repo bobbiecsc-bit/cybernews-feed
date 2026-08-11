@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-10T18:52:00.932817+00:00",
+  "updated": "2026-08-11T01:22:37.566798+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d319044c80010cfd5c46d489dacb0ecf5298040f307f6a4affb6a229b369dab4",
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-10T23:07:21+00:00"
+    },
+    {
+      "id": "1e9db20c8145329035cd5789262b324432a7cc187e2f51b83f6cb1d15c4effd1",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-10T21:12:10+00:00"
+    },
+    {
+      "id": "318e8811c831b0975d21aa89ff3fbe46c38afc4624238f304025c27b5ca454b8",
+      "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
+      "url": "https://therecord.media/ransomware-south-korea-fbi-gunra",
+      "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-10T19:30:00+00:00"
+    },
+    {
+      "id": "171ab376d7c2fca0bf675ccf72681fedcaa268abc0eb77d053d2afd0e4d015b4",
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-10T19:24:40+00:00"
+    },
     {
       "id": "d38595acce9573b0b450b262660563682519cb5cd81f3edf7c1180804a7f8a02",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
@@ -2215,42 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-07-29T07:47:19+00:00"
-    },
-    {
-      "id": "94065782ad9a3a03d33d803c32f0a8ab196ff832212ffae5fbc4402caad0f5d1",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public S",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-29T07:07:23+00:00"
-    },
-    {
-      "id": "d5631943f8536b1e3ec088029e17521df75f0551fde145fe2b05a298a3a9c730",
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "summary": "Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst &#038; Young Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-29T06:23:34+00:00"
-    },
-    {
-      "id": "42d1eedeb284c954018c399a9432a97086ccad0bed7075a45a4bc7cb1b2fc5a1",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-07-29T04:20:57+00:00"
-    },
-    {
-      "id": "2d96909279f9ab1afc193defe660fca68c1b59848edf93bdcf4fdb86e7448264",
-      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "summary": "There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks. The benchmark: &#8220;CryptanalysisBench: Can LLMs do Cryptanalysis?&#8221; The idea is to benchmark the ability of LLMs to discover new mathem",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-29T01:47:05+00:00"
     }
   ]
 }
