@@ -1,10 +1,145 @@
 {
-  "updated": "2026-08-11T12:55:22.851917+00:00",
+  "updated": "2026-08-11T18:57:12.488897+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4c338a28ee4465db8153a5a71145a2e37b6cf1833a9f628193176b7769d5de71",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and r",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T09:19:23+00:00"
+    },
+    {
+      "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T08:57:30+00:00"
+    },
+    {
+      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T08:05:22+00:00"
+    },
+    {
+      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T07:19:54+00:00"
+    },
+    {
+      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T06:51:43+00:00"
+    },
+    {
+      "id": "c55cfcc724b8a2a9eb8d271a682560a27ff0759a8eb2a199ea62438632473180",
+      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T06:37:44+00:00"
+    },
+    {
+      "id": "b41d695ada7747c6903de3bab21f2e978522c0ade4707b6a3c35000c3a374fb5",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T06:04:30+00:00"
+    },
+    {
+      "id": "edd6a93cbc09badc455736f8710e460a4376c0ef6292b775f188cd64b27acba6",
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-06T04:00:00+00:00"
+    },
+    {
+      "id": "0426f429b00fdb6e3eca6292c404b28aeea5074e14501ede4b1899a3d0e7d97c",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-05T23:00:50+00:00"
+    },
+    {
+      "id": "1d247e0f8135d3d3e93ecff4f864f650da2a163e5bc31136cb5009d3813cdf48",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-05T21:53:26+00:00"
+    },
+    {
+      "id": "897319838f0f0515a3a9e65a88c92807b25ff4a591d9d63b9a538274aaa7c029",
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T20:45:00+00:00"
+    },
+    {
+      "id": "f02da172f6e9e3b3e11f7539397fc40a3193c774c693695bd6006fb3de360181",
+      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
+      "url": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
+      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T20:15:00+00:00"
+    },
+    {
+      "id": "167589835478151c7b5994b81cd083067440bdba54ee584e72b1c2d8f4d78674",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-05T19:55:25+00:00"
+    },
+    {
+      "id": "e94e279c33e6e11c5869f1878e52260ab5a9e9443d7288788cb98aa062dd51f7",
+      "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+      "url": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+      "summary": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-05T19:40:00+00:00"
+    },
+    {
+      "id": "f35a2396c40124f822cb24889e849e983766f7214b99f2ef949087d18847ce8d",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawl",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T18:44:31+00:00"
+    },
     {
       "id": "b8de3a001b73a65e9bf94009f7af1eb730cc5d11b4638c450f25b2a48b2caba4",
       "title": "COLDCARD security audit phishing attack installs remote access tool",
@@ -319,141 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-04T11:30:00+00:00"
-    },
-    {
-      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
-      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T10:54:30+00:00"
-    },
-    {
-      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T10:36:27+00:00"
-    },
-    {
-      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T09:56:06+00:00"
-    },
-    {
-      "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a stegano",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-04T09:03:23+00:00"
-    },
-    {
-      "id": "778f2bd22ac0af82ae85ce471010513931ebfd1435cbdca7af188261ea40334d",
-      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-04T08:33:45+00:00"
-    },
-    {
-      "id": "da4061a77e664dfa9d5b33938fac8ff54e5c898c81e2b0757640b423ed59744b",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS scor",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T07:00:13+00:00"
-    },
-    {
-      "id": "916c86d45b40960eb0ee2b99b5a6caee42bb9ae4aa0c630c84002cc13b011507",
-      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T05:18:34+00:00"
-    },
-    {
-      "id": "c75486cdf9647a45762a2c862a192190a549cd836dcc07bcf51a90ebfcc7e2d5",
-      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
-      "url": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
-      "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T01:54:00+00:00"
-    },
-    {
-      "id": "d3d8e65b0f59a7a3a231a0ada1f169cae1cab500dfc15b1070b57e653e2c4c61",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T00:17:15+00:00"
-    },
-    {
-      "id": "3356ba58fa21399bfe5d9c89c277a4bf420f29bf0deb67991674f258c384c198",
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T23:58:01+00:00"
-    },
-    {
-      "id": "76ef6fbfa91c21a93adfea98fad11a6d4d28c55118f614e45a1806fb12b640c8",
-      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
-      "url": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
-      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-08-03T20:15:00+00:00"
-    },
-    {
-      "id": "1074e2818821486218889bb4c44960cabb75023a71d2a8a680f0d297aab451fe",
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T20:01:22+00:00"
-    },
-    {
-      "id": "490a320f59bde25f016cdea079810593213a02af2c031d716041a38d0d23a0e1",
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T19:25:10+00:00"
-    },
-    {
-      "id": "5e41b682e284fc8e9c08b0d597fc700df0902b5babcaa66076d4bf897240846d",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages i",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-03T18:43:53+00:00"
-    },
-    {
-      "id": "228bf04ee207728d4cdb1fb8c5da9145123d7c30c969d9baff9d2ede29d86e58",
-      "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
-      "url": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
-      "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T17:36:00+00:00"
     }
   ]
 }

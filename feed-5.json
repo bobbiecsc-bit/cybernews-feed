@@ -1,10 +1,145 @@
 {
-  "updated": "2026-08-11T12:55:22.851917+00:00",
+  "updated": "2026-08-11T18:57:12.488897+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "51780d4e71c2b648e80d998647de442a968906e296a486072f206e421057bf78",
+      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
+      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+      "summary": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-07-31T17:23:16+00:00"
+    },
+    {
+      "id": "0bef394e8ba869a8275787d7ee9c5a6567e00345922433571476d3861c8672e9",
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-07-31T16:49:49+00:00"
+    },
+    {
+      "id": "b854b6f9db795aeb0451395e51435a703c6564873a0f438fd09642b16052d97c",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted arch",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-07-31T16:39:31+00:00"
+    },
+    {
+      "id": "e74935451af59a4c7e3dfedc2caa3dc050d6d584037ba1b88d12ebd38542c18b",
+      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+      "url": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+      "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-31T15:47:02+00:00"
+    },
+    {
+      "id": "67bae3a5b8a18e5fc76968a9cf5d18d448a3b79493c631f58f6aaf2515bafa1f",
+      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
+      "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+      "summary": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-31T15:17:41+00:00"
+    },
+    {
+      "id": "7b0535bbb7f51436c8087e767e78cbcb2dc3743b61ac1e601fc60809049701be",
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security soft",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-07-31T14:01:11+00:00"
+    },
+    {
+      "id": "f5592a08f538ab49c4d4806c0629c55ce2d1880757082976b4ba938699f17d87",
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, th",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-31T12:51:52+00:00"
+    },
+    {
+      "id": "5d952aac36829d7c660441807c5d56ded478d38e61894c5145b874ce82a90c1d",
+      "title": "Anthropic says its AI hacked real-world companies in three incidents",
+      "url": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
+      "summary": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-07-31T12:15:00+00:00"
+    },
+    {
+      "id": "8be23122adabfc50df6bc597bce02196b431dd3505fd03670c14b1b8593f2bfd",
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The finding",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-31T11:55:00+00:00"
+    },
+    {
+      "id": "5538f32502a05e6799828e6e4d1292197b17b1440060358fe65e30fe2bb79379",
+      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+      "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization lo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-07-31T11:24:59+00:00"
+    },
+    {
+      "id": "e6ea006c3681d918b688e92e346309de49dcd399f360c8f6d1c33ed7e4882ca6",
+      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no furt",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-07-31T11:21:27+00:00"
+    },
+    {
+      "id": "40a4ccbf8c2cb080440ce87873f8a481f3448c717a66d01cb7f5f04cef80f137",
+      "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+      "url": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+      "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-31T10:28:45+00:00"
+    },
+    {
+      "id": "5bb119d91e399d2240e773f11973c636eb6ae7eccd33ccc1311f0e9bc777d75d",
+      "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+      "url": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+      "summary": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels appeared first on SecurityWeek",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-31T10:00:00+00:00"
+    },
+    {
+      "id": "5b740ea8fc38e4031ca1087645e0050b8d217ce72149fba8dc6fd29bf98022d7",
+      "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+      "url": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+      "summary": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. The post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-07-31T09:39:57+00:00"
+    },
+    {
+      "id": "70f1faa54bb33c2b4c6c90e000c7f06c0f9322e5e470d15bd1e91d2ba6d733cb",
+      "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
+      "url": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+      "summary": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access. The post Critical Flaw Allowed to Azure Cosmos DB Pwnage appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-07-31T09:04:02+00:00"
+    },
     {
       "id": "96237da307b6828c444f211a69384950439f556d6b407aaa918348ab0ea44ca3",
       "title": "CareCloud Data Breach Impacts Over 350,000",
@@ -319,141 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-29T17:54:05+00:00"
-    },
-    {
-      "id": "10713f4b3e091baa952f9a2ff348af7a521885dddb2a9a7f6ca6c1c9f4786126",
-      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
-      "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
-      "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-29T17:22:00+00:00"
-    },
-    {
-      "id": "d2be0131910e4316f284e37b6ab8b166b02a3572b0376c5c5befcc3a067c2f4e",
-      "title": "Measuring the Tendency of AI Agents to Go Rogue",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
-      "summary": "This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it ca",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-07-29T17:07:53+00:00"
-    },
-    {
-      "id": "8f44a724389475a97a28c9ec560c811a7c8c79bee24309c83771d1532da466ae",
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-29T16:04:59+00:00"
-    },
-    {
-      "id": "19447019942cf67fe9b4bce83bb03668d5925f964053df399a585a3d69541a55",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all ver",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T15:39:30+00:00"
-    },
-    {
-      "id": "4b55974fab2d353736b72916f7b6e249c7917ec7c3b0dcbf96d6e9aa0efacee2",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T15:31:15+00:00"
-    },
-    {
-      "id": "5fe225fb7aff55994a8faa706c3a3208df2fb81de193e204196a8d701d6ba435",
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-29T14:55:57+00:00"
-    },
-    {
-      "id": "4ef046ba888c65eb8db12eb2178bb43e396b8954afb86b7df1fccb6c859214db",
-      "title": "Laundry Bear’s webmail hackers had more in store after February, report says",
-      "url": "https://therecord.media/russia-hackers-outlook-webmail-malware",
-      "summary": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-29T14:45:00+00:00"
-    },
-    {
-      "id": "a6b054a21115de210ea5deed7874e713400004b784c1305e8ad091c795263fc6",
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected a",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-29T13:48:36+00:00"
-    },
-    {
-      "id": "afe089cbd0d847358373083f9c5a6b71047d32d436cef21403082cfb794e4cfa",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have se",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-29T13:42:57+00:00"
-    },
-    {
-      "id": "712ad6b107aee7c0ab5141b95f2c98e355fd4660b979e34af41efb56c3ec898e",
-      "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
-      "url": "https://therecord.media/russia-telegram-durov-arrest",
-      "summary": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-29T12:45:00+00:00"
-    },
-    {
-      "id": "e04fa2b571fd53a74644b564ba9ec97bc63dfb400ccbe206cca9a641f3a8b4b0",
-      "title": "ThreatLocker Raises $190 Million in Series F Funding",
-      "url": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
-      "summary": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-29T12:17:14+00:00"
-    },
-    {
-      "id": "3620c89338c9555ffdc95ecf54e2972a68c10995c0e678ad0e0392a34ec1ef71",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T12:15:00+00:00"
-    },
-    {
-      "id": "8a71486c0fe39813860d65fca7ccce50883695e462bba815074b747a66724b12",
-      "title": "Cyberattack hits Angola’s largest telco hours before landmark stock debut",
-      "url": "https://therecord.media/angola-unitel-cyberattack-outage",
-      "summary": "Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-29T12:15:00+00:00"
-    },
-    {
-      "id": "aab2a0bc8fdc6bd72e671c60e91d37ee33ea64e506f0a53b7b6d11e0170d14e7",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T11:57:00+00:00"
-    },
-    {
-      "id": "f9b7964dc0e2eac6e603de8188885988e0cbd9913f8e1f78fd90410c664a9315",
-      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-      "url": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-      "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-29T11:42:38+00:00"
     }
   ]
 }

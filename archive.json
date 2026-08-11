@@ -1,7 +1,142 @@
 {
-  "updated": "2026-08-11T12:55:22.851917+00:00",
+  "updated": "2026-08-11T18:57:12.488897+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "93c7e955aa53a43b055055cda57da1d08ed1b42c20737b5034074cbf2d53f9eb",
+      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+      "url": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-11T18:46:07+00:00"
+    },
+    {
+      "id": "cf109a85f8e0dda535e98283d7b43688ed3cc086f136fa081720024e3a00fc3d",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-11T18:36:47+00:00"
+    },
+    {
+      "id": "0f85616fccf5ce0454adcbdcbf2b6302a6716f0a50cf837baccef3ec972bba75",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-11T18:34:23+00:00"
+    },
+    {
+      "id": "5a84ed3ef08a97e782c5bfc971fff03a7195e675d71814c1d8245d71beeb8d40",
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-11T18:08:50+00:00"
+    },
+    {
+      "id": "5b4351d43032132daa65ac4eba69fb8c733995c391aecf8ef5cbca1b8ff86df3",
+      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
+      "url": "https://isc.sans.edu/diary/rss/33236",
+      "summary": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code execution bugs. &#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-08-11T17:54:49+00:00"
+    },
+    {
+      "id": "434fc5cac48208083ecdeffbf70e1365b79055f5d6f551edeb31ca5f24feaad8",
+      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
+      "url": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
+      "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-11T16:50:19+00:00"
+    },
+    {
+      "id": "83f9b708b132a336fbed77b57a5a1a7316e921a1d74a966f7b3a020ce5440ef8",
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T16:47:44+00:00"
+    },
+    {
+      "id": "5eca0a7b43d27d46b66c3042e3f3cfcf835724d9af687dc56a4a0ab49ebcfed2",
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that sto",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-11T16:35:27+00:00"
+    },
+    {
+      "id": "dd0027a7c58b9fa1f94f90697bd2fe063cfe861cc559e773a40549382b929824",
+      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
+      "url": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+      "summary": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-11T15:49:53+00:00"
+    },
+    {
+      "id": "415243a60d378f68787ef9af0c7bc7b4db7a519c845c06a27321d1f8556d9f00",
+      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
+      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
+      "summary": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-11T15:43:45+00:00"
+    },
+    {
+      "id": "4822403e8f9b84a3c623c4a7c7583ddb36924e128aa561bc8f9bc9760de8b6f7",
+      "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
+      "summary": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs. The post SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-11T14:14:32+00:00"
+    },
+    {
+      "id": "906b18fdc3f2e6e16e46b26a568716bf95a7c887e382b10ba43828ca0150652d",
+      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
+      "url": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+      "summary": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers. The post US Water Systems Get Cyber Boost From New Senate Bill and &#8216;Water Watch Center&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-11T14:03:32+00:00"
+    },
+    {
+      "id": "989bd22c003062d55150a2809d6417e40ca85f08ae8c2cd871f5609c8356ad89",
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T13:11:23+00:00"
+    },
+    {
+      "id": "729f36dc6beff8cd62ab2a46fc4d507e78df56fe65c54a5ca8cdb63ee0ee2aa4",
+      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+      "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "id": "6676505aa99208c773eda1bebc231c7c5b305403921b18ba6b49428685ce87bf",
+      "title": "Local governments in four states dealing with cyberattacks that have shut down services",
+      "url": "https://therecord.media/cyberattacks-ransomware-local-governments",
+      "summary": "Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-11T13:00:00+00:00"
+    },
     {
       "id": "4bfb2490760d3848cf14bc584a69cc42df1438259a62dbeebb0d289a77d01e12",
       "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
@@ -2116,141 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-07-29T17:54:05+00:00"
-    },
-    {
-      "id": "10713f4b3e091baa952f9a2ff348af7a521885dddb2a9a7f6ca6c1c9f4786126",
-      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
-      "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
-      "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-29T17:22:00+00:00"
-    },
-    {
-      "id": "d2be0131910e4316f284e37b6ab8b166b02a3572b0376c5c5befcc3a067c2f4e",
-      "title": "Measuring the Tendency of AI Agents to Go Rogue",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
-      "summary": "This essay was written with Barath Raghavan, and originally appeared in The Guardian. In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it ca",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-07-29T17:07:53+00:00"
-    },
-    {
-      "id": "8f44a724389475a97a28c9ec560c811a7c8c79bee24309c83771d1532da466ae",
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-29T16:04:59+00:00"
-    },
-    {
-      "id": "19447019942cf67fe9b4bce83bb03668d5925f964053df399a585a3d69541a55",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all ver",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T15:39:30+00:00"
-    },
-    {
-      "id": "4b55974fab2d353736b72916f7b6e249c7917ec7c3b0dcbf96d6e9aa0efacee2",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T15:31:15+00:00"
-    },
-    {
-      "id": "5fe225fb7aff55994a8faa706c3a3208df2fb81de193e204196a8d701d6ba435",
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-29T14:55:57+00:00"
-    },
-    {
-      "id": "4ef046ba888c65eb8db12eb2178bb43e396b8954afb86b7df1fccb6c859214db",
-      "title": "Laundry Bear’s webmail hackers had more in store after February, report says",
-      "url": "https://therecord.media/russia-hackers-outlook-webmail-malware",
-      "summary": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-07-29T14:45:00+00:00"
-    },
-    {
-      "id": "a6b054a21115de210ea5deed7874e713400004b784c1305e8ad091c795263fc6",
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected a",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-29T13:48:36+00:00"
-    },
-    {
-      "id": "afe089cbd0d847358373083f9c5a6b71047d32d436cef21403082cfb794e4cfa",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have se",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-07-29T13:42:57+00:00"
-    },
-    {
-      "id": "712ad6b107aee7c0ab5141b95f2c98e355fd4660b979e34af41efb56c3ec898e",
-      "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
-      "url": "https://therecord.media/russia-telegram-durov-arrest",
-      "summary": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-29T12:45:00+00:00"
-    },
-    {
-      "id": "e04fa2b571fd53a74644b564ba9ec97bc63dfb400ccbe206cca9a641f3a8b4b0",
-      "title": "ThreatLocker Raises $190 Million in Series F Funding",
-      "url": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
-      "summary": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-07-29T12:17:14+00:00"
-    },
-    {
-      "id": "3620c89338c9555ffdc95ecf54e2972a68c10995c0e678ad0e0392a34ec1ef71",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T12:15:00+00:00"
-    },
-    {
-      "id": "8a71486c0fe39813860d65fca7ccce50883695e462bba815074b747a66724b12",
-      "title": "Cyberattack hits Angola’s largest telco hours before landmark stock debut",
-      "url": "https://therecord.media/angola-unitel-cyberattack-outage",
-      "summary": "Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-07-29T12:15:00+00:00"
-    },
-    {
-      "id": "aab2a0bc8fdc6bd72e671c60e91d37ee33ea64e506f0a53b7b6d11e0170d14e7",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T11:57:00+00:00"
-    },
-    {
-      "id": "f9b7964dc0e2eac6e603de8188885988e0cbd9913f8e1f78fd90410c664a9315",
-      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-      "url": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-      "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-29T11:42:38+00:00"
     }
   ]
 }
