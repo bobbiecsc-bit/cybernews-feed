@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-11T01:22:37.566798+00:00",
+  "updated": "2026-08-11T07:00:30.938612+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "897a98755e75ee3ffcc0387b88b07237b13fc9bd132793d3a3bbc0ab49859561",
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T11:10:33+00:00"
+    },
     {
       "id": "db7fd783f4de3ba0565565c4711cd7e3c122ac45e93092d1bed50afcad9c2029",
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-05T14:01:11+00:00"
-    },
-    {
-      "id": "5f87ddc8febb691c29a75f40f742cd63db3e6abaed44937f16d82840a9b16da2",
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T14:00:00+00:00"
     }
   ]
 }
