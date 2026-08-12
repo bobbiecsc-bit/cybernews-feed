@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-11T18:57:12.488897+00:00",
+  "updated": "2026-08-12T01:39:27.193711+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "00914884b0e1da5a620dc88575f79c1728aae7e7024d49ae6a65498cdcf5c8f6",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-11T22:15:22+00:00"
+    },
+    {
+      "id": "215b91448d4dcac63401a2e548b268e9d5c33c947d306527c444e9b6e89c0561",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-08-11T21:28:35+00:00"
+    },
+    {
+      "id": "4cc0270f88d8d7c11cb7edfe03bb22ff9a11457c50f402325c75d2a152d0adb5",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-11T21:07:24+00:00"
+    },
+    {
+      "id": "36069f37dfa6017d292528387b0134058316f42baa88358384ad8588e7660f17",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T20:10:55+00:00"
+    },
+    {
+      "id": "b566b358a523ac5fac29cc74e2119d8ea7d32570f49eb6fecb7cd0771fa8c95c",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-11T19:45:31+00:00"
+    },
+    {
+      "id": "04af503b5714c1c91b1ef420b979e8ab76508aca412d5498bd1794fe6b37e428",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, w",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-11T19:36:37+00:00"
+    },
+    {
+      "id": "c3cbf789528e9d52652c0972fd41852dbb00a0984adab5ed9ed8f1096c9858b1",
+      "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
+      "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
+      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-11T19:15:00+00:00"
+    },
+    {
+      "id": "be56bbf2c6cceb7decc372833425db1942c7e601f96b8bec2740dbea41f9b056",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T19:08:47+00:00"
+    },
     {
       "id": "93c7e955aa53a43b055055cda57da1d08ed1b42c20737b5034074cbf2d53f9eb",
       "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
@@ -2179,78 +2251,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-07-30T09:28:37+00:00"
-    },
-    {
-      "id": "08772ea58b8c9e26ae3b8b54638cb5627afaeb02da8c74de9b8f50cb47940f24",
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T07:40:48+00:00"
-    },
-    {
-      "id": "5ea03de1aea77a45d12fecb6d08a506c86a8cd25434f7c0651a56ecafbf124ea",
-      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-07-30T06:31:31+00:00"
-    },
-    {
-      "id": "c446184a12ad0dbfab281c7295b0f862d2ed2e3a4d294d019163b605c011fc89",
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T06:05:17+00:00"
-    },
-    {
-      "id": "5b323651846af4f48bd2f7e2950f6d90faa99ede356f99eec145c47f8c3bdc26",
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-30T05:08:39+00:00"
-    },
-    {
-      "id": "e595dba041d5ef9c355dcf5884aa9855208de53cc7a6bb461f281704c339bcdd",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-29T23:44:07+00:00"
-    },
-    {
-      "id": "8f821d2f9cd7a216055202255cc7d257bd057b2f775057dcbb059b9dab72e4f0",
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-07-29T21:35:40+00:00"
-    },
-    {
-      "id": "5226afe42a903f3d903c66bb3448ffefb7ac2fba0ffdb692d1c5c93c7c2f9e11",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-07-29T18:10:00+00:00"
-    },
-    {
-      "id": "377d823ae424ce528c088b5f8dc4bed3e851d6a67c85554bd14272c85e1e048a",
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-29T17:54:05+00:00"
     }
   ]
 }
