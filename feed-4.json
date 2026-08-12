@@ -1,10 +1,163 @@
 {
-  "updated": "2026-08-12T07:18:38.316285+00:00",
+  "updated": "2026-08-12T13:00:38.577954+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T12:48:49+00:00"
+    },
+    {
+      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:43:27+00:00"
+    },
+    {
+      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-05T11:43:19+00:00"
+    },
+    {
+      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-05T11:35:23+00:00"
+    },
+    {
+      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:04:23+00:00"
+    },
+    {
+      "id": "b4f3d444777d8f3bda2c06530f6191bd9fd480f2d5abb4167e64d8d717604c1c",
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-05T10:35:29+00:00"
+    },
+    {
+      "id": "6b629757533608da1662ecaa9de65b23ceeb17384ebd24e69fb6a38fc2dbb20f",
+      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-05T09:44:50+00:00"
+    },
+    {
+      "id": "3d50751ddee0fc9cb04cce199eaac0373d50f8f4e6a191cf55275b6aa890b2ed",
+      "title": "Vulnerabilities in Car Anti-Theft Device",
+      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
+      "summary": "This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to si",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-08-05T09:42:43+00:00"
+    },
+    {
+      "id": "79cdb252bae3e478010234b165e7ceb686967de379be456749270f55c721be15",
+      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+      "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T08:56:58+00:00"
+    },
+    {
+      "id": "359c14ceebc6119f38da1e5ed36b39a05356b483a4ec9c9476fc0b12d0bd5b1e",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T07:53:50+00:00"
+    },
+    {
+      "id": "df47d13d8d896952ed574eb2d8872c90227f2778ca47922fae3c79c68d0fa5c4",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code inject",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T07:40:39+00:00"
+    },
+    {
+      "id": "2efc51fb7134378b39150c1a2fea46b2a75386375709c71b99f61c5c736ba3d9",
+      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
+      "url": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+      "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-05T07:24:52+00:00"
+    },
+    {
+      "id": "81a8a88680d37b170d3ccf6bc24b0c5aef6583cf32a84a18fc980273db5fcf8b",
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing si",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T05:47:19+00:00"
+    },
+    {
+      "id": "ab3159d443b1d305ea10f30e5f257ec251e1d992f07e55af067b928de9f6cfdf",
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-04T23:39:59+00:00"
+    },
+    {
+      "id": "6e88043f8643dbf3a8ec4301dccfd599775876aa72a1cdc1f9ed1c530a9a62e0",
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-04T22:18:20+00:00"
+    },
+    {
+      "id": "27d1686feff412b6ab4d1c9d5db291cbec047377ad660619e5a9a17cba647bc5",
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-04T21:45:36+00:00"
+    },
     {
       "id": "836ef3adc75c0596a7e7b85010cb6c59da0bd222990d1890da6ef261a38d2346",
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
@@ -301,159 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-03T13:02:06+00:00"
-    },
-    {
-      "id": "760a01c80869eb04af2672a77e29dbba60a2e652ad5321c21d600a5f17dd78d4",
-      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-      "url": "https://therecord.media/amgen-hackers-cyberattack-sec",
-      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:45:00+00:00"
-    },
-    {
-      "id": "7378d93cdd183e1091dd7e0c3303fcedb6849300b78d74bdafe7ff06488fa7a3",
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "url": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T12:34:06+00:00"
-    },
-    {
-      "id": "a2027b3e46c57a697680034577b46dbb3e3f36a81ada422aa57a8d8dcda6d5a0",
-      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-      "url": "https://therecord.media/russian-wifi-hackers-hotels",
-      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:00:00+00:00"
-    },
-    {
-      "id": "35f7631d5763d4a88ae428b13bf8be79b4aeb5d49331b27c87dec5f62b786f19",
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "url": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T11:45:14+00:00"
-    },
-    {
-      "id": "8f03bf579ace704a7a38c7e77c207facb2ef249a825b9f13e9b89b86dce593a4",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-03T10:49:06+00:00"
-    },
-    {
-      "id": "2ac2b3a55a63df264dbd7f6877773e791b332a4b25501461887f437b4c42b9ae",
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "summary": "This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its models: GPT-5.6 Sol and an unreleased model that is al",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-03T10:47:47+00:00"
-    },
-    {
-      "id": "32c2960d420216377f4bba60cc01f117aed97f71083fb0b78e8a41875fb2b9b7",
-      "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
-      "url": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
-      "summary": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement. The post Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-03T10:39:41+00:00"
-    },
-    {
-      "id": "99e281d45217994cf713151b1d86688967acb2a9f296f253bff56bb2b82f5d16",
-      "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-      "url": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-      "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T09:17:37+00:00"
-    },
-    {
-      "id": "a71a79482b5b08780929b60521457e585ead0ea19bc1ee512f63fdc43cbd0cdc",
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-03T09:13:56+00:00"
-    },
-    {
-      "id": "86d1fe6ff2009c4e2c861c8e323c3e7e3a278fe7abf69ab197e16319af530b38",
-      "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
-      "url": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
-      "summary": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers. The post US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T08:48:02+00:00"
-    },
-    {
-      "id": "000b4c51e3b2ed33ec252758c04ce59f2ce5e4d041e7be79e43d108647e29772",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if labora",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T08:05:30+00:00"
-    },
-    {
-      "id": "44aca34a590464aee2812459631bad1e421ed243da3dc3958b2c1c87ce8eb4a9",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on Augus",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T06:41:46+00:00"
-    },
-    {
-      "id": "0a3d3912cd46c461b65c40551d1078dec596fb7e06e281113c04012ce3653ead",
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are byp",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T06:40:31+00:00"
-    },
-    {
-      "id": "b4f28f9ce09cd0f0e01c667f94c474427058c24f8869729959dd0fb2675a4904",
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-02T21:14:29+00:00"
-    },
-    {
-      "id": "33d64b684b386f21f4b0aac2f0d2804a5e1ea8528a9236ae89ca8573093db3a1",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integra",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-01T17:17:22+00:00"
-    },
-    {
-      "id": "e64f30381c40bc651cbba6d7570f4ddfc1d22981edaf92058aa767b8dbc19132",
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-01T14:20:30+00:00"
-    },
-    {
-      "id": "cdd2d5be99e725f94df7ff2d3e943f033b61fc2f0cd82f981a16beb36357e732",
-      "title": "Ruby on Rails Patches Critical Vulnerability",
-      "url": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-      "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-01T11:15:00+00:00"
     }
   ]
 }
