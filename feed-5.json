@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-13T13:01:32.247940+00:00",
+  "updated": "2026-08-13T18:58:08.511195+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "06c0ec5ab822387d991e6d45869de17cd760ea18eb9c6a9a58e2f63abdded126",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. I",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-04T11:30:00+00:00"
+    },
+    {
+      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
+      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-04T10:54:30+00:00"
+    },
+    {
+      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-04T10:36:27+00:00"
+    },
+    {
+      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-04T09:56:06+00:00"
+    },
+    {
+      "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a stegano",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-04T09:03:23+00:00"
+    },
+    {
+      "id": "778f2bd22ac0af82ae85ce471010513931ebfd1435cbdca7af188261ea40334d",
+      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-04T08:33:45+00:00"
+    },
     {
       "id": "da4061a77e664dfa9d5b33938fac8ff54e5c898c81e2b0757640b423ed59744b",
       "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-07-31T17:47:00+00:00"
-    },
-    {
-      "id": "b06dad6c3071ec1f70fe24a4746beba5c309ad2a9b0f6a233e5dc2d935deeced",
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T17:35:35+00:00"
-    },
-    {
-      "id": "51780d4e71c2b648e80d998647de442a968906e296a486072f206e421057bf78",
-      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-      "summary": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-07-31T17:23:16+00:00"
-    },
-    {
-      "id": "0bef394e8ba869a8275787d7ee9c5a6567e00345922433571476d3861c8672e9",
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-07-31T16:49:49+00:00"
-    },
-    {
-      "id": "b854b6f9db795aeb0451395e51435a703c6564873a0f438fd09642b16052d97c",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted arch",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-07-31T16:39:31+00:00"
-    },
-    {
-      "id": "e74935451af59a4c7e3dfedc2caa3dc050d6d584037ba1b88d12ebd38542c18b",
-      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
-      "url": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-      "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-31T15:47:02+00:00"
-    },
-    {
-      "id": "67bae3a5b8a18e5fc76968a9cf5d18d448a3b79493c631f58f6aaf2515bafa1f",
-      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-      "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-      "summary": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-07-31T15:17:41+00:00"
     }
   ]
 }

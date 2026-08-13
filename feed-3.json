@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-13T13:01:32.247940+00:00",
+  "updated": "2026-08-13T18:58:08.511195+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4f798185a435c3c056d481fe5516797064130b1b70240c4895831f42db8fb2df",
+      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+      "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+      "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-10T04:44:32+00:00"
+    },
+    {
+      "id": "efca8e4dba84b56993353b65044f5289dd5cb137ab4e57d45f85c4085816db1f",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-08T14:16:23+00:00"
+    },
+    {
+      "id": "8ce9e4d219e1f1ccc2cf9e20c70cb3074d87b288dce39b19cabc85199c8280be",
+      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+      "url": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-08T11:30:00+00:00"
+    },
+    {
+      "id": "ab2cf02445d4050eb2a042ccfbda3d29515934a092e115467cc449c3b608854a",
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArm",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-08T08:54:50+00:00"
+    },
+    {
+      "id": "92a77f3ffeabd187872485bbaa3fcc2f67567145007d337d9da0abe0b55602a9",
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijac",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-08T08:03:57+00:00"
+    },
+    {
+      "id": "ecc4777c9ae87466f333c26238c4e461dc2f07715990b822776d4cab3300e5d6",
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-08T06:58:31+00:00"
+    },
     {
       "id": "62e6df9d879f730cdaa0ccc24d00864aa5ccdef478a11c65264a350e9c008fcc",
       "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-06T09:56:26+00:00"
-    },
-    {
-      "id": "07b32315176c739f23bbb37c15f36a063bd8f0e9738f69f1ad92f795a5f25165",
-      "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
-      "url": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
-      "summary": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-06T09:30:30+00:00"
-    },
-    {
-      "id": "4c338a28ee4465db8153a5a71145a2e37b6cf1833a9f628193176b7769d5de71",
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and r",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T09:19:23+00:00"
-    },
-    {
-      "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T08:57:30+00:00"
-    },
-    {
-      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-06T08:05:22+00:00"
-    },
-    {
-      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-06T07:19:54+00:00"
-    },
-    {
-      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T06:51:43+00:00"
     }
   ]
 }
