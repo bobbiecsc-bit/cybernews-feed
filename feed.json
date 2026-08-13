@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-13T07:21:09.194346+00:00",
+  "updated": "2026-08-13T13:01:32.247940+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "893d6bc1b9dd52767361a1053235eb4eab5189a7bec7f071321a3330028ac34f",
+      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
+      "url": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+      "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-13T12:53:56+00:00"
+    },
+    {
+      "id": "b6ce29316438a082222da587f0b13d21679fbb3061441e085610ce3c4a760dc9",
+      "title": "Germany moves to give spy agencies hacking and sabotage powers",
+      "url": "https://therecord.media/germany-spy-agency-powers",
+      "summary": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul of the country’s spy laws of the postwar era.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-13T12:45:00+00:00"
+    },
+    {
+      "id": "3b060413c35a7355218ac0f9ccde20bbf0cec4dc861bd4f351e640b6b949e512",
+      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+      "url": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+      "summary": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-13T10:40:57+00:00"
+    },
+    {
+      "id": "c234084d7230b6690647c0cd01407c80dd973df08742b5fb56a62247d4dc1d2e",
+      "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+      "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-13T09:06:40+00:00"
+    },
+    {
+      "id": "5688fda416b0820b8e38ed762c6917321909fb46af1665502ee963a5efd81fcf",
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+      "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-13T08:38:03+00:00"
+    },
     {
       "id": "3c5ef5fa5324c56d0088ebd0c255bc52445049f09368b126e7e180b72ff900db",
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -409,51 +454,6 @@
       "source": "SANS ISC",
       "category": "vulnerability",
       "date": "2026-08-11T17:54:49+00:00"
-    },
-    {
-      "id": "434fc5cac48208083ecdeffbf70e1365b79055f5d6f551edeb31ca5f24feaad8",
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "url": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T16:50:19+00:00"
-    },
-    {
-      "id": "83f9b708b132a336fbed77b57a5a1a7316e921a1d74a966f7b3a020ce5440ef8",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T16:47:44+00:00"
-    },
-    {
-      "id": "5eca0a7b43d27d46b66c3042e3f3cfcf835724d9af687dc56a4a0ab49ebcfed2",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that sto",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-11T16:35:27+00:00"
-    },
-    {
-      "id": "dd0027a7c58b9fa1f94f90697bd2fe063cfe861cc559e773a40549382b929824",
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "url": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "summary": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T15:49:53+00:00"
-    },
-    {
-      "id": "415243a60d378f68787ef9af0c7bc7b4db7a519c845c06a27321d1f8556d9f00",
-      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-      "summary": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-11T15:43:45+00:00"
     }
   ]
 }
