@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-14T01:40:12.865813+00:00",
+  "updated": "2026-08-14T07:18:18.080191+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f83a252b76c93aa0d233b7f610689115e0667b84bf31a5c7326c1c363e3bc86c",
+      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
+      "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-14T07:01:56+00:00"
+    },
+    {
+      "id": "cdcfdf45252c2c94c64f6711b5fd14300833575aebb40fe7d0384e471a6a8a38",
+      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+      "url": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-14T06:41:43+00:00"
+    },
     {
       "id": "df1d901c6dd98219730514e92e9d56d2484d80c143b9072a7217c06c5918cf9b",
       "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-11T21:07:24+00:00"
-    },
-    {
-      "id": "36069f37dfa6017d292528387b0134058316f42baa88358384ad8588e7660f17",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T20:10:55+00:00"
-    },
-    {
-      "id": "b566b358a523ac5fac29cc74e2119d8ea7d32570f49eb6fecb7cd0771fa8c95c",
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-11T19:45:31+00:00"
     }
   ]
 }
