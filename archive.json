@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-14T07:18:18.080191+00:00",
+  "updated": "2026-08-14T12:57:38.704483+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "796bd110e94da55d8bf16c82cc9c6135dccdc237bba3bc6dc085d0311a93fe7d",
+      "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+      "url": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+      "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilit",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-14T11:57:51+00:00"
+    },
+    {
+      "id": "ba32a4944ff6fdd994dedd1860a893494aae4df5bfcfecdc96285c532246f355",
+      "title": "Shell investigates 'potential incident' after Clop data theft claims",
+      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-14T11:55:45+00:00"
+    },
+    {
+      "id": "815fb64a5a953d1e8e6f16f0686b00b869ecee6de62ba758ba63f3f058f9ebbc",
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-14T10:52:05+00:00"
+    },
+    {
+      "id": "31316f836b5e48124b0bd1d3361b13f217294d3f7a262a83bec8ed3e86ff697c",
+      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+      "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+      "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-14T10:24:03+00:00"
+    },
+    {
+      "id": "d6d5f2b7f81e29eb830216f5e7966c9e359490baa23f2de9ce993e9983ed16d3",
+      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+      "url": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-14T09:20:28+00:00"
+    },
+    {
+      "id": "6b8fef3ef86eff0160f329c1c0fc58558e445e6d37630d469b0c8a0f78d3a927",
+      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
+      "url": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+      "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-14T08:16:00+00:00"
+    },
     {
       "id": "f83a252b76c93aa0d233b7f610689115e0667b84bf31a5c7326c1c363e3bc86c",
       "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-01T17:17:22+00:00"
-    },
-    {
-      "id": "e64f30381c40bc651cbba6d7570f4ddfc1d22981edaf92058aa767b8dbc19132",
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-01T14:20:30+00:00"
-    },
-    {
-      "id": "cdd2d5be99e725f94df7ff2d3e943f033b61fc2f0cd82f981a16beb36357e732",
-      "title": "Ruby on Rails Patches Critical Vulnerability",
-      "url": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-      "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-01T11:15:00+00:00"
-    },
-    {
-      "id": "0fa86a6b2f57fc9d8dcf3f8c68488f84bfac5b17578d4d88192938889e10b17c",
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authoritie",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-01T09:03:07+00:00"
-    },
-    {
-      "id": "097fcbe5b08ca7e56f3460f25dff76ef9826b04b1b2096b3c79c146adec9745e",
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS s",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-01T07:12:42+00:00"
-    },
-    {
-      "id": "ef832fb7175ff4cbeb8653d6eb6b58bf2497ccf89baed810ec45a8c0115ef30f",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-29",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-01T06:29:05+00:00"
-    },
-    {
-      "id": "e0cbfbb17f2a64cb5a82814bcf6b9c8e75e77667f8654eaaf6a4ab39aa089248",
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-07-31T22:16:42+00:00"
     }
   ]
 }
