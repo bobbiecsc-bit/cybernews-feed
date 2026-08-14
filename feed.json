@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-14T12:57:38.704483+00:00",
+  "updated": "2026-08-14T18:48:16.229485+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f425d96c2c87797ef90178b446698cacba3fabb83b9f0d141b7190ad3e2b2590",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T18:04:26+00:00"
+    },
+    {
+      "id": "f3d1727276b91814f26aaa6c91a8c6507180da637ca34a3e3ae133e6af22e090",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T14:59:55+00:00"
+    },
+    {
+      "id": "4c9d6b022a5d05c36395d178ff9f5269184ab6a9865f4c81bd0e5c3c9a4e2f80",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-14T14:00:10+00:00"
+    },
+    {
+      "id": "99dadd313b8cdbdfc8044a8848d4d07714642efc8ee393bfba503e841b260b29",
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T13:45:18+00:00"
+    },
+    {
+      "id": "380e8efb509157b9cf2a8d7cb47de26a86a6fac4f7eb1404318c491a6437bfcf",
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "url": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+      "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-14T13:14:15+00:00"
+    },
     {
       "id": "796bd110e94da55d8bf16c82cc9c6135dccdc237bba3bc6dc085d0311a93fe7d",
       "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-12T09:01:54+00:00"
-    },
-    {
-      "id": "283e36e8c80578f533a3b167031d8e126515a8d110452f90792cd30774c17c38",
-      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-      "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-12T08:45:53+00:00"
-    },
-    {
-      "id": "64bf0a8d3e5787f38d8e2be03a9678c5cdea2f0bb4e0b162b11c65e27a205376",
-      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-      "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-12T08:14:46+00:00"
-    },
-    {
-      "id": "ef7a70b327b6f817b5afd34559ddd28cae1ffb70f4ac9517dc78f4d3eef02e3a",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it ob",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-12T08:04:52+00:00"
-    },
-    {
-      "id": "c0354b09ca60572e558739ef8f3e893a84e4851e12946ca7c9aa81c6e105d74b",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-12T07:31:40+00:00"
-    },
-    {
-      "id": "85afa659dd10b426d39170cb3a8f6bb853529d2ea756cea856528d7d280ec97c",
-      "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
-      "url": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
-      "summary": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data. The post SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-12T07:31:11+00:00"
     }
   ]
 }

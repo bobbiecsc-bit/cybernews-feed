@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-14T12:57:38.704483+00:00",
+  "updated": "2026-08-14T18:48:16.229485+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "283e36e8c80578f533a3b167031d8e126515a8d110452f90792cd30774c17c38",
+      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+      "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-12T08:45:53+00:00"
+    },
+    {
+      "id": "64bf0a8d3e5787f38d8e2be03a9678c5cdea2f0bb4e0b162b11c65e27a205376",
+      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
+      "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
+      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-12T08:14:46+00:00"
+    },
+    {
+      "id": "ef7a70b327b6f817b5afd34559ddd28cae1ffb70f4ac9517dc78f4d3eef02e3a",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it ob",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-12T08:04:52+00:00"
+    },
+    {
+      "id": "c0354b09ca60572e558739ef8f3e893a84e4851e12946ca7c9aa81c6e105d74b",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T07:31:40+00:00"
+    },
+    {
+      "id": "85afa659dd10b426d39170cb3a8f6bb853529d2ea756cea856528d7d280ec97c",
+      "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
+      "url": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
+      "summary": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data. The post SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-12T07:31:11+00:00"
+    },
     {
       "id": "b5ba4ab6c3715e148a67efd1dd65fd15f4b4c21b082c925c51d2118f288535f2",
       "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-08-10T14:33:36+00:00"
-    },
-    {
-      "id": "743a09ee88220dbec7b7306a17d3aa28416269895b2577ac541aa2055d39fbc2",
-      "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
-      "url": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
-      "summary": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure. The post Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-10T14:19:36+00:00"
-    },
-    {
-      "id": "4a1b6117d30c02c6b34309da58895d3226a62615434bbb15fd9e86b64265aa9c",
-      "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
-      "url": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
-      "summary": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition. The post Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T14:07:48+00:00"
-    },
-    {
-      "id": "e4cbe4f1c2f955e0940f09e86e40faa8d2ca9880097d151b5998686fb6f261c8",
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-10T13:19:58+00:00"
-    },
-    {
-      "id": "753c34fb35bec1860fc67963366142c30ac5f8850ed0fe80a322bfa421054040",
-      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
-      "url": "https://therecord.media/china-hackers-ransomware-microsoft",
-      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-10T13:15:00+00:00"
-    },
-    {
-      "id": "b5619b22fdd703630246a9a8a65b275ff3e8a2b5a6df192014683e7bf9f4ad63",
-      "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
-      "url": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
-      "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post &#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-10T12:59:34+00:00"
     }
   ]
 }

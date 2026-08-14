@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-14T12:57:38.704483+00:00",
+  "updated": "2026-08-14T18:48:16.229485+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "743a09ee88220dbec7b7306a17d3aa28416269895b2577ac541aa2055d39fbc2",
+      "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+      "url": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+      "summary": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure. The post Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-10T14:19:36+00:00"
+    },
+    {
+      "id": "4a1b6117d30c02c6b34309da58895d3226a62615434bbb15fd9e86b64265aa9c",
+      "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+      "url": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+      "summary": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition. The post Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-10T14:07:48+00:00"
+    },
+    {
+      "id": "e4cbe4f1c2f955e0940f09e86e40faa8d2ca9880097d151b5998686fb6f261c8",
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-10T13:19:58+00:00"
+    },
+    {
+      "id": "753c34fb35bec1860fc67963366142c30ac5f8850ed0fe80a322bfa421054040",
+      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
+      "url": "https://therecord.media/china-hackers-ransomware-microsoft",
+      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-10T13:15:00+00:00"
+    },
+    {
+      "id": "b5619b22fdd703630246a9a8a65b275ff3e8a2b5a6df192014683e7bf9f4ad63",
+      "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+      "url": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+      "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post &#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-10T12:59:34+00:00"
+    },
     {
       "id": "bf7fdcbda684378647369aa92d335f504020d6c1da2a8d29b87a7a0c1b423ad0",
       "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-08-06T18:14:19+00:00"
-    },
-    {
-      "id": "e04150fe0f1daa409e295f042d2dddc90f5d90ab586f07b9f8c1df338fa433b9",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-06T18:03:45+00:00"
-    },
-    {
-      "id": "76d72c59e4a3096db7ebdcb3434b6e5685e5a50cf2eda41dd904150d179a9230",
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as&nbsp;CVE-2026-64",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-06T17:58:30+00:00"
-    },
-    {
-      "id": "66c48fedbb6c00a9768e9fa210a5defdeca697d2a4743bd334e3d0bb58f91b0f",
-      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
-      "url": "https://therecord.media/cyberattack-north-carolina-ports",
-      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-06T17:15:00+00:00"
-    },
-    {
-      "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T17:13:15+00:00"
-    },
-    {
-      "id": "58eb3ce5569a189e46a004213c41b56d2a8602c129fd65c6bf379e03f9c17af1",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-08-06T17:00:56+00:00"
     }
   ]
 }

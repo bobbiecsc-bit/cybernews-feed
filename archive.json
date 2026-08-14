@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-14T12:57:38.704483+00:00",
+  "updated": "2026-08-14T18:48:16.229485+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "f425d96c2c87797ef90178b446698cacba3fabb83b9f0d141b7190ad3e2b2590",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T18:04:26+00:00"
+    },
+    {
+      "id": "f3d1727276b91814f26aaa6c91a8c6507180da637ca34a3e3ae133e6af22e090",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T14:59:55+00:00"
+    },
+    {
+      "id": "4c9d6b022a5d05c36395d178ff9f5269184ab6a9865f4c81bd0e5c3c9a4e2f80",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-14T14:00:10+00:00"
+    },
+    {
+      "id": "99dadd313b8cdbdfc8044a8848d4d07714642efc8ee393bfba503e841b260b29",
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-14T13:45:18+00:00"
+    },
+    {
+      "id": "380e8efb509157b9cf2a8d7cb47de26a86a6fac4f7eb1404318c491a6437bfcf",
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "url": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+      "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-14T13:14:15+00:00"
+    },
     {
       "id": "796bd110e94da55d8bf16c82cc9c6135dccdc237bba3bc6dc085d0311a93fe7d",
       "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-03T08:48:02+00:00"
-    },
-    {
-      "id": "000b4c51e3b2ed33ec252758c04ce59f2ce5e4d041e7be79e43d108647e29772",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if labora",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T08:05:30+00:00"
-    },
-    {
-      "id": "44aca34a590464aee2812459631bad1e421ed243da3dc3958b2c1c87ce8eb4a9",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on Augus",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T06:41:46+00:00"
-    },
-    {
-      "id": "0a3d3912cd46c461b65c40551d1078dec596fb7e06e281113c04012ce3653ead",
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are byp",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T06:40:31+00:00"
-    },
-    {
-      "id": "b4f28f9ce09cd0f0e01c667f94c474427058c24f8869729959dd0fb2675a4904",
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-02T21:14:29+00:00"
-    },
-    {
-      "id": "33d64b684b386f21f4b0aac2f0d2804a5e1ea8528a9236ae89ca8573093db3a1",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integra",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-01T17:17:22+00:00"
     }
   ]
 }
