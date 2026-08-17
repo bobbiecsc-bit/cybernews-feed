@@ -1,10 +1,262 @@
 {
-  "updated": "2026-08-17T06:46:50.456658+00:00",
+  "updated": "2026-08-17T12:36:01.554437+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f0d571f1a1d49753b19f208cab809da15572a17c7e61b68dce49515ae7b4e218",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T08:57:30+00:00"
+    },
+    {
+      "id": "869ad889d89225fb691b8dbfcb0114482dcaac35e83f2490b30e934ed736c89d",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T08:05:22+00:00"
+    },
+    {
+      "id": "ee969749e0fc37aac1b848cfd6dde84366928c374497e4dc73471fabe77d8c22",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-06T07:19:54+00:00"
+    },
+    {
+      "id": "0024bf7a69c1bf7d874e64907ed3c89fbae5073da8fa12fa309d3594cebd71f8",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T06:51:43+00:00"
+    },
+    {
+      "id": "c55cfcc724b8a2a9eb8d271a682560a27ff0759a8eb2a199ea62438632473180",
+      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T06:37:44+00:00"
+    },
+    {
+      "id": "b41d695ada7747c6903de3bab21f2e978522c0ade4707b6a3c35000c3a374fb5",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T06:04:30+00:00"
+    },
+    {
+      "id": "edd6a93cbc09badc455736f8710e460a4376c0ef6292b775f188cd64b27acba6",
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-06T04:00:00+00:00"
+    },
+    {
+      "id": "0426f429b00fdb6e3eca6292c404b28aeea5074e14501ede4b1899a3d0e7d97c",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-05T23:00:50+00:00"
+    },
+    {
+      "id": "1d247e0f8135d3d3e93ecff4f864f650da2a163e5bc31136cb5009d3813cdf48",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-05T21:53:26+00:00"
+    },
+    {
+      "id": "897319838f0f0515a3a9e65a88c92807b25ff4a591d9d63b9a538274aaa7c029",
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T20:45:00+00:00"
+    },
+    {
+      "id": "f02da172f6e9e3b3e11f7539397fc40a3193c774c693695bd6006fb3de360181",
+      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
+      "url": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
+      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T20:15:00+00:00"
+    },
+    {
+      "id": "167589835478151c7b5994b81cd083067440bdba54ee584e72b1c2d8f4d78674",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-05T19:55:25+00:00"
+    },
+    {
+      "id": "e94e279c33e6e11c5869f1878e52260ab5a9e9443d7288788cb98aa062dd51f7",
+      "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+      "url": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+      "summary": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-05T19:40:00+00:00"
+    },
+    {
+      "id": "f35a2396c40124f822cb24889e849e983766f7214b99f2ef949087d18847ce8d",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawl",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T18:44:31+00:00"
+    },
+    {
+      "id": "b8de3a001b73a65e9bf94009f7af1eb730cc5d11b4638c450f25b2a48b2caba4",
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-05T17:49:41+00:00"
+    },
+    {
+      "id": "4dcce587c04dd0d3f53eb4b8bd75ba0ee9fcd635c33ab9ec36d69778b50b3a6f",
+      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-05T15:51:33+00:00"
+    },
+    {
+      "id": "45c69e058649c376d611ed04636c19bc537e8b631fcca110be2a9e62d4c81034",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (L",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-05T15:36:03+00:00"
+    },
+    {
+      "id": "0edaefefe6d3d073166eb96f9399cf72c446f59220e04233f0ba781f505e58bd",
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expos",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T15:14:05+00:00"
+    },
+    {
+      "id": "e88bd75e7d8251486352fa8e1ab969e2a0477b31950d01f2b9c860ed6aab0408",
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-05T14:59:29+00:00"
+    },
+    {
+      "id": "bf12718855e8aa2ad5138a0059961091e5047c7efebbc1e0e29977f5ed6f3743",
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant fla",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T14:27:30+00:00"
+    },
+    {
+      "id": "75eec0e8b4a4109f05c45ae20da1fb7a8f7f836aa41b63edbbbc8028edf44e43",
+      "title": "How AI-powered phishing killed blocklists for good",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-05T14:01:11+00:00"
+    },
+    {
+      "id": "5f87ddc8febb691c29a75f40f742cd63db3e6abaed44937f16d82840a9b16da2",
+      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
+      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
+      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T14:00:00+00:00"
+    },
+    {
+      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-05T13:41:27+00:00"
+    },
+    {
+      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-05T12:48:49+00:00"
+    },
+    {
+      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:43:27+00:00"
+    },
+    {
+      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-05T11:43:19+00:00"
+    },
+    {
+      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-05T11:35:23+00:00"
+    },
     {
       "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
@@ -202,258 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-08-04T10:54:30+00:00"
-    },
-    {
-      "id": "df5a94b50e3dd023090c7a0d0ff7dc0839c25cfc9677d8978dce4d33201530d4",
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T10:36:27+00:00"
-    },
-    {
-      "id": "a1a3942ed12098db7c65e3c472296226adc216ae50600ed2473093d510203aef",
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T09:56:06+00:00"
-    },
-    {
-      "id": "79321c6c50ff9d2e259488a0359a04ab8e7727a3a257cdb72a568cdd328cb527",
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a stegano",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-04T09:03:23+00:00"
-    },
-    {
-      "id": "778f2bd22ac0af82ae85ce471010513931ebfd1435cbdca7af188261ea40334d",
-      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-      "url": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-04T08:33:45+00:00"
-    },
-    {
-      "id": "da4061a77e664dfa9d5b33938fac8ff54e5c898c81e2b0757640b423ed59744b",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS scor",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-04T07:00:13+00:00"
-    },
-    {
-      "id": "916c86d45b40960eb0ee2b99b5a6caee42bb9ae4aa0c630c84002cc13b011507",
-      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-04T05:18:34+00:00"
-    },
-    {
-      "id": "c75486cdf9647a45762a2c862a192190a549cd836dcc07bcf51a90ebfcc7e2d5",
-      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
-      "url": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
-      "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T01:54:00+00:00"
-    },
-    {
-      "id": "d3d8e65b0f59a7a3a231a0ada1f169cae1cab500dfc15b1070b57e653e2c4c61",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T00:17:15+00:00"
-    },
-    {
-      "id": "3356ba58fa21399bfe5d9c89c277a4bf420f29bf0deb67991674f258c384c198",
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T23:58:01+00:00"
-    },
-    {
-      "id": "76ef6fbfa91c21a93adfea98fad11a6d4d28c55118f614e45a1806fb12b640c8",
-      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
-      "url": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
-      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-08-03T20:15:00+00:00"
-    },
-    {
-      "id": "1074e2818821486218889bb4c44960cabb75023a71d2a8a680f0d297aab451fe",
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T20:01:22+00:00"
-    },
-    {
-      "id": "490a320f59bde25f016cdea079810593213a02af2c031d716041a38d0d23a0e1",
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T19:25:10+00:00"
-    },
-    {
-      "id": "5e41b682e284fc8e9c08b0d597fc700df0902b5babcaa66076d4bf897240846d",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages i",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-03T18:43:53+00:00"
-    },
-    {
-      "id": "228bf04ee207728d4cdb1fb8c5da9145123d7c30c969d9baff9d2ede29d86e58",
-      "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
-      "url": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
-      "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T17:36:00+00:00"
-    },
-    {
-      "id": "778bc940e6b33d80538f63185c54fefd37e8b605a5da5585c0d891d5c0c30ddb",
-      "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "summary": "Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastruct",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-08-03T17:02:46+00:00"
-    },
-    {
-      "id": "1ebcd51a8367b8d004bff3c49d75bdb17d2ced13d8cf1d42318a59e8bdb23e4e",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-03T17:00:56+00:00"
-    },
-    {
-      "id": "5264422e426d2ea1d9b9b3c8e2506eabe8edb2e2ce21e0301b534c834562400a",
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it c",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-03T16:24:47+00:00"
-    },
-    {
-      "id": "5c95936bd15988709385d25ba539ba834d4d686d8fb173aea2b4937c7288a556",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activit",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-03T16:15:13+00:00"
-    },
-    {
-      "id": "9284280dd27d44c1862e183aac452cbd8d55a757da84d5fe01ab4e0fa8ca277b",
-      "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
-      "url": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
-      "summary": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-03T15:15:00+00:00"
-    },
-    {
-      "id": "a15b4f3614497933a055bd29e543cb7e3604a9c5ddadf5ae471e6d427ba45a5f",
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-03T15:04:39+00:00"
-    },
-    {
-      "id": "484b7de72129a32f890892bc21eb1668af7c009cf601688063f790c2369bf2ed",
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-03T14:45:55+00:00"
-    },
-    {
-      "id": "05bc9225a21d8a356b799bc82576e53797c446018dcf14d48ef91e0ad78a7fb3",
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-03T14:03:11+00:00"
-    },
-    {
-      "id": "fedd24ec4d5b7d88266de4995fbec35e057f60534bd6c6b6cc0f0f8db3284dcf",
-      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-      "url": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T13:02:06+00:00"
-    },
-    {
-      "id": "760a01c80869eb04af2672a77e29dbba60a2e652ad5321c21d600a5f17dd78d4",
-      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-      "url": "https://therecord.media/amgen-hackers-cyberattack-sec",
-      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:45:00+00:00"
-    },
-    {
-      "id": "7378d93cdd183e1091dd7e0c3303fcedb6849300b78d74bdafe7ff06488fa7a3",
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "url": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T12:34:06+00:00"
-    },
-    {
-      "id": "a2027b3e46c57a697680034577b46dbb3e3f36a81ada422aa57a8d8dcda6d5a0",
-      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-      "url": "https://therecord.media/russian-wifi-hackers-hotels",
-      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-03T12:00:00+00:00"
-    },
-    {
-      "id": "35f7631d5763d4a88ae428b13bf8be79b4aeb5d49331b27c87dec5f62b786f19",
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "url": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-03T11:45:14+00:00"
-    },
-    {
-      "id": "8f03bf579ace704a7a38c7e77c207facb2ef249a825b9f13e9b89b86dce593a4",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-03T10:49:06+00:00"
     }
   ]
 }
