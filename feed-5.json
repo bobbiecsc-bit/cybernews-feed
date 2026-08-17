@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-16T18:22:05.909092+00:00",
+  "updated": "2026-08-17T01:03:02.562212+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-05T11:04:23+00:00"
+    },
     {
       "id": "b4f3d444777d8f3bda2c06530f6191bd9fd480f2d5abb4167e64d8d717604c1c",
       "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
@@ -445,15 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-03T10:49:06+00:00"
-    },
-    {
-      "id": "2ac2b3a55a63df264dbd7f6877773e791b332a4b25501461887f437b4c42b9ae",
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "summary": "This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its models: GPT-5.6 Sol and an unreleased model that is al",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-03T10:47:47+00:00"
     }
   ]
 }

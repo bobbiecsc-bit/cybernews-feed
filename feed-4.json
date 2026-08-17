@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-16T18:22:05.909092+00:00",
+  "updated": "2026-08-17T01:03:02.562212+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5dba717354aa685dee91e97ba87e82d7fd4c89173573f0561da248b8847fbe99",
+      "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+      "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-07T06:56:56+00:00"
+    },
     {
       "id": "78779d6a9c8be62207fe544821bb682d53254a1d08cc6dd9539e4c606e8f8ab6",
       "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-05T11:35:23+00:00"
-    },
-    {
-      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:04:23+00:00"
     }
   ]
 }
