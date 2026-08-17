@@ -1,10 +1,64 @@
 {
-  "updated": "2026-08-17T12:36:01.554437+00:00",
+  "updated": "2026-08-17T18:33:14.918144+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "36069f37dfa6017d292528387b0134058316f42baa88358384ad8588e7660f17",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T20:10:55+00:00"
+    },
+    {
+      "id": "b566b358a523ac5fac29cc74e2119d8ea7d32570f49eb6fecb7cd0771fa8c95c",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-11T19:45:31+00:00"
+    },
+    {
+      "id": "04af503b5714c1c91b1ef420b979e8ab76508aca412d5498bd1794fe6b37e428",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, w",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-11T19:36:37+00:00"
+    },
+    {
+      "id": "c3cbf789528e9d52652c0972fd41852dbb00a0984adab5ed9ed8f1096c9858b1",
+      "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
+      "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
+      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-11T19:15:00+00:00"
+    },
+    {
+      "id": "be56bbf2c6cceb7decc372833425db1942c7e601f96b8bec2740dbea41f9b056",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T19:08:47+00:00"
+    },
+    {
+      "id": "93c7e955aa53a43b055055cda57da1d08ed1b42c20737b5034074cbf2d53f9eb",
+      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+      "url": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-11T18:46:07+00:00"
+    },
     {
       "id": "cf109a85f8e0dda535e98283d7b43688ed3cc086f136fa081720024e3a00fc3d",
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-10T11:03:55+00:00"
-    },
-    {
-      "id": "49060716e9345ad00d872069f29893070a13629d149c0668d93b8662a18f4957",
-      "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-      "url": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-      "summary": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-10T10:01:52+00:00"
-    },
-    {
-      "id": "3df9f34363e74412af6db85841a66d75fe7193adfb016b6c29095f6cbe9f6883",
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-10T09:49:37+00:00"
-    },
-    {
-      "id": "0e88f54c85680500cccb3d6b2513e3465a5123cbb13c3a6746f69f49c4d71d44",
-      "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-      "summary": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T09:31:51+00:00"
-    },
-    {
-      "id": "6e4380231d05ba8c1197bfa5ed05b89d93a9222c387d6187ddc13ef25211fb78",
-      "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-      "url": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-      "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-10T08:55:44+00:00"
-    },
-    {
-      "id": "4f798185a435c3c056d481fe5516797064130b1b70240c4895831f42db8fb2df",
-      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-      "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-      "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T04:44:32+00:00"
-    },
-    {
-      "id": "efca8e4dba84b56993353b65044f5289dd5cb137ab4e57d45f85c4085816db1f",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-08T14:16:23+00:00"
     }
   ]
 }

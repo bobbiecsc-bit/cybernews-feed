@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-17T12:36:01.554437+00:00",
+  "updated": "2026-08-17T18:33:14.918144+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d56e608f95f70c32a09c9dbfc20f2f9eb721b9a09b75f278cb032cd79f8874e0",
+      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+      "url": "https://therecord.media/safepal-crypto-hardware-breach",
+      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-17T17:00:00+00:00"
+    },
+    {
+      "id": "2ce2b784976c47f8d280028e1ade23a6c5a86e66a2162de8dd4848842c3a4626",
+      "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
+      "url": "https://therecord.media/irregular-ai-hacking-model-blog",
+      "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-17T16:15:00+00:00"
+    },
+    {
+      "id": "467722d0ee14a93a42d1759883512589862fbfff3d3e42e0d0d029dcba45f721",
+      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+      "url": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+      "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-17T16:01:00+00:00"
+    },
+    {
+      "id": "c7510fc0ce5f9849fe105bdfc4435a20126db8d312473006ea423629381e5195",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-17T14:00:10+00:00"
+    },
+    {
+      "id": "f2ae3024ec05f09e450c29c53496451186d9bed7efa3348e2a0590e7a2ae298a",
+      "title": "680,000 Impacted by French Tax Authority Data Breach",
+      "url": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+      "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-17T13:53:55+00:00"
+    },
+    {
+      "id": "74a4bb0aafac04c075f5cb57a883f59f7b6d8034416f77bdb0a1308ab4c170b2",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was alrea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-17T13:23:51+00:00"
+    },
     {
       "id": "24b0f824c27dfb1f94e4388064e3542e9cd8e0d12f884052154a940f5ef270aa",
       "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
@@ -177,7 +231,7 @@
       "id": "b90ffb4f7f9bbf823e49f11ae95d3a66ac8e80844c4faeeacdfacf05688ee354",
       "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
       "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impact",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue imp",
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-15T07:24:04+00:00"
@@ -2197,60 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-04T15:55:00+00:00"
-    },
-    {
-      "id": "dabae787120b338e51b02f7e107d950e83160a8bc57186a4361c1412363d9ede",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-04T15:24:35+00:00"
-    },
-    {
-      "id": "e54ef74d69409201352fd0d859682315bf0bbad757e0df210aeb3f02e600f0c2",
-      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-      "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-      "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T13:54:13+00:00"
-    },
-    {
-      "id": "db6c2ae7b2b21caafca3c0a5c5f9dbfd2f59d470c8992eb4e4f9c38c0494239b",
-      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs lik",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-04T13:11:22+00:00"
-    },
-    {
-      "id": "44c17a442b68172e80a71b41c5182519b76fe5c45ffda1a2d41367f7afed0fbd",
-      "title": "Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected",
-      "url": "https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities",
-      "summary": "The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-04T12:45:00+00:00"
-    },
-    {
-      "id": "06c0ec5ab822387d991e6d45869de17cd760ea18eb9c6a9a58e2f63abdded126",
-      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. I",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-04T11:30:00+00:00"
-    },
-    {
-      "id": "9e22e7c9110b5acde829cd7ed5ded5ee6d68d51d2202dee43c714064b8e3831a",
-      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-04T10:54:30+00:00"
     }
   ]
 }
