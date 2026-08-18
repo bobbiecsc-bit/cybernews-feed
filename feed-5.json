@@ -1,10 +1,100 @@
 {
-  "updated": "2026-08-18T06:36:42.162544+00:00",
+  "updated": "2026-08-18T12:38:05.820819+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8eab464cc4e63c7731109fc3d551bf8eff4cac2b9836eb49651b7aba1fe1092e",
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the conf",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T08:18:35+00:00"
+    },
+    {
+      "id": "ccbc9a4c08a3b29c7b3cbc04bc0ec5814c76578f0dd288bad37855a8cdd8c41b",
+      "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+      "url": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+      "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-07T07:22:05+00:00"
+    },
+    {
+      "id": "5dba717354aa685dee91e97ba87e82d7fd4c89173573f0561da248b8847fbe99",
+      "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+      "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-07T06:56:56+00:00"
+    },
+    {
+      "id": "78779d6a9c8be62207fe544821bb682d53254a1d08cc6dd9539e4c606e8f8ab6",
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is support",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T06:50:05+00:00"
+    },
+    {
+      "id": "67ef6de8627292beeecfedf60fb85154ad7e0ad14fbdcaa9fc8bfe8dde6757aa",
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-06T22:37:17+00:00"
+    },
+    {
+      "id": "cc3545b0d1d0cecc8fc2ddc3566cfb99cecca58f48c0d654a161008e35251d84",
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-06T20:07:24+00:00"
+    },
+    {
+      "id": "453404a975a886681126c7116d5e329b93113230602d9f733a44fcd170857be4",
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T18:14:19+00:00"
+    },
+    {
+      "id": "e04150fe0f1daa409e295f042d2dddc90f5d90ab586f07b9f8c1df338fa433b9",
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-06T18:03:45+00:00"
+    },
+    {
+      "id": "76d72c59e4a3096db7ebdcb3434b6e5685e5a50cf2eda41dd904150d179a9230",
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as&nbsp;CVE-2026-64",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T17:58:30+00:00"
+    },
+    {
+      "id": "66c48fedbb6c00a9768e9fa210a5defdeca697d2a4743bd334e3d0bb58f91b0f",
+      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+      "url": "https://therecord.media/cyberattack-north-carolina-ports",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-06T17:15:00+00:00"
+    },
     {
       "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
       "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-05T11:43:27+00:00"
-    },
-    {
-      "id": "716e0f587a9c7e8e7c69a62d1491a2766949b02521e83489c4b42cf3801bfb54",
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to em",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-05T11:43:19+00:00"
-    },
-    {
-      "id": "00a93ece3753f2f111f85bfe3422f116d92584f01cfd5ccb548c0623b44117fb",
-      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
-      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-05T11:35:23+00:00"
-    },
-    {
-      "id": "53e4a2d1364299370a26d925798da07131943729ec7aea4434d13b35960ddc55",
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read f",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:04:23+00:00"
-    },
-    {
-      "id": "b4f3d444777d8f3bda2c06530f6191bd9fd480f2d5abb4167e64d8d717604c1c",
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-05T10:35:29+00:00"
-    },
-    {
-      "id": "6b629757533608da1662ecaa9de65b23ceeb17384ebd24e69fb6a38fc2dbb20f",
-      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-05T09:44:50+00:00"
-    },
-    {
-      "id": "3d50751ddee0fc9cb04cce199eaac0373d50f8f4e6a191cf55275b6aa890b2ed",
-      "title": "Vulnerabilities in Car Anti-Theft Device",
-      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-      "summary": "This is disturbing: &#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to si",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-05T09:42:43+00:00"
-    },
-    {
-      "id": "79cdb252bae3e478010234b165e7ceb686967de379be456749270f55c721be15",
-      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
-      "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-05T08:56:58+00:00"
-    },
-    {
-      "id": "359c14ceebc6119f38da1e5ed36b39a05356b483a4ec9c9476fc0b12d0bd5b1e",
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T07:53:50+00:00"
-    },
-    {
-      "id": "df47d13d8d896952ed574eb2d8872c90227f2778ca47922fae3c79c68d0fa5c4",
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code inject",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T07:40:39+00:00"
-    },
-    {
-      "id": "2efc51fb7134378b39150c1a2fea46b2a75386375709c71b99f61c5c736ba3d9",
-      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
-      "url": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
-      "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-05T07:24:52+00:00"
     }
   ]
 }
