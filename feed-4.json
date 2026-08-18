@@ -1,10 +1,82 @@
 {
-  "updated": "2026-08-17T18:33:14.918144+00:00",
+  "updated": "2026-08-18T01:00:49.316313+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "753c34fb35bec1860fc67963366142c30ac5f8850ed0fe80a322bfa421054040",
+      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
+      "url": "https://therecord.media/china-hackers-ransomware-microsoft",
+      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-10T13:15:00+00:00"
+    },
+    {
+      "id": "b5619b22fdd703630246a9a8a65b275ff3e8a2b5a6df192014683e7bf9f4ad63",
+      "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+      "url": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+      "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post &#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-10T12:59:34+00:00"
+    },
+    {
+      "id": "bf7fdcbda684378647369aa92d335f504020d6c1da2a8d29b87a7a0c1b423ad0",
+      "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
+      "url": "https://therecord.media/new-zealand-russian-hackers-sanctions",
+      "summary": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-10T12:30:00+00:00"
+    },
+    {
+      "id": "cdcb04f053b50d7b593de00f643c86b8b00eb828491e5c6be76f990f355b3930",
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abuse",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-10T12:25:04+00:00"
+    },
+    {
+      "id": "3603f0bf7b4e68ebe7fe589c8d07c6ae411b9529fe5f8dee709e3ab30a9e79d1",
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-10T11:47:55+00:00"
+    },
+    {
+      "id": "3f88238a1d821954404b26590cca0c9da64de8cd68fc565cdeb1ea232910e394",
+      "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+      "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+      "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-10T11:44:26+00:00"
+    },
+    {
+      "id": "8cd19c7c9cd43bd13e6088bc5d9db25603b1ddf2466fba6c56c4119a2b2d4086",
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-10T11:33:41+00:00"
+    },
+    {
+      "id": "3fbf5e4cd0e53120d439f1bf0acb202ee65e959cad60f7f89c0ebc6990d073e6",
+      "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+      "url": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+      "summary": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-10T11:03:55+00:00"
+    },
     {
       "id": "49060716e9345ad00d872069f29893070a13629d149c0668d93b8662a18f4957",
       "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
@@ -382,78 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-06T17:15:00+00:00"
-    },
-    {
-      "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-06T17:13:15+00:00"
-    },
-    {
-      "id": "58eb3ce5569a189e46a004213c41b56d2a8602c129fd65c6bf379e03f9c17af1",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "id": "23bdedbf23716bd51b26eb6973f473cea77602f33ff73916ecd6a880ab8a2c7b",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECT",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-06T16:17:13+00:00"
-    },
-    {
-      "id": "dc7a67c37196dcfa24966a3c982132a4f342eb997a99c2425cada0feeb9308a1",
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-06T16:11:39+00:00"
-    },
-    {
-      "id": "8347f09debcf9426794d1e121ac966d13aeabba37c3d4c0b06dd3f0d8f5aa027",
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-06T15:24:31+00:00"
-    },
-    {
-      "id": "4f0c336410c07297ab9d4979f33b4469e7f89a15541a311f9501f4a9d1b83bec",
-      "title": "Snowflake Hacker Pleads Guilty in US Court",
-      "url": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-      "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-06T14:56:31+00:00"
-    },
-    {
-      "id": "2a18cdb7ff80a1e4b7159eec0995e5e1633d0e96d9295edffe070fddc28e8ed8",
-      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
-      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced",
-      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-08-06T13:15:00+00:00"
-    },
-    {
-      "id": "9af1639880b200a807feafe8e7bec6b40aa8a6d7da2fe8e34b7d236c8d4e1afb",
-      "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-      "url": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-      "summary": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-06T12:54:09+00:00"
     }
   ]
 }

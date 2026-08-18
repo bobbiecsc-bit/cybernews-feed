@@ -1,10 +1,82 @@
 {
-  "updated": "2026-08-17T18:33:14.918144+00:00",
+  "updated": "2026-08-18T01:00:49.316313+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "928199c4605279dbdca573b5c03fce9902c88f301b67db04e3d0afffd41dded1",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Softwa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-06T17:13:15+00:00"
+    },
+    {
+      "id": "58eb3ce5569a189e46a004213c41b56d2a8602c129fd65c6bf379e03f9c17af1",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar",
+      "source": "Krebs on Security",
+      "category": "threat",
+      "date": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "id": "23bdedbf23716bd51b26eb6973f473cea77602f33ff73916ecd6a880ab8a2c7b",
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECT",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-06T16:17:13+00:00"
+    },
+    {
+      "id": "dc7a67c37196dcfa24966a3c982132a4f342eb997a99c2425cada0feeb9308a1",
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-06T16:11:39+00:00"
+    },
+    {
+      "id": "8347f09debcf9426794d1e121ac966d13aeabba37c3d4c0b06dd3f0d8f5aa027",
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-06T15:24:31+00:00"
+    },
+    {
+      "id": "4f0c336410c07297ab9d4979f33b4469e7f89a15541a311f9501f4a9d1b83bec",
+      "title": "Snowflake Hacker Pleads Guilty in US Court",
+      "url": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
+      "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T14:56:31+00:00"
+    },
+    {
+      "id": "2a18cdb7ff80a1e4b7159eec0995e5e1633d0e96d9295edffe070fddc28e8ed8",
+      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced",
+      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-08-06T13:15:00+00:00"
+    },
+    {
+      "id": "9af1639880b200a807feafe8e7bec6b40aa8a6d7da2fe8e34b7d236c8d4e1afb",
+      "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
+      "url": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
+      "summary": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-06T12:54:09+00:00"
+    },
     {
       "id": "5ebab680430f16a7131701f4013a11c087ca341f5ec745541f89fa7906abc853",
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-08-05T07:24:52+00:00"
-    },
-    {
-      "id": "81a8a88680d37b170d3ccf6bc24b0c5aef6583cf32a84a18fc980273db5fcf8b",
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing si",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T05:47:19+00:00"
-    },
-    {
-      "id": "ab3159d443b1d305ea10f30e5f257ec251e1d992f07e55af067b928de9f6cfdf",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T23:39:59+00:00"
-    },
-    {
-      "id": "6e88043f8643dbf3a8ec4301dccfd599775876aa72a1cdc1f9ed1c530a9a62e0",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-04T22:18:20+00:00"
-    },
-    {
-      "id": "27d1686feff412b6ab4d1c9d5db291cbec047377ad660619e5a9a17cba647bc5",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-04T21:45:36+00:00"
-    },
-    {
-      "id": "836ef3adc75c0596a7e7b85010cb6c59da0bd222990d1890da6ef261a38d2346",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-04T19:03:09+00:00"
-    },
-    {
-      "id": "f9e8990175012b1d69da80caa9cd85a4c0c21092cd6ebdb6ee52f3bf70d523da",
-      "title": "Iran Cyberattacks Against Minnesota Water Systems",
-      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-      "summary": "Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn&#8217;t believe it&#8217;s Iran and thinks Minnesota&#8230;I guess&#8230;hacked itself. &#8220;I t",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-04T19:00:53+00:00"
-    },
-    {
-      "id": "bc208a99b0f1cf428b4a11d5001af7a80e12beb6d9388ef77159f6dffd780473",
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and sei",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-04T17:27:39+00:00"
-    },
-    {
-      "id": "e53eb847ac65b3fdb8d8e5f36ff93be69ac71ad72b58ad1bf4426095877f329f",
-      "title": "Polish convenience store chain Żabka hacked through third-party account",
-      "url": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
-      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-04T15:55:00+00:00"
     }
   ]
 }
