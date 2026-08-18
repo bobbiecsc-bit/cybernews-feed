@@ -1,10 +1,100 @@
 {
-  "updated": "2026-08-18T12:38:05.820819+00:00",
+  "updated": "2026-08-18T18:32:23.649240+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "005c5ebee9c69e3424b87ec835a4e33a0a25eb181d6434b457f9174bea842b01",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-07T14:00:10+00:00"
+    },
+    {
+      "id": "6c224cf28d7fd402ee4637d5ad764f882b188b790afe19476d4d0a70170d026b",
+      "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
+      "url": "https://therecord.media/levis-data-breach-social-engineering",
+      "summary": "Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-07T13:35:00+00:00"
+    },
+    {
+      "id": "278baa51bdae89fa57e8dbf598cb2f8b9f604cd289835a2be57fbe768e20daef",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-07T13:34:40+00:00"
+    },
+    {
+      "id": "38709a9cedbfb5509fca40c75a40839b8f811d6169792f57374f5ba4b5d40f67",
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T12:56:23+00:00"
+    },
+    {
+      "id": "f801e0519d7aff32262688ac2675565c3507ca46a1a3f616635ff0c80fe3361c",
+      "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
+      "url": "https://therecord.media/french-rugby-club-restores-systems-after-cyberattack",
+      "summary": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain fully operational.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "id": "897a98755e75ee3ffcc0387b88b07237b13fc9bd132793d3a3bbc0ab49859561",
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-07T11:10:33+00:00"
+    },
+    {
+      "id": "db7fd783f4de3ba0565565c4711cd7e3c122ac45e93092d1bed50afcad9c2029",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called&nbsp;NatJack&nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the resear",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:58:38+00:00"
+    },
+    {
+      "id": "e7fa1f5e0b0290eb3e136585607c6ec4ff8d255410afed6031877a5ce61788eb",
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"T",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-07T10:38:27+00:00"
+    },
+    {
+      "id": "862642bee841f0265480a7c64a273d532a62d63a2cb440276aec2147ea8e19d9",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-07T10:09:54+00:00"
+    },
+    {
+      "id": "2749aa1817e210383a8864db42dab34bfbc86483b912d384caa9d02d19a0a68e",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, o",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-07T08:52:11+00:00"
+    },
     {
       "id": "8eab464cc4e63c7731109fc3d551bf8eff4cac2b9836eb49651b7aba1fe1092e",
       "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-08-05T15:51:33+00:00"
-    },
-    {
-      "id": "45c69e058649c376d611ed04636c19bc537e8b631fcca110be2a9e62d4c81034",
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (L",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-05T15:36:03+00:00"
-    },
-    {
-      "id": "0edaefefe6d3d073166eb96f9399cf72c446f59220e04233f0ba781f505e58bd",
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expos",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T15:14:05+00:00"
-    },
-    {
-      "id": "e88bd75e7d8251486352fa8e1ab969e2a0477b31950d01f2b9c860ed6aab0408",
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-05T14:59:29+00:00"
-    },
-    {
-      "id": "bf12718855e8aa2ad5138a0059961091e5047c7efebbc1e0e29977f5ed6f3743",
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant fla",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T14:27:30+00:00"
-    },
-    {
-      "id": "75eec0e8b4a4109f05c45ae20da1fb7a8f7f836aa41b63edbbbc8028edf44e43",
-      "title": "How AI-powered phishing killed blocklists for good",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-05T14:01:11+00:00"
-    },
-    {
-      "id": "5f87ddc8febb691c29a75f40f742cd63db3e6abaed44937f16d82840a9b16da2",
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "id": "66d9046cc862a96644b42c0a4e68727d23e9e49fc401e1a22c69cc2c46b55e88",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojani",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T13:41:27+00:00"
-    },
-    {
-      "id": "43c319194eea99a3278ad28fbcceefabd461ae202723fd7e965ed0e14292556a",
-      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-      "url": "https://therecord.media/anthropic-ai-hacking-uk",
-      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "id": "8d9c9502846e71d63a31311c69d282bfe1f19c5b3d24e1e94bcb80160f8b9eee",
-      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
-      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
-      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-05T12:48:49+00:00"
-    },
-    {
-      "id": "8cfe78538442a3b78be2b58ec0acc4fc4e075bfebc1de006529bb8e73e6b4fe8",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-05T11:43:27+00:00"
     }
   ]
 }
