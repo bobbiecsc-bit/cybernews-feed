@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T18:32:23.649240+00:00",
+  "updated": "2026-08-19T01:01:48.192232+00:00",
   "total": 250,
   "articles": [
     {
@@ -12,6 +12,24 @@
       "date": "2026-08-18T18:05:00+00:00"
     },
     {
+      "id": "3db875d507ead183425238592e7e7e9e06c36d98664004f5c126076d236cff56",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively nam",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-18T17:47:22+00:00"
+    },
+    {
+      "id": "c960f83a4e1fa057ee9ce7782752c922481784f6c227255a8f2d2890244ae96a",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to inde",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-18T17:44:05+00:00"
+    },
+    {
       "id": "851d3dad36226e49bb1489a1c70c9cc09016474645aa27f3a80b0a78cafca5f5",
       "title": "Clop created custom web shell for Windchill data theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
@@ -19,6 +37,15 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-08-18T17:29:51+00:00"
+    },
+    {
+      "id": "ee1a3760dd26f889c52b6bf09c00c2a9b227829126d92799560a9da282e772dd",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the vict",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-18T16:58:16+00:00"
     },
     {
       "id": "be71396d8c28735793131f917fa85c4fad2e11ecec068f376c56da83f5376364",
@@ -2224,33 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-05T19:40:00+00:00"
-    },
-    {
-      "id": "f35a2396c40124f822cb24889e849e983766f7214b99f2ef949087d18847ce8d",
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawl",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-05T18:44:31+00:00"
-    },
-    {
-      "id": "b8de3a001b73a65e9bf94009f7af1eb730cc5d11b4638c450f25b2a48b2caba4",
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-05T17:49:41+00:00"
-    },
-    {
-      "id": "4dcce587c04dd0d3f53eb4b8bd75ba0ee9fcd635c33ab9ec36d69778b50b3a6f",
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-05T15:51:33+00:00"
     }
   ]
 }
