@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-19T18:28:54.437847+00:00",
+  "updated": "2026-08-20T01:01:38.413736+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2b2f8778b75699ef0680f57bded93846b5f4bf8389268c665ff00bcfe1dae6bb",
+      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-19T20:59:58+00:00"
+    },
+    {
+      "id": "fd9aa5790c84cee249d9f94d7e0fd9e05878dd87e05ef19cdfccaf19b4ef1db0",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-19T20:07:12+00:00"
+    },
+    {
+      "id": "ef4c1d5e9e0fb7ea9b29a64b658e252fb34ce65e5d2458f8bdda0b67a6ad3dfd",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The en",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-19T19:02:40+00:00"
+    },
     {
       "id": "fee6e70fa8084a6cba458c824757ede3912226bf44d5d55f6cf7c4c42ff082de",
       "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-17T20:05:00+00:00"
-    },
-    {
-      "id": "51cdb8f86fccc11b5506fd614233cccc1ceaf32deaddc896afe86c297afa689e",
-      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-17T19:35:01+00:00"
-    },
-    {
-      "id": "e4644ae7413d4b4a57516eff5ff59748d2f9ae6e5d526a5b34e84eccf8a5f304",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-17T19:12:39+00:00"
-    },
-    {
-      "id": "499cd8c9d62306bc77f551b5cf26dc561c207aa964fa87b3ae8e141a4e3355c0",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "summary": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Ji",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-17T18:44:17+00:00"
     }
   ]
 }

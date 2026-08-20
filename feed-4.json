@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-19T18:28:54.437847+00:00",
+  "updated": "2026-08-20T01:01:38.413736+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1fa2facc3f30d0ff9e02d691c38cf52a0498d3220dc26d91b0824d4249a65ee1",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checki",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T06:15:58+00:00"
+    },
+    {
+      "id": "fb25ddb821729790fa2ac2b8db5c27d53a199d3fc106e493ddc68c0c28ddf5fa",
+      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+      "url": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+      "summary": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-12T05:10:47+00:00"
+    },
+    {
+      "id": "00914884b0e1da5a620dc88575f79c1728aae7e7024d49ae6a65498cdcf5c8f6",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-11T22:15:22+00:00"
+    },
     {
       "id": "215b91448d4dcac63401a2e548b268e9d5c33c947d306527c444e9b6e89c0561",
       "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-10T12:30:00+00:00"
-    },
-    {
-      "id": "cdcb04f053b50d7b593de00f643c86b8b00eb828491e5c6be76f990f355b3930",
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abuse",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-10T12:25:04+00:00"
-    },
-    {
-      "id": "3603f0bf7b4e68ebe7fe589c8d07c6ae411b9529fe5f8dee709e3ab30a9e79d1",
-      "title": "Valve notifies Steam hardware customers of a data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-10T11:47:55+00:00"
-    },
-    {
-      "id": "3f88238a1d821954404b26590cca0c9da64de8cd68fc565cdeb1ea232910e394",
-      "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
-      "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
-      "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-10T11:44:26+00:00"
     }
   ]
 }
