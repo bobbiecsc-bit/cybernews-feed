@@ -1,10 +1,100 @@
 {
-  "updated": "2026-08-21T12:38:41.305357+00:00",
+  "updated": "2026-08-21T18:31:16.610300+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "10d27d7e5b0ddefe0ee8180f4b26f215c516cc41a9145d91d1724da1efd0dcbd",
+      "title": "Ukrainian software developer faces 12 years in Swiss ransomware trial",
+      "url": "https://therecord.media/ukrainian-software-developer-court-switzerland",
+      "summary": "The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-08-17T23:00:00+00:00"
+    },
+    {
+      "id": "7ed54789e434b230d764376ab83cac1ace6fae0f18e56d39a1248cd97e24e9ef",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-17T21:03:04+00:00"
+    },
+    {
+      "id": "d66b2e35f3f38931473b8e68790cb577b0245159dd5d9c998a40451a0e50ec34",
+      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+      "url": "https://isc.sans.edu/diary/rss/33254",
+      "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-08-17T20:26:39+00:00"
+    },
+    {
+      "id": "6884563c23a1f0c1248e63f07eb0be9672d9b091ce9cc015204175bb49db2f40",
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "url": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "summary": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-17T20:05:00+00:00"
+    },
+    {
+      "id": "51cdb8f86fccc11b5506fd614233cccc1ceaf32deaddc896afe86c297afa689e",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-17T19:35:01+00:00"
+    },
+    {
+      "id": "e4644ae7413d4b4a57516eff5ff59748d2f9ae6e5d526a5b34e84eccf8a5f304",
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-17T19:12:39+00:00"
+    },
+    {
+      "id": "499cd8c9d62306bc77f551b5cf26dc561c207aa964fa87b3ae8e141a4e3355c0",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "summary": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Ji",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-17T18:44:17+00:00"
+    },
+    {
+      "id": "b83af1627135ddf9c33201da2a90af65f3d73ea1773727303b6fecddd23908dd",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scorin",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-17T18:22:09+00:00"
+    },
+    {
+      "id": "788b4d9b4fc14739feb63e0e07caf8893ba77ed7b23b245463c469b743cb759f",
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-17T17:41:06+00:00"
+    },
+    {
+      "id": "d56e608f95f70c32a09c9dbfc20f2f9eb721b9a09b75f278cb032cd79f8874e0",
+      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+      "url": "https://therecord.media/safepal-crypto-hardware-breach",
+      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-17T17:00:00+00:00"
+    },
     {
       "id": "2ce2b784976c47f8d280028e1ade23a6c5a86e66a2162de8dd4848842c3a4626",
       "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
@@ -364,96 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-14T10:24:03+00:00"
-    },
-    {
-      "id": "d6d5f2b7f81e29eb830216f5e7966c9e359490baa23f2de9ce993e9983ed16d3",
-      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-      "url": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T09:20:28+00:00"
-    },
-    {
-      "id": "6b8fef3ef86eff0160f329c1c0fc58558e445e6d37630d469b0c8a0f78d3a927",
-      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-      "url": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-      "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T08:16:00+00:00"
-    },
-    {
-      "id": "8fdaa82dbfebac00ea3d908a29c294dfa5e0af4c09db592eb229b19b8613aa4e",
-      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
-      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
-      "summary": "The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud. \"Both missions are administered from a single control panel, XG-Web, a browser-centric remote-access ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-14T07:54:18+00:00"
-    },
-    {
-      "id": "f83a252b76c93aa0d233b7f610689115e0667b84bf31a5c7326c1c363e3bc86c",
-      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-      "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T07:01:56+00:00"
-    },
-    {
-      "id": "cdcfdf45252c2c94c64f6711b5fd14300833575aebb40fe7d0384e471a6a8a38",
-      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-      "url": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-14T06:41:43+00:00"
-    },
-    {
-      "id": "df1d901c6dd98219730514e92e9d56d2484d80c143b9072a7217c06c5918cf9b",
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-14T01:19:12+00:00"
-    },
-    {
-      "id": "dace2be75c679582e7bde2b1fd72dfe5ef143ab35102b84a84586b97f6fafc12",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-13T20:47:02+00:00"
-    },
-    {
-      "id": "92db34388e8952707d9aa67bb234cea33af5a1ebc69ef6b21c627be0eb705d4b",
-      "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-      "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead to remote code execution (RCE). The security defect remains",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-13T18:45:12+00:00"
-    },
-    {
-      "id": "fb164264aae8e9e0715d55cdce20f5c10711939437ed7960a67869e4df5448bc",
-      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-      "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new attack methods. The latest ThreatsDay Bulletin puts all of these short updates in ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-13T18:17:10+00:00"
-    },
-    {
-      "id": "209727c80af4506282ad37d36ac6736a248b463b229ff5112e727e418a17e9d7",
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-13T18:15:19+00:00"
     }
   ]
 }

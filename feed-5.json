@@ -1,10 +1,100 @@
 {
-  "updated": "2026-08-21T12:38:41.305357+00:00",
+  "updated": "2026-08-21T18:31:16.610300+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ef7a70b327b6f817b5afd34559ddd28cae1ffb70f4ac9517dc78f4d3eef02e3a",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it ob",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-12T08:04:52+00:00"
+    },
+    {
+      "id": "c0354b09ca60572e558739ef8f3e893a84e4851e12946ca7c9aa81c6e105d74b",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T07:31:40+00:00"
+    },
+    {
+      "id": "85afa659dd10b426d39170cb3a8f6bb853529d2ea756cea856528d7d280ec97c",
+      "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
+      "url": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
+      "summary": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data. The post SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-12T07:31:11+00:00"
+    },
+    {
+      "id": "b5ba4ab6c3715e148a67efd1dd65fd15f4b4c21b082c925c51d2118f288535f2",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T06:41:38+00:00"
+    },
+    {
+      "id": "1fa2facc3f30d0ff9e02d691c38cf52a0498d3220dc26d91b0824d4249a65ee1",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checki",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T06:15:58+00:00"
+    },
+    {
+      "id": "fb25ddb821729790fa2ac2b8db5c27d53a199d3fc106e493ddc68c0c28ddf5fa",
+      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+      "url": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+      "summary": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-12T05:10:47+00:00"
+    },
+    {
+      "id": "00914884b0e1da5a620dc88575f79c1728aae7e7024d49ae6a65498cdcf5c8f6",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-11T22:15:22+00:00"
+    },
+    {
+      "id": "215b91448d4dcac63401a2e548b268e9d5c33c947d306527c444e9b6e89c0561",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-08-11T21:28:35+00:00"
+    },
+    {
+      "id": "4cc0270f88d8d7c11cb7edfe03bb22ff9a11457c50f402325c75d2a152d0adb5",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-11T21:07:24+00:00"
+    },
+    {
+      "id": "36069f37dfa6017d292528387b0134058316f42baa88358384ad8588e7660f17",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-11T20:10:55+00:00"
+    },
     {
       "id": "b566b358a523ac5fac29cc74e2119d8ea7d32570f49eb6fecb7cd0771fa8c95c",
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
@@ -364,96 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-10T14:07:48+00:00"
-    },
-    {
-      "id": "e4cbe4f1c2f955e0940f09e86e40faa8d2ca9880097d151b5998686fb6f261c8",
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-10T13:19:58+00:00"
-    },
-    {
-      "id": "753c34fb35bec1860fc67963366142c30ac5f8850ed0fe80a322bfa421054040",
-      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
-      "url": "https://therecord.media/china-hackers-ransomware-microsoft",
-      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-10T13:15:00+00:00"
-    },
-    {
-      "id": "b5619b22fdd703630246a9a8a65b275ff3e8a2b5a6df192014683e7bf9f4ad63",
-      "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
-      "url": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
-      "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post &#8216;Ghostjacking&#8217; Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-10T12:59:34+00:00"
-    },
-    {
-      "id": "bf7fdcbda684378647369aa92d335f504020d6c1da2a8d29b87a7a0c1b423ad0",
-      "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
-      "url": "https://therecord.media/new-zealand-russian-hackers-sanctions",
-      "summary": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-10T12:30:00+00:00"
-    },
-    {
-      "id": "cdcb04f053b50d7b593de00f643c86b8b00eb828491e5c6be76f990f355b3930",
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abuse",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-10T12:25:04+00:00"
-    },
-    {
-      "id": "3603f0bf7b4e68ebe7fe589c8d07c6ae411b9529fe5f8dee709e3ab30a9e79d1",
-      "title": "Valve notifies Steam hardware customers of a data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-10T11:47:55+00:00"
-    },
-    {
-      "id": "3f88238a1d821954404b26590cca0c9da64de8cd68fc565cdeb1ea232910e394",
-      "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
-      "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
-      "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-10T11:44:26+00:00"
-    },
-    {
-      "id": "8cd19c7c9cd43bd13e6088bc5d9db25603b1ddf2466fba6c56c4119a2b2d4086",
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-10T11:33:41+00:00"
-    },
-    {
-      "id": "3fbf5e4cd0e53120d439f1bf0acb202ee65e959cad60f7f89c0ebc6990d073e6",
-      "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
-      "summary": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T11:03:55+00:00"
-    },
-    {
-      "id": "49060716e9345ad00d872069f29893070a13629d149c0668d93b8662a18f4957",
-      "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-      "url": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-      "summary": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-10T10:01:52+00:00"
     }
   ]
 }
