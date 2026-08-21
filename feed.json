@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-21T06:39:24.661861+00:00",
+  "updated": "2026-08-21T12:38:41.305357+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ba35d7fbce4df70982b5e74827c5abdea4615cedd533348acf82a06c021351e9",
+      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-21T12:26:07+00:00"
+    },
+    {
+      "id": "7cc11dd0cff08b096d8f65b5c454b205cb3fa4966af833aac4a8561e5910e60a",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-21T12:25:33+00:00"
+    },
+    {
+      "id": "4afb6e3d2eca76f5c670cb558e369bbf561ebf7b200dd98c7284f9ebaec159d1",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-21T11:04:10+00:00"
+    },
+    {
+      "id": "24de1cffcbc07daec81b711d710a6f49785abd62639c31d0e66f927f829c3080",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-21T11:00:00+00:00"
+    },
+    {
+      "id": "c28837178a4227a5e1577f08ced77303cac141fd24e9ef44b26433418f809bcb",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-21T10:10:42+00:00"
+    },
+    {
+      "id": "51c8d451f6eb936f08ac5896a1750c12da7e141e9f9725afb92cfa08808f1ad2",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardle",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T10:03:11+00:00"
+    },
+    {
+      "id": "5c4e2cd6076c559a19425695285cd5b81b9fa76b37028ee8d625d05c70917e20",
+      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-21T09:23:18+00:00"
+    },
+    {
+      "id": "be976adb7e03a07dd6681910428daa7cc7d92f1d4c0edcb580eef374c2740995",
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-21T07:25:50+00:00"
+    },
+    {
+      "id": "7850fb529146db3c12d4cf5a98b147555d2f1ab06cd7f89f81b1ea355605c5ff",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly acce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T07:04:25+00:00"
+    },
     {
       "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -373,87 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-19T17:58:00+00:00"
-    },
-    {
-      "id": "71fc6995d69ed28f123ba95dec10e8b3a60e47f7ef51338880ebe19563d93d40",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T17:50:01+00:00"
-    },
-    {
-      "id": "3480c475467139bf896135c07a7dd6dc90b80edf42513783bae0a3602546295d",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T14:00:10+00:00"
-    },
-    {
-      "id": "bf397175c1c085ce3cdd9c7607b3e1b31e45c00032f7da7dd88681db0aef4f02",
-      "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
-      "url": "https://therecord.media/latvia-cyberattack-vehicle-data",
-      "summary": "Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T13:45:00+00:00"
-    },
-    {
-      "id": "9382709941ad2fa7c1c57683d2b0b0840b7d85da69fba850722b30c607cbad40",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, Gogi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-19T13:12:17+00:00"
-    },
-    {
-      "id": "22071988be8ffce72624a2d7136e59d73b7f4f15e71766653b94914ecf70cbca",
-      "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
-      "url": "https://therecord.media/iran-cyberattacks-us-doj",
-      "summary": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T12:15:00+00:00"
-    },
-    {
-      "id": "b3d652ff51df4921b73299dc9d166d190f2e64f35cdb93b0ebdd46157053bdd0",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T11:34:28+00:00"
-    },
-    {
-      "id": "276b26abd3af99ec56ad6b4b5d895d9409fbbe5cd66b276f9a6c3c85de3250eb",
-      "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-      "url": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-      "summary": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-19T11:30:33+00:00"
-    },
-    {
-      "id": "d147b16777527f66ac8b7744056a62edd685ce4be87664791ede43d71748d563",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operat",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T11:25:28+00:00"
-    },
-    {
-      "id": "173d12f138e8f124d13bec7fdc2d42798ec94cfbf9ae14416babbec83306ce7c",
-      "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
-      "url": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-      "summary": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-19T11:07:21+00:00"
     }
   ]
 }

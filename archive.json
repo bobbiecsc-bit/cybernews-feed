@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-21T06:39:24.661861+00:00",
+  "updated": "2026-08-21T12:38:41.305357+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ba35d7fbce4df70982b5e74827c5abdea4615cedd533348acf82a06c021351e9",
+      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-21T12:26:07+00:00"
+    },
+    {
+      "id": "7cc11dd0cff08b096d8f65b5c454b205cb3fa4966af833aac4a8561e5910e60a",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-21T12:25:33+00:00"
+    },
+    {
+      "id": "4afb6e3d2eca76f5c670cb558e369bbf561ebf7b200dd98c7284f9ebaec159d1",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-21T11:04:10+00:00"
+    },
+    {
+      "id": "24de1cffcbc07daec81b711d710a6f49785abd62639c31d0e66f927f829c3080",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-21T11:00:00+00:00"
+    },
+    {
+      "id": "c28837178a4227a5e1577f08ced77303cac141fd24e9ef44b26433418f809bcb",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-21T10:10:42+00:00"
+    },
+    {
+      "id": "51c8d451f6eb936f08ac5896a1750c12da7e141e9f9725afb92cfa08808f1ad2",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardle",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T10:03:11+00:00"
+    },
+    {
+      "id": "5c4e2cd6076c559a19425695285cd5b81b9fa76b37028ee8d625d05c70917e20",
+      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-21T09:23:18+00:00"
+    },
+    {
+      "id": "be976adb7e03a07dd6681910428daa7cc7d92f1d4c0edcb580eef374c2740995",
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-21T07:25:50+00:00"
+    },
+    {
+      "id": "7850fb529146db3c12d4cf5a98b147555d2f1ab06cd7f89f81b1ea355605c5ff",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly acce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T07:04:25+00:00"
+    },
     {
       "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -2170,87 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-10T10:01:52+00:00"
-    },
-    {
-      "id": "3df9f34363e74412af6db85841a66d75fe7193adfb016b6c29095f6cbe9f6883",
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-10T09:49:37+00:00"
-    },
-    {
-      "id": "0e88f54c85680500cccb3d6b2513e3465a5123cbb13c3a6746f69f49c4d71d44",
-      "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-      "summary": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T09:31:51+00:00"
-    },
-    {
-      "id": "6e4380231d05ba8c1197bfa5ed05b89d93a9222c387d6187ddc13ef25211fb78",
-      "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-      "url": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-      "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-10T08:55:44+00:00"
-    },
-    {
-      "id": "4f798185a435c3c056d481fe5516797064130b1b70240c4895831f42db8fb2df",
-      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-      "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-      "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-10T04:44:32+00:00"
-    },
-    {
-      "id": "efca8e4dba84b56993353b65044f5289dd5cb137ab4e57d45f85c4085816db1f",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-08T14:16:23+00:00"
-    },
-    {
-      "id": "8ce9e4d219e1f1ccc2cf9e20c70cb3074d87b288dce39b19cabc85199c8280be",
-      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-      "url": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-08T11:30:00+00:00"
-    },
-    {
-      "id": "ab2cf02445d4050eb2a042ccfbda3d29515934a092e115467cc449c3b608854a",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArm",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-08T08:54:50+00:00"
-    },
-    {
-      "id": "92a77f3ffeabd187872485bbaa3fcc2f67567145007d337d9da0abe0b55602a9",
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijac",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-08T08:03:57+00:00"
-    },
-    {
-      "id": "ecc4777c9ae87466f333c26238c4e461dc2f07715990b822776d4cab3300e5d6",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker t",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-08T06:58:31+00:00"
     }
   ]
 }
