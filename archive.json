@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-21T01:04:42.031907+00:00",
+  "updated": "2026-08-21T06:39:24.661861+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's clou",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T06:06:11+00:00"
+    },
     {
       "id": "41850b0deaa2721c28cf98877ea6a8396886477f723b14ee0e1afdadcb0ebc52",
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
@@ -49,7 +58,7 @@
     },
     {
       "id": "50bcfcb6813f9394c79e5c5e77c8a7c9c5cb6949d7123e7f3d8e3f1318f4afbc",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-a",
       "source": "The Hacker News",
@@ -2242,15 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-08T06:58:31+00:00"
-    },
-    {
-      "id": "62e6df9d879f730cdaa0ccc24d00864aa5ccdef478a11c65264a350e9c008fcc",
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-08T06:57:43+00:00"
     }
   ]
 }
