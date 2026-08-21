@@ -1,10 +1,37 @@
 {
-  "updated": "2026-08-20T18:33:13.395776+00:00",
+  "updated": "2026-08-21T01:04:42.031907+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "41850b0deaa2721c28cf98877ea6a8396886477f723b14ee0e1afdadcb0ebc52",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-20T20:22:35+00:00"
+    },
+    {
+      "id": "42c3afc04079c9f579ba9befa22640bb84de8c15215e93bbb80aef950e7247c0",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These c",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-20T19:59:19+00:00"
+    },
+    {
+      "id": "2467443b79467efa179c0f42cd8344926a643dc24fff9029adb988e2b77826f0",
+      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+      "url": "https://therecord.media/china-cyber-espionage-central-asia",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-20T19:30:00+00:00"
+    },
     {
       "id": "000b292e537a8c938537255748c377190d47b48b8f300b8f637871eb24cf362b",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
@@ -22,6 +49,15 @@
       "source": "Schneier on Security",
       "category": "threat",
       "date": "2026-08-20T17:44:36+00:00"
+    },
+    {
+      "id": "50bcfcb6813f9394c79e5c5e77c8a7c9c5cb6949d7123e7f3d8e3f1318f4afbc",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-20T17:23:48+00:00"
     },
     {
       "id": "827ef3b45efd4e47181c51e48a7f400d24b257aef6542015deb2ce6aab9c8f24",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-19T11:01:48+00:00"
-    },
-    {
-      "id": "199268630adeaa8db4f70615af7e2a800aef45f42ba4e3a55c240d7f0191f415",
-      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:37:31+00:00"
-    },
-    {
-      "id": "3fe1d408edde676ba8d6b5c10d6389428aca48d37afff407374756689abbcaf0",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:12:24+00:00"
-    },
-    {
-      "id": "8c7fee1db91f556f7b51cedbc07cd91694f024873f517ed7685b0c2151ef24eb",
-      "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
-      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-      "summary": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T09:14:51+00:00"
-    },
-    {
-      "id": "3383e6d1162ff098d413110b54e0fc5b89f7111e75746a0c64f672480cf2bf84",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T08:19:09+00:00"
     }
   ]
 }

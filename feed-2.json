@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-20T18:33:13.395776+00:00",
+  "updated": "2026-08-21T01:04:42.031907+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "199268630adeaa8db4f70615af7e2a800aef45f42ba4e3a55c240d7f0191f415",
+      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-19T10:37:31+00:00"
+    },
+    {
+      "id": "3fe1d408edde676ba8d6b5c10d6389428aca48d37afff407374756689abbcaf0",
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-19T10:12:24+00:00"
+    },
+    {
+      "id": "8c7fee1db91f556f7b51cedbc07cd91694f024873f517ed7685b0c2151ef24eb",
+      "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
+      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
+      "summary": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-19T09:14:51+00:00"
+    },
+    {
+      "id": "3383e6d1162ff098d413110b54e0fc5b89f7111e75746a0c64f672480cf2bf84",
+      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-19T08:19:09+00:00"
+    },
     {
       "id": "5ef6f15942f813cd0e9abd9bced9abab4d012f8b69f1cc40f020b1722eb0f219",
       "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-08-17T11:09:57+00:00"
-    },
-    {
-      "id": "7979468895335d503f2bc6dd8de864d4b155ce659aac9ac2b6597720f4ee5944",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The&nbsp;advisory, published August 17, 2026, is the second stage o",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-17T10:52:34+00:00"
-    },
-    {
-      "id": "651dff2e0053b34f2f09e488edd20eb27c16b7c60cb2a42d02008c56353aa4a7",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-17T10:09:48+00:00"
-    },
-    {
-      "id": "2444e8256b11b6e0caab82c549da4445cbcd077c87de9517d3eda0a5fbe31a4a",
-      "title": "40,000 Impacted by SafePal Data Breach",
-      "url": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
-      "summary": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-17T09:37:06+00:00"
-    },
-    {
-      "id": "7637e999c644164664d7c4b1c2b65be3df8908831baed78e35396360e96341db",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-17T09:29:55+00:00"
     }
   ]
 }
