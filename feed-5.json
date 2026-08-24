@@ -1,10 +1,91 @@
 {
-  "updated": "2026-08-24T06:50:32.116157+00:00",
+  "updated": "2026-08-24T12:41:12.360512+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "31a5be72e2477849e7e209e061a16466679c5765363eb099c3e41cc96d577ef6",
+      "title": "Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery",
+      "url": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
+      "summary": "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-08-12T12:38:00+00:00"
+    },
+    {
+      "id": "b9caa044f7f1178c03739dc83a3cfe2d5f08b257a61e756d3b8806ff33f1d4c7",
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-12T12:25:37+00:00"
+    },
+    {
+      "id": "4435939e25cd5aa67bb4478fb2b4fea5234331b5f3ca764cf9a03e3466a1bd09",
+      "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
+      "url": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
+      "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-12T12:06:00+00:00"
+    },
+    {
+      "id": "685f5af5505e3a91f9aa17d496da212db318298b10b693c11cb7a992a4211a55",
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T11:47:38+00:00"
+    },
+    {
+      "id": "45d8ead53c3f0db13501c470a8b9219af53c030c09ec20f7dfd4df1f3d3a3f13",
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-12T11:41:34+00:00"
+    },
+    {
+      "id": "6e4700b5b6bfa70c1dd9ac89f4142ea3de8ac410f9194c37836e19c4db966109",
+      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+      "url": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+      "summary": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-12T11:37:28+00:00"
+    },
+    {
+      "id": "51658e7392427cc7221616abbf3f2869a16b9639329f72f66489f5b9193380ed",
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-12T11:21:42+00:00"
+    },
+    {
+      "id": "ee8b70611ea8e86f90bcbdb4b3438e72901935b7ae8dc5c92fb9872149c94ee8",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVS",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-12T11:13:03+00:00"
+    },
+    {
+      "id": "dd69fa666db733ce7fcfb375def7a58ff51b775158008d0fe351c0fa8fa7f136",
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-12T10:15:22+00:00"
+    },
     {
       "id": "8f14ad73ac87bd952e6a81430abd92439d6138b429274014f22fea1ac2bafb89",
       "title": "Prompt Injections for Defense",
@@ -373,87 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-11T06:55:45+00:00"
-    },
-    {
-      "id": "39f20a787adea7b285cb831853c47e4b00f071619a2ebd2511b73e38b63b2a40",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-11T05:48:44+00:00"
-    },
-    {
-      "id": "d319044c80010cfd5c46d489dacb0ecf5298040f307f6a4affb6a229b369dab4",
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-10T23:07:21+00:00"
-    },
-    {
-      "id": "1e9db20c8145329035cd5789262b324432a7cc187e2f51b83f6cb1d15c4effd1",
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-10T21:12:10+00:00"
-    },
-    {
-      "id": "318e8811c831b0975d21aa89ff3fbe46c38afc4624238f304025c27b5ca454b8",
-      "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
-      "url": "https://therecord.media/ransomware-south-korea-fbi-gunra",
-      "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-10T19:30:00+00:00"
-    },
-    {
-      "id": "171ab376d7c2fca0bf675ccf72681fedcaa268abc0eb77d053d2afd0e4d015b4",
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-10T19:24:40+00:00"
-    },
-    {
-      "id": "d38595acce9573b0b450b262660563682519cb5cd81f3edf7c1180804a7f8a02",
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-10T17:42:00+00:00"
-    },
-    {
-      "id": "4c624f6c9bd5a27e21068cdbd69f5edad2ff19100e24304eb67662e9c7e37ef6",
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intellig",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-10T16:38:37+00:00"
-    },
-    {
-      "id": "199049bee856777738762395519e2cb54168a96d19b2c7609be6788975de4a24",
-      "title": "Poland uncovers second heat plant cyberattack that went hidden for months",
-      "url": "https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden",
-      "summary": "The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-10T15:52:00+00:00"
-    },
-    {
-      "id": "f630393c4c15b83e2bb662423bef2b5a5268793c2a3282d5e1b9e9af27affa96",
-      "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
-      "url": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
-      "summary": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelligence agency.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-10T15:21:00+00:00"
     }
   ]
 }
