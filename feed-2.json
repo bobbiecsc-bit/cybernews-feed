@@ -1,10 +1,55 @@
 {
-  "updated": "2026-08-24T12:41:12.360512+00:00",
+  "updated": "2026-08-24T18:34:35.296291+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "01bed0d17131f818eb2f25b2bca6186b09b7788b997fc56bbb9f48f193c7e592",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-20T13:48:24+00:00"
+    },
+    {
+      "id": "88c8957eed48de4f3b652ae6c89b2b9f0244d92991738c8192d8c97d709d92b0",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-20T13:35:13+00:00"
+    },
+    {
+      "id": "572e047ecd00903a139a62ccc4f1794e3feb92c9dd1236ba422517807e4e9617",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-20T13:24:28+00:00"
+    },
+    {
+      "id": "7c35278befa7606bc728dc838f179d654801eefeddcb876799735942e806eb5c",
+      "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
+      "url": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+      "summary": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-20T13:16:35+00:00"
+    },
+    {
+      "id": "2e61538784a463f038887f0e5113bc672bccd0255738ae45e54f9415c17f0e1a",
+      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+      "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-20T12:24:53+00:00"
+    },
     {
       "id": "b437cbcc9c57d0b4c9069437d1f444a8bce6d515659724e6a8d69b1024d2e479",
       "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-18T17:44:05+00:00"
-    },
-    {
-      "id": "851d3dad36226e49bb1489a1c70c9cc09016474645aa27f3a80b0a78cafca5f5",
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-18T17:29:51+00:00"
-    },
-    {
-      "id": "ee1a3760dd26f889c52b6bf09c00c2a9b227829126d92799560a9da282e772dd",
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the vict",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-18T16:58:16+00:00"
-    },
-    {
-      "id": "be71396d8c28735793131f917fa85c4fad2e11ecec068f376c56da83f5376364",
-      "title": "Berlin cuts two state ministries off government network after security breach",
-      "url": "https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach",
-      "summary": "The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks since Friday as a precaution.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-18T16:40:00+00:00"
-    },
-    {
-      "id": "2fdd23261aca85e4ddac9436b6ba965d4107b755d0a38cf757bf93e42a1aca63",
-      "title": "University of Texas forced to take systems offline in San Antonio after cyberattack",
-      "url": "https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio",
-      "summary": "The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones, offline in response.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-18T16:20:00+00:00"
-    },
-    {
-      "id": "7ac5e5cf0cbb4c56ccd862e2caf425ace9cf2e7775c76c3a1631e4df7c104b49",
-      "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
-      "url": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
-      "summary": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. The post Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-18T15:03:30+00:00"
     }
   ]
 }
