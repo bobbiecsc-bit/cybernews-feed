@@ -1,10 +1,109 @@
 {
-  "updated": "2026-08-25T06:39:28.363763+00:00",
+  "updated": "2026-08-25T12:39:51.715012+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "881dd1c96ee4dfa238c2859264ad24645d1991eb1d6d6a4bad42844b3c11d792",
+      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
+      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+      "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-21T08:12:19+00:00"
+    },
+    {
+      "id": "be976adb7e03a07dd6681910428daa7cc7d92f1d4c0edcb580eef374c2740995",
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-21T07:25:50+00:00"
+    },
+    {
+      "id": "7850fb529146db3c12d4cf5a98b147555d2f1ab06cd7f89f81b1ea355605c5ff",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly acce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T07:04:25+00:00"
+    },
+    {
+      "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" aft",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T06:06:11+00:00"
+    },
+    {
+      "id": "41850b0deaa2721c28cf98877ea6a8396886477f723b14ee0e1afdadcb0ebc52",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-20T20:22:35+00:00"
+    },
+    {
+      "id": "42c3afc04079c9f579ba9befa22640bb84de8c15215e93bbb80aef950e7247c0",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These c",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-20T19:59:19+00:00"
+    },
+    {
+      "id": "2467443b79467efa179c0f42cd8344926a643dc24fff9029adb988e2b77826f0",
+      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+      "url": "https://therecord.media/china-cyber-espionage-central-asia",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-20T19:30:00+00:00"
+    },
+    {
+      "id": "000b292e537a8c938537255748c377190d47b48b8f300b8f637871eb24cf362b",
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-20T17:53:52+00:00"
+    },
+    {
+      "id": "be2a2b50299930d2f5bc9c9cf34371cb3c84143c5e14b9968128682eea59df31",
+      "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+      "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "summary": "OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-08-20T17:44:36+00:00"
+    },
+    {
+      "id": "50bcfcb6813f9394c79e5c5e77c8a7c9c5cb6949d7123e7f3d8e3f1318f4afbc",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-20T17:23:48+00:00"
+    },
+    {
+      "id": "827ef3b45efd4e47181c51e48a7f400d24b257aef6542015deb2ce6aab9c8f24",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and ca",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-20T16:59:44+00:00"
+    },
     {
       "id": "6ccb28bfaeedcd7377e07bc8ba460551ef3d5a4407a46f1ea6abb86424883639",
       "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
@@ -355,105 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-19T11:34:28+00:00"
-    },
-    {
-      "id": "276b26abd3af99ec56ad6b4b5d895d9409fbbe5cd66b276f9a6c3c85de3250eb",
-      "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-      "url": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-      "summary": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-19T11:30:33+00:00"
-    },
-    {
-      "id": "d147b16777527f66ac8b7744056a62edd685ce4be87664791ede43d71748d563",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operat",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T11:25:28+00:00"
-    },
-    {
-      "id": "173d12f138e8f124d13bec7fdc2d42798ec94cfbf9ae14416babbec83306ce7c",
-      "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
-      "url": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-      "summary": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-19T11:07:21+00:00"
-    },
-    {
-      "id": "d18e92ac17a19b129105f4f76a731d9de6ad32fcfc8ef19d336ceec5dccd6c07",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score:",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-19T11:01:48+00:00"
-    },
-    {
-      "id": "199268630adeaa8db4f70615af7e2a800aef45f42ba4e3a55c240d7f0191f415",
-      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:37:31+00:00"
-    },
-    {
-      "id": "3fe1d408edde676ba8d6b5c10d6389428aca48d37afff407374756689abbcaf0",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:12:24+00:00"
-    },
-    {
-      "id": "8c7fee1db91f556f7b51cedbc07cd91694f024873f517ed7685b0c2151ef24eb",
-      "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
-      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-      "summary": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T09:14:51+00:00"
-    },
-    {
-      "id": "3383e6d1162ff098d413110b54e0fc5b89f7111e75746a0c64f672480cf2bf84",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T08:19:09+00:00"
-    },
-    {
-      "id": "5ef6f15942f813cd0e9abd9bced9abab4d012f8b69f1cc40f020b1722eb0f219",
-      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-19T08:00:48+00:00"
-    },
-    {
-      "id": "8aad283e3513cacaa99de670d27dc700c5ffbbb9c2285da852f15a1065083ac4",
-      "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
-      "url": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
-      "summary": "The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact. The post CareCloud Data Breach Impact Grows to 3.7 Million Individuals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-19T06:56:43+00:00"
-    },
-    {
-      "id": "c0cb35055ffec7a2b84b4d1d72cb1ec23366fa2f4c4090fa2009200492b07d8c",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltr",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-19T06:01:53+00:00"
     }
   ]
 }

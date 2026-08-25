@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-25T06:39:28.363763+00:00",
+  "updated": "2026-08-25T12:39:51.715012+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2f69a5761f47aee3250f0c3d8b7e6192b1305ca60b419a877a4225c589092846",
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-25T12:04:02+00:00"
+    },
+    {
+      "id": "99cf59e09495b7a8449fec2e71cc754534521f926995cdeab29275e5874c6e48",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-25T11:56:15+00:00"
+    },
+    {
+      "id": "56d9611be30381041ca6374e24e4c7f59c03cb0174041ba05ce92e80340c584a",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-25T11:52:43+00:00"
+    },
+    {
+      "id": "f0c3359d4953aaf7b60947d65ba992b4e9e008a14ee185d146974b060495d91b",
+      "title": "Large DDoS attack knocks Norwegian public services offline",
+      "url": "https://therecord.media/norway-cyberattack-ddos-government",
+      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-25T11:45:00+00:00"
+    },
+    {
+      "id": "806c3e84fa629ceeb7688d02d9e7e8cf00e83d12d6934cd168138999092cdaf5",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional c",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-25T11:33:44+00:00"
+    },
+    {
+      "id": "79beceb61f23ba3c0fa931a06722e78af59e5cbacf9ac8e2689b2b9a60c7e56d",
+      "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
+      "url": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
+      "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-08-25T11:18:22+00:00"
+    },
+    {
+      "id": "8e54ac02ed0d70ef7ed0d994e2b7953c72b0dbf13f1586f798d4497617980f1e",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationshi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-25T11:14:07+00:00"
+    },
+    {
+      "id": "4c2689d83dee119c5b6d21f1f33f26855f9a8f7ddac39246a0553be864362d84",
+      "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+      "url": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+      "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-25T10:00:00+00:00"
+    },
+    {
+      "id": "91c61774da1356e26b3442901aac88f05b34adef90e0c9592ea8cbd3db4742d5",
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are lis",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-25T08:34:07+00:00"
+    },
+    {
+      "id": "3307be845e621eeee02e009e7f09f2d57e72ece4546bbfac5796d35777de012b",
+      "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+      "summary": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-25T07:46:34+00:00"
+    },
+    {
+      "id": "62298a83d4d48134e5c97f1c2e2e1923477eb15e07e2f554102ec6a49fea043d",
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-25T06:12:35+00:00"
+    },
     {
       "id": "3155a1e09e72a84d49e4b9f5cf7006896c70bbf973f9415cf64b0abc06795262",
       "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-11T18:36:47+00:00"
-    },
-    {
-      "id": "0f85616fccf5ce0454adcbdcbf2b6302a6716f0a50cf837baccef3ec972bba75",
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-11T18:34:23+00:00"
-    },
-    {
-      "id": "5a84ed3ef08a97e782c5bfc971fff03a7195e675d71814c1d8245d71beeb8d40",
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-11T18:08:50+00:00"
-    },
-    {
-      "id": "5b4351d43032132daa65ac4eba69fb8c733995c391aecf8ef5cbca1b8ff86df3",
-      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33236",
-      "summary": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code execution bugs. &#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-08-11T17:54:49+00:00"
-    },
-    {
-      "id": "434fc5cac48208083ecdeffbf70e1365b79055f5d6f551edeb31ca5f24feaad8",
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "url": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T16:50:19+00:00"
-    },
-    {
-      "id": "83f9b708b132a336fbed77b57a5a1a7316e921a1d74a966f7b3a020ce5440ef8",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T16:47:44+00:00"
-    },
-    {
-      "id": "5eca0a7b43d27d46b66c3042e3f3cfcf835724d9af687dc56a4a0ab49ebcfed2",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that sto",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-11T16:35:27+00:00"
-    },
-    {
-      "id": "dd0027a7c58b9fa1f94f90697bd2fe063cfe861cc559e773a40549382b929824",
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "url": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "summary": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T15:49:53+00:00"
-    },
-    {
-      "id": "415243a60d378f68787ef9af0c7bc7b4db7a519c845c06a27321d1f8556d9f00",
-      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-      "summary": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-11T15:43:45+00:00"
-    },
-    {
-      "id": "4822403e8f9b84a3c623c4a7c7583ddb36924e128aa561bc8f9bc9760de8b6f7",
-      "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-      "url": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-      "summary": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs. The post SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T14:14:32+00:00"
-    },
-    {
-      "id": "906b18fdc3f2e6e16e46b26a568716bf95a7c887e382b10ba43828ca0150652d",
-      "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-      "url": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-      "summary": "The Water Watch Center launched at DEF CON aims to help under-resourced utilities protect their systems against hackers. The post US Water Systems Get Cyber Boost From New Senate Bill and &#8216;Water Watch Center&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-11T14:03:32+00:00"
-    },
-    {
-      "id": "989bd22c003062d55150a2809d6417e40ca85f08ae8c2cd871f5609c8356ad89",
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T13:11:23+00:00"
     }
   ]
 }
