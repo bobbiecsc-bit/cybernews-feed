@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-25T12:39:51.715012+00:00",
+  "updated": "2026-08-25T18:34:25.647206+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0856539010ab90d598dafb626adbd88f9b58879f0b85c7b3398532ada2597d9c",
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-25T15:52:36+00:00"
+    },
+    {
+      "id": "6390d9c4dbeda2988feecb4d1d139fa0df2df93f78cb3628c91906ee44df0f3d",
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-25T14:44:16+00:00"
+    },
+    {
+      "id": "363f9eed78ed7fcf44231a63097b99127efc125ad3e6c60b97a76bea8a3a1582",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publica",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-25T14:07:37+00:00"
+    },
+    {
+      "id": "887eefd9521c2a87a5063af9995a11d1c412e387b90e72bee988fec75a220e2d",
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-25T14:01:11+00:00"
+    },
+    {
+      "id": "fd0726caef9f3b376cda1ab6baa9b1448881ad3762bee0576facafd1ea045d64",
+      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+      "url": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
+      "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-25T13:33:12+00:00"
+    },
+    {
+      "id": "98b1dbb709e40185cb237de88972fc5bc0553b99b141f3d3f02d612b05e16a0a",
+      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
+      "url": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
+      "summary": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-25T12:57:59+00:00"
+    },
+    {
+      "id": "dd2b5b5f2275decff5b10d61b111ac2ec41bc444e9f445e90a4b03f801e63500",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command ca",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-25T12:43:51+00:00"
+    },
     {
       "id": "2f69a5761f47aee3250f0c3d8b7e6192b1305ca60b419a877a4225c589092846",
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
@@ -2188,69 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-11T21:07:24+00:00"
-    },
-    {
-      "id": "36069f37dfa6017d292528387b0134058316f42baa88358384ad8588e7660f17",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T20:10:55+00:00"
-    },
-    {
-      "id": "b566b358a523ac5fac29cc74e2119d8ea7d32570f49eb6fecb7cd0771fa8c95c",
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-11T19:45:31+00:00"
-    },
-    {
-      "id": "04af503b5714c1c91b1ef420b979e8ab76508aca412d5498bd1794fe6b37e428",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, w",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-11T19:36:37+00:00"
-    },
-    {
-      "id": "c3cbf789528e9d52652c0972fd41852dbb00a0984adab5ed9ed8f1096c9858b1",
-      "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
-      "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-11T19:15:00+00:00"
-    },
-    {
-      "id": "be56bbf2c6cceb7decc372833425db1942c7e601f96b8bec2740dbea41f9b056",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-11T19:08:47+00:00"
-    },
-    {
-      "id": "93c7e955aa53a43b055055cda57da1d08ed1b42c20737b5034074cbf2d53f9eb",
-      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-      "url": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-11T18:46:07+00:00"
-    },
-    {
-      "id": "cf109a85f8e0dda535e98283d7b43688ed3cc086f136fa081720024e3a00fc3d",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-11T18:36:47+00:00"
     }
   ]
 }
