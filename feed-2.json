@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-24T18:34:35.296291+00:00",
+  "updated": "2026-08-25T01:03:09.735625+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6ccb28bfaeedcd7377e07bc8ba460551ef3d5a4407a46f1ea6abb86424883639",
+      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-20T14:50:49+00:00"
+    },
+    {
+      "id": "541e0309d10b7da790c1f6b94a2e3e7b69a83c5ed5006f7e1f5c39897f6a8cc9",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-20T14:39:48+00:00"
+    },
+    {
+      "id": "eaaed4290b794f92c4770f754cec460c76e8ee21923860403b17ba7c5fa59a76",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI secur",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-20T14:36:27+00:00"
+    },
+    {
+      "id": "41d45d363a36e85734135763c926dc523eaa4fec13655dba564db5a2616e17b9",
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-20T14:01:11+00:00"
+    },
     {
       "id": "01bed0d17131f818eb2f25b2bca6186b09b7788b997fc56bbb9f48f193c7e592",
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-19T06:01:53+00:00"
-    },
-    {
-      "id": "0a363bcfbc5d957d8488e5be8df82d4d1ee928b98cd61332d1b9f696ec10cd24",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company charac",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-19T05:39:25+00:00"
-    },
-    {
-      "id": "0c7c75980131e0b776bd02d45f8027e1760038373af0555e80f5c9057945530a",
-      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
-      "url": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical infrastructure sectors,",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-08-18T18:05:00+00:00"
-    },
-    {
-      "id": "3db875d507ead183425238592e7e7e9e06c36d98664004f5c126076d236cff56",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively nam",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-18T17:47:22+00:00"
-    },
-    {
-      "id": "c960f83a4e1fa057ee9ce7782752c922481784f6c227255a8f2d2890244ae96a",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to inde",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-18T17:44:05+00:00"
     }
   ]
 }

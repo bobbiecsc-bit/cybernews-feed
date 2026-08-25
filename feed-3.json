@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-24T18:34:35.296291+00:00",
+  "updated": "2026-08-25T01:03:09.735625+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "0a363bcfbc5d957d8488e5be8df82d4d1ee928b98cd61332d1b9f696ec10cd24",
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company charac",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-19T05:39:25+00:00"
+    },
+    {
+      "id": "0c7c75980131e0b776bd02d45f8027e1760038373af0555e80f5c9057945530a",
+      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
+      "url": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical infrastructure sectors,",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-08-18T18:05:00+00:00"
+    },
+    {
+      "id": "3db875d507ead183425238592e7e7e9e06c36d98664004f5c126076d236cff56",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively nam",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-18T17:47:22+00:00"
+    },
+    {
+      "id": "c960f83a4e1fa057ee9ce7782752c922481784f6c227255a8f2d2890244ae96a",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to inde",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-18T17:44:05+00:00"
+    },
     {
       "id": "851d3dad36226e49bb1489a1c70c9cc09016474645aa27f3a80b0a78cafca5f5",
       "title": "Clop created custom web shell for Windchill data theft attacks",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-17T08:13:07+00:00"
-    },
-    {
-      "id": "f632e57bed8cc4fc2270c81edd57116bc47c3ae68416dfbecfcaa8767330eb02",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-17T07:36:19+00:00"
-    },
-    {
-      "id": "72619960d1b99cc536df1c195b6b0fca0110cbdae9e5fbefa501983fa6d26ffc",
-      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-      "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-17T06:51:08+00:00"
-    },
-    {
-      "id": "847da71208bc87c84e3d56ec1e9355836641f26968c70cff9dfd6eb6c29ecdb0",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-16T23:47:06+00:00"
-    },
-    {
-      "id": "6565f68216623d657b1c4aa548e82a3c49b38ba8f47951d5c3d8318b3ef11267",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-16T17:29:52+00:00"
     }
   ]
 }

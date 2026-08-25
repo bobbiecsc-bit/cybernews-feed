@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-24T18:34:35.296291+00:00",
+  "updated": "2026-08-25T01:03:09.735625+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3155a1e09e72a84d49e4b9f5cf7006896c70bbf973f9415cf64b0abc06795262",
+      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+      "url": "https://therecord.media/iran-cyberattacks-us-uk",
+      "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-24T23:00:00+00:00"
+    },
+    {
+      "id": "7bfe97eb7dc88b94b30e6a8cb10debccc42c6c1c4505bd1b94aef2860c17d052",
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-24T21:14:30+00:00"
+    },
+    {
+      "id": "ab19b111baf20bee55e56fd8263408def72bb10946abd51e0fdda9d95fdd36c1",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-24T19:26:32+00:00"
+    },
+    {
+      "id": "5b092ef633bf3c926c30772bfadf96803cbaed9369602ea855d5d57567275a0e",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike ga",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-24T17:41:11+00:00"
+    },
     {
       "id": "b44c6582de663ad1451f0cce3db968b9bf083893c5567f91b8333928ea2011ee",
       "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-20T16:59:44+00:00"
-    },
-    {
-      "id": "6ccb28bfaeedcd7377e07bc8ba460551ef3d5a4407a46f1ea6abb86424883639",
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-20T14:50:49+00:00"
-    },
-    {
-      "id": "541e0309d10b7da790c1f6b94a2e3e7b69a83c5ed5006f7e1f5c39897f6a8cc9",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-20T14:39:48+00:00"
-    },
-    {
-      "id": "eaaed4290b794f92c4770f754cec460c76e8ee21923860403b17ba7c5fa59a76",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI secur",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-20T14:36:27+00:00"
-    },
-    {
-      "id": "41d45d363a36e85734135763c926dc523eaa4fec13655dba564db5a2616e17b9",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-20T14:01:11+00:00"
     }
   ]
 }

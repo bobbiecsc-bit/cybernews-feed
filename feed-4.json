@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-24T18:34:35.296291+00:00",
+  "updated": "2026-08-25T01:03:09.735625+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f632e57bed8cc4fc2270c81edd57116bc47c3ae68416dfbecfcaa8767330eb02",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-17T07:36:19+00:00"
+    },
+    {
+      "id": "72619960d1b99cc536df1c195b6b0fca0110cbdae9e5fbefa501983fa6d26ffc",
+      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+      "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-17T06:51:08+00:00"
+    },
+    {
+      "id": "847da71208bc87c84e3d56ec1e9355836641f26968c70cff9dfd6eb6c29ecdb0",
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-16T23:47:06+00:00"
+    },
+    {
+      "id": "6565f68216623d657b1c4aa548e82a3c49b38ba8f47951d5c3d8318b3ef11267",
+      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-16T17:29:52+00:00"
+    },
     {
       "id": "0a6826eb0448c7a0fc26496e07073d268833c5a4c5f769e0f57e8ebe0b4398bb",
       "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-08-12T22:22:57+00:00"
-    },
-    {
-      "id": "815318592eae6d46245bb848ca2ed6cf6c2fae498147e187126f07e39c80f4d7",
-      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-12T20:54:59+00:00"
-    },
-    {
-      "id": "3fd53cb513b8578741832ea373dc581db9189453514c6e2e1cf19411ddd32e55",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-12T17:39:27+00:00"
-    },
-    {
-      "id": "9a48f1350622f4a1a81d53f6337ab1ea51369adba26cebde55ad51cd36bcc929",
-      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-      "url": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-12T17:28:00+00:00"
-    },
-    {
-      "id": "72e2cac84654bc7a36c7d3ff09776c96ec7fe0ed76904393b4bab0b36db09cd4",
-      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-      "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-      "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-12T16:05:12+00:00"
     }
   ]
 }
