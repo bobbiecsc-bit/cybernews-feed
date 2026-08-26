@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-26T06:41:19.023035+00:00",
+  "updated": "2026-08-26T12:43:31.690170+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "392ff28b4d51a9a112413a70227471185910592bb0cc08dd3aa1b781ba9c4575",
+      "title": "Spyware for Babies",
+      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
+      "summary": "The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recent",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-08-26T12:05:52+00:00"
+    },
+    {
+      "id": "af99c459418ac83a142b96b8d653f58a9e54b97aa071aa62de3c4a6a76735e1b",
+      "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+      "url": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+      "summary": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-26T11:29:50+00:00"
+    },
+    {
+      "id": "ea2647337858e2f57e0b5f76877d65da9402f0fca68e4b078e5af42926a9ae6b",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-26T11:07:48+00:00"
+    },
+    {
+      "id": "d70bf9da614160daa1d1cced71bb63e139534cc6b432f1b4566dd6d674281017",
+      "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+      "url": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+      "summary": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-26T11:00:00+00:00"
+    },
+    {
+      "id": "621ca1c7245aff5bfeb9fa5f62a2e53ac0ad4a5cd042ac0b9d0735f81d2ecb7a",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-26T10:27:23+00:00"
+    },
+    {
+      "id": "1acda99a9b9dac59ebb90ea7c5a9a2901365e7214963be6242104a5b43d9f104",
+      "title": "Chrome 152 Patches Over 300 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+      "summary": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-26T09:50:34+00:00"
+    },
+    {
+      "id": "635b3ba14547f07bcd331f2b21200e3d86288e9723c4294253d90781251b70c0",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African crimina",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-26T07:54:12+00:00"
+    },
+    {
+      "id": "0ce3a336bce600ef652afb48cc447280d93c037a4a267f0c98fbeaec2acf2814",
+      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+      "url": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+      "summary": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-26T07:41:50+00:00"
+    },
+    {
+      "id": "60e43032f1f0cd2d25c3f2541dde1e2fe8bfa3cff9e1579d135b05d3ab7f6558",
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an un",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-26T07:12:55+00:00"
+    },
+    {
+      "id": "8ba2097a32dfd06212266bde7f0056ad361890637fe4f3ea9b5fa4c59e01be70",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an att",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-26T06:27:07+00:00"
+    },
+    {
+      "id": "4de8e9117e9dd32c5318b0255ccc2b050dcba6dead648537392401019bceae26",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-26T05:47:28+00:00"
+    },
     {
       "id": "1fb16fb55a3e69f5a35de3210c5002f752c838337dd571e6eb79e10edaf7e9e6",
       "title": "CISA Warns of Exploited Gitea Vulnerability",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-12T11:41:34+00:00"
-    },
-    {
-      "id": "6e4700b5b6bfa70c1dd9ac89f4142ea3de8ac410f9194c37836e19c4db966109",
-      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
-      "url": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
-      "summary": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-12T11:37:28+00:00"
-    },
-    {
-      "id": "51658e7392427cc7221616abbf3f2869a16b9639329f72f66489f5b9193380ed",
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-12T11:21:42+00:00"
-    },
-    {
-      "id": "ee8b70611ea8e86f90bcbdb4b3438e72901935b7ae8dc5c92fb9872149c94ee8",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVS",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-12T11:13:03+00:00"
-    },
-    {
-      "id": "dd69fa666db733ce7fcfb375def7a58ff51b775158008d0fe351c0fa8fa7f136",
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-12T10:15:22+00:00"
-    },
-    {
-      "id": "8f14ad73ac87bd952e6a81430abd92439d6138b429274014f22fea1ac2bafb89",
-      "title": "Prompt Injections for Defense",
-      "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
-      "summary": "This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking ",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-12T09:56:37+00:00"
-    },
-    {
-      "id": "13f9675485c8c7c4b109d507e02edddce7239751dbd189229a7e76ef557bc920",
-      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-      "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-12T09:55:45+00:00"
-    },
-    {
-      "id": "76131b338445007179cab6d8aa3f818d658265c4ecbf15b3937ff280103c8057",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicio",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-12T09:01:54+00:00"
-    },
-    {
-      "id": "283e36e8c80578f533a3b167031d8e126515a8d110452f90792cd30774c17c38",
-      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-      "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-12T08:45:53+00:00"
-    },
-    {
-      "id": "64bf0a8d3e5787f38d8e2be03a9678c5cdea2f0bb4e0b162b11c65e27a205376",
-      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-      "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-12T08:14:46+00:00"
-    },
-    {
-      "id": "ef7a70b327b6f817b5afd34559ddd28cae1ffb70f4ac9517dc78f4d3eef02e3a",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it ob",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-12T08:04:52+00:00"
-    },
-    {
-      "id": "c0354b09ca60572e558739ef8f3e893a84e4851e12946ca7c9aa81c6e105d74b",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-12T07:31:40+00:00"
     }
   ]
 }
