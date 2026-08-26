@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-26T01:05:06.860005+00:00",
+  "updated": "2026-08-26T06:41:19.023035+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1fb16fb55a3e69f5a35de3210c5002f752c838337dd571e6eb79e10edaf7e9e6",
+      "title": "CISA Warns of Exploited Gitea Vulnerability",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+      "summary": "CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1. The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-26T05:17:28+00:00"
+    },
     {
       "id": "2e7f77b49688cca8f780e020109c684e4d5ba206bdc439f333d6c1ae012cc22b",
       "title": "LACMA data breach last year exposed social security and medical data",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-21T16:16:00+00:00"
-    },
-    {
-      "id": "befbe5399e8065d82429be59466d2c9cce901cdaa12deeaa611adecc73452fb1",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-21T15:52:10+00:00"
     }
   ]
 }
