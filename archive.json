@@ -1,7 +1,259 @@
 {
-  "updated": "2026-08-27T07:07:03.941822+00:00",
+  "updated": "2026-08-27T21:41:42.948668+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "96dd7b00fdd973a37914c80fa041993232d4a19e0276ecbb45c2cca7b2c27cb0",
+      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-27T21:38:53+00:00"
+    },
+    {
+      "id": "5ae4e5704828d1e253eb5ef5c3e017aa37614aeb9432eb37c8dfbb93fabd622b",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-27T18:36:19+00:00"
+    },
+    {
+      "id": "ad39520079f764e7d791d9c8099b839a4948d26083a0ed9d71342d27d765db9a",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-27T16:31:53+00:00"
+    },
+    {
+      "id": "4599be345f0687dd49eee1fc13733217cf1757e5abf636485b2fcce6cd99f376",
+      "title": "Manchester Airports Group says hackers stole travelers' data",
+      "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
+      "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T16:12:26+00:00"
+    },
+    {
+      "id": "468035db37f9e8fac0f996e0b17329b10d5df22746ea1869b9ee8e9707325cf2",
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "summary": "Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-27T15:13:00+00:00"
+    },
+    {
+      "id": "be461c8b17bf08f6da07f62d76bcd6189168266c7bb28a436b6d54142f8d22dd",
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing thei",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-27T15:12:16+00:00"
+    },
+    {
+      "id": "0c5e768508dd3c96543c252b46ba6367161ba5c1d4dfedf5b5d4c7fe10cd8caf",
+      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
+      "url": "https://therecord.media/germany-cyberattacks-china-russia",
+      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-27T14:45:00+00:00"
+    },
+    {
+      "id": "7b51ccd327a6e80cd3089d5ec8e171a26b094f2366b885b07f4d45916844a21a",
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs strengthen their defenses. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-27T14:00:10+00:00"
+    },
+    {
+      "id": "e2642e92805118546c6faf35ce725beba27cae97bf4963066390fb0780b224e9",
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE id",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-27T13:39:56+00:00"
+    },
+    {
+      "id": "e686c25ec9525a4e5b73cb02ab046bc2933aa89b5f92bc4eb35367ab8cf357e5",
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-08-27T13:31:13+00:00"
+    },
+    {
+      "id": "1aa439ceb76ddbd9510fa230e2fa76ce2c5959060f942383f4cc479edd8e4d8f",
+      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
+      "url": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
+      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-27T13:15:00+00:00"
+    },
+    {
+      "id": "19d285c052c3254365a85e3bbc3d20f42b29931ba4ec45733e0e58e647d1a9c2",
+      "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
+      "url": "https://therecord.media/australia-teampcp-hackers-arrested",
+      "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-27T13:00:00+00:00"
+    },
+    {
+      "id": "8fb22cd12cadc785b46096a78d023270b9f46a57988ce93669faede88b1543d8",
+      "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
+      "url": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
+      "summary": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T12:48:03+00:00"
+    },
+    {
+      "id": "60bb7a569b3aefa309c73edc65bf60cac335d4d366c37f2b87224868c9478fa6",
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T12:16:24+00:00"
+    },
+    {
+      "id": "ed709ef4d123388e25c2c79ca47c9fead6aaec80b06621a98663f8ba20ae6da6",
+      "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
+      "url": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
+      "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T11:58:01+00:00"
+    },
+    {
+      "id": "89ba8a41a1ee0be07879dd6b06ecae43cee5c3370fad66c88f0b09cc1e218801",
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-27T11:56:30+00:00"
+    },
+    {
+      "id": "2d87a31b8a90daad0ddf1380bee94d84ba0860a6c3893a607f41db4e354178b4",
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Mi",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-27T11:56:26+00:00"
+    },
+    {
+      "id": "bc84881d1e28dd31b6b8d4a7cf1ac78b13413f8b31785a8a4f39b52579ddbaab",
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T11:10:04+00:00"
+    },
+    {
+      "id": "4448077476edb29ee5a09bf840e8d299b6180fc9b874ca56f8b47d9c7165280d",
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unname",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-08-27T11:04:15+00:00"
+    },
+    {
+      "id": "7259f0b8cf3015421cf7ce7eb8b440d8675aa3f3119be64fd8f1cf8776a8ba61",
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government not",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-27T11:00:57+00:00"
+    },
+    {
+      "id": "c5ec6356213dfe4a863bc85817d5bd0fbf151fa1d9c9bdb9f01e322be00149d9",
+      "title": "Cyberattack Causes Global Disruption at Boston Scientific",
+      "url": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
+      "summary": "The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders. The post Cyberattack Causes Global Disruption at Boston Scientific appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-27T10:18:27+00:00"
+    },
+    {
+      "id": "cb4f10f8a9c661e9f085418968a215f2a2822ce06733c6fa9b152c301244cb49",
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-27T09:33:38+00:00"
+    },
+    {
+      "id": "4198be3b3c1d0c8b41883a6203bd1fcd4d9bdbdf5a17d09ca399886a210d42c7",
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-27T09:16:50+00:00"
+    },
+    {
+      "id": "2f1d6539182745e4c17af0f05798257a487657bf32a3b4af631e0e80db4c8016",
+      "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
+      "url": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
+      "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T09:01:06+00:00"
+    },
+    {
+      "id": "63e61204dff51d144b228dfbf031e29287e0b41466a95ecd2570edce612bfac1",
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T08:13:50+00:00"
+    },
+    {
+      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-27T08:13:11+00:00"
+    },
+    {
+      "id": "8fd9c15c8e6281c0558b8f2aa7b30d479b17c505990fc392208f3fd1aaf70453",
+      "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
+      "url": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
+      "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T08:00:00+00:00"
+    },
+    {
+      "id": "038c6cd0b2efdcfa57a79b6c8af3bbc97151b7405d712e8baee25a88e56ce256",
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-27T07:05:28+00:00"
+    },
     {
       "id": "893b10a9b768e1dccfb9aa1ee8ac783a0cccff545662cb8ff0668c4228971685",
       "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
@@ -1999,258 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-14T10:57:00+00:00"
-    },
-    {
-      "id": "815fb64a5a953d1e8e6f16f0686b00b869ecee6de62ba758ba63f3f058f9ebbc",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-14T10:52:05+00:00"
-    },
-    {
-      "id": "1fa54606e9767c74021ba41a5411455db7ba92fe8b8fd93e84c8f150cdceb3e1",
-      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
-      "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
-      "summary": "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. In a statement shared with TechCrunch, the iPhone maker said it alerted an unspecified number of users targeted in 110 countries and that it has notified customers",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-14T10:44:34+00:00"
-    },
-    {
-      "id": "31316f836b5e48124b0bd1d3361b13f217294d3f7a262a83bec8ed3e86ff697c",
-      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-      "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T10:24:03+00:00"
-    },
-    {
-      "id": "d6d5f2b7f81e29eb830216f5e7966c9e359490baa23f2de9ce993e9983ed16d3",
-      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-      "url": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T09:20:28+00:00"
-    },
-    {
-      "id": "6b8fef3ef86eff0160f329c1c0fc58558e445e6d37630d469b0c8a0f78d3a927",
-      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-      "url": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-      "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T08:16:00+00:00"
-    },
-    {
-      "id": "8fdaa82dbfebac00ea3d908a29c294dfa5e0af4c09db592eb229b19b8613aa4e",
-      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
-      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
-      "summary": "The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud. \"Both missions are administered from a single control panel, XG-Web, a browser-centric remote-access ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-14T07:54:18+00:00"
-    },
-    {
-      "id": "f83a252b76c93aa0d233b7f610689115e0667b84bf31a5c7326c1c363e3bc86c",
-      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-      "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-14T07:01:56+00:00"
-    },
-    {
-      "id": "cdcfdf45252c2c94c64f6711b5fd14300833575aebb40fe7d0384e471a6a8a38",
-      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-      "url": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-14T06:41:43+00:00"
-    },
-    {
-      "id": "df1d901c6dd98219730514e92e9d56d2484d80c143b9072a7217c06c5918cf9b",
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-14T01:19:12+00:00"
-    },
-    {
-      "id": "dace2be75c679582e7bde2b1fd72dfe5ef143ab35102b84a84586b97f6fafc12",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-13T20:47:02+00:00"
-    },
-    {
-      "id": "92db34388e8952707d9aa67bb234cea33af5a1ebc69ef6b21c627be0eb705d4b",
-      "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-      "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead to remote code execution (RCE). The security defect remains",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-13T18:45:12+00:00"
-    },
-    {
-      "id": "fb164264aae8e9e0715d55cdce20f5c10711939437ed7960a67869e4df5448bc",
-      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-      "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new attack methods. The latest ThreatsDay Bulletin puts all of these short updates in ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-13T18:17:10+00:00"
-    },
-    {
-      "id": "209727c80af4506282ad37d36ac6736a248b463b229ff5112e727e418a17e9d7",
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-13T18:15:19+00:00"
-    },
-    {
-      "id": "8e33415aceb996c5a7c8279ccf7c2a9b4b8eec5b36cb95983723d2c1f8ba9724",
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-13T17:46:20+00:00"
-    },
-    {
-      "id": "a4f4d669c4c81cd87f3b96923edbdcfe4de1061103f15cdb6bd5c0920a6bb2a3",
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-13T16:40:23+00:00"
-    },
-    {
-      "id": "edfb56fa72f5ce91c17fda4a16875da13ba5c6c2abb8a56f30243fcf285cf18b",
-      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-13T15:13:19+00:00"
-    },
-    {
-      "id": "e478dc0032594e36580ef1c9a77848ca0e29122f47deb4b3e1045dc0b277ad39",
-      "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
-      "url": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
-      "summary": "Afghan telecom providers and South Asian critical infrastructure organizations have emerged as the target of a new ongoing campaign that delivers a previously undocumented backdoor called PATCHCORD. According to Acronis Threat Research Unit (TRU), the backdoor is a compiled C/C++ implant delivered b",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-13T15:00:29+00:00"
-    },
-    {
-      "id": "97c321c8cb8e6c541b3f9bfe2196a86a4fa6f21bd4f687ed38edfb2bae747d2d",
-      "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
-      "url": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
-      "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-13T14:17:44+00:00"
-    },
-    {
-      "id": "11de4e192b1bd0a999bb10dd05d66a0be9e074242a5c6c6d2948ba37fc0e0194",
-      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
-      "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data. The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\"",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-13T13:43:14+00:00"
-    },
-    {
-      "id": "b5dc0068b7ea4846693edcb8c5ac8ada117a77f4f7de6559e3deae0c8607d5ab",
-      "title": "Trump taps cyber firms to go on offensive against criminals",
-      "url": "https://therecord.media/trump-cyber-crime-offensive",
-      "summary": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-13T13:30:00+00:00"
-    },
-    {
-      "id": "893d6bc1b9dd52767361a1053235eb4eab5189a7bec7f071321a3330028ac34f",
-      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-      "url": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-      "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-13T12:53:56+00:00"
-    },
-    {
-      "id": "b6ce29316438a082222da587f0b13d21679fbb3061441e085610ce3c4a760dc9",
-      "title": "Germany moves to give spy agencies hacking and sabotage powers",
-      "url": "https://therecord.media/germany-spy-agency-powers",
-      "summary": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul of the country’s spy laws of the postwar era.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-13T12:45:00+00:00"
-    },
-    {
-      "id": "62e8852e606f4c10aaf81fee80d1b3e6697b024ecf7465ed33a1b9431459541d",
-      "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
-      "url": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
-      "summary": "A previously unseen Android near field communication (NFC) relay malware family dubbed WindRelay is being deployed in conjunction with a known remote access trojan (RAT) called SpyNote as part of a contactless payment fraud scheme. The purpose-built malware, according to Group-IB, is designed to cap",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-13T11:53:14+00:00"
-    },
-    {
-      "id": "b9b4425fac0b0dd56d7840d22212ff74a9c52ed03b1f79957047e8f6c6dd57b0",
-      "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
-      "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
-      "summary": "Companies are used to thinking about attackers as outsiders trying to break in. North Korean IT workers flip that model. They apply for jobs, pass interviews, receive legitimate credentials, and can end up inside the same systems companies spend millions trying to protect. That risk is no longer the",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-13T11:45:00+00:00"
-    },
-    {
-      "id": "3b060413c35a7355218ac0f9ccde20bbf0cec4dc861bd4f351e640b6b949e512",
-      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-      "url": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-      "summary": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-13T10:40:57+00:00"
-    },
-    {
-      "id": "c234084d7230b6690647c0cd01407c80dd973df08742b5fb56a62247d4dc1d2e",
-      "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
-      "url": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-      "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-13T09:06:40+00:00"
-    },
-    {
-      "id": "5688fda416b0820b8e38ed762c6917321909fb46af1665502ee963a5efd81fcf",
-      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
-      "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-13T08:38:03+00:00"
-    },
-    {
-      "id": "3c5ef5fa5324c56d0088ebd0c255bc52445049f09368b126e7e180b72ff900db",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-13T06:09:48+00:00"
     }
   ]
 }
