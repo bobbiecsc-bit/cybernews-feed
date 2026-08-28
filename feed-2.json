@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-27T21:41:42.948668+00:00",
+  "updated": "2026-08-28T08:54:47.339510+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ea2647337858e2f57e0b5f76877d65da9402f0fca68e4b078e5af42926a9ae6b",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-26T11:07:48+00:00"
+    },
+    {
+      "id": "d70bf9da614160daa1d1cced71bb63e139534cc6b432f1b4566dd6d674281017",
+      "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+      "url": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+      "summary": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-26T11:00:00+00:00"
+    },
+    {
+      "id": "621ca1c7245aff5bfeb9fa5f62a2e53ac0ad4a5cd042ac0b9d0735f81d2ecb7a",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-26T10:27:23+00:00"
+    },
+    {
+      "id": "1acda99a9b9dac59ebb90ea7c5a9a2901365e7214963be6242104a5b43d9f104",
+      "title": "Chrome 152 Patches Over 300 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+      "summary": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-26T09:50:34+00:00"
+    },
     {
       "id": "635b3ba14547f07bcd331f2b21200e3d86288e9723c4294253d90781251b70c0",
       "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-24T10:00:00+00:00"
-    },
-    {
-      "id": "f34c9a3888c408de4b2d7c8b3dbba9f008942b7d9afaadbc53a3d670a865a68f",
-      "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
-      "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
-      "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-24T09:22:09+00:00"
-    },
-    {
-      "id": "a02830e149d4661f2c2cfaba5d5936753a29c4dc28a7e1d544b24b9d32f996ea",
-      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-24T08:08:31+00:00"
-    },
-    {
-      "id": "b4232519550437789de58df7210d45d25ec5096485162d5367a9e785d1b64ab0",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-23T14:23:46+00:00"
-    },
-    {
-      "id": "6966acdf0cc363e208ecf13b71e0f25e5b7e1908bccba5395b257ab72121fea2",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-22T14:14:24+00:00"
     }
   ]
 }

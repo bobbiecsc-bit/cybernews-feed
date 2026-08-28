@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-27T21:41:42.948668+00:00",
+  "updated": "2026-08-28T08:54:47.339510+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f34c9a3888c408de4b2d7c8b3dbba9f008942b7d9afaadbc53a3d670a865a68f",
+      "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+      "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+      "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-24T09:22:09+00:00"
+    },
+    {
+      "id": "a02830e149d4661f2c2cfaba5d5936753a29c4dc28a7e1d544b24b9d32f996ea",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-24T08:08:31+00:00"
+    },
+    {
+      "id": "b4232519550437789de58df7210d45d25ec5096485162d5367a9e785d1b64ab0",
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-23T14:23:46+00:00"
+    },
+    {
+      "id": "6966acdf0cc363e208ecf13b71e0f25e5b7e1908bccba5395b257ab72121fea2",
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-22T14:14:24+00:00"
+    },
     {
       "id": "018a1d09bc982d66465f8ecab98215d39abf043716916a38d15c6802b7d82548",
       "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-20T11:08:00+00:00"
-    },
-    {
-      "id": "e9af320d90c544ae0697c717de4a1f0cce3ec1b2bdfcc1fb4fbae5472c5b1e20",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:06:14+00:00"
-    },
-    {
-      "id": "0d465eec631531857f0133ab1597525f383d985d7d7918b79ca84b4a5fd49b41",
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:05:11+00:00"
-    },
-    {
-      "id": "237d26e3f1f2ca16693a2a309e97b919046f5cd481e54526a042c3e1d4f6f0f5",
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-20T10:38:28+00:00"
-    },
-    {
-      "id": "7aa10154e2ca3cd0e9fe762e66d20a024d4c2e3ba8f31167eb705fde3e56abb3",
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-20T10:02:02+00:00"
     }
   ]
 }
