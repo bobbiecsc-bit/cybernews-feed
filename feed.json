@@ -1,10 +1,19 @@
 {
-  "updated": "2026-08-29T12:13:52.600735+00:00",
+  "updated": "2026-08-29T20:21:23.032173+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "20d327a204a5298e63074340c6e8ca4de0e808c3f887b5d17f1252a2384ab3f2",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-29T16:25:03+00:00"
+    },
     {
       "id": "451f21362943d34251a0ea79f280c1866f9721f1a7296bf602bd6562690bbc41",
       "title": "Hasbro Data Breach Exposed Employee Personal Information",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-08-27T08:13:50+00:00"
-    },
-    {
-      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T08:13:11+00:00"
     }
   ]
 }
