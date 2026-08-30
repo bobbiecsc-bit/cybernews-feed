@@ -1,10 +1,28 @@
 {
-  "updated": "2026-08-30T11:11:14.440734+00:00",
+  "updated": "2026-08-30T15:59:00.687835+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f0c3359d4953aaf7b60947d65ba992b4e9e008a14ee185d146974b060495d91b",
+      "title": "Large DDoS attack knocks Norwegian public services offline",
+      "url": "https://therecord.media/norway-cyberattack-ddos-government",
+      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-25T11:45:00+00:00"
+    },
+    {
+      "id": "806c3e84fa629ceeb7688d02d9e7e8cf00e83d12d6934cd168138999092cdaf5",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional c",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-25T11:33:44+00:00"
+    },
     {
       "id": "79beceb61f23ba3c0fa931a06722e78af59e5cbacf9ac8e2689b2b9a60c7e56d",
       "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-21T07:04:25+00:00"
-    },
-    {
-      "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" aft",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-21T06:06:11+00:00"
-    },
-    {
-      "id": "41850b0deaa2721c28cf98877ea6a8396886477f723b14ee0e1afdadcb0ebc52",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arr",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-20T20:22:35+00:00"
     }
   ]
 }
