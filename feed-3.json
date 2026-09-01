@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-01T16:00:48.185128+00:00",
+  "updated": "2026-09-01T20:29:40.278963+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4198be3b3c1d0c8b41883a6203bd1fcd4d9bdbdf5a17d09ca399886a210d42c7",
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-27T09:16:50+00:00"
+    },
+    {
+      "id": "2f1d6539182745e4c17af0f05798257a487657bf32a3b4af631e0e80db4c8016",
+      "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
+      "url": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
+      "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T09:01:06+00:00"
+    },
+    {
+      "id": "63e61204dff51d144b228dfbf031e29287e0b41466a95ecd2570edce612bfac1",
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T08:13:50+00:00"
+    },
+    {
+      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-27T08:13:11+00:00"
+    },
+    {
+      "id": "8fd9c15c8e6281c0558b8f2aa7b30d479b17c505990fc392208f3fd1aaf70453",
+      "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
+      "url": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
+      "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T08:00:00+00:00"
+    },
     {
       "id": "038c6cd0b2efdcfa57a79b6c8af3bbc97151b7405d712e8baee25a88e56ce256",
       "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-25T11:52:43+00:00"
-    },
-    {
-      "id": "f0c3359d4953aaf7b60947d65ba992b4e9e008a14ee185d146974b060495d91b",
-      "title": "Large DDoS attack knocks Norwegian public services offline",
-      "url": "https://therecord.media/norway-cyberattack-ddos-government",
-      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-25T11:45:00+00:00"
-    },
-    {
-      "id": "806c3e84fa629ceeb7688d02d9e7e8cf00e83d12d6934cd168138999092cdaf5",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional c",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-25T11:33:44+00:00"
-    },
-    {
-      "id": "79beceb61f23ba3c0fa931a06722e78af59e5cbacf9ac8e2689b2b9a60c7e56d",
-      "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
-      "url": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
-      "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-25T11:18:22+00:00"
-    },
-    {
-      "id": "8e54ac02ed0d70ef7ed0d994e2b7953c72b0dbf13f1586f798d4497617980f1e",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationshi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-25T11:14:07+00:00"
-    },
-    {
-      "id": "4c2689d83dee119c5b6d21f1f33f26855f9a8f7ddac39246a0553be864362d84",
-      "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
-      "url": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
-      "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-25T10:00:00+00:00"
     }
   ]
 }

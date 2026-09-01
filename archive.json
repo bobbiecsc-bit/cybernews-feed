@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-01T16:00:48.185128+00:00",
+  "updated": "2026-09-01T20:29:40.278963+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c0d1439f223d302b3629b0e0e79e3769a25e9997fb0c1a4785b5361fa61289df",
+      "title": "Aesto Health says data breach affects over 9.5 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-01T19:28:17+00:00"
+    },
+    {
+      "id": "5d6edf9ec03cc8c409d4b8cc14888acba4b29eb7a7d68199b8436c7780838b3c",
+      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
+      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+      "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-01T18:30:00+00:00"
+    },
+    {
+      "id": "7de4b68209c1337a0346d9e0f63f94c6420802bed5c22485b7385924353aa472",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:54:22+00:00"
+    },
+    {
+      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:53:11+00:00"
+    },
+    {
+      "id": "dff23f3c8b114063949c38cdb7f9843799edcc5895fa4139578c049c5d65fa75",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-01T17:19:24+00:00"
+    },
     {
       "id": "3f993355be59ca656067afd02dc60f19a0844ab9b5da78c3fc4845f24ac82409",
       "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-08-19T11:07:21+00:00"
-    },
-    {
-      "id": "d18e92ac17a19b129105f4f76a731d9de6ad32fcfc8ef19d336ceec5dccd6c07",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score:",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-19T11:01:48+00:00"
-    },
-    {
-      "id": "199268630adeaa8db4f70615af7e2a800aef45f42ba4e3a55c240d7f0191f415",
-      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:37:31+00:00"
-    },
-    {
-      "id": "3fe1d408edde676ba8d6b5c10d6389428aca48d37afff407374756689abbcaf0",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:12:24+00:00"
-    },
-    {
-      "id": "8c7fee1db91f556f7b51cedbc07cd91694f024873f517ed7685b0c2151ef24eb",
-      "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
-      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-      "summary": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T09:14:51+00:00"
-    },
-    {
-      "id": "3383e6d1162ff098d413110b54e0fc5b89f7111e75746a0c64f672480cf2bf84",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T08:19:09+00:00"
     }
   ]
 }

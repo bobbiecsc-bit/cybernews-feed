@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-01T16:00:48.185128+00:00",
+  "updated": "2026-09-01T20:29:40.278963+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "630ad3fed036364e1f3f4869ee229c078b17675341b1ad1e5ddbfa86c8dff0e9",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" aft",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-21T06:06:11+00:00"
+    },
+    {
+      "id": "41850b0deaa2721c28cf98877ea6a8396886477f723b14ee0e1afdadcb0ebc52",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-20T20:22:35+00:00"
+    },
+    {
+      "id": "42c3afc04079c9f579ba9befa22640bb84de8c15215e93bbb80aef950e7247c0",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These c",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-20T19:59:19+00:00"
+    },
+    {
+      "id": "2467443b79467efa179c0f42cd8344926a643dc24fff9029adb988e2b77826f0",
+      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+      "url": "https://therecord.media/china-cyber-espionage-central-asia",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-20T19:30:00+00:00"
+    },
+    {
+      "id": "000b292e537a8c938537255748c377190d47b48b8f300b8f637871eb24cf362b",
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-20T17:53:52+00:00"
+    },
     {
       "id": "be2a2b50299930d2f5bc9c9cf34371cb3c84143c5e14b9968128682eea59df31",
       "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-08-19T11:07:21+00:00"
-    },
-    {
-      "id": "d18e92ac17a19b129105f4f76a731d9de6ad32fcfc8ef19d336ceec5dccd6c07",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score:",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-19T11:01:48+00:00"
-    },
-    {
-      "id": "199268630adeaa8db4f70615af7e2a800aef45f42ba4e3a55c240d7f0191f415",
-      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:37:31+00:00"
-    },
-    {
-      "id": "3fe1d408edde676ba8d6b5c10d6389428aca48d37afff407374756689abbcaf0",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T10:12:24+00:00"
-    },
-    {
-      "id": "8c7fee1db91f556f7b51cedbc07cd91694f024873f517ed7685b0c2151ef24eb",
-      "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
-      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-      "summary": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle&#8217;s August 2026 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T09:14:51+00:00"
-    },
-    {
-      "id": "3383e6d1162ff098d413110b54e0fc5b89f7111e75746a0c64f672480cf2bf84",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-19T08:19:09+00:00"
     }
   ]
 }

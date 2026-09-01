@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-01T16:00:48.185128+00:00",
+  "updated": "2026-09-01T20:29:40.278963+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c0d1439f223d302b3629b0e0e79e3769a25e9997fb0c1a4785b5361fa61289df",
+      "title": "Aesto Health says data breach affects over 9.5 million patients",
+      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-01T19:28:17+00:00"
+    },
+    {
+      "id": "5d6edf9ec03cc8c409d4b8cc14888acba4b29eb7a7d68199b8436c7780838b3c",
+      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
+      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+      "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-01T18:30:00+00:00"
+    },
+    {
+      "id": "7de4b68209c1337a0346d9e0f63f94c6420802bed5c22485b7385924353aa472",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:54:22+00:00"
+    },
+    {
+      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:53:11+00:00"
+    },
+    {
+      "id": "dff23f3c8b114063949c38cdb7f9843799edcc5895fa4139578c049c5d65fa75",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-01T17:19:24+00:00"
+    },
     {
       "id": "3f993355be59ca656067afd02dc60f19a0844ab9b5da78c3fc4845f24ac82409",
       "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-31T06:51:31+00:00"
-    },
-    {
-      "id": "f14f4226fb23942177f9221e2f736c113c9a5cb6618deccd1019ef2f35d54643",
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-30T14:30:25+00:00"
-    },
-    {
-      "id": "e972cc9952948fa0dbc1f7f06f0f7ba640a2aa2c9bcb3b6e76b312ee07c5a216",
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-30T14:17:44+00:00"
-    },
-    {
-      "id": "e7fd30e89bca0fc1e82164ea014a1d32e5de6c4218698a0c3105386e4bd80457",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique b",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-30T07:36:33+00:00"
-    },
-    {
-      "id": "20d327a204a5298e63074340c6e8ca4de0e808c3f887b5d17f1252a2384ab3f2",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-29T16:25:03+00:00"
-    },
-    {
-      "id": "451f21362943d34251a0ea79f280c1866f9721f1a7296bf602bd6562690bbc41",
-      "title": "Hasbro Data Breach Exposed Employee Personal Information",
-      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-29T11:55:00+00:00"
     }
   ]
 }

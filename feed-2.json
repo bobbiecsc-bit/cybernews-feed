@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-01T16:00:48.185128+00:00",
+  "updated": "2026-09-01T20:29:40.278963+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f14f4226fb23942177f9221e2f736c113c9a5cb6618deccd1019ef2f35d54643",
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-30T14:30:25+00:00"
+    },
+    {
+      "id": "e972cc9952948fa0dbc1f7f06f0f7ba640a2aa2c9bcb3b6e76b312ee07c5a216",
+      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+      "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-08-30T14:17:44+00:00"
+    },
+    {
+      "id": "e7fd30e89bca0fc1e82164ea014a1d32e5de6c4218698a0c3105386e4bd80457",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique b",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-30T07:36:33+00:00"
+    },
+    {
+      "id": "20d327a204a5298e63074340c6e8ca4de0e808c3f887b5d17f1252a2384ab3f2",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-29T16:25:03+00:00"
+    },
+    {
+      "id": "451f21362943d34251a0ea79f280c1866f9721f1a7296bf602bd6562690bbc41",
+      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-29T11:55:00+00:00"
+    },
     {
       "id": "890fcf73be2f3ef7a4a4debf95a48d559ff33c19df9545c0e780267b962c65bd",
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-27T09:33:38+00:00"
-    },
-    {
-      "id": "4198be3b3c1d0c8b41883a6203bd1fcd4d9bdbdf5a17d09ca399886a210d42c7",
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-27T09:16:50+00:00"
-    },
-    {
-      "id": "2f1d6539182745e4c17af0f05798257a487657bf32a3b4af631e0e80db4c8016",
-      "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
-      "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T09:01:06+00:00"
-    },
-    {
-      "id": "63e61204dff51d144b228dfbf031e29287e0b41466a95ecd2570edce612bfac1",
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-27T08:13:50+00:00"
-    },
-    {
-      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T08:13:11+00:00"
-    },
-    {
-      "id": "8fd9c15c8e6281c0558b8f2aa7b30d479b17c505990fc392208f3fd1aaf70453",
-      "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-      "url": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-      "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T08:00:00+00:00"
     }
   ]
 }
