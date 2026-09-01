@@ -1,10 +1,100 @@
 {
-  "updated": "2026-09-01T03:25:18.563995+00:00",
+  "updated": "2026-09-01T11:02:05.697644+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d2eb85116012530edb2ec7c649093d8b558789d48ca8188e2a00058ee60cf04",
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as&nbsp;CVE-2026-76639&nbsp;and&nbsp;CVE-2026-7",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T12:07:24+00:00"
+    },
+    {
+      "id": "1d72b9fabc7d9d40c4592b7dd163979801aee42eeb25ba43fb00da2769ecb946",
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-28T11:46:57+00:00"
+    },
+    {
+      "id": "1510fb277d3c7983f8d487129883b023d584d6200dfc5f2403073e1b59e7d34c",
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T11:20:32+00:00"
+    },
+    {
+      "id": "6b474b6a59ffa48d3124bf8f75c41997d36a3545e4c028f9f581ecc0aaaf2775",
+      "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
+      "url": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
+      "summary": "Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. The post Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-28T11:01:22+00:00"
+    },
+    {
+      "id": "00d295a0cb00f84e4ca44177b9635be31a59568dcf810a8881f8e41a89609ce1",
+      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTER",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-28T10:58:29+00:00"
+    },
+    {
+      "id": "d78fd3b9a03a8b4128635a527eee9f08d6dd226334ed58ca7bab5a065d471e49",
+      "title": "ServiceNow warns of three max severity security vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-28T10:29:42+00:00"
+    },
+    {
+      "id": "c079f13fec47f90b7c10669bcd9792da1532c6fe7638ce5c75e5d2f61750f081",
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T09:45:15+00:00"
+    },
+    {
+      "id": "aabba75ed4ee8bcb2c99ad178bf50ff555ee8c15694fe9e6a6657eeedbd79442",
+      "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+      "url": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+      "summary": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-28T08:40:36+00:00"
+    },
+    {
+      "id": "f774114eb52e3b3c8954f49cb5d6e0e1cbf68b279d841ef0ee92731309f25354",
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of con",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T08:25:36+00:00"
+    },
+    {
+      "id": "274019da349a4ce5be24e66159852acf6dcc00b4454d730d2764fa1b2ff13358",
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumente",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-28T08:20:59+00:00"
+    },
     {
       "id": "5c1665c62efb401982c09585a55ec8d187d589811f7798a8cfc9615c5be4d654",
       "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-26T15:19:21+00:00"
-    },
-    {
-      "id": "8415d773bae65b60374d69345291fd726b58f1681309b9ba4523faeca3239e1e",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T14:47:51+00:00"
-    },
-    {
-      "id": "26c52789df0be9e6ea0ae81b8e74922c7363fcc2e6b4b2704372755bb15b953b",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication,",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-26T13:44:31+00:00"
-    },
-    {
-      "id": "1a063d0cbf2700eeac1e25f403d5fbbb28e214b7653d2efad281b730ae897aa6",
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T13:17:54+00:00"
-    },
-    {
-      "id": "1c8cb498dea5c85b12cbee92d1d7401b2827e79b96bb34085d82024720105ba4",
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Bo",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-26T13:07:02+00:00"
-    },
-    {
-      "id": "392ff28b4d51a9a112413a70227471185910592bb0cc08dd3aa1b781ba9c4575",
-      "title": "Spyware for Babies",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "summary": "The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recent",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-08-26T12:05:52+00:00"
-    },
-    {
-      "id": "f601fe4cfa27db520c709e146b5b58d7b3eabb0fc5bf66817c37564b0940aa8a",
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem fr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-26T11:55:00+00:00"
-    },
-    {
-      "id": "af99c459418ac83a142b96b8d653f58a9e54b97aa071aa62de3c4a6a76735e1b",
-      "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
-      "url": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
-      "summary": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-26T11:29:50+00:00"
-    },
-    {
-      "id": "ea2647337858e2f57e0b5f76877d65da9402f0fca68e4b078e5af42926a9ae6b",
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T11:07:48+00:00"
-    },
-    {
-      "id": "d70bf9da614160daa1d1cced71bb63e139534cc6b432f1b4566dd6d674281017",
-      "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
-      "url": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
-      "summary": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-26T11:00:00+00:00"
-    },
-    {
-      "id": "621ca1c7245aff5bfeb9fa5f62a2e53ac0ad4a5cd042ac0b9d0735f81d2ecb7a",
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-26T10:27:23+00:00"
     }
   ]
 }
