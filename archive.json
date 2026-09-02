@@ -1,7 +1,178 @@
 {
-  "updated": "2026-09-02T10:33:41.196260+00:00",
+  "updated": "2026-09-02T20:28:12.439099+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "c660b2e46ae1f109ea20f23c48c45817ea8ae66dfdaad2cb029cca530f686fb3",
+      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T19:30:00+00:00"
+    },
+    {
+      "id": "da96442218d6978807a4057951e2632d243846c5ba61da3819509c06881c08d7",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-02T19:28:46+00:00"
+    },
+    {
+      "id": "eb292c4b1181bdb7d01056765e824ad3f9b0280f86861276a56c4784f67c9a4d",
+      "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
+      "url": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
+      "summary": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-02T18:43:00+00:00"
+    },
+    {
+      "id": "062504a817a7142df93ca8e7d5d3be069dd173c13e6940e7ae3e8ff00104fc54",
+      "title": "Health data of more than 9.5 million people leaked from Aesto record system",
+      "url": "https://therecord.media/health-data-aesto-cyberattack-leak",
+      "summary": "The healthcare data company Aesto informed federal regulators this week that more than 9.5 million people had sensitive information leaked during a cyberattack last December.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T17:15:00+00:00"
+    },
+    {
+      "id": "64ac102057daee2e8ab43e28e0bce328f9d3deb30428b0379e4bdc0169015af2",
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+      "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affec",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T16:41:06+00:00"
+    },
+    {
+      "id": "2a5f36015133413d8f3b6fcfe3b1bd86e0a37e2b7cad5e4c3612c7eb7c011bda",
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-02T15:47:08+00:00"
+    },
+    {
+      "id": "d74130c360e38e09d6e0e32224ea087bef6f0ae3ef277249f1a201c5bd0afb73",
+      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+      "url": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+      "summary": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify. The post UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T15:45:08+00:00"
+    },
+    {
+      "id": "d74c0790e0e81e8d4de5ab1c230bb2fb0c2aece07104eff79dd0ddc81cfa31ca",
+      "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
+      "url": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
+      "summary": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T15:07:00+00:00"
+    },
+    {
+      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T14:06:59+00:00"
+    },
+    {
+      "id": "3cfac59fe43e51338c243dc308b66e44e8ce89aead1a70c6a841aaa1a43c653e",
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-02T14:02:12+00:00"
+    },
+    {
+      "id": "cc6eebb4ccdc34f3f6671b29775230fa5e74f4b0380a1d74ffdbde62af83d05c",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sport",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-02T13:44:16+00:00"
+    },
+    {
+      "id": "daf42ef9a4943cd157a59e863a03ed999c47ce1124545daf04eefa89eafd1d34",
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "id": "711c1fe7b578c0addfeecd13119734a99995d9705a61bea3877e29c00e961dad",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-02T12:30:22+00:00"
+    },
+    {
+      "id": "43ff6a4cc6fb5f5857e67ec0537eb496b0314f84881379212202e376aeeed4c5",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advert",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T12:22:02+00:00"
+    },
+    {
+      "id": "f60cc758d5ba90387cee18c0f1f1e3c936b2e61287ca0be9b41b617aa6b05740",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T12:18:15+00:00"
+    },
+    {
+      "id": "02491bb6a13214435001004fd31912ed40c96370b7eca603eaf6f1689dd42a26",
+      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
+      "url": "https://therecord.media/sality-botnet-cyber-doj",
+      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-02T12:15:00+00:00"
+    },
+    {
+      "id": "4bee803ffe761f8ed0c241cbcbc45f8f13949e82ec8893ba3d16f3fb7968aae2",
+      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T11:31:36+00:00"
+    },
+    {
+      "id": "8071e541fd79f3e371c05b831ac68f2c723d387e5cf5a1de02ca6dc76856301c",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T10:53:49+00:00"
+    },
+    {
+      "id": "30dfe06ea0970deac73df3cc3e2de18645a72aa6395890375a1f67341c20b046",
+      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
+      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T10:38:13+00:00"
+    },
     {
       "id": "33eca463dce2633c5327a6a967e1627858099961364e3314b8ace66c86c18f34",
       "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
@@ -2080,177 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-08-20T11:45:00+00:00"
-    },
-    {
-      "id": "6740d03ebc5ee612343ea69b0c9de1918c9522362cb5b6686b9f533743e753fd",
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin serv",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:39:35+00:00"
-    },
-    {
-      "id": "cde593dd7ab80cde1198e701377f75e493d054e84992f1016e21a35ceeb136e0",
-      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sit",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-20T11:26:08+00:00"
-    },
-    {
-      "id": "3ff4a07f9778caddeba0644b57cab6f73cbc91545153a11326da839b512ba48b",
-      "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
-      "url": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
-      "summary": "Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network. The post AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-20T11:08:00+00:00"
-    },
-    {
-      "id": "e9af320d90c544ae0697c717de4a1f0cce3ec1b2bdfcc1fb4fbae5472c5b1e20",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:06:14+00:00"
-    },
-    {
-      "id": "0d465eec631531857f0133ab1597525f383d985d7d7918b79ca84b4a5fd49b41",
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:05:11+00:00"
-    },
-    {
-      "id": "237d26e3f1f2ca16693a2a309e97b919046f5cd481e54526a042c3e1d4f6f0f5",
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-20T10:38:28+00:00"
-    },
-    {
-      "id": "7aa10154e2ca3cd0e9fe762e66d20a024d4c2e3ba8f31167eb705fde3e56abb3",
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-20T10:02:02+00:00"
-    },
-    {
-      "id": "0ae908480971256a6cb5676935691577ca25e86adf107b31311068d9b8459d54",
-      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
-      "summary": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncerta",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-08-20T09:48:55+00:00"
-    },
-    {
-      "id": "3a6e3831490d70d13ac511a32bcc45c950081676f1ca4255c63da993477c2d4d",
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-20T09:46:54+00:00"
-    },
-    {
-      "id": "84c29f9c4c26a8a0621e973715f22b6475da62c6502e000904ade9bc43643a25",
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-20T08:42:03+00:00"
-    },
-    {
-      "id": "cee734b868582b98f300347f2845ff5854a39ed7aeb76f5c71b20f169314804e",
-      "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
-      "url": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-      "summary": "Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction. The post Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T08:33:25+00:00"
-    },
-    {
-      "id": "e5821c833a2f64b3c0407fb3c7e879efdea2e11122d78183f611c78e17f53c28",
-      "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
-      "url": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-      "summary": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T07:48:24+00:00"
-    },
-    {
-      "id": "e47f737af38eb916ef887a9db05af0b0e0e49db2ccd39a04912163cb04ad8582",
-      "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-      "url": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-      "summary": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-20T07:02:02+00:00"
-    },
-    {
-      "id": "b1da55ba01341c8882c40cb13eaeb0c9b25d52e2bed676067f93a15db45852e1",
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of un",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-20T06:04:34+00:00"
-    },
-    {
-      "id": "2b2f8778b75699ef0680f57bded93846b5f4bf8389268c665ff00bcfe1dae6bb",
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-19T20:59:58+00:00"
-    },
-    {
-      "id": "fd9aa5790c84cee249d9f94d7e0fd9e05878dd87e05ef19cdfccaf19b4ef1db0",
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-19T20:07:12+00:00"
-    },
-    {
-      "id": "ef4c1d5e9e0fb7ea9b29a64b658e252fb34ce65e5d2458f8bdda0b67a6ad3dfd",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The en",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T19:02:40+00:00"
-    },
-    {
-      "id": "fee6e70fa8084a6cba458c824757ede3912226bf44d5d55f6cf7c4c42ff082de",
-      "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
-      "url": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
-      "summary": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electronic health record environments.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T18:10:00+00:00"
-    },
-    {
-      "id": "90794440e1d1789e20535bae1d11011cc757a6cadeb511ead709ec2520ac163b",
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-19T18:09:13+00:00"
     }
   ]
 }

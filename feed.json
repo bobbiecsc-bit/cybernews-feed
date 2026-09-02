@@ -1,10 +1,181 @@
 {
-  "updated": "2026-09-02T10:33:41.196260+00:00",
+  "updated": "2026-09-02T20:28:12.439099+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c660b2e46ae1f109ea20f23c48c45817ea8ae66dfdaad2cb029cca530f686fb3",
+      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T19:30:00+00:00"
+    },
+    {
+      "id": "da96442218d6978807a4057951e2632d243846c5ba61da3819509c06881c08d7",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-02T19:28:46+00:00"
+    },
+    {
+      "id": "eb292c4b1181bdb7d01056765e824ad3f9b0280f86861276a56c4784f67c9a4d",
+      "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
+      "url": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
+      "summary": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-02T18:43:00+00:00"
+    },
+    {
+      "id": "062504a817a7142df93ca8e7d5d3be069dd173c13e6940e7ae3e8ff00104fc54",
+      "title": "Health data of more than 9.5 million people leaked from Aesto record system",
+      "url": "https://therecord.media/health-data-aesto-cyberattack-leak",
+      "summary": "The healthcare data company Aesto informed federal regulators this week that more than 9.5 million people had sensitive information leaked during a cyberattack last December.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T17:15:00+00:00"
+    },
+    {
+      "id": "64ac102057daee2e8ab43e28e0bce328f9d3deb30428b0379e4bdc0169015af2",
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+      "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affec",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T16:41:06+00:00"
+    },
+    {
+      "id": "2a5f36015133413d8f3b6fcfe3b1bd86e0a37e2b7cad5e4c3612c7eb7c011bda",
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-02T15:47:08+00:00"
+    },
+    {
+      "id": "d74130c360e38e09d6e0e32224ea087bef6f0ae3ef277249f1a201c5bd0afb73",
+      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+      "url": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+      "summary": "Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify. The post UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T15:45:08+00:00"
+    },
+    {
+      "id": "d74c0790e0e81e8d4de5ab1c230bb2fb0c2aece07104eff79dd0ddc81cfa31ca",
+      "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
+      "url": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
+      "summary": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T15:07:00+00:00"
+    },
+    {
+      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T14:06:59+00:00"
+    },
+    {
+      "id": "3cfac59fe43e51338c243dc308b66e44e8ce89aead1a70c6a841aaa1a43c653e",
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-02T14:02:12+00:00"
+    },
+    {
+      "id": "cc6eebb4ccdc34f3f6671b29775230fa5e74f4b0380a1d74ffdbde62af83d05c",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sport",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-02T13:44:16+00:00"
+    },
+    {
+      "id": "daf42ef9a4943cd157a59e863a03ed999c47ce1124545daf04eefa89eafd1d34",
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "id": "711c1fe7b578c0addfeecd13119734a99995d9705a61bea3877e29c00e961dad",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-02T12:30:22+00:00"
+    },
+    {
+      "id": "43ff6a4cc6fb5f5857e67ec0537eb496b0314f84881379212202e376aeeed4c5",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advert",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T12:22:02+00:00"
+    },
+    {
+      "id": "f60cc758d5ba90387cee18c0f1f1e3c936b2e61287ca0be9b41b617aa6b05740",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T12:18:15+00:00"
+    },
+    {
+      "id": "02491bb6a13214435001004fd31912ed40c96370b7eca603eaf6f1689dd42a26",
+      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
+      "url": "https://therecord.media/sality-botnet-cyber-doj",
+      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-02T12:15:00+00:00"
+    },
+    {
+      "id": "4bee803ffe761f8ed0c241cbcbc45f8f13949e82ec8893ba3d16f3fb7968aae2",
+      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-02T11:31:36+00:00"
+    },
+    {
+      "id": "8071e541fd79f3e371c05b831ac68f2c723d387e5cf5a1de02ca6dc76856301c",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T10:53:49+00:00"
+    },
+    {
+      "id": "30dfe06ea0970deac73df3cc3e2de18645a72aa6395890375a1f67341c20b046",
+      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
+      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T10:38:13+00:00"
+    },
     {
       "id": "33eca463dce2633c5327a6a967e1627858099961364e3314b8ace66c86c18f34",
       "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
@@ -283,177 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-01T09:09:34+00:00"
-    },
-    {
-      "id": "651b2a34295b4d12ebd5f5202a32e63e0c8f4aebe58c59be50579b9b169a1778",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actor",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-01T09:05:30+00:00"
-    },
-    {
-      "id": "403a7a2a135a4efe4ea97aad3a9d17d67cf34009b80f73f0b0cf7a845a8e1ac2",
-      "title": "WatchGuard Patches Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
-      "summary": "Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely. The post WatchGuard Patches Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-01T08:50:04+00:00"
-    },
-    {
-      "id": "5b862f142a978c2bc9c231db7d1f619233dff725581d1c3773bd83cc6b98aeb0",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-01T08:26:24+00:00"
-    },
-    {
-      "id": "6440af623a3b027133b9573048eebcb63fdc8b29fd1e443c18f3140f83255226",
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-01T07:48:24+00:00"
-    },
-    {
-      "id": "9d1d25eb12ecc8ff09e1cffad8d8235cf823abd0a0c0d5a74b785c6b39361afb",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T07:22:30+00:00"
-    },
-    {
-      "id": "8d48278a1b40504fbff4bb581170bbeffc21252a072e6a066a089c0724661ff3",
-      "title": "PaperCut Exploitation Escalates to Active Intrusions",
-      "url": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
-      "summary": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog. The post PaperCut Exploitation Escalates to Active Intrusions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-01T05:27:18+00:00"
-    },
-    {
-      "id": "c88a05001dca875f1675a59aef9f36656d5ec4d71080a3cf466f0d55de2ae5d3",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-31T20:47:54+00:00"
-    },
-    {
-      "id": "436f72d00b0506934cd93b523264cf404eb35817345d1c63ff822f838513f463",
-      "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
-      "url": "https://therecord.media/crypto-tectonic-hack-cronos",
-      "summary": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-31T19:45:00+00:00"
-    },
-    {
-      "id": "aab94ee8133c548e003a213a780b1685cd368b47d0c7ad4dd17d741651136ffa",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-31T18:51:04+00:00"
-    },
-    {
-      "id": "978983916c5317c404eb5dfbb1f4f36fc1983495b20e84ff868a4adcc4b75810",
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "summary": "It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according to announcements made online by each installation. ",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-31T18:20:35+00:00"
-    },
-    {
-      "id": "cbe1eb1a526e86a5240c409457902f23be9623739a5b33432e685bf118669fe4",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical professi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-31T17:24:28+00:00"
-    },
-    {
-      "id": "f987011abe20f36259d44f6cba52d1551773ee11c7b12ad078310db3372ef40c",
-      "title": "Berlin says it won’t pay ransom after hackers steal government data",
-      "url": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
-      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-31T14:45:00+00:00"
-    },
-    {
-      "id": "88634f7e2b02400e7351f0dba1f56fe4099eec0e506f50143f61b4e261586c87",
-      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-      "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-31T14:32:34+00:00"
-    },
-    {
-      "id": "b3285ed45f9b487921578ec021c64b2a4421ca97a50c32f246d623ae696b420b",
-      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-      "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-31T13:59:19+00:00"
-    },
-    {
-      "id": "46defbbddb217e9ff0017193e38e5dbf81c818620a32aa53f448cde65931cf2a",
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewher",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-31T13:50:00+00:00"
-    },
-    {
-      "id": "570cf88d3b0ff13e0ffe4441d07fe401d0ec4421f202057b3d913d2304b9c60e",
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-31T13:30:01+00:00"
-    },
-    {
-      "id": "731f873f3ee10106569a6091d91254f1e317772d9dc19e4ece078aa98e7748a8",
-      "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
-      "url": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
-      "summary": "The ShinyHunters extortion group has claimed the theft of 284 million records from the company’s systems. The post McKesson Confirms Data Breach as Attacker Deadline Looms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-31T13:14:46+00:00"
-    },
-    {
-      "id": "94f22e04e71ea7e46d77e0d1e6153295fcc4da54fa7b5500537d30a856aaa9f1",
-      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
-      "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-31T12:45:00+00:00"
-    },
-    {
-      "id": "1563bd12df571ba160f5b245382b2826889a222791033ea43071d182e4e70581",
-      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
-      "url": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
-      "summary": "One of Slovenia’s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-31T12:30:00+00:00"
     }
   ]
 }
