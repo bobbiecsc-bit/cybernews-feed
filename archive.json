@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-02T02:43:26.000731+00:00",
+  "updated": "2026-09-02T10:33:41.196260+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "33eca463dce2633c5327a6a967e1627858099961364e3314b8ace66c86c18f34",
+      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "summary": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T09:12:29+00:00"
+    },
+    {
+      "id": "eb3bb052eba218a5d3c4065eed73703dfda708e15b3e163dbd71bc5ff2a8cfe6",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arr",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T09:10:23+00:00"
+    },
+    {
+      "id": "c7121520f5a9a11f5da5868c9ffe2370bf3aea3ea31506db9d9cb8cd0f05d1c7",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-02T09:06:48+00:00"
+    },
+    {
+      "id": "db2015e89f3432f1b2201b2688cbffb22ae1283cebf7e06b127273c721c13392",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-02T08:00:43+00:00"
+    },
+    {
+      "id": "fd47abd976ef000e6b0d6e16c094e2fd55fe312338f74da66fc7394e180fb92f",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets&nbsp;CVE-2021-31886,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T07:47:13+00:00"
+    },
+    {
+      "id": "9b6ec5da131924153511697a8fe2db2da335e3c49358e4df59c3249732c1a279",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T07:08:50+00:00"
+    },
+    {
+      "id": "81c96cc8da0f6b72bc0783ed1257950c8a27d688bf5733279a35e7050273c1ee",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in colla",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T06:56:30+00:00"
+    },
+    {
+      "id": "dac4f90cb8aa9351a93d9fcf4ea8391248fade93785a628f242f21e3aaf9fce3",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-02T06:39:29+00:00"
+    },
+    {
+      "id": "3e24cc131aa76ccaf7ee2d63b72c6481daf9e7183c64a45201264d736febd7cb",
+      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+      "url": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+      "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-02T05:04:52+00:00"
+    },
     {
       "id": "1f806f4f0ff9ae65b258606659e2c12debd2eca820d0f3e18e699052377b55c7",
       "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
@@ -2170,87 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-19T18:09:13+00:00"
-    },
-    {
-      "id": "c2ad7541bc9454f012055efcea2c5ac70ee1a427fb20691d35104cf19b6b635b",
-      "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
-      "url": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
-      "summary": "The National Security Agency (NSA), FBI and other federal agencies said the campaign is targeting Siemens S7 Series PLCs and was being fueled by “AI-assisted development” alongside exploitation of known vulnerabilities.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T17:58:00+00:00"
-    },
-    {
-      "id": "71fc6995d69ed28f123ba95dec10e8b3a60e47f7ef51338880ebe19563d93d40",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T17:50:01+00:00"
-    },
-    {
-      "id": "3480c475467139bf896135c07a7dd6dc90b80edf42513783bae0a3602546295d",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-19T14:00:10+00:00"
-    },
-    {
-      "id": "bf397175c1c085ce3cdd9c7607b3e1b31e45c00032f7da7dd88681db0aef4f02",
-      "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
-      "url": "https://therecord.media/latvia-cyberattack-vehicle-data",
-      "summary": "Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T13:45:00+00:00"
-    },
-    {
-      "id": "9382709941ad2fa7c1c57683d2b0b0840b7d85da69fba850722b30c607cbad40",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, Gogi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-19T13:12:17+00:00"
-    },
-    {
-      "id": "22071988be8ffce72624a2d7136e59d73b7f4f15e71766653b94914ecf70cbca",
-      "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
-      "url": "https://therecord.media/iran-cyberattacks-us-doj",
-      "summary": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-19T12:15:00+00:00"
-    },
-    {
-      "id": "b3d652ff51df4921b73299dc9d166d190f2e64f35cdb93b0ebdd46157053bdd0",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T11:34:28+00:00"
-    },
-    {
-      "id": "276b26abd3af99ec56ad6b4b5d895d9409fbbe5cd66b276f9a6c3c85de3250eb",
-      "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-      "url": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-      "summary": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-19T11:30:33+00:00"
-    },
-    {
-      "id": "d147b16777527f66ac8b7744056a62edd685ce4be87664791ede43d71748d563",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operat",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-19T11:25:28+00:00"
     }
   ]
 }
