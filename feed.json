@@ -1,10 +1,73 @@
 {
-  "updated": "2026-09-03T10:37:22.585464+00:00",
+  "updated": "2026-09-03T15:43:55.249423+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ccbb703251575fb6f2ae765cffc04abe2c5ce54a42563974e733806dac721d8a",
+      "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+      "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+      "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-03T15:35:19+00:00"
+    },
+    {
+      "id": "12bd6356b4bcf458f70b3d710baf02cb3d4f1a468b11c85c947cecbe5769625c",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-03T14:52:20+00:00"
+    },
+    {
+      "id": "e41d05713645fe7a3c0ef3ae28fa1876064bfd2e9ddff68e75b74405f0c76812",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-03T13:50:59+00:00"
+    },
+    {
+      "id": "f0ab43561e28cbc1b6c12bc8c260e1a5d8118e320f35d0b0a613c82e1e4eab0f",
+      "title": "US and Canadian court data exposed in Thomson Reuters breach",
+      "url": "https://therecord.media/thomson-reuters-cyberattack-data",
+      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "id": "54e49c42f26d7b730f6f3543ee6739fc03898633e87c72a3d3b77d398ce7c534",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign'",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-03T11:58:00+00:00"
+    },
+    {
+      "id": "0ffead6ad9f846a17b980f621d70737df02f62acbec41c5db285151c3ee86cb4",
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, techno",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-03T10:43:01+00:00"
+    },
+    {
+      "id": "2504101768298d9cd58c06c519b8fbb9b4736a167822cb1b4117197160571383",
+      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-03T10:40:00+00:00"
+    },
     {
       "id": "1db68394268a31c410ea705e0cd37d4c75aeb86815bf159261541901dbeb4d50",
       "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-01T14:07:20+00:00"
-    },
-    {
-      "id": "884272089df20a5e7ea209d5b0b1f12122901704c87fe7ecec40c988d37ab88e",
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisi",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-01T14:01:11+00:00"
-    },
-    {
-      "id": "733c36767b10aa780d58b7c473de6b0b6d51d0e7a2d95e382210282bf61dc8a9",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) dev",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-01T13:08:58+00:00"
-    },
-    {
-      "id": "649bece8a86a53210d4d11b6f170da26ac7aad4531cb73e3f06d42bf7b10df9b",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-01T12:38:35+00:00"
-    },
-    {
-      "id": "84d69309f1154397abfffb324eafb0d6bcd0f7ef1d3cf09c1baebe0a2d32ea57",
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-      "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-01T12:37:15+00:00"
-    },
-    {
-      "id": "36eecbe7167de6aae91552dd1ee867b8d566b431287986429c50b48bc1af5052",
-      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
-      "url": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
-      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-01T12:33:00+00:00"
-    },
-    {
-      "id": "0ee1eeac65ef3b2893175aa19a435dbecd69f2487ba5973328be4a06c7b90b3e",
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-      "summary": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-01T12:07:54+00:00"
-    },
-    {
-      "id": "6a32dcc2b873f1220704b7f36fe9ecb57a081c072d6c57fdab250c430e566b3d",
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, an",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-01T11:30:00+00:00"
     }
   ]
 }

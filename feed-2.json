@@ -1,10 +1,73 @@
 {
-  "updated": "2026-09-03T10:37:22.585464+00:00",
+  "updated": "2026-09-03T15:43:55.249423+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "884272089df20a5e7ea209d5b0b1f12122901704c87fe7ecec40c988d37ab88e",
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisi",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-01T14:01:11+00:00"
+    },
+    {
+      "id": "733c36767b10aa780d58b7c473de6b0b6d51d0e7a2d95e382210282bf61dc8a9",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) dev",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-01T13:08:58+00:00"
+    },
+    {
+      "id": "649bece8a86a53210d4d11b6f170da26ac7aad4531cb73e3f06d42bf7b10df9b",
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-01T12:38:35+00:00"
+    },
+    {
+      "id": "84d69309f1154397abfffb324eafb0d6bcd0f7ef1d3cf09c1baebe0a2d32ea57",
+      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
+      "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
+      "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-01T12:37:15+00:00"
+    },
+    {
+      "id": "36eecbe7167de6aae91552dd1ee867b8d566b431287986429c50b48bc1af5052",
+      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
+      "url": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
+      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-01T12:33:00+00:00"
+    },
+    {
+      "id": "0ee1eeac65ef3b2893175aa19a435dbecd69f2487ba5973328be4a06c7b90b3e",
+      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
+      "summary": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-01T12:07:54+00:00"
+    },
+    {
+      "id": "6a32dcc2b873f1220704b7f36fe9ecb57a081c072d6c57fdab250c430e566b3d",
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, an",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-01T11:30:00+00:00"
+    },
     {
       "id": "f9e32735e223c2b9622587f1113cc1164a06e4a2501385069a10836078b663a6",
       "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-08-28T18:18:55+00:00"
-    },
-    {
-      "id": "ba3feda904b048f64d900cc61e220afc6a28d5320eb320d0a2ffd695dcc3042b",
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's truste",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-28T17:12:15+00:00"
-    },
-    {
-      "id": "fbc7dbb9f6055d13b7e4a84f44545094b8f456a459bb6d865613bfc9bc1607da",
-      "title": "PaperCut warns of hackers using printer management software flaw in attacks",
-      "url": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
-      "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-28T16:30:00+00:00"
-    },
-    {
-      "id": "9ef134c66a5565349f262358941bc45f48518dc3129233f9b2968490ac4be2df",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-28T15:56:55+00:00"
-    },
-    {
-      "id": "20098a40b9619a21451047cf1e794476f3bfa19b4e2dae8baa79f8aa11e7d608",
-      "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
-      "url": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-28T15:35:34+00:00"
-    },
-    {
-      "id": "abb490193a804ef43c21189b9c51f217ee3094b93d158a4357ac8d6925ca8eab",
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-28T14:00:10+00:00"
-    },
-    {
-      "id": "78d92937a6df6e3e52d3305e86087d6c5fbecdbf1efa285d122784e293bdd494",
-      "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
-      "url": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
-      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-28T13:59:14+00:00"
-    },
-    {
-      "id": "5688b35d77474624439bdfff7638cbd3993196c2e86d141f88d2a543f5661011",
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-28T12:58:43+00:00"
     }
   ]
 }
