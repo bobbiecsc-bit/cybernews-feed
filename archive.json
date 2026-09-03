@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-03T15:43:55.249423+00:00",
+  "updated": "2026-09-03T20:27:10.955178+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "25f09ace814107cd955b9ad494eb7dae60471b22e0679126f0d281274723f6f6",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-03T20:04:24+00:00"
+    },
+    {
+      "id": "d0cdf0878d94f40bb2f4270e04c2d9c65edd48d7e69d6917a42be9bc4fdedb01",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-03T18:28:12+00:00"
+    },
+    {
+      "id": "eae08603ec40cb975fc89664ee6585afd73684bdb81c2f8fd7581c96b134df42",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides tha",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-03T18:02:47+00:00"
+    },
+    {
+      "id": "10869e1cb2f94267097db0303e292e744802aa16350ebfbffb0af4494701542b",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-03T15:52:07+00:00"
+    },
     {
       "id": "ccbb703251575fb6f2ae765cffc04abe2c5ce54a42563974e733806dac721d8a",
       "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
@@ -12,6 +48,15 @@
       "date": "2026-09-03T15:35:19+00:00"
     },
     {
+      "id": "9d9736b815d582ed8ce686114c0b3206d9ce0fde65ef624de23d744802199b9b",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowe",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-03T15:26:47+00:00"
+    },
+    {
       "id": "12bd6356b4bcf458f70b3d710baf02cb3d4f1a468b11c85c947cecbe5769625c",
       "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
@@ -19,6 +64,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-03T14:52:20+00:00"
+    },
+    {
+      "id": "9fe0a5b020907206bd3962c5a7b1f3dab3ec5b11c83be154c68e4a83ccb3156d",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-03T14:39:05+00:00"
     },
     {
       "id": "e41d05713645fe7a3c0ef3ae28fa1876064bfd2e9ddff68e75b74405f0c76812",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-20T19:59:19+00:00"
-    },
-    {
-      "id": "2467443b79467efa179c0f42cd8344926a643dc24fff9029adb988e2b77826f0",
-      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
-      "url": "https://therecord.media/china-cyber-espionage-central-asia",
-      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-20T19:30:00+00:00"
-    },
-    {
-      "id": "000b292e537a8c938537255748c377190d47b48b8f300b8f637871eb24cf362b",
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-20T17:53:52+00:00"
-    },
-    {
-      "id": "be2a2b50299930d2f5bc9c9cf34371cb3c84143c5e14b9968128682eea59df31",
-      "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-      "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "summary": "OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-08-20T17:44:36+00:00"
-    },
-    {
-      "id": "50bcfcb6813f9394c79e5c5e77c8a7c9c5cb6949d7123e7f3d8e3f1318f4afbc",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-20T17:23:48+00:00"
-    },
-    {
-      "id": "827ef3b45efd4e47181c51e48a7f400d24b257aef6542015deb2ce6aab9c8f24",
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and ca",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-20T16:59:44+00:00"
-    },
-    {
-      "id": "6ccb28bfaeedcd7377e07bc8ba460551ef3d5a4407a46f1ea6abb86424883639",
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-20T14:50:49+00:00"
     }
   ]
 }

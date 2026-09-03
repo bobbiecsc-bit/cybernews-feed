@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-03T15:43:55.249423+00:00",
+  "updated": "2026-09-03T20:27:10.955178+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "25f09ace814107cd955b9ad494eb7dae60471b22e0679126f0d281274723f6f6",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-03T20:04:24+00:00"
+    },
+    {
+      "id": "d0cdf0878d94f40bb2f4270e04c2d9c65edd48d7e69d6917a42be9bc4fdedb01",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-03T18:28:12+00:00"
+    },
+    {
+      "id": "eae08603ec40cb975fc89664ee6585afd73684bdb81c2f8fd7581c96b134df42",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides tha",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-03T18:02:47+00:00"
+    },
+    {
+      "id": "10869e1cb2f94267097db0303e292e744802aa16350ebfbffb0af4494701542b",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-03T15:52:07+00:00"
+    },
     {
       "id": "ccbb703251575fb6f2ae765cffc04abe2c5ce54a42563974e733806dac721d8a",
       "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
@@ -15,6 +51,15 @@
       "date": "2026-09-03T15:35:19+00:00"
     },
     {
+      "id": "9d9736b815d582ed8ce686114c0b3206d9ce0fde65ef624de23d744802199b9b",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowe",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-03T15:26:47+00:00"
+    },
+    {
       "id": "12bd6356b4bcf458f70b3d710baf02cb3d4f1a468b11c85c947cecbe5769625c",
       "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
@@ -22,6 +67,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-03T14:52:20+00:00"
+    },
+    {
+      "id": "9fe0a5b020907206bd3962c5a7b1f3dab3ec5b11c83be154c68e4a83ccb3156d",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-03T14:39:05+00:00"
     },
     {
       "id": "e41d05713645fe7a3c0ef3ae28fa1876064bfd2e9ddff68e75b74405f0c76812",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-01T17:54:22+00:00"
-    },
-    {
-      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T17:53:11+00:00"
-    },
-    {
-      "id": "dff23f3c8b114063949c38cdb7f9843799edcc5895fa4139578c049c5d65fa75",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-01T17:19:24+00:00"
-    },
-    {
-      "id": "3f993355be59ca656067afd02dc60f19a0844ab9b5da78c3fc4845f24ac82409",
-      "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
-      "url": "https://therecord.media/nutex-health-data-breach",
-      "summary": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-01T15:31:00+00:00"
-    },
-    {
-      "id": "024e417741d4a26cc93ece17e273386fea738353fd58c3d2cb55ff25db332de2",
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-01T14:45:06+00:00"
-    },
-    {
-      "id": "e50e48c737157f8a1ca2d7324e280746000e57d63dda7e329e7bd930dc6b98b3",
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-01T14:28:40+00:00"
-    },
-    {
-      "id": "2e1433965ded5055aabb83ee9f802459105e3968a6a85abcdf2a7a5ae985ae89",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injecte",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T14:07:20+00:00"
     }
   ]
 }

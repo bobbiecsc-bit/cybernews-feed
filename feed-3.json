@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-03T15:43:55.249423+00:00",
+  "updated": "2026-09-03T20:27:10.955178+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "20d327a204a5298e63074340c6e8ca4de0e808c3f887b5d17f1252a2384ab3f2",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-29T16:25:03+00:00"
+    },
+    {
+      "id": "451f21362943d34251a0ea79f280c1866f9721f1a7296bf602bd6562690bbc41",
+      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-29T11:55:00+00:00"
+    },
+    {
+      "id": "890fcf73be2f3ef7a4a4debf95a48d559ff33c19df9545c0e780267b962c65bd",
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-28T22:40:17+00:00"
+    },
+    {
+      "id": "65777cda99e57c318fe1f1f1a1056e8d6fe6796f87be463e2cd9eb57319535cf",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE id",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T20:38:47+00:00"
+    },
+    {
+      "id": "4543ccb8e5635911b03c21527d3866a63bb652c258ee2caa472e917823914556",
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-28T19:08:26+00:00"
+    },
+    {
+      "id": "6f01060b6e115f8e20a407caac489c4c499d98abd37925c4c3e9ae2110c2b278",
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-28T18:18:55+00:00"
+    },
     {
       "id": "ba3feda904b048f64d900cc61e220afc6a28d5320eb320d0a2ffd695dcc3042b",
       "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-08-27T08:13:50+00:00"
-    },
-    {
-      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T08:13:11+00:00"
-    },
-    {
-      "id": "8fd9c15c8e6281c0558b8f2aa7b30d479b17c505990fc392208f3fd1aaf70453",
-      "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-      "url": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-      "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T08:00:00+00:00"
-    },
-    {
-      "id": "038c6cd0b2efdcfa57a79b6c8af3bbc97151b7405d712e8baee25a88e56ce256",
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulne",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-27T07:05:28+00:00"
-    },
-    {
-      "id": "893b10a9b768e1dccfb9aa1ee8ac783a0cccff545662cb8ff0668c4228971685",
-      "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-      "summary": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452. The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-27T04:39:19+00:00"
-    },
-    {
-      "id": "7917df953883e387e63d6c658ebfde70ea4dbe54adf74224ab00f2c4a19fd612",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T21:33:20+00:00"
-    },
-    {
-      "id": "02d8e5cccd4c4ff5900972b8a7075f20620fac7a98347d9576e34ea194ed9763",
-      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
-      "url": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
-      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-26T20:53:00+00:00"
     }
   ]
 }

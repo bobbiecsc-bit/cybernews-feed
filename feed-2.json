@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-03T15:43:55.249423+00:00",
+  "updated": "2026-09-03T20:27:10.955178+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:53:11+00:00"
+    },
+    {
+      "id": "dff23f3c8b114063949c38cdb7f9843799edcc5895fa4139578c049c5d65fa75",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-01T17:19:24+00:00"
+    },
+    {
+      "id": "3f993355be59ca656067afd02dc60f19a0844ab9b5da78c3fc4845f24ac82409",
+      "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
+      "url": "https://therecord.media/nutex-health-data-breach",
+      "summary": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-01T15:31:00+00:00"
+    },
+    {
+      "id": "024e417741d4a26cc93ece17e273386fea738353fd58c3d2cb55ff25db332de2",
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-01T14:45:06+00:00"
+    },
+    {
+      "id": "e50e48c737157f8a1ca2d7324e280746000e57d63dda7e329e7bd930dc6b98b3",
+      "title": "Novocure data breach affects more than 1,400 cancer patients",
+      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-01T14:28:40+00:00"
+    },
+    {
+      "id": "2e1433965ded5055aabb83ee9f802459105e3968a6a85abcdf2a7a5ae985ae89",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injecte",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-01T14:07:20+00:00"
+    },
     {
       "id": "884272089df20a5e7ea209d5b0b1f12122901704c87fe7ecec40c988d37ab88e",
       "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-30T07:36:33+00:00"
-    },
-    {
-      "id": "20d327a204a5298e63074340c6e8ca4de0e808c3f887b5d17f1252a2384ab3f2",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-29T16:25:03+00:00"
-    },
-    {
-      "id": "451f21362943d34251a0ea79f280c1866f9721f1a7296bf602bd6562690bbc41",
-      "title": "Hasbro Data Breach Exposed Employee Personal Information",
-      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-29T11:55:00+00:00"
-    },
-    {
-      "id": "890fcf73be2f3ef7a4a4debf95a48d559ff33c19df9545c0e780267b962c65bd",
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-28T22:40:17+00:00"
-    },
-    {
-      "id": "65777cda99e57c318fe1f1f1a1056e8d6fe6796f87be463e2cd9eb57319535cf",
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE id",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-28T20:38:47+00:00"
-    },
-    {
-      "id": "4543ccb8e5635911b03c21527d3866a63bb652c258ee2caa472e917823914556",
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-28T19:08:26+00:00"
-    },
-    {
-      "id": "6f01060b6e115f8e20a407caac489c4c499d98abd37925c4c3e9ae2110c2b278",
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-28T18:18:55+00:00"
     }
   ]
 }
