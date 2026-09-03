@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-03T02:48:36.742941+00:00",
+  "updated": "2026-09-03T10:37:22.585464+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "eef5e5ff1cf8c96d1aed845c4f0497f494e23941431796e9cd441176c2c71a85",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Steale",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-24T12:35:36+00:00"
+    },
+    {
+      "id": "4efb0808af1e4f02f15009f453897f5cc639ca0cfdaae44046c53278c7043af1",
+      "title": "Hackers infecting Android car systems to build proxy botnet",
+      "url": "https://therecord.media/android-botnet-china-hackers",
+      "summary": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-08-24T12:15:00+00:00"
+    },
+    {
+      "id": "ecccd44f47e077d30972e13328c72de3d5ace85d8189694edd5c0ec35989b715",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE ident",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-24T11:56:34+00:00"
+    },
+    {
+      "id": "647d7c322525cb945c6065c1bec7a3f16448ac506691600d67308dd1055b93b1",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqr",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-24T11:51:36+00:00"
+    },
     {
       "id": "88f21efe833b4a1d88636c372201514ed0e9ac901f07b12347ff3a448b875fe2",
       "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-20T13:16:35+00:00"
-    },
-    {
-      "id": "2e61538784a463f038887f0e5113bc672bccd0255738ae45e54f9415c17f0e1a",
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T12:24:53+00:00"
-    },
-    {
-      "id": "b437cbcc9c57d0b4c9069437d1f444a8bce6d515659724e6a8d69b1024d2e479",
-      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-      "url": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "summary": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T12:05:55+00:00"
-    },
-    {
-      "id": "b398c0708051478251ce1cf93974258e5ca04b6737972bc97b2e5e6b577585a8",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the car",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-20T12:01:24+00:00"
-    },
-    {
-      "id": "d693b23125095cb1c9a12b46b6584fe42a3951367801056dc03042507018c9c4",
-      "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-      "summary": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:46:04+00:00"
     }
   ]
 }

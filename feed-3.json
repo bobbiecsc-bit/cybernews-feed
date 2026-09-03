@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-03T02:48:36.742941+00:00",
+  "updated": "2026-09-03T10:37:22.585464+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c246e083e0d9d382d05b8c977d76f4616233d596e433a2e07d6f525d9ce08254",
+      "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
+      "url": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+      "summary": "CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company&#8217;s Own Systems appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-08-28T12:36:53+00:00"
+    },
+    {
+      "id": "6d2eb85116012530edb2ec7c649093d8b558789d48ca8188e2a00058ee60cf04",
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as&nbsp;CVE-2026-76639&nbsp;and&nbsp;CVE-2026-7",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T12:07:24+00:00"
+    },
+    {
+      "id": "1d72b9fabc7d9d40c4592b7dd163979801aee42eeb25ba43fb00da2769ecb946",
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-28T11:46:57+00:00"
+    },
+    {
+      "id": "1510fb277d3c7983f8d487129883b023d584d6200dfc5f2403073e1b59e7d34c",
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-28T11:20:32+00:00"
+    },
     {
       "id": "6b474b6a59ffa48d3124bf8f75c41997d36a3545e4c028f9f581ecc0aaaf2775",
       "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-08-26T15:23:45+00:00"
-    },
-    {
-      "id": "9da814d3675d77e515f7879ae709f1fd96a73cec5eb0b9a4965b074f582d45eb",
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-26T15:19:21+00:00"
-    },
-    {
-      "id": "8415d773bae65b60374d69345291fd726b58f1681309b9ba4523faeca3239e1e",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T14:47:51+00:00"
-    },
-    {
-      "id": "26c52789df0be9e6ea0ae81b8e74922c7363fcc2e6b4b2704372755bb15b953b",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication,",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-26T13:44:31+00:00"
-    },
-    {
-      "id": "1a063d0cbf2700eeac1e25f403d5fbbb28e214b7653d2efad281b730ae897aa6",
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T13:17:54+00:00"
     }
   ]
 }

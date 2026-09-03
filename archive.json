@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-03T02:48:36.742941+00:00",
+  "updated": "2026-09-03T10:37:22.585464+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1db68394268a31c410ea705e0cd37d4c75aeb86815bf159261541901dbeb4d50",
+      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-03T10:30:00+00:00"
+    },
+    {
+      "id": "b6e02e04385587bfc94fbc2569c3b9baa87beadc68c8d5cebde9ffd9a973bae1",
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device wi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-03T08:43:17+00:00"
+    },
+    {
+      "id": "21d7fb2ca2b3641ce8b901ccaed2c58af30e54baec778d247254217167e0bf6b",
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros r",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-03T06:26:59+00:00"
+    },
+    {
+      "id": "bf0dadca2770adb187c38567b371a1b7053a29ff2184cf1a19adf54035e576c1",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request for",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-03T05:19:04+00:00"
+    },
     {
       "id": "b6a094e0db0f67fe6c27ad2d5ea8d6b2fab20362792ef92be19e88fb1ed38de3",
       "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
@@ -2215,42 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-20T13:16:35+00:00"
-    },
-    {
-      "id": "2e61538784a463f038887f0e5113bc672bccd0255738ae45e54f9415c17f0e1a",
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T12:24:53+00:00"
-    },
-    {
-      "id": "b437cbcc9c57d0b4c9069437d1f444a8bce6d515659724e6a8d69b1024d2e479",
-      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-      "url": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "summary": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T12:05:55+00:00"
-    },
-    {
-      "id": "b398c0708051478251ce1cf93974258e5ca04b6737972bc97b2e5e6b577585a8",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the car",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-20T12:01:24+00:00"
-    },
-    {
-      "id": "d693b23125095cb1c9a12b46b6584fe42a3951367801056dc03042507018c9c4",
-      "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-      "summary": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-20T11:46:04+00:00"
     }
   ]
 }
