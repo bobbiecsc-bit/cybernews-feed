@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-04T15:42:33.377598+00:00",
+  "updated": "2026-09-04T20:13:40.662390+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5c7b6ad938baf62c72b3e5ed562f42a5e9b76ed9d60bb1677c832a0f9f136ffd",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-04T16:56:45+00:00"
+    },
+    {
+      "id": "f44fd1189325eb59cb66a8733d4bc2d6c5f7d62dc1900c9f3344ab9b296de012",
+      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+      "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation ap",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-04T16:18:30+00:00"
+    },
+    {
+      "id": "e3bb2f8e1bb8ef8aadc40ab0c6f9ae6318ae11b050134fa0bea73593d51eeb6f",
+      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+      "url": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+      "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T16:11:06+00:00"
+    },
+    {
+      "id": "ffe72a79b189453f28a961058607b2b0bf76089bdef51b97428a33af70666598",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'fundin",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-04T15:57:15+00:00"
+    },
     {
       "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
@@ -13,6 +49,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "id": "d7ed15b40cfe81867e53a959ad03b92cc658875ba2f7754ce0067bcd84a96ebe",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:20:19+00:00"
     },
     {
       "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
@@ -157,6 +202,15 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-04T06:47:52+00:00"
+    },
+    {
+      "id": "286d4cbedbed35fecc4142c90a380cff3dd0faca7f8e0f07ffa37b3533772239",
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "url": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T04:00:00+00:00"
     },
     {
       "id": "0310538b67d582192ab9bdf40cf6ac39e66fafe3ef3ccb7231021444deef65ae",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-02T15:07:00+00:00"
-    },
-    {
-      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T14:06:59+00:00"
-    },
-    {
-      "id": "3cfac59fe43e51338c243dc308b66e44e8ce89aead1a70c6a841aaa1a43c653e",
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-02T14:02:12+00:00"
-    },
-    {
-      "id": "cc6eebb4ccdc34f3f6671b29775230fa5e74f4b0380a1d74ffdbde62af83d05c",
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sport",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-02T13:44:16+00:00"
-    },
-    {
-      "id": "daf42ef9a4943cd157a59e863a03ed999c47ce1124545daf04eefa89eafd1d34",
-      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
-      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "id": "711c1fe7b578c0addfeecd13119734a99995d9705a61bea3877e29c00e961dad",
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-02T12:30:22+00:00"
-    },
-    {
-      "id": "43ff6a4cc6fb5f5857e67ec0537eb496b0314f84881379212202e376aeeed4c5",
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advert",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T12:22:02+00:00"
     }
   ]
 }

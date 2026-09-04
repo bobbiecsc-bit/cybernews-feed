@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-04T15:42:33.377598+00:00",
+  "updated": "2026-09-04T20:13:40.662390+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T14:06:59+00:00"
+    },
+    {
+      "id": "3cfac59fe43e51338c243dc308b66e44e8ce89aead1a70c6a841aaa1a43c653e",
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-02T14:02:12+00:00"
+    },
+    {
+      "id": "cc6eebb4ccdc34f3f6671b29775230fa5e74f4b0380a1d74ffdbde62af83d05c",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sport",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-02T13:44:16+00:00"
+    },
+    {
+      "id": "daf42ef9a4943cd157a59e863a03ed999c47ce1124545daf04eefa89eafd1d34",
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "id": "711c1fe7b578c0addfeecd13119734a99995d9705a61bea3877e29c00e961dad",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-02T12:30:22+00:00"
+    },
+    {
+      "id": "43ff6a4cc6fb5f5857e67ec0537eb496b0314f84881379212202e376aeeed4c5",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advert",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-02T12:22:02+00:00"
+    },
     {
       "id": "f60cc758d5ba90387cee18c0f1f1e3c936b2e61287ca0be9b41b617aa6b05740",
       "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-08-31T19:45:00+00:00"
-    },
-    {
-      "id": "aab94ee8133c548e003a213a780b1685cd368b47d0c7ad4dd17d741651136ffa",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-31T18:51:04+00:00"
-    },
-    {
-      "id": "978983916c5317c404eb5dfbb1f4f36fc1983495b20e84ff868a4adcc4b75810",
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "summary": "It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according to announcements made online by each installation. ",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-31T18:20:35+00:00"
-    },
-    {
-      "id": "cbe1eb1a526e86a5240c409457902f23be9623739a5b33432e685bf118669fe4",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical professi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-31T17:24:28+00:00"
-    },
-    {
-      "id": "f987011abe20f36259d44f6cba52d1551773ee11c7b12ad078310db3372ef40c",
-      "title": "Berlin says it won’t pay ransom after hackers steal government data",
-      "url": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
-      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-31T14:45:00+00:00"
-    },
-    {
-      "id": "88634f7e2b02400e7351f0dba1f56fe4099eec0e506f50143f61b4e261586c87",
-      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-      "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-31T14:32:34+00:00"
-    },
-    {
-      "id": "b3285ed45f9b487921578ec021c64b2a4421ca97a50c32f246d623ae696b420b",
-      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-      "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-31T13:59:19+00:00"
     }
   ]
 }

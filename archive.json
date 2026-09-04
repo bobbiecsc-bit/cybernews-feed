@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-04T15:42:33.377598+00:00",
+  "updated": "2026-09-04T20:13:40.662390+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5c7b6ad938baf62c72b3e5ed562f42a5e9b76ed9d60bb1677c832a0f9f136ffd",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-04T16:56:45+00:00"
+    },
+    {
+      "id": "f44fd1189325eb59cb66a8733d4bc2d6c5f7d62dc1900c9f3344ab9b296de012",
+      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+      "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation ap",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-04T16:18:30+00:00"
+    },
+    {
+      "id": "e3bb2f8e1bb8ef8aadc40ab0c6f9ae6318ae11b050134fa0bea73593d51eeb6f",
+      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+      "url": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+      "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T16:11:06+00:00"
+    },
+    {
+      "id": "ffe72a79b189453f28a961058607b2b0bf76089bdef51b97428a33af70666598",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'fundin",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-04T15:57:15+00:00"
+    },
     {
       "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
       "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
@@ -10,6 +46,15 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "id": "d7ed15b40cfe81867e53a959ad03b92cc658875ba2f7754ce0067bcd84a96ebe",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:20:19+00:00"
     },
     {
       "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
@@ -154,6 +199,15 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-04T06:47:52+00:00"
+    },
+    {
+      "id": "286d4cbedbed35fecc4142c90a380cff3dd0faca7f8e0f07ffa37b3533772239",
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "url": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T04:00:00+00:00"
     },
     {
       "id": "0310538b67d582192ab9bdf40cf6ac39e66fafe3ef3ccb7231021444deef65ae",
@@ -2197,60 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-22T13:00:09+00:00"
-    },
-    {
-      "id": "2e68898a067d95fe0c8fe7ccef36ea89e56b51d19a3b8c183ccc974f5b7b85b2",
-      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-      "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-22T08:30:00+00:00"
-    },
-    {
-      "id": "4b6135796923fbeac4f2ecc881b0befe61290f08758cd5ec9aec9135755a1a7e",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-21T18:53:00+00:00"
-    },
-    {
-      "id": "e9e0eed4def8f092ce12c3557720cf3aab84da58ab6f215946c452eedc88ecaf",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-21T18:01:30+00:00"
-    },
-    {
-      "id": "5812160cc94b7fc52fb5f9fb632bbbe11aa0ead67112202a5a0f8571278f9134",
-      "title": "U.S. Bank says breach claims related to fourth-party incident",
-      "url": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-21T16:16:00+00:00"
-    },
-    {
-      "id": "befbe5399e8065d82429be59466d2c9cce901cdaa12deeaa611adecc73452fb1",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-21T15:52:10+00:00"
-    },
-    {
-      "id": "a068075960f8a725980b4ad48eae7b67b326da5a54e389ed82f053d69f2e60d3",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad frau",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-21T15:41:44+00:00"
     }
   ]
 }

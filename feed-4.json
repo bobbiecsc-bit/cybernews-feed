@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-04T15:42:33.377598+00:00",
+  "updated": "2026-09-04T20:13:40.662390+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5ae4e5704828d1e253eb5ef5c3e017aa37614aeb9432eb37c8dfbb93fabd622b",
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-08-27T18:36:19+00:00"
+    },
+    {
+      "id": "ad39520079f764e7d791d9c8099b839a4948d26083a0ed9d71342d27d765db9a",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-27T16:31:53+00:00"
+    },
+    {
+      "id": "4599be345f0687dd49eee1fc13733217cf1757e5abf636485b2fcce6cd99f376",
+      "title": "Manchester Airports Group says hackers stole travelers' data",
+      "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
+      "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-08-27T16:12:26+00:00"
+    },
+    {
+      "id": "468035db37f9e8fac0f996e0b17329b10d5df22746ea1869b9ee8e9707325cf2",
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "summary": "Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-08-27T15:13:00+00:00"
+    },
+    {
+      "id": "be461c8b17bf08f6da07f62d76bcd6189168266c7bb28a436b6d54142f8d22dd",
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing thei",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-08-27T15:12:16+00:00"
+    },
+    {
+      "id": "0c5e768508dd3c96543c252b46ba6367161ba5c1d4dfedf5b5d4c7fe10cd8caf",
+      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
+      "url": "https://therecord.media/germany-cyberattacks-china-russia",
+      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-08-27T14:45:00+00:00"
+    },
     {
       "id": "7b51ccd327a6e80cd3089d5ec8e171a26b094f2366b885b07f4d45916844a21a",
       "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-08-26T07:54:12+00:00"
-    },
-    {
-      "id": "0ce3a336bce600ef652afb48cc447280d93c037a4a267f0c98fbeaec2acf2814",
-      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
-      "url": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
-      "summary": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-26T07:41:50+00:00"
-    },
-    {
-      "id": "60e43032f1f0cd2d25c3f2541dde1e2fe8bfa3cff9e1579d135b05d3ab7f6558",
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an un",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-26T07:12:55+00:00"
-    },
-    {
-      "id": "8ba2097a32dfd06212266bde7f0056ad361890637fe4f3ea9b5fa4c59e01be70",
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an att",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-26T06:27:07+00:00"
-    },
-    {
-      "id": "4de8e9117e9dd32c5318b0255ccc2b050dcba6dead648537392401019bceae26",
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-26T05:47:28+00:00"
-    },
-    {
-      "id": "1fb16fb55a3e69f5a35de3210c5002f752c838337dd571e6eb79e10edaf7e9e6",
-      "title": "CISA Warns of Exploited Gitea Vulnerability",
-      "url": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
-      "summary": "CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1. The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-26T05:17:28+00:00"
-    },
-    {
-      "id": "2e7f77b49688cca8f780e020109c684e4d5ba206bdc439f333d6c1ae012cc22b",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-25T21:58:14+00:00"
     }
   ]
 }
