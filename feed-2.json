@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-03T20:27:10.955178+00:00",
+  "updated": "2026-09-04T02:46:45.123462+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7de4b68209c1337a0346d9e0f63f94c6420802bed5c22485b7385924353aa472",
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-01T17:54:22+00:00"
+    },
     {
       "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -445,15 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-08-30T14:17:44+00:00"
-    },
-    {
-      "id": "e7fd30e89bca0fc1e82164ea014a1d32e5de6c4218698a0c3105386e4bd80457",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique b",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-30T07:36:33+00:00"
     }
   ]
 }
