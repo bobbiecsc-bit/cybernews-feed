@@ -1,10 +1,127 @@
 {
-  "updated": "2026-09-04T10:31:11.905443+00:00",
+  "updated": "2026-09-04T15:42:33.377598+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T14:51:13+00:00"
+    },
+    {
+      "id": "1399cd3057a8c0c4be6c8b33dc4149da84db66c32d4625190ec6779e5ca06401",
+      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+      "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T14:45:00+00:00"
+    },
+    {
+      "id": "a1caa1ba3e69ffa88135beac2ddfcabc9172185a6fcf74718298fb9b9f8aac39",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-04T14:01:11+00:00"
+    },
+    {
+      "id": "12578e075ae5710656a2b729f593e7b690cb06a990097371a2ceba979b33d9c4",
+      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+      "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T13:39:00+00:00"
+    },
+    {
+      "id": "d0d77f5c8803746a2679be4cf3e40dafbb82787ff5cf64281913161262e913aa",
+      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+      "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T13:23:12+00:00"
+    },
+    {
+      "id": "beea4dd696f2ff5bc86ea16fd6565b89c6fd36dade9737dd725df35e7145f303",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T13:22:01+00:00"
+    },
+    {
+      "id": "1d89911d3f6b402d1f131f4bb2420d944dc7fab8232ad9a6544f42d9fa231ecf",
+      "title": "G7 urges organizations to prepare for quantum cyber threats",
+      "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T12:34:00+00:00"
+    },
+    {
+      "id": "0d6d6315b4911a0a39a7e9b0b50dcb93e19a7842888a0246a73a0914f564dd27",
+      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T12:06:13+00:00"
+    },
+    {
+      "id": "dc2f42c91d091abc08b53e004a8b9420b93e1968e4ee88f639349f32b8f9cf05",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:48:17+00:00"
+    },
+    {
+      "id": "d724b09b1159d455c18347aefde9a9ac83d4ae0ee24e07df4dd3669232f439d2",
+      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:42:55+00:00"
+    },
+    {
+      "id": "9954213a9a08a1ae871aee510592dec6d753966cd4946e996610aeb9edf0d3e4",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:31:52+00:00"
+    },
+    {
+      "id": "ab548f7a57c0a82bbe1de3fe305043f0ead8f645d9cee7850abc276a54b41916",
+      "title": "Security Vulnerability in a Voting System",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "summary": "It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:09:35+00:00"
+    },
     {
       "id": "7eb26d7003dcb87e477704e8847eae18615b5255444eec6470d3131d13709387",
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -337,123 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-09-02T12:22:02+00:00"
-    },
-    {
-      "id": "f60cc758d5ba90387cee18c0f1f1e3c936b2e61287ca0be9b41b617aa6b05740",
-      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T12:18:15+00:00"
-    },
-    {
-      "id": "02491bb6a13214435001004fd31912ed40c96370b7eca603eaf6f1689dd42a26",
-      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
-      "url": "https://therecord.media/sality-botnet-cyber-doj",
-      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-02T12:15:00+00:00"
-    },
-    {
-      "id": "4bee803ffe761f8ed0c241cbcbc45f8f13949e82ec8893ba3d16f3fb7968aae2",
-      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-02T11:31:36+00:00"
-    },
-    {
-      "id": "8071e541fd79f3e371c05b831ac68f2c723d387e5cf5a1de02ca6dc76856301c",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T10:53:49+00:00"
-    },
-    {
-      "id": "30dfe06ea0970deac73df3cc3e2de18645a72aa6395890375a1f67341c20b046",
-      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
-      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T10:38:13+00:00"
-    },
-    {
-      "id": "33eca463dce2633c5327a6a967e1627858099961364e3314b8ace66c86c18f34",
-      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T09:12:29+00:00"
-    },
-    {
-      "id": "eb3bb052eba218a5d3c4065eed73703dfda708e15b3e163dbd71bc5ff2a8cfe6",
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arr",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T09:10:23+00:00"
-    },
-    {
-      "id": "c7121520f5a9a11f5da5868c9ffe2370bf3aea3ea31506db9d9cb8cd0f05d1c7",
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-02T09:06:48+00:00"
-    },
-    {
-      "id": "db2015e89f3432f1b2201b2688cbffb22ae1283cebf7e06b127273c721c13392",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-02T08:00:43+00:00"
-    },
-    {
-      "id": "fd47abd976ef000e6b0d6e16c094e2fd55fe312338f74da66fc7394e180fb92f",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets&nbsp;CVE-2021-31886,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:47:13+00:00"
-    },
-    {
-      "id": "9b6ec5da131924153511697a8fe2db2da335e3c49358e4df59c3249732c1a279",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:08:50+00:00"
-    },
-    {
-      "id": "81c96cc8da0f6b72bc0783ed1257950c8a27d688bf5733279a35e7050273c1ee",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in colla",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T06:56:30+00:00"
-    },
-    {
-      "id": "dac4f90cb8aa9351a93d9fcf4ea8391248fade93785a628f242f21e3aaf9fce3",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T06:39:29+00:00"
     }
   ]
 }

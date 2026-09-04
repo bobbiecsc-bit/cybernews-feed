@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-04T10:31:11.905443+00:00",
+  "updated": "2026-09-04T15:42:33.377598+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T14:51:13+00:00"
+    },
+    {
+      "id": "1399cd3057a8c0c4be6c8b33dc4149da84db66c32d4625190ec6779e5ca06401",
+      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+      "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T14:45:00+00:00"
+    },
+    {
+      "id": "a1caa1ba3e69ffa88135beac2ddfcabc9172185a6fcf74718298fb9b9f8aac39",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-04T14:01:11+00:00"
+    },
+    {
+      "id": "12578e075ae5710656a2b729f593e7b690cb06a990097371a2ceba979b33d9c4",
+      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+      "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T13:39:00+00:00"
+    },
+    {
+      "id": "d0d77f5c8803746a2679be4cf3e40dafbb82787ff5cf64281913161262e913aa",
+      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+      "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T13:23:12+00:00"
+    },
+    {
+      "id": "beea4dd696f2ff5bc86ea16fd6565b89c6fd36dade9737dd725df35e7145f303",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T13:22:01+00:00"
+    },
+    {
+      "id": "1d89911d3f6b402d1f131f4bb2420d944dc7fab8232ad9a6544f42d9fa231ecf",
+      "title": "G7 urges organizations to prepare for quantum cyber threats",
+      "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T12:34:00+00:00"
+    },
+    {
+      "id": "0d6d6315b4911a0a39a7e9b0b50dcb93e19a7842888a0246a73a0914f564dd27",
+      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T12:06:13+00:00"
+    },
+    {
+      "id": "dc2f42c91d091abc08b53e004a8b9420b93e1968e4ee88f639349f32b8f9cf05",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:48:17+00:00"
+    },
+    {
+      "id": "d724b09b1159d455c18347aefde9a9ac83d4ae0ee24e07df4dd3669232f439d2",
+      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:42:55+00:00"
+    },
+    {
+      "id": "9954213a9a08a1ae871aee510592dec6d753966cd4946e996610aeb9edf0d3e4",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:31:52+00:00"
+    },
+    {
+      "id": "ab548f7a57c0a82bbe1de3fe305043f0ead8f645d9cee7850abc276a54b41916",
+      "title": "Security Vulnerability in a Voting System",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "summary": "It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:09:35+00:00"
+    },
     {
       "id": "7eb26d7003dcb87e477704e8847eae18615b5255444eec6470d3131d13709387",
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -2134,123 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-21T15:41:44+00:00"
-    },
-    {
-      "id": "a4a8e831095dac58df3ae1d1794a541d814919ca34364ad78015d9ba5fa35c21",
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-21T15:11:16+00:00"
-    },
-    {
-      "id": "6f59a809725ebc4fc6355f69d6c926e6c976270382f275e65ff7b1864ca8df8a",
-      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "summary": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-08-21T15:00:00+00:00"
-    },
-    {
-      "id": "a94f1181e1e0bbf85d67d2194f5fd7f4c38faf23235723bf05fac6f03eb63496",
-      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-      "url": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-      "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-21T14:22:06+00:00"
-    },
-    {
-      "id": "6b617776fd344f095826d4e1306839c24935d76651b991debb03a933c47f4fb6",
-      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-      "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-21T14:00:10+00:00"
-    },
-    {
-      "id": "c2f60f58ca270aed2ac15382608d309902d88d029e32f67bcebefb8584b94e06",
-      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-      "url": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-21T13:55:00+00:00"
-    },
-    {
-      "id": "ba35d7fbce4df70982b5e74827c5abdea4615cedd533348acf82a06c021351e9",
-      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-21T12:26:07+00:00"
-    },
-    {
-      "id": "7cc11dd0cff08b096d8f65b5c454b205cb3fa4966af833aac4a8561e5910e60a",
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-21T12:25:33+00:00"
-    },
-    {
-      "id": "4afb6e3d2eca76f5c670cb558e369bbf561ebf7b200dd98c7284f9ebaec159d1",
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-21T11:04:10+00:00"
-    },
-    {
-      "id": "24de1cffcbc07daec81b711d710a6f49785abd62639c31d0e66f927f829c3080",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-08-21T11:00:00+00:00"
-    },
-    {
-      "id": "c28837178a4227a5e1577f08ced77303cac141fd24e9ef44b26433418f809bcb",
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-21T10:10:42+00:00"
-    },
-    {
-      "id": "51c8d451f6eb936f08ac5896a1750c12da7e141e9f9725afb92cfa08808f1ad2",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardle",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-21T10:03:11+00:00"
-    },
-    {
-      "id": "5c4e2cd6076c559a19425695285cd5b81b9fa76b37028ee8d625d05c70917e20",
-      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-21T09:23:18+00:00"
-    },
-    {
-      "id": "881dd1c96ee4dfa238c2859264ad24645d1991eb1d6d6a4bad42844b3c11d792",
-      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-21T08:12:19+00:00"
     }
   ]
 }
