@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-04T02:46:45.123462+00:00",
+  "updated": "2026-09-04T10:31:11.905443+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c5ec6356213dfe4a863bc85817d5bd0fbf151fa1d9c9bdb9f01e322be00149d9",
+      "title": "Cyberattack Causes Global Disruption at Boston Scientific",
+      "url": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
+      "summary": "The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders. The post Cyberattack Causes Global Disruption at Boston Scientific appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-08-27T10:18:27+00:00"
+    },
+    {
+      "id": "cb4f10f8a9c661e9f085418968a215f2a2822ce06733c6fa9b152c301244cb49",
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-08-27T09:33:38+00:00"
+    },
+    {
+      "id": "4198be3b3c1d0c8b41883a6203bd1fcd4d9bdbdf5a17d09ca399886a210d42c7",
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-27T09:16:50+00:00"
+    },
+    {
+      "id": "2f1d6539182745e4c17af0f05798257a487657bf32a3b4af631e0e80db4c8016",
+      "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
+      "url": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
+      "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-08-27T09:01:06+00:00"
+    },
     {
       "id": "63e61204dff51d144b228dfbf031e29287e0b41466a95ecd2570edce612bfac1",
       "title": "ATF confirms “major incident” after recent Qilin breach claims",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-08-25T12:04:02+00:00"
-    },
-    {
-      "id": "99cf59e09495b7a8449fec2e71cc754534521f926995cdeab29275e5874c6e48",
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-25T11:56:15+00:00"
-    },
-    {
-      "id": "56d9611be30381041ca6374e24e4c7f59c03cb0174041ba05ce92e80340c584a",
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-25T11:52:43+00:00"
-    },
-    {
-      "id": "f0c3359d4953aaf7b60947d65ba992b4e9e008a14ee185d146974b060495d91b",
-      "title": "Large DDoS attack knocks Norwegian public services offline",
-      "url": "https://therecord.media/norway-cyberattack-ddos-government",
-      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-25T11:45:00+00:00"
-    },
-    {
-      "id": "806c3e84fa629ceeb7688d02d9e7e8cf00e83d12d6934cd168138999092cdaf5",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional c",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-25T11:33:44+00:00"
     }
   ]
 }
