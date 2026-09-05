@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-05T09:54:43.198501+00:00",
+  "updated": "2026-09-05T14:31:00.205415+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9d1d25eb12ecc8ff09e1cffad8d8235cf823abd0a0c0d5a74b785c6b39361afb",
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-01T07:22:30+00:00"
+    },
+    {
+      "id": "8d48278a1b40504fbff4bb581170bbeffc21252a072e6a066a089c0724661ff3",
+      "title": "PaperCut Exploitation Escalates to Active Intrusions",
+      "url": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
+      "summary": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog. The post PaperCut Exploitation Escalates to Active Intrusions appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-01T05:27:18+00:00"
+    },
+    {
+      "id": "c88a05001dca875f1675a59aef9f36656d5ec4d71080a3cf466f0d55de2ae5d3",
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-08-31T20:47:54+00:00"
+    },
     {
       "id": "436f72d00b0506934cd93b523264cf404eb35817345d1c63ff822f838513f463",
       "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-08-28T08:40:36+00:00"
-    },
-    {
-      "id": "f774114eb52e3b3c8954f49cb5d6e0e1cbf68b279d841ef0ee92731309f25354",
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of con",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-28T08:25:36+00:00"
-    },
-    {
-      "id": "274019da349a4ce5be24e66159852acf6dcc00b4454d730d2764fa1b2ff13358",
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumente",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-28T08:20:59+00:00"
-    },
-    {
-      "id": "5c1665c62efb401982c09585a55ec8d187d589811f7798a8cfc9615c5be4d654",
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "url": "https://isc.sans.edu/diary/rss/33292",
-      "summary": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files&#x3f; A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware&#x5b;1&#x5d;. Can we go a bit further&#x3f; I (vibe-)coded a Pytho",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-08-28T07:04:13+00:00"
     }
   ]
 }
