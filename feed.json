@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-05T14:31:00.205415+00:00",
+  "updated": "2026-09-05T19:53:19.587975+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "913cdf66682bb19c7843ef56b2996c1bd59057aaffd4466496885b6c64289550",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-05T16:52:33+00:00"
+    },
+    {
+      "id": "e74c4bc78631a2537c1666a1f85bb666592c6c9619df8b8ac895f947854f7b99",
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerabili",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-05T16:05:08+00:00"
+    },
     {
       "id": "1305dd241c3053569966bb43529cc430724b383a2d6e6044ce1767fd7dcedec5",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
@@ -13,6 +31,15 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-05T14:29:13+00:00"
+    },
+    {
+      "id": "28549037149e3e816adc732a41af3cf3358a486bf2e24fe79f52c1e0f0db26c9",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between Novembe",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-05T14:17:02+00:00"
     },
     {
       "id": "cf822ca0e892e571708015aedf1677f97eab6cf428812b5dc899a80cf20a6914",
@@ -427,33 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-09-02T19:30:00+00:00"
-    },
-    {
-      "id": "da96442218d6978807a4057951e2632d243846c5ba61da3819509c06881c08d7",
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T19:28:46+00:00"
-    },
-    {
-      "id": "eb292c4b1181bdb7d01056765e824ad3f9b0280f86861276a56c4784f67c9a4d",
-      "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
-      "url": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
-      "summary": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-02T18:43:00+00:00"
-    },
-    {
-      "id": "062504a817a7142df93ca8e7d5d3be069dd173c13e6940e7ae3e8ff00104fc54",
-      "title": "Health data of more than 9.5 million people leaked from Aesto record system",
-      "url": "https://therecord.media/health-data-aesto-cyberattack-leak",
-      "summary": "The healthcare data company Aesto informed federal regulators this week that more than 9.5 million people had sensitive information leaked during a cyberattack last December.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-02T17:15:00+00:00"
     }
   ]
 }
