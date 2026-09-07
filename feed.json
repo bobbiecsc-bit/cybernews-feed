@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-07T02:44:37.697550+00:00",
+  "updated": "2026-09-07T11:29:48.014073+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "23a72d6695c4d8d205a696fe997319c1a8eb19b4fb0054fdd11ae53904c32a11",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-07T10:32:40+00:00"
+    },
+    {
+      "id": "7d32c779b299f0de723c97382fc5cdd9c948de8a8f8511fead42d2a66118db29",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-07T10:06:38+00:00"
+    },
+    {
+      "id": "d35595c1e92df27a669bfbf94b744757fd350247839646748c9dcbb4227f6951",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its&nbsp;fourth hotfix&nbsp;in five weeks ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-07T08:31:12+00:00"
+    },
+    {
+      "id": "459bb4835d2328d2bbd542f28a1d654cd04bc49295cd54a8a517de07f147c78d",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, con",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-07T07:53:04+00:00"
+    },
+    {
+      "id": "4a81effbff6827ff083d3728f16b5dcc7dc35260147c5ccbda23959fda43228d",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-07T06:17:41+00:00"
+    },
     {
       "id": "80e02f7db4bf0a1443ed726b46cd1c38f7ecc812cfe094a5a1c905227581f741",
       "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
@@ -409,51 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-03T12:00:00+00:00"
-    },
-    {
-      "id": "54e49c42f26d7b730f6f3543ee6739fc03898633e87c72a3d3b77d398ce7c534",
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign'",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-03T11:58:00+00:00"
-    },
-    {
-      "id": "0ffead6ad9f846a17b980f621d70737df02f62acbec41c5db285151c3ee86cb4",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, techno",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-03T10:43:01+00:00"
-    },
-    {
-      "id": "2504101768298d9cd58c06c519b8fbb9b4736a167822cb1b4117197160571383",
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:40:00+00:00"
-    },
-    {
-      "id": "1db68394268a31c410ea705e0cd37d4c75aeb86815bf159261541901dbeb4d50",
-      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:30:00+00:00"
-    },
-    {
-      "id": "b6e02e04385587bfc94fbc2569c3b9baa87beadc68c8d5cebde9ffd9a973bae1",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device wi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T08:43:17+00:00"
     }
   ]
 }
