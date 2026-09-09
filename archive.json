@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-09T10:42:48.712932+00:00",
+  "updated": "2026-09-09T15:51:56.420087+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "aecce62b3ad1f192590b2456d55bf4c2b3f2f8846410a8c57eb4d79a5b725090",
+      "title": "FBI puts its cyber strategy on paper",
+      "url": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+      "summary": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Leatherman says.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T15:37:00+00:00"
+    },
+    {
+      "id": "1f143425b810d0d3d1c29ad85c1848dbcfd42985927231855f95a7e52fb58ee9",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-09T15:31:23+00:00"
+    },
+    {
+      "id": "656ecabad0f3549515b4f1a844ec19d1166c44cbd2628544c7e1d4ed96a8b119",
+      "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+      "url": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+      "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T14:33:52+00:00"
+    },
+    {
+      "id": "a7397cc291ced5fd3a77e403300ddcfa4c85dadd3e9ed2799cad47bfd71a23c4",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp; Information stealers like Lumma Stealer or Vidar are equipped to harvest a wi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T14:23:55+00:00"
+    },
+    {
+      "id": "7b70efb6ff4b477e04d1aeed57a33c3b907f45d4abf60815e3707879a05162d3",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account rec",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T14:01:11+00:00"
+    },
+    {
+      "id": "7554102078b435388fafd4cc7f28842e1bca5530e4d49a9b7dfd726bdc4b54b6",
+      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+      "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+      "summary": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T12:32:13+00:00"
+    },
+    {
+      "id": "8abca2d5974c3170aac370fbf07368d943b91ce0c59bdd6c060ecc7d023d5020",
+      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T11:57:36+00:00"
+    },
+    {
+      "id": "c33829733f1a8e1bb99008c13e51c6a04377b35d772d5f55e215d6c417eaa53b",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files canno",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T11:17:07+00:00"
+    },
+    {
+      "id": "c3a171cdeb601849928646f739fbeb69ce9844dbf6dd478e269d75c2b270a439",
+      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+      "summary": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T10:49:30+00:00"
+    },
+    {
+      "id": "6724d5b1aa8774968772018ffb882768555cc1ec89387b6d9de745458202d82e",
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T10:43:04+00:00"
+    },
     {
       "id": "1c548ea4f9d78a4986780ea1b0429ee984a565394419d9a490df06a8a2acfeeb",
       "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
@@ -37,6 +127,15 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "898e89677a090ce8f206c64256acf99eb42c2273c7d901664b6a5b6bc3122bfb",
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-09T09:32:26+00:00"
     },
     {
       "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-08-27T11:00:57+00:00"
-    },
-    {
-      "id": "c5ec6356213dfe4a863bc85817d5bd0fbf151fa1d9c9bdb9f01e322be00149d9",
-      "title": "Cyberattack Causes Global Disruption at Boston Scientific",
-      "url": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
-      "summary": "The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders. The post Cyberattack Causes Global Disruption at Boston Scientific appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-08-27T10:18:27+00:00"
-    },
-    {
-      "id": "cb4f10f8a9c661e9f085418968a215f2a2822ce06733c6fa9b152c301244cb49",
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-27T09:33:38+00:00"
-    },
-    {
-      "id": "4198be3b3c1d0c8b41883a6203bd1fcd4d9bdbdf5a17d09ca399886a210d42c7",
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-27T09:16:50+00:00"
-    },
-    {
-      "id": "2f1d6539182745e4c17af0f05798257a487657bf32a3b4af631e0e80db4c8016",
-      "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
-      "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T09:01:06+00:00"
-    },
-    {
-      "id": "63e61204dff51d144b228dfbf031e29287e0b41466a95ecd2570edce612bfac1",
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-27T08:13:50+00:00"
-    },
-    {
-      "id": "1cf6d1f508fdcde09b718977a42aeda863156440e2d0255764b76d900619b7ff",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T08:13:11+00:00"
-    },
-    {
-      "id": "8fd9c15c8e6281c0558b8f2aa7b30d479b17c505990fc392208f3fd1aaf70453",
-      "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-      "url": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-      "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T08:00:00+00:00"
-    },
-    {
-      "id": "038c6cd0b2efdcfa57a79b6c8af3bbc97151b7405d712e8baee25a88e56ce256",
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulne",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-27T07:05:28+00:00"
-    },
-    {
-      "id": "893b10a9b768e1dccfb9aa1ee8ac783a0cccff545662cb8ff0668c4228971685",
-      "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-      "summary": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452. The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-27T04:39:19+00:00"
-    },
-    {
-      "id": "7917df953883e387e63d6c658ebfde70ea4dbe54adf74224ab00f2c4a19fd612",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T21:33:20+00:00"
-    },
-    {
-      "id": "02d8e5cccd4c4ff5900972b8a7075f20620fac7a98347d9576e34ea194ed9763",
-      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
-      "url": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
-      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-26T20:53:00+00:00"
     }
   ]
 }

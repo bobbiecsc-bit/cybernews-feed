@@ -1,10 +1,100 @@
 {
-  "updated": "2026-09-09T10:42:48.712932+00:00",
+  "updated": "2026-09-09T15:51:56.420087+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "aecce62b3ad1f192590b2456d55bf4c2b3f2f8846410a8c57eb4d79a5b725090",
+      "title": "FBI puts its cyber strategy on paper",
+      "url": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+      "summary": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Leatherman says.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T15:37:00+00:00"
+    },
+    {
+      "id": "1f143425b810d0d3d1c29ad85c1848dbcfd42985927231855f95a7e52fb58ee9",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-09T15:31:23+00:00"
+    },
+    {
+      "id": "656ecabad0f3549515b4f1a844ec19d1166c44cbd2628544c7e1d4ed96a8b119",
+      "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+      "url": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+      "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T14:33:52+00:00"
+    },
+    {
+      "id": "a7397cc291ced5fd3a77e403300ddcfa4c85dadd3e9ed2799cad47bfd71a23c4",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp; Information stealers like Lumma Stealer or Vidar are equipped to harvest a wi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T14:23:55+00:00"
+    },
+    {
+      "id": "7b70efb6ff4b477e04d1aeed57a33c3b907f45d4abf60815e3707879a05162d3",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account rec",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T14:01:11+00:00"
+    },
+    {
+      "id": "7554102078b435388fafd4cc7f28842e1bca5530e4d49a9b7dfd726bdc4b54b6",
+      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+      "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+      "summary": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T12:32:13+00:00"
+    },
+    {
+      "id": "8abca2d5974c3170aac370fbf07368d943b91ce0c59bdd6c060ecc7d023d5020",
+      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T11:57:36+00:00"
+    },
+    {
+      "id": "c33829733f1a8e1bb99008c13e51c6a04377b35d772d5f55e215d6c417eaa53b",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files canno",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T11:17:07+00:00"
+    },
+    {
+      "id": "c3a171cdeb601849928646f739fbeb69ce9844dbf6dd478e269d75c2b270a439",
+      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+      "summary": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T10:49:30+00:00"
+    },
+    {
+      "id": "6724d5b1aa8774968772018ffb882768555cc1ec89387b6d9de745458202d82e",
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T10:43:04+00:00"
+    },
     {
       "id": "1c548ea4f9d78a4986780ea1b0429ee984a565394419d9a490df06a8a2acfeeb",
       "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
@@ -40,6 +130,15 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "898e89677a090ce8f206c64256acf99eb42c2273c7d901664b6a5b6bc3122bfb",
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-09T09:32:26+00:00"
     },
     {
       "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-08T10:47:36+00:00"
-    },
-    {
-      "id": "2fdb7e2328900989dfc88cb081d19ce88b569381d5f03c16232fd6b010817483",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which di",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-08T09:13:47+00:00"
-    },
-    {
-      "id": "640afb9db3b284d465a31581c5c17ae3cbffcecf75af9970f69495797d5f1d97",
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the In",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-08T08:43:51+00:00"
-    },
-    {
-      "id": "6c94379fcb16ef16a14e5b6429e4c707bc22b0f07b7ec7383ca52fbd26dd3f91",
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge pr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T18:12:09+00:00"
-    },
-    {
-      "id": "9dd82c8cbcbd69abf01c3360869d781060048a8eda999ee4b91480c419439768",
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T16:50:29+00:00"
-    },
-    {
-      "id": "9c92a7066f1fef34bc1e189dc2bf7953e6f91148a662e98752dc5ac0beff83a4",
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-07T15:51:56+00:00"
-    },
-    {
-      "id": "24d56919cba73a5c6b6a6f6bf13aa24a0bf3e2f5069d0aca36e253aa95ccc781",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software sourc",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-07T14:36:07+00:00"
-    },
-    {
-      "id": "c4d7fdfa67542adb262ed418a165c62d0257f1fefb555ea61de72112fd6b8ba2",
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-07T13:05:11+00:00"
-    },
-    {
-      "id": "93b61032b3b3e4e7b2aef00a6c1015ab1ea1cfbd662568f2e26e900435399ca1",
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-07T12:16:32+00:00"
-    },
-    {
-      "id": "15087a9b58bc352dce7553e3a2e7d58c6b6deea93494c5ff9e97b815b0d805f0",
-      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-07T12:15:57+00:00"
-    },
-    {
-      "id": "bbf12c4b1029613bf2739cf04d605001ac09750888fcaa4233ffc4ace175485f",
-      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:12:08+00:00"
-    },
-    {
-      "id": "8ba058ef0debfd92b809694775e000fdd711835d2345dcc711e3bef5d84a66c4",
-      "title": "OpenAI Agents Hijack Another Victim Website",
-      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:03:04+00:00"
     }
   ]
 }
