@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-09T02:56:05.387932+00:00",
+  "updated": "2026-09-09T10:42:48.712932+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1c548ea4f9d78a4986780ea1b0429ee984a565394419d9a490df06a8a2acfeeb",
+      "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
+      "url": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
+      "summary": "Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws. The post Ivanti Patches Critical Flaws Across Enterprise Security Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T10:28:34+00:00"
+    },
+    {
+      "id": "4d22feb60955220953c3e3fd3c1dd82db6f73f60c81c2b20762fc5036516eb03",
+      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T10:11:29+00:00"
+    },
+    {
+      "id": "ddade1afbd46b44e4167c453bce48859a00b2d2fae8606a426958c1fda0c0118",
+      "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
+      "url": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
+      "summary": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "e01c92636af022192371eac3de47abddb439c6ade9449bf075933f0f2b8eea29",
+      "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
+      "url": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
+      "summary": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block. The post New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Ja",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T09:11:03+00:00"
+    },
+    {
+      "id": "369f97b0285eecf9977fe412b9e9ac4a51d48f05307bc88de5c0c57856dda356",
+      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T08:19:32+00:00"
+    },
+    {
+      "id": "88a0315141ea3379372db9ac435ece84883e8c6aa892a5e623176cd7a83a138c",
+      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-09T07:36:49+00:00"
+    },
+    {
+      "id": "aa6e936777c677196a8a606dd824a7c6ceaed90acd001b10639773ae0ebc2cdc",
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-09T07:30:15+00:00"
+    },
+    {
+      "id": "b163f3fc8d811565cb6b2ffbdf7b94750c27b04290e99072a0fa4b6a80db1059",
+      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reporte",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T06:47:27+00:00"
+    },
+    {
+      "id": "7c0412571004850e723be670da177d6476d550c009e968d6ccf688f3a3812409",
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-09T06:25:48+00:00"
+    },
+    {
+      "id": "419df1f3701a7cb8cff37d0bae874becd77f88744e7e4da1441949574dd22d7c",
+      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application The vulnerability, tracked as CVE-2026-44756 (CVSS",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T06:25:45+00:00"
+    },
+    {
+      "id": "07d47a2f7f2e37713fd5fcb4fea08efb3e6fa232cc8c8da31e37b26f3e7b9a75",
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in D",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T04:41:29+00:00"
+    },
+    {
+      "id": "4b40f1884595f2781db8c2222a7d6e0b7a2ed785427a90f93fe97b9d92775ec3",
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026. Th",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T04:27:51+00:00"
+    },
     {
       "id": "f35a922704223e97d0cd4c4b66692f7fa86fec21f30b0f4fc9f0fb50f39badc4",
       "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
@@ -2134,123 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-08-26T20:53:00+00:00"
-    },
-    {
-      "id": "304a895ee3574991f7fb2203880eba7627f32af6bda9ab48b4267f2b08c0c5db",
-      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
-      "url": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
-      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-26T19:10:00+00:00"
-    },
-    {
-      "id": "ad489365471939a73fb8931d7d1996e42dbe2592b5c14b512ce8b3e92bb27b27",
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-26T18:48:24+00:00"
-    },
-    {
-      "id": "607917c11c838a5405f5bb096eb346ca06f560318ea29b7e180ed3bef7f2a6a2",
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a Chinese state-sponsored ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-26T16:42:03+00:00"
-    },
-    {
-      "id": "4d0ad9552fe68208726bb19b0122e8857294fd201cdf35a8ba8cf0b0b53afaf0",
-      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
-      "url": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
-      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-26T16:25:00+00:00"
-    },
-    {
-      "id": "42cd6fdec468667c588007b0f6222bd86753e6e4cac91de840733db5002ca978",
-      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
-      "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
-      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-26T15:45:00+00:00"
-    },
-    {
-      "id": "58d51be061518586b4d4472f3422f79161ac04334a453427ab2f3d5b31bd7d47",
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-26T15:35:05+00:00"
-    },
-    {
-      "id": "23adeafbf4b1f2281a119194263bb46909eba1dc663681374b4d9f16f36e0321",
-      "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
-      "url": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
-      "summary": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-08-26T15:23:45+00:00"
-    },
-    {
-      "id": "9da814d3675d77e515f7879ae709f1fd96a73cec5eb0b9a4965b074f582d45eb",
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-26T15:19:21+00:00"
-    },
-    {
-      "id": "8415d773bae65b60374d69345291fd726b58f1681309b9ba4523faeca3239e1e",
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T14:47:51+00:00"
-    },
-    {
-      "id": "26c52789df0be9e6ea0ae81b8e74922c7363fcc2e6b4b2704372755bb15b953b",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication,",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-26T13:44:31+00:00"
-    },
-    {
-      "id": "1a063d0cbf2700eeac1e25f403d5fbbb28e214b7653d2efad281b730ae897aa6",
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-08-26T13:17:54+00:00"
-    },
-    {
-      "id": "1c8cb498dea5c85b12cbee92d1d7401b2827e79b96bb34085d82024720105ba4",
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Bo",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-08-26T13:07:02+00:00"
-    },
-    {
-      "id": "392ff28b4d51a9a112413a70227471185910592bb0cc08dd3aa1b781ba9c4575",
-      "title": "Spyware for Babies",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "summary": "The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recent",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-08-26T12:05:52+00:00"
     }
   ]
 }

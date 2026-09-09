@@ -1,10 +1,127 @@
 {
-  "updated": "2026-09-09T02:56:05.387932+00:00",
+  "updated": "2026-09-09T10:42:48.712932+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "be4e97f609ffc4955147c0463f515080417e64ea76737b77ca24fe8716c26add",
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-07T11:58:37+00:00"
+    },
+    {
+      "id": "dc4915f3855f4aeba43fc5283f499580db273087f3db920dd76d8892d77c7f08",
+      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
+      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
+      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-07T11:50:00+00:00"
+    },
+    {
+      "id": "2fe084db4bb9243b7adc23170644738008750baa4c20fb29a09aedbaa7813fa8",
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-07T11:45:48+00:00"
+    },
+    {
+      "id": "ff2a8ecee2aa5028dadc3df9b235308488ffba6cd23fc1241f999b132355bdfc",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-07T11:20:14+00:00"
+    },
+    {
+      "id": "23a72d6695c4d8d205a696fe997319c1a8eb19b4fb0054fdd11ae53904c32a11",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-07T10:32:40+00:00"
+    },
+    {
+      "id": "7d32c779b299f0de723c97382fc5cdd9c948de8a8f8511fead42d2a66118db29",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-07T10:06:38+00:00"
+    },
+    {
+      "id": "d35595c1e92df27a669bfbf94b744757fd350247839646748c9dcbb4227f6951",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its&nbsp;fourth hotfix&nbsp;in five weeks ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-07T08:31:12+00:00"
+    },
+    {
+      "id": "459bb4835d2328d2bbd542f28a1d654cd04bc49295cd54a8a517de07f147c78d",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, con",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-07T07:53:04+00:00"
+    },
+    {
+      "id": "4a81effbff6827ff083d3728f16b5dcc7dc35260147c5ccbda23959fda43228d",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-07T06:17:41+00:00"
+    },
+    {
+      "id": "80e02f7db4bf0a1443ed726b46cd1c38f7ecc812cfe094a5a1c905227581f741",
+      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+      "url": "https://isc.sans.edu/diary/rss/33314",
+      "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is ins",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-09-06T21:43:17+00:00"
+    },
+    {
+      "id": "bc441f97e571bc08239d3ebe411f0dd6425e6b2458faa019659bf82cc93d5634",
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-06T14:23:46+00:00"
+    },
+    {
+      "id": "bec3d4c719cb03958c036b9d2272ba2b2c5f6d783c02fbc9de6264c5a2938164",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning, published on September 5. Successful attacks date to at lea",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-06T09:32:38+00:00"
+    },
+    {
+      "id": "9eeec10be375e2cad531eca6b5069c09b66a3c2d7fee881e2b2939645a062ae4",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory published on September 5. Sansec, which discovered the ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-05T20:14:47+00:00"
+    },
     {
       "id": "913cdf66682bb19c7843ef56b2996c1bd59057aaffd4466496885b6c64289550",
       "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
@@ -337,123 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-03T15:26:47+00:00"
-    },
-    {
-      "id": "12bd6356b4bcf458f70b3d710baf02cb3d4f1a468b11c85c947cecbe5769625c",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-03T14:52:20+00:00"
-    },
-    {
-      "id": "9fe0a5b020907206bd3962c5a7b1f3dab3ec5b11c83be154c68e4a83ccb3156d",
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-03T14:39:05+00:00"
-    },
-    {
-      "id": "e41d05713645fe7a3c0ef3ae28fa1876064bfd2e9ddff68e75b74405f0c76812",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-03T13:50:59+00:00"
-    },
-    {
-      "id": "f0ab43561e28cbc1b6c12bc8c260e1a5d8118e320f35d0b0a613c82e1e4eab0f",
-      "title": "US and Canadian court data exposed in Thomson Reuters breach",
-      "url": "https://therecord.media/thomson-reuters-cyberattack-data",
-      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-03T12:00:00+00:00"
-    },
-    {
-      "id": "54e49c42f26d7b730f6f3543ee6739fc03898633e87c72a3d3b77d398ce7c534",
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign'",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-03T11:58:00+00:00"
-    },
-    {
-      "id": "0ffead6ad9f846a17b980f621d70737df02f62acbec41c5db285151c3ee86cb4",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, techno",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-03T10:43:01+00:00"
-    },
-    {
-      "id": "2504101768298d9cd58c06c519b8fbb9b4736a167822cb1b4117197160571383",
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:40:00+00:00"
-    },
-    {
-      "id": "1db68394268a31c410ea705e0cd37d4c75aeb86815bf159261541901dbeb4d50",
-      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:30:00+00:00"
-    },
-    {
-      "id": "b6e02e04385587bfc94fbc2569c3b9baa87beadc68c8d5cebde9ffd9a973bae1",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device wi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T08:43:17+00:00"
-    },
-    {
-      "id": "21d7fb2ca2b3641ce8b901ccaed2c58af30e54baec778d247254217167e0bf6b",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0-day privilege escalation that abuses",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T06:26:59+00:00"
-    },
-    {
-      "id": "bf0dadca2770adb187c38567b371a1b7053a29ff2184cf1a19adf54035e576c1",
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request for",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T05:19:04+00:00"
-    },
-    {
-      "id": "b6a094e0db0f67fe6c27ad2d5ea8d6b2fab20362792ef92be19e88fb1ed38de3",
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T21:00:13+00:00"
-    },
-    {
-      "id": "c660b2e46ae1f109ea20f23c48c45817ea8ae66dfdaad2cb029cca530f686fb3",
-      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-02T19:30:00+00:00"
     }
   ]
 }
