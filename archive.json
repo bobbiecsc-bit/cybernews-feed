@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-09T15:51:56.420087+00:00",
+  "updated": "2026-09-09T20:20:57.077649+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2bca4c7e6278fce2e19db28ed9184ea1861a39343d51f8454ff127e251087bc5",
+      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33324",
+      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-09-09T17:46:24+00:00"
+    },
+    {
+      "id": "700b823d162c410221477106c1c30e6a3a30f23f42b611bff7ac9ea8f3c32de7",
+      "title": "Electronic health record company says customer data stolen in breach",
+      "url": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
+      "summary": "Veradigm said access was limited to a specific interface, and did not impact the company’s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the company added.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T17:03:00+00:00"
+    },
+    {
+      "id": "55aa0d115e88b8b3c79d7a78911561e7b2797af8b0b7ae60ddb9c0e79eb19862",
+      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+      "url": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+      "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T16:56:25+00:00"
+    },
+    {
+      "id": "c6ee9d174c9fca2ede286542a29fa9ed155952cbafec71f6b8387ea44b6f4ce7",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T16:48:33+00:00"
+    },
+    {
+      "id": "9927501cbbee3b724e98e57628c97305d129e939bf3064dfe2f8b3e85c6cf12e",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T16:34:05+00:00"
+    },
+    {
+      "id": "21e3904e2ceb049bbf4efffa12d54b66940b5bb3e5870a84f5c69b80a55fb673",
+      "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+      "url": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+      "summary": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android&#8217;s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T16:30:40+00:00"
+    },
+    {
+      "id": "23128b68414663d0dba57aa3a94d3998441d03fdb5f4779bad8676babda2e5c6",
+      "title": "Multiple Chinese hacking groups seen using identical Chrome zero-day exploit",
+      "url": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
+      "summary": "A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T16:30:00+00:00"
+    },
     {
       "id": "aecce62b3ad1f192590b2456d55bf4c2b3f2f8846410a8c57eb4d79a5b725090",
       "title": "FBI puts its cyber strategy on paper",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-08-27T12:48:03+00:00"
-    },
-    {
-      "id": "60bb7a569b3aefa309c73edc65bf60cac335d4d366c37f2b87224868c9478fa6",
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-27T12:16:24+00:00"
-    },
-    {
-      "id": "ed709ef4d123388e25c2c79ca47c9fead6aaec80b06621a98663f8ba20ae6da6",
-      "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
-      "url": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
-      "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-27T11:58:01+00:00"
-    },
-    {
-      "id": "89ba8a41a1ee0be07879dd6b06ecae43cee5c3370fad66c88f0b09cc1e218801",
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-27T11:56:30+00:00"
-    },
-    {
-      "id": "2d87a31b8a90daad0ddf1380bee94d84ba0860a6c3893a607f41db4e354178b4",
-      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Mi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T11:56:26+00:00"
-    },
-    {
-      "id": "bc84881d1e28dd31b6b8d4a7cf1ac78b13413f8b31785a8a4f39b52579ddbaab",
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-27T11:10:04+00:00"
-    },
-    {
-      "id": "4448077476edb29ee5a09bf840e8d299b6180fc9b874ca56f8b47d9c7165280d",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unname",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-08-27T11:04:15+00:00"
-    },
-    {
-      "id": "7259f0b8cf3015421cf7ce7eb8b440d8675aa3f3119be64fd8f1cf8776a8ba61",
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government not",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-27T11:00:57+00:00"
     }
   ]
 }
