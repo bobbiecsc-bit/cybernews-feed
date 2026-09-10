@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-10T02:57:07.537504+00:00",
+  "updated": "2026-09-10T10:32:25.163430+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "780ec3beafee83fbebac0603769bb0438a4a4e09737c262690ba11df3cc42bc8",
+      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
+      "url": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
+      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T10:06:20+00:00"
+    },
+    {
+      "id": "e8f0461d27489ceab26339eb4e66df4e7da8faedae1c0c341f6834fad959998e",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-10T09:10:20+00:00"
+    },
+    {
+      "id": "fd5c4de796254afd16a8d5dcaa51b43a48813486778e27e9e4069b47a0ebc279",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pa",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-10T07:12:55+00:00"
+    },
+    {
+      "id": "6d37c7a10131d9d55a94e1f3f92799624ad2ff4ac105dfdab783e1dfc3cebb34",
+      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
+      "url": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
+      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T07:09:36+00:00"
+    },
+    {
+      "id": "06d5e914515aea02a17b3b347ab82042f224734aa72b70c4a1efd5ecbb6882e7",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-10T06:56:33+00:00"
+    },
+    {
+      "id": "b6645c713126ce929abff7f79fb3a727b5250954974af805981ee3b1e1bf7591",
+      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+      "url": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+      "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T06:33:36+00:00"
+    },
     {
       "id": "8e055682245b5bc397714c2569c3f4c55e75f6d6634195bb230c322b333efea5",
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
@@ -222,7 +276,7 @@
       "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Ja",
+      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Jav",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-09T09:11:03+00:00"
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-08-27T15:13:00+00:00"
-    },
-    {
-      "id": "be461c8b17bf08f6da07f62d76bcd6189168266c7bb28a436b6d54142f8d22dd",
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing thei",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-27T15:12:16+00:00"
-    },
-    {
-      "id": "0c5e768508dd3c96543c252b46ba6367161ba5c1d4dfedf5b5d4c7fe10cd8caf",
-      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
-      "url": "https://therecord.media/germany-cyberattacks-china-russia",
-      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-27T14:45:00+00:00"
-    },
-    {
-      "id": "7b51ccd327a6e80cd3089d5ec8e171a26b094f2366b885b07f4d45916844a21a",
-      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-      "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs strengthen their defenses. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-27T14:00:10+00:00"
-    },
-    {
-      "id": "e2642e92805118546c6faf35ce725beba27cae97bf4963066390fb0780b224e9",
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE id",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-27T13:39:56+00:00"
-    },
-    {
-      "id": "e686c25ec9525a4e5b73cb02ab046bc2933aa89b5f92bc4eb35367ab8cf357e5",
-      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-27T13:31:13+00:00"
-    },
-    {
-      "id": "1aa439ceb76ddbd9510fa230e2fa76ce2c5959060f942383f4cc479edd8e4d8f",
-      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-      "url": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-27T13:15:00+00:00"
     }
   ]
 }

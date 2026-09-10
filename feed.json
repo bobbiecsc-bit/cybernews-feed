@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-10T02:57:07.537504+00:00",
+  "updated": "2026-09-10T10:32:25.163430+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "780ec3beafee83fbebac0603769bb0438a4a4e09737c262690ba11df3cc42bc8",
+      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
+      "url": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
+      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T10:06:20+00:00"
+    },
+    {
+      "id": "e8f0461d27489ceab26339eb4e66df4e7da8faedae1c0c341f6834fad959998e",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-10T09:10:20+00:00"
+    },
+    {
+      "id": "fd5c4de796254afd16a8d5dcaa51b43a48813486778e27e9e4069b47a0ebc279",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pa",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-10T07:12:55+00:00"
+    },
+    {
+      "id": "6d37c7a10131d9d55a94e1f3f92799624ad2ff4ac105dfdab783e1dfc3cebb34",
+      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
+      "url": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
+      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T07:09:36+00:00"
+    },
+    {
+      "id": "06d5e914515aea02a17b3b347ab82042f224734aa72b70c4a1efd5ecbb6882e7",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-10T06:56:33+00:00"
+    },
+    {
+      "id": "b6645c713126ce929abff7f79fb3a727b5250954974af805981ee3b1e1bf7591",
+      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+      "url": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+      "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-10T06:33:36+00:00"
+    },
     {
       "id": "8e055682245b5bc397714c2569c3f4c55e75f6d6634195bb230c322b333efea5",
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
@@ -225,7 +279,7 @@
       "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Ja",
+      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Jav",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-09T09:11:03+00:00"
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-08T16:35:54+00:00"
-    },
-    {
-      "id": "3e128c49a6762f93883ce335e6833407a18071cde740e6c96a04e674100983bb",
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-08T16:35:47+00:00"
-    },
-    {
-      "id": "08a6dd084273587070f7cad316dae99e8c501b3ac723bd15922bdc85fc7f6a54",
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep o",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-08T16:20:23+00:00"
-    },
-    {
-      "id": "4e7dbf133d9c99d8f7f491820f60827284b434b58927a5ccad6532d9622fcd02",
-      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-      "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-08T14:55:20+00:00"
-    },
-    {
-      "id": "9a2144e92ab99109f8b33b5afcb996bf6dd1f822304377fd34d53c16cec734b5",
-      "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
-      "url": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
-      "summary": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data. The post SAP Patches Critical Extended Passport Processing Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-08T14:55:06+00:00"
-    },
-    {
-      "id": "a714f833a62771f0b9ccf02d789af4897642681acea5aaa18aef796d3fb637f8",
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is stil",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-08T14:54:30+00:00"
-    },
-    {
-      "id": "7233e2d9b1b1aaba19ad8cbbf9be8fdb3926087abebfb18d3b0657cd92fed0cc",
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-08T14:19:17+00:00"
     }
   ]
 }

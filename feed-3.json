@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-10T02:57:07.537504+00:00",
+  "updated": "2026-09-10T10:32:25.163430+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "id": "d7ed15b40cfe81867e53a959ad03b92cc658875ba2f7754ce0067bcd84a96ebe",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T15:20:19+00:00"
+    },
+    {
+      "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T14:51:13+00:00"
+    },
+    {
+      "id": "1399cd3057a8c0c4be6c8b33dc4149da84db66c32d4625190ec6779e5ca06401",
+      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+      "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T14:45:00+00:00"
+    },
+    {
+      "id": "a1caa1ba3e69ffa88135beac2ddfcabc9172185a6fcf74718298fb9b9f8aac39",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-04T14:01:11+00:00"
+    },
+    {
+      "id": "12578e075ae5710656a2b729f593e7b690cb06a990097371a2ceba979b33d9c4",
+      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+      "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T13:39:00+00:00"
+    },
     {
       "id": "d0d77f5c8803746a2679be4cf3e40dafbb82787ff5cf64281913161262e913aa",
       "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "id": "711c1fe7b578c0addfeecd13119734a99995d9705a61bea3877e29c00e961dad",
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-02T12:30:22+00:00"
-    },
-    {
-      "id": "43ff6a4cc6fb5f5857e67ec0537eb496b0314f84881379212202e376aeeed4c5",
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advert",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T12:22:02+00:00"
-    },
-    {
-      "id": "f60cc758d5ba90387cee18c0f1f1e3c936b2e61287ca0be9b41b617aa6b05740",
-      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T12:18:15+00:00"
-    },
-    {
-      "id": "02491bb6a13214435001004fd31912ed40c96370b7eca603eaf6f1689dd42a26",
-      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
-      "url": "https://therecord.media/sality-botnet-cyber-doj",
-      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-02T12:15:00+00:00"
-    },
-    {
-      "id": "4bee803ffe761f8ed0c241cbcbc45f8f13949e82ec8893ba3d16f3fb7968aae2",
-      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-02T11:31:36+00:00"
-    },
-    {
-      "id": "8071e541fd79f3e371c05b831ac68f2c723d387e5cf5a1de02ca6dc76856301c",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T10:53:49+00:00"
     }
   ]
 }

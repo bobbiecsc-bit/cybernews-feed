@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-10T02:57:07.537504+00:00",
+  "updated": "2026-09-10T10:32:25.163430+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3e128c49a6762f93883ce335e6833407a18071cde740e6c96a04e674100983bb",
+      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+      "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-08T16:35:47+00:00"
+    },
+    {
+      "id": "08a6dd084273587070f7cad316dae99e8c501b3ac723bd15922bdc85fc7f6a54",
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep o",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-08T16:20:23+00:00"
+    },
+    {
+      "id": "4e7dbf133d9c99d8f7f491820f60827284b434b58927a5ccad6532d9622fcd02",
+      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+      "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-08T14:55:20+00:00"
+    },
+    {
+      "id": "9a2144e92ab99109f8b33b5afcb996bf6dd1f822304377fd34d53c16cec734b5",
+      "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
+      "url": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
+      "summary": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data. The post SAP Patches Critical Extended Passport Processing Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-08T14:55:06+00:00"
+    },
+    {
+      "id": "a714f833a62771f0b9ccf02d789af4897642681acea5aaa18aef796d3fb637f8",
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is stil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-08T14:54:30+00:00"
+    },
+    {
+      "id": "7233e2d9b1b1aaba19ad8cbbf9be8fdb3926087abebfb18d3b0657cd92fed0cc",
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-08T14:19:17+00:00"
+    },
     {
       "id": "c096727d1faeeea25820f32219de24087a53ad6dabe4ae9407a5f6099ee9bdd1",
       "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-09-04T15:57:15+00:00"
-    },
-    {
-      "id": "7483ae5401bdf41c1bdf4173cd80785873b74234eaebb7280fc0d1b3f01b3a35",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-04T15:25:59+00:00"
-    },
-    {
-      "id": "d7ed15b40cfe81867e53a959ad03b92cc658875ba2f7754ce0067bcd84a96ebe",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduce",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-04T15:20:19+00:00"
-    },
-    {
-      "id": "b1ea25ffc3704bdbcc3c50b2d0aa533cf7122efe320a6cc6a318c0758b53d0be",
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the bina",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-04T14:51:13+00:00"
-    },
-    {
-      "id": "1399cd3057a8c0c4be6c8b33dc4149da84db66c32d4625190ec6779e5ca06401",
-      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
-      "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
-      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-04T14:45:00+00:00"
-    },
-    {
-      "id": "a1caa1ba3e69ffa88135beac2ddfcabc9172185a6fcf74718298fb9b9f8aac39",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cry",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-04T14:01:11+00:00"
-    },
-    {
-      "id": "12578e075ae5710656a2b729f593e7b690cb06a990097371a2ceba979b33d9c4",
-      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
-      "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
-      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-04T13:39:00+00:00"
     }
   ]
 }
