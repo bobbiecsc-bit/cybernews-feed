@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-11T15:48:36.019599+00:00",
+  "updated": "2026-09-11T20:23:55.500004+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ed5e0e272a953e8d7cd56e1dd845237ab3735bd8de1fd71dbef722cf2e08e1aa",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-11T20:19:09+00:00"
+    },
+    {
+      "id": "c6784d8b5bbcb04cd7daafe9e0a9ed40dcdcc6029082e2cd6f308e89cbb742e4",
+      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+      "url": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
+      "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-11T20:00:00+00:00"
+    },
+    {
+      "id": "a16d62911725a1cb6cfce739f92477177fb5ff4a885e5909e45d6073b95c046a",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-11T19:00:29+00:00"
+    },
+    {
+      "id": "25be28ab1d1ea181349bf8a7568e9a15853c2d2bd0bd70f74e79c12181b53ed7",
+      "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+      "url": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+      "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-11T18:40:00+00:00"
+    },
+    {
+      "id": "1735fc9be4dcdabbedd41c68323de733c5e001cb209976a6f714842e5aaa63ef",
+      "title": "My Talk at DEF CON",
+      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+      "summary": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-09-11T18:06:24+00:00"
+    },
+    {
+      "id": "82dfd2b2ae389af285166b4247dcb51cf373e628e5f48c8e68f489f2220b6e1b",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-11T17:26:50+00:00"
+    },
+    {
+      "id": "a9a3d793fa65cdd062daf1a3307fd92ba2c43139fd863a2e3b0cb377146a4af2",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-11T17:23:36+00:00"
+    },
+    {
+      "id": "a8b89596a45d74f224ef68bc8f12267559b424fc23b6ddc8fd4de3d5ee46e479",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:30:18+00:00"
+    },
+    {
+      "id": "a9e03aba59c7b79438f7f02ce720f44c96dd8eb3501707fa047d137488836592",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:29:44+00:00"
+    },
+    {
+      "id": "ec242e7e40e92d80c3814ee71aa6edaf0eea9910e0e1185a5cd9e05ae3368729",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a m",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-11T16:15:29+00:00"
+    },
+    {
+      "id": "6fb6b22059cea43c30aef3cee36fbb5e1fc140667008b46816776eb6069251a8",
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:11:08+00:00"
+    },
     {
       "id": "df611a2dd38a1ffe742a5169b245e6e2c1e7d90fafc9e9c9ef1536b8d7836c27",
       "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
@@ -2152,105 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-08-31T18:51:04+00:00"
-    },
-    {
-      "id": "978983916c5317c404eb5dfbb1f4f36fc1983495b20e84ff868a4adcc4b75810",
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "summary": "It sure seems like it. The stores confirmed to be affected include Fort Irwin, Calif.; F.E. Warren Air Force Base, Wyo.; Fort Huachuca, Ariz.; Naval Station Newport, R.I.; Columbus Air Force Base, Miss.; and Travis Air Force Base, Calif., according to announcements made online by each installation. ",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-08-31T18:20:35+00:00"
-    },
-    {
-      "id": "cbe1eb1a526e86a5240c409457902f23be9623739a5b33432e685bf118669fe4",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical professi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-08-31T17:24:28+00:00"
-    },
-    {
-      "id": "f987011abe20f36259d44f6cba52d1551773ee11c7b12ad078310db3372ef40c",
-      "title": "Berlin says it won’t pay ransom after hackers steal government data",
-      "url": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
-      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-08-31T14:45:00+00:00"
-    },
-    {
-      "id": "88634f7e2b02400e7351f0dba1f56fe4099eec0e506f50143f61b4e261586c87",
-      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-      "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-31T14:32:34+00:00"
-    },
-    {
-      "id": "b3285ed45f9b487921578ec021c64b2a4421ca97a50c32f246d623ae696b420b",
-      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-      "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-08-31T13:59:19+00:00"
-    },
-    {
-      "id": "46defbbddb217e9ff0017193e38e5dbf81c818620a32aa53f448cde65931cf2a",
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewher",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-08-31T13:50:00+00:00"
-    },
-    {
-      "id": "570cf88d3b0ff13e0ffe4441d07fe401d0ec4421f202057b3d913d2304b9c60e",
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-08-31T13:30:01+00:00"
-    },
-    {
-      "id": "731f873f3ee10106569a6091d91254f1e317772d9dc19e4ece078aa98e7748a8",
-      "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
-      "url": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
-      "summary": "The ShinyHunters extortion group has claimed the theft of 284 million records from the company’s systems. The post McKesson Confirms Data Breach as Attacker Deadline Looms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-08-31T13:14:46+00:00"
-    },
-    {
-      "id": "94f22e04e71ea7e46d77e0d1e6153295fcc4da54fa7b5500537d30a856aaa9f1",
-      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
-      "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-31T12:45:00+00:00"
-    },
-    {
-      "id": "1563bd12df571ba160f5b245382b2826889a222791033ea43071d182e4e70581",
-      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
-      "url": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
-      "summary": "One of Slovenia’s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-08-31T12:30:00+00:00"
-    },
-    {
-      "id": "50276d2dc3e7e3b98ac7d21f1021034c8c5bbc50379be3db6aa8274531d626e2",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-08-31T12:14:00+00:00"
     }
   ]
 }
