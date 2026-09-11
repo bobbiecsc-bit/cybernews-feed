@@ -1,10 +1,127 @@
 {
-  "updated": "2026-09-11T10:33:03.481205+00:00",
+  "updated": "2026-09-11T15:48:36.019599+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1d89911d3f6b402d1f131f4bb2420d944dc7fab8232ad9a6544f42d9fa231ecf",
+      "title": "G7 urges organizations to prepare for quantum cyber threats",
+      "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-04T12:34:00+00:00"
+    },
+    {
+      "id": "0d6d6315b4911a0a39a7e9b0b50dcb93e19a7842888a0246a73a0914f564dd27",
+      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T12:06:13+00:00"
+    },
+    {
+      "id": "dc2f42c91d091abc08b53e004a8b9420b93e1968e4ee88f639349f32b8f9cf05",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:48:17+00:00"
+    },
+    {
+      "id": "d724b09b1159d455c18347aefde9a9ac83d4ae0ee24e07df4dd3669232f439d2",
+      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:42:55+00:00"
+    },
+    {
+      "id": "9954213a9a08a1ae871aee510592dec6d753966cd4946e996610aeb9edf0d3e4",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:31:52+00:00"
+    },
+    {
+      "id": "ab548f7a57c0a82bbe1de3fe305043f0ead8f645d9cee7850abc276a54b41916",
+      "title": "Security Vulnerability in a Voting System",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "summary": "It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in ",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-09-04T11:09:35+00:00"
+    },
+    {
+      "id": "7eb26d7003dcb87e477704e8847eae18615b5255444eec6470d3131d13709387",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag &amp; Drop Fo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T08:48:45+00:00"
+    },
+    {
+      "id": "08f9037c31db0cc25ffe9108f99d0a841c89e3b271df8434d11a442e93d2bf8f",
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T07:35:14+00:00"
+    },
+    {
+      "id": "49749711ba07df5a4d9ea4b4f1812555860772af23fd3219e591fde608fd2cc8",
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAsse",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T07:18:47+00:00"
+    },
+    {
+      "id": "09bf1e9a868fb64ec57d8e633cdf795a24ff9eee3900064159566ea93b40a775",
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Fr",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-04T06:47:52+00:00"
+    },
+    {
+      "id": "286d4cbedbed35fecc4142c90a380cff3dd0faca7f8e0f07ffa37b3533772239",
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "url": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-04T04:00:00+00:00"
+    },
+    {
+      "id": "0310538b67d582192ab9bdf40cf6ac39e66fafe3ef3ccb7231021444deef65ae",
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-03T22:01:37+00:00"
+    },
+    {
+      "id": "25f09ace814107cd955b9ad494eb7dae60471b22e0679126f0d281274723f6f6",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-03T20:04:24+00:00"
+    },
     {
       "id": "d0cdf0878d94f40bb2f4270e04c2d9c65edd48d7e69d6917a42be9bc4fdedb01",
       "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
@@ -337,123 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-02T09:12:29+00:00"
-    },
-    {
-      "id": "eb3bb052eba218a5d3c4065eed73703dfda708e15b3e163dbd71bc5ff2a8cfe6",
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arr",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T09:10:23+00:00"
-    },
-    {
-      "id": "c7121520f5a9a11f5da5868c9ffe2370bf3aea3ea31506db9d9cb8cd0f05d1c7",
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-02T09:06:48+00:00"
-    },
-    {
-      "id": "db2015e89f3432f1b2201b2688cbffb22ae1283cebf7e06b127273c721c13392",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-02T08:00:43+00:00"
-    },
-    {
-      "id": "fd47abd976ef000e6b0d6e16c094e2fd55fe312338f74da66fc7394e180fb92f",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets&nbsp;CVE-2021-31886,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:47:13+00:00"
-    },
-    {
-      "id": "9b6ec5da131924153511697a8fe2db2da335e3c49358e4df59c3249732c1a279",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:08:50+00:00"
-    },
-    {
-      "id": "81c96cc8da0f6b72bc0783ed1257950c8a27d688bf5733279a35e7050273c1ee",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in colla",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T06:56:30+00:00"
-    },
-    {
-      "id": "dac4f90cb8aa9351a93d9fcf4ea8391248fade93785a628f242f21e3aaf9fce3",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T06:39:29+00:00"
-    },
-    {
-      "id": "3e24cc131aa76ccaf7ee2d63b72c6481daf9e7183c64a45201264d736febd7cb",
-      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-      "url": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-      "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T05:04:52+00:00"
-    },
-    {
-      "id": "1f806f4f0ff9ae65b258606659e2c12debd2eca820d0f3e18e699052377b55c7",
-      "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
-      "url": "https://therecord.media/router-hacks-fire-ant-group-china",
-      "summary": "A hacking operation dubbed Fire Ant \"didn’t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\"",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-01T20:35:00+00:00"
-    },
-    {
-      "id": "c0d1439f223d302b3629b0e0e79e3769a25e9997fb0c1a4785b5361fa61289df",
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-01T19:28:17+00:00"
-    },
-    {
-      "id": "5d6edf9ec03cc8c409d4b8cc14888acba4b29eb7a7d68199b8436c7780838b3c",
-      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-      "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-01T18:30:00+00:00"
-    },
-    {
-      "id": "7de4b68209c1337a0346d9e0f63f94c6420802bed5c22485b7385924353aa472",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-01T17:54:22+00:00"
-    },
-    {
-      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T17:53:11+00:00"
     }
   ]
 }
