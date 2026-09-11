@@ -1,10 +1,91 @@
 {
-  "updated": "2026-09-11T02:51:55.205149+00:00",
+  "updated": "2026-09-11T10:33:03.481205+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c4d7fdfa67542adb262ed418a165c62d0257f1fefb555ea61de72112fd6b8ba2",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-07T13:05:11+00:00"
+    },
+    {
+      "id": "93b61032b3b3e4e7b2aef00a6c1015ab1ea1cfbd662568f2e26e900435399ca1",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-07T12:16:32+00:00"
+    },
+    {
+      "id": "15087a9b58bc352dce7553e3a2e7d58c6b6deea93494c5ff9e97b815b0d805f0",
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-07T12:15:57+00:00"
+    },
+    {
+      "id": "bbf12c4b1029613bf2739cf04d605001ac09750888fcaa4233ffc4ace175485f",
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-07T12:12:08+00:00"
+    },
+    {
+      "id": "8ba058ef0debfd92b809694775e000fdd711835d2345dcc711e3bef5d84a66c4",
+      "title": "OpenAI Agents Hijack Another Victim Website",
+      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-07T12:03:04+00:00"
+    },
+    {
+      "id": "be4e97f609ffc4955147c0463f515080417e64ea76737b77ca24fe8716c26add",
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-07T11:58:37+00:00"
+    },
+    {
+      "id": "dc4915f3855f4aeba43fc5283f499580db273087f3db920dd76d8892d77c7f08",
+      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
+      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
+      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-07T11:50:00+00:00"
+    },
+    {
+      "id": "2fe084db4bb9243b7adc23170644738008750baa4c20fb29a09aedbaa7813fa8",
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-07T11:45:48+00:00"
+    },
+    {
+      "id": "ff2a8ecee2aa5028dadc3df9b235308488ffba6cd23fc1241f999b132355bdfc",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-07T11:20:14+00:00"
+    },
     {
       "id": "23a72d6695c4d8d205a696fe997319c1a8eb19b4fb0054fdd11ae53904c32a11",
       "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-03T20:04:24+00:00"
-    },
-    {
-      "id": "d0cdf0878d94f40bb2f4270e04c2d9c65edd48d7e69d6917a42be9bc4fdedb01",
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-03T18:28:12+00:00"
-    },
-    {
-      "id": "eae08603ec40cb975fc89664ee6585afd73684bdb81c2f8fd7581c96b134df42",
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides tha",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-03T18:02:47+00:00"
-    },
-    {
-      "id": "10869e1cb2f94267097db0303e292e744802aa16350ebfbffb0af4494701542b",
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T15:52:07+00:00"
-    },
-    {
-      "id": "ccbb703251575fb6f2ae765cffc04abe2c5ce54a42563974e733806dac721d8a",
-      "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-      "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-      "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-03T15:35:19+00:00"
-    },
-    {
-      "id": "9d9736b815d582ed8ce686114c0b3206d9ce0fde65ef624de23d744802199b9b",
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowe",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-03T15:26:47+00:00"
-    },
-    {
-      "id": "12bd6356b4bcf458f70b3d710baf02cb3d4f1a468b11c85c947cecbe5769625c",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-03T14:52:20+00:00"
-    },
-    {
-      "id": "9fe0a5b020907206bd3962c5a7b1f3dab3ec5b11c83be154c68e4a83ccb3156d",
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-03T14:39:05+00:00"
-    },
-    {
-      "id": "e41d05713645fe7a3c0ef3ae28fa1876064bfd2e9ddff68e75b74405f0c76812",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-03T13:50:59+00:00"
-    },
-    {
-      "id": "f0ab43561e28cbc1b6c12bc8c260e1a5d8118e320f35d0b0a613c82e1e4eab0f",
-      "title": "US and Canadian court data exposed in Thomson Reuters breach",
-      "url": "https://therecord.media/thomson-reuters-cyberattack-data",
-      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-03T12:00:00+00:00"
     }
   ]
 }
