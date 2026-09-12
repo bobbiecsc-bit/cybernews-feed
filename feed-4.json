@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-12T02:59:10.049749+00:00",
+  "updated": "2026-09-12T10:01:31.318914+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5c7b6ad938baf62c72b3e5ed562f42a5e9b76ed9d60bb1677c832a0f9f136ffd",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-04T16:56:45+00:00"
+    },
     {
       "id": "f44fd1189325eb59cb66a8733d4bc2d6c5f7d62dc1900c9f3344ab9b296de012",
       "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-02T15:07:00+00:00"
-    },
-    {
-      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T14:06:59+00:00"
     }
   ]
 }

@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-12T02:59:10.049749+00:00",
+  "updated": "2026-09-12T10:01:31.318914+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "335721a8136cc299e91a1e581f90399c4f6392fcdb777730335e00903afaef05",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-02T14:06:59+00:00"
+    },
     {
       "id": "3cfac59fe43e51338c243dc308b66e44e8ce89aead1a70c6a841aaa1a43c653e",
       "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-08-31T19:45:00+00:00"
-    },
-    {
-      "id": "aab94ee8133c548e003a213a780b1685cd368b47d0c7ad4dd17d741651136ffa",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-08-31T18:51:04+00:00"
     }
   ]
 }
