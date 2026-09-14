@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-14T11:42:22.040148+00:00",
+  "updated": "2026-09-14T17:36:40.379060+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d1e3ec21956720a9ee1f45d31272f848bdec4cc93506e6226bb120d1e660ff99",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-14T16:58:42+00:00"
+    },
+    {
+      "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintain",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T16:56:30+00:00"
+    },
+    {
+      "id": "5aa4d6dc4864a889324abe516641ea6a3fb843e6264b7cacc8b17e8df7d7c6cf",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-14T16:15:58+00:00"
+    },
+    {
+      "id": "21b205c6ce309c6fc1417f8454975fd8947b0db29b8d3e0b68b84aa7276c68b5",
+      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
+      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-14T16:15:00+00:00"
+    },
+    {
+      "id": "689d56dc6e17e50c8d36281ec07f91322ad3cdf12aae33757f0667386f5edb0a",
+      "title": "Using AI for Weapons Development",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
+      "summary": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a c",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-09-14T16:07:46+00:00"
+    },
+    {
+      "id": "161dd11ccccf6c5948903133bc0fedeb9d4da64a5c9e3e768ebeba05bc4dbabe",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, e",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T14:40:34+00:00"
+    },
+    {
+      "id": "7106821c8e6e798ec82640d9abaf3fd78f7162e992cddf5428957e92ea0074bd",
+      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+      "url": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-14T13:03:35+00:00"
+    },
+    {
+      "id": "7667ec306319448c70b2551d645f38b5ba59a00e9b69618763d784dd37ade2a5",
+      "title": "The Race to Control AI and Protect What Makes Us Human",
+      "url": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+      "summary": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-14T13:00:00+00:00"
+    },
+    {
+      "id": "0952b915a227a263706551fcfb57b947e27543441d73aee25dbda39f875184fa",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-14T12:15:23+00:00"
+    },
+    {
+      "id": "d82614babf1bb8c0d83c04733b4a4240a08e26bf11fe8ebd40baed6bafce3dd5",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. I",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T11:58:00+00:00"
+    },
+    {
+      "id": "13ffadda8b22a730ff6bf7940c953bb790a9f14de2975d3b3d0e117ad90a8b48",
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+      "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-14T11:51:29+00:00"
+    },
     {
       "id": "1f707ac6b8e0a2e6313efdbed496534e884880eea36a36fd43d962b4d1bd774b",
       "title": "Telus Warns Customers of Account Breaches",
@@ -2152,105 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-01T15:31:00+00:00"
-    },
-    {
-      "id": "024e417741d4a26cc93ece17e273386fea738353fd58c3d2cb55ff25db332de2",
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-01T14:45:06+00:00"
-    },
-    {
-      "id": "e50e48c737157f8a1ca2d7324e280746000e57d63dda7e329e7bd930dc6b98b3",
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-01T14:28:40+00:00"
-    },
-    {
-      "id": "2e1433965ded5055aabb83ee9f802459105e3968a6a85abcdf2a7a5ae985ae89",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injecte",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T14:07:20+00:00"
-    },
-    {
-      "id": "884272089df20a5e7ea209d5b0b1f12122901704c87fe7ecec40c988d37ab88e",
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisi",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-01T14:01:11+00:00"
-    },
-    {
-      "id": "733c36767b10aa780d58b7c473de6b0b6d51d0e7a2d95e382210282bf61dc8a9",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) dev",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-01T13:08:58+00:00"
-    },
-    {
-      "id": "649bece8a86a53210d4d11b6f170da26ac7aad4531cb73e3f06d42bf7b10df9b",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-01T12:38:35+00:00"
-    },
-    {
-      "id": "84d69309f1154397abfffb324eafb0d6bcd0f7ef1d3cf09c1baebe0a2d32ea57",
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-      "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-01T12:37:15+00:00"
-    },
-    {
-      "id": "36eecbe7167de6aae91552dd1ee867b8d566b431287986429c50b48bc1af5052",
-      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
-      "url": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
-      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-01T12:33:00+00:00"
-    },
-    {
-      "id": "0ee1eeac65ef3b2893175aa19a435dbecd69f2487ba5973328be4a06c7b90b3e",
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-      "summary": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-01T12:07:54+00:00"
-    },
-    {
-      "id": "6a32dcc2b873f1220704b7f36fe9ecb57a081c072d6c57fdab250c430e566b3d",
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, an",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-01T11:30:00+00:00"
-    },
-    {
-      "id": "f9e32735e223c2b9622587f1113cc1164a06e4a2501385069a10836078b663a6",
-      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-      "url": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
-      "summary": "The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash. The post Five Venezuelans Plead Guilty in US Court to ATM Jackpotting appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-01T11:24:25+00:00"
     }
   ]
 }

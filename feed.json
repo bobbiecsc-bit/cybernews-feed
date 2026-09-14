@@ -1,10 +1,109 @@
 {
-  "updated": "2026-09-14T11:42:22.040148+00:00",
+  "updated": "2026-09-14T17:36:40.379060+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1e3ec21956720a9ee1f45d31272f848bdec4cc93506e6226bb120d1e660ff99",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-14T16:58:42+00:00"
+    },
+    {
+      "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintain",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T16:56:30+00:00"
+    },
+    {
+      "id": "5aa4d6dc4864a889324abe516641ea6a3fb843e6264b7cacc8b17e8df7d7c6cf",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-14T16:15:58+00:00"
+    },
+    {
+      "id": "21b205c6ce309c6fc1417f8454975fd8947b0db29b8d3e0b68b84aa7276c68b5",
+      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
+      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-14T16:15:00+00:00"
+    },
+    {
+      "id": "689d56dc6e17e50c8d36281ec07f91322ad3cdf12aae33757f0667386f5edb0a",
+      "title": "Using AI for Weapons Development",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
+      "summary": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a c",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-09-14T16:07:46+00:00"
+    },
+    {
+      "id": "161dd11ccccf6c5948903133bc0fedeb9d4da64a5c9e3e768ebeba05bc4dbabe",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, e",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T14:40:34+00:00"
+    },
+    {
+      "id": "7106821c8e6e798ec82640d9abaf3fd78f7162e992cddf5428957e92ea0074bd",
+      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+      "url": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-14T13:03:35+00:00"
+    },
+    {
+      "id": "7667ec306319448c70b2551d645f38b5ba59a00e9b69618763d784dd37ade2a5",
+      "title": "The Race to Control AI and Protect What Makes Us Human",
+      "url": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+      "summary": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-14T13:00:00+00:00"
+    },
+    {
+      "id": "0952b915a227a263706551fcfb57b947e27543441d73aee25dbda39f875184fa",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-14T12:15:23+00:00"
+    },
+    {
+      "id": "d82614babf1bb8c0d83c04733b4a4240a08e26bf11fe8ebd40baed6bafce3dd5",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. I",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T11:58:00+00:00"
+    },
+    {
+      "id": "13ffadda8b22a730ff6bf7940c953bb790a9f14de2975d3b3d0e117ad90a8b48",
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+      "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-14T11:51:29+00:00"
+    },
     {
       "id": "1f707ac6b8e0a2e6313efdbed496534e884880eea36a36fd43d962b4d1bd774b",
       "title": "Telus Warns Customers of Account Breaches",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-11T08:47:07+00:00"
-    },
-    {
-      "id": "79b4464a7cf76a6eaf251197555f5fd27cbfb599105c0f0d0023d83a5253b417",
-      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-      "summary": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T08:18:23+00:00"
-    },
-    {
-      "id": "42df196f2b731e5c170dc716657a53fbb30975ca1fc26ca9bc08b073e8e44c66",
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-11T07:55:15+00:00"
-    },
-    {
-      "id": "6d77d0f66755e664316574d6dc01a3211b0c46ad7969092097387309098cc45e",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:31:05+00:00"
-    },
-    {
-      "id": "11c8b517d375b0496d90fd5b7053a9fccbb014769553e3bd5d643eace4869326",
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in&nbsp;research published Thursday. The attack started with a crafted link ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:14:09+00:00"
-    },
-    {
-      "id": "07c0f38a80ce2ba40837cec9bf9f18fa556295ee7dbf7b75944793edba9ad6f4",
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-11T06:48:37+00:00"
-    },
-    {
-      "id": "af3b87dfbf9c12604305a1c0d7c39537afe6ee92275ca2a8ea6af80ed1fc02e9",
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T06:46:18+00:00"
-    },
-    {
-      "id": "788925358fae7cd274992bc2e2d7f9c9ce83ac009ea033be9aebb636002f44e3",
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T06:19:59+00:00"
-    },
-    {
-      "id": "b8fb164281cc000e4810214e0ef514397da99ae4cf16ec7903b9f65f92742ca3",
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-10T21:40:43+00:00"
-    },
-    {
-      "id": "1b1eebcbc6b8a9f4773912835b72a36f999f7863d911b3ebb021943c0e095d7d",
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-10T19:15:07+00:00"
-    },
-    {
-      "id": "4aaa62c1d3a8fdd941fad3443db822b90aa65a293a753dc320ccd084e8768958",
-      "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
-      "url": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
-      "summary": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-10T18:55:00+00:00"
-    },
-    {
-      "id": "69cf1fb2ff8989501b09535305b0a7e3608362be602ada86570a36fcc1e96d49",
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-10T17:47:38+00:00"
     }
   ]
 }
