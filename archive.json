@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-14T17:36:40.379060+00:00",
+  "updated": "2026-09-14T21:25:18.800194+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "bc6f1b881d2b432000a00886fb6d30635eb0ebab2684eefd10695743329b6258",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-14T20:36:02+00:00"
+    },
+    {
+      "id": "f635bd0fb914e3b0aef817032dee89b68fdb25318605d75b9a3d3554974fe8df",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-14T19:51:04+00:00"
+    },
+    {
+      "id": "6aad7771fb494b1d80c3f74ade539f6e3bbd8a574de7ac78749d37df82d7a713",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-14T18:34:16+00:00"
+    },
     {
       "id": "d1e3ec21956720a9ee1f45d31272f848bdec4cc93506e6226bb120d1e660ff99",
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -9,13 +36,31 @@
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr",
       "source": "The Hacker News",
       "category": "threat",
-      "date": "2026-09-14T16:58:42+00:00"
+      "date": "2026-09-14T18:02:13+00:00"
+    },
+    {
+      "id": "2e4ea22accc39550c1ec2a6ae5eb27806ba23a0f4beed8fc531c0cfbb3f00226",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-14T18:01:49+00:00"
+    },
+    {
+      "id": "7b20c25c567224b9c49589c2110e2a141bb8f86935f173658bcc6dace3bd88d1",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when som",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T17:58:16+00:00"
     },
     {
       "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintain",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-14T16:56:30+00:00"
@@ -2206,51 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-01T19:28:17+00:00"
-    },
-    {
-      "id": "5d6edf9ec03cc8c409d4b8cc14888acba4b29eb7a7d68199b8436c7780838b3c",
-      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-      "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-01T18:30:00+00:00"
-    },
-    {
-      "id": "7de4b68209c1337a0346d9e0f63f94c6420802bed5c22485b7385924353aa472",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-01T17:54:22+00:00"
-    },
-    {
-      "id": "5d60f3c3ebe6483c7e77cf92dc0d749e3274f46e5ef52c57e48cd8afd9111afb",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-01T17:53:11+00:00"
-    },
-    {
-      "id": "dff23f3c8b114063949c38cdb7f9843799edcc5895fa4139578c049c5d65fa75",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-01T17:19:24+00:00"
-    },
-    {
-      "id": "3f993355be59ca656067afd02dc60f19a0844ab9b5da78c3fc4845f24ac82409",
-      "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
-      "url": "https://therecord.media/nutex-health-data-breach",
-      "summary": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-01T15:31:00+00:00"
     }
   ]
 }

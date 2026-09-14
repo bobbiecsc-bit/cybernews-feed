@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-14T17:36:40.379060+00:00",
+  "updated": "2026-09-14T21:25:18.800194+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a7397cc291ced5fd3a77e403300ddcfa4c85dadd3e9ed2799cad47bfd71a23c4",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp; Information stealers like Lumma Stealer or Vidar are equipped to harvest a wi",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T14:23:55+00:00"
+    },
+    {
+      "id": "7b70efb6ff4b477e04d1aeed57a33c3b907f45d4abf60815e3707879a05162d3",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account rec",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T14:01:11+00:00"
+    },
+    {
+      "id": "7554102078b435388fafd4cc7f28842e1bca5530e4d49a9b7dfd726bdc4b54b6",
+      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+      "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
+      "summary": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T12:32:13+00:00"
+    },
+    {
+      "id": "8abca2d5974c3170aac370fbf07368d943b91ce0c59bdd6c060ecc7d023d5020",
+      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T11:57:36+00:00"
+    },
+    {
+      "id": "c33829733f1a8e1bb99008c13e51c6a04377b35d772d5f55e215d6c417eaa53b",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files canno",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T11:17:07+00:00"
+    },
     {
       "id": "c3a171cdeb601849928646f739fbeb69ce9844dbf6dd478e269d75c2b270a439",
       "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-07T18:12:09+00:00"
-    },
-    {
-      "id": "9dd82c8cbcbd69abf01c3360869d781060048a8eda999ee4b91480c419439768",
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T16:50:29+00:00"
-    },
-    {
-      "id": "9c92a7066f1fef34bc1e189dc2bf7953e6f91148a662e98752dc5ac0beff83a4",
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-07T15:51:56+00:00"
-    },
-    {
-      "id": "24d56919cba73a5c6b6a6f6bf13aa24a0bf3e2f5069d0aca36e253aa95ccc781",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software sourc",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-07T14:36:07+00:00"
-    },
-    {
-      "id": "c4d7fdfa67542adb262ed418a165c62d0257f1fefb555ea61de72112fd6b8ba2",
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-07T13:05:11+00:00"
-    },
-    {
-      "id": "93b61032b3b3e4e7b2aef00a6c1015ab1ea1cfbd662568f2e26e900435399ca1",
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-07T12:16:32+00:00"
     }
   ]
 }

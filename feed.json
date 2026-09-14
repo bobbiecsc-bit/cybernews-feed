@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-14T17:36:40.379060+00:00",
+  "updated": "2026-09-14T21:25:18.800194+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bc6f1b881d2b432000a00886fb6d30635eb0ebab2684eefd10695743329b6258",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-14T20:36:02+00:00"
+    },
+    {
+      "id": "f635bd0fb914e3b0aef817032dee89b68fdb25318605d75b9a3d3554974fe8df",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-14T19:51:04+00:00"
+    },
+    {
+      "id": "6aad7771fb494b1d80c3f74ade539f6e3bbd8a574de7ac78749d37df82d7a713",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-14T18:34:16+00:00"
+    },
     {
       "id": "d1e3ec21956720a9ee1f45d31272f848bdec4cc93506e6226bb120d1e660ff99",
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -12,13 +39,31 @@
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr",
       "source": "The Hacker News",
       "category": "threat",
-      "date": "2026-09-14T16:58:42+00:00"
+      "date": "2026-09-14T18:02:13+00:00"
+    },
+    {
+      "id": "2e4ea22accc39550c1ec2a6ae5eb27806ba23a0f4beed8fc531c0cfbb3f00226",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-14T18:01:49+00:00"
+    },
+    {
+      "id": "7b20c25c567224b9c49589c2110e2a141bb8f86935f173658bcc6dace3bd88d1",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when som",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T17:58:16+00:00"
     },
     {
       "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintain",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-14T16:56:30+00:00"
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-09-11T11:29:09+00:00"
-    },
-    {
-      "id": "3b1ca1686e68856d0cc3b87f8fbb7e5c42353548c31efcb2219720e03ae317b0",
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-11T11:15:22+00:00"
-    },
-    {
-      "id": "01371e4d26ef274361887cb5d9259dd7a42c199cf74ffd33e2fee79dc28fb4e0",
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T11:10:02+00:00"
-    },
-    {
-      "id": "22fef40592f00fa62615b1a3e452ccb2f31159a55345bcc3669a67c3a04d8db2",
-      "title": "Cliff Stoll’s DEF CON Talk",
-      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "summary": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-09-11T11:09:55+00:00"
-    },
-    {
-      "id": "21998cde1d7102ca5d24995634cd3dca651c66e10adcd028dee8d0dff89adf3c",
-      "title": "Surfshark Systems Targeted by Hackers",
-      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T09:41:03+00:00"
-    },
-    {
-      "id": "b4a0906212636693fd9b6449d3956d6492f40753cf7ed9992f4d21d9b213bb91",
-      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-      "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T08:47:07+00:00"
     }
   ]
 }

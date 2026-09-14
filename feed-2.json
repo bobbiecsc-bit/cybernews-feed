@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-14T17:36:40.379060+00:00",
+  "updated": "2026-09-14T21:25:18.800194+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3b1ca1686e68856d0cc3b87f8fbb7e5c42353548c31efcb2219720e03ae317b0",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-11T11:15:22+00:00"
+    },
+    {
+      "id": "01371e4d26ef274361887cb5d9259dd7a42c199cf74ffd33e2fee79dc28fb4e0",
+      "title": "Check Point Patches Critical VPN Vulnerabilities",
+      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+      "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-11T11:10:02+00:00"
+    },
+    {
+      "id": "22fef40592f00fa62615b1a3e452ccb2f31159a55345bcc3669a67c3a04d8db2",
+      "title": "Cliff Stoll’s DEF CON Talk",
+      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+      "summary": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-09-11T11:09:55+00:00"
+    },
+    {
+      "id": "21998cde1d7102ca5d24995634cd3dca651c66e10adcd028dee8d0dff89adf3c",
+      "title": "Surfshark Systems Targeted by Hackers",
+      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+      "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-11T09:41:03+00:00"
+    },
+    {
+      "id": "b4a0906212636693fd9b6449d3956d6492f40753cf7ed9992f4d21d9b213bb91",
+      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+      "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-11T08:47:07+00:00"
+    },
     {
       "id": "79b4464a7cf76a6eaf251197555f5fd27cbfb599105c0f0d0023d83a5253b417",
       "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-09T14:33:52+00:00"
-    },
-    {
-      "id": "a7397cc291ced5fd3a77e403300ddcfa4c85dadd3e9ed2799cad47bfd71a23c4",
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others.&nbsp; Information stealers like Lumma Stealer or Vidar are equipped to harvest a wi",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-09T14:23:55+00:00"
-    },
-    {
-      "id": "7b70efb6ff4b477e04d1aeed57a33c3b907f45d4abf60815e3707879a05162d3",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account rec",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-09T14:01:11+00:00"
-    },
-    {
-      "id": "7554102078b435388fafd4cc7f28842e1bca5530e4d49a9b7dfd726bdc4b54b6",
-      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
-      "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
-      "summary": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-09T12:32:13+00:00"
-    },
-    {
-      "id": "8abca2d5974c3170aac370fbf07368d943b91ce0c59bdd6c060ecc7d023d5020",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-09T11:57:36+00:00"
-    },
-    {
-      "id": "c33829733f1a8e1bb99008c13e51c6a04377b35d772d5f55e215d6c417eaa53b",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files canno",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-09T11:17:07+00:00"
     }
   ]
 }
