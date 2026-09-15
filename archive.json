@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-15T03:15:23.311989+00:00",
+  "updated": "2026-09-15T10:59:49.705807+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "5828a0b628910d416307527f9f146c503254f09f4f64f3713580db63f53b292f",
+      "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+      "url": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+      "summary": "The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability. The post Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-15T09:40:25+00:00"
+    },
+    {
+      "id": "3962a1474812e90d94dda45d82ab4abfaa101deac32acb011b80559e64a44329",
+      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+      "url": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+      "summary": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-15T09:09:00+00:00"
+    },
+    {
+      "id": "96c09c631f163e167a7198b2a4e3c69d2a39bbab8b2960b15ee71b042024844c",
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-15T07:31:09+00:00"
+    },
+    {
+      "id": "7c09d00af3deeda7e85aae44adb90e2765a05b33592d3659134a4c8a95d07901",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of tho",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-15T06:52:16+00:00"
+    },
+    {
+      "id": "afc835b3ebd293cb78098b197b87636fea7485b9b61cdbac5dc98511b1a22d9f",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insuffic",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-15T06:11:11+00:00"
+    },
+    {
+      "id": "689ffb8dd99a9fcf19b4340d56ae61602dceef019ad9c89f18f75ba7c5920db1",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-15T05:31:05+00:00"
+    },
+    {
+      "id": "510a70daa4d0f911bcb4c026bedb7bf5b1efd71aa0178d56680715ffa803346d",
+      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+      "url": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
+      "summary": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-15T05:18:51+00:00"
+    },
     {
       "id": "bc6f1b881d2b432000a00886fb6d30635eb0ebab2684eefd10695743329b6258",
       "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
@@ -2188,69 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-02T08:00:43+00:00"
-    },
-    {
-      "id": "fd47abd976ef000e6b0d6e16c094e2fd55fe312338f74da66fc7394e180fb92f",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets&nbsp;CVE-2021-31886,",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:47:13+00:00"
-    },
-    {
-      "id": "9b6ec5da131924153511697a8fe2db2da335e3c49358e4df59c3249732c1a279",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-02T07:08:50+00:00"
-    },
-    {
-      "id": "81c96cc8da0f6b72bc0783ed1257950c8a27d688bf5733279a35e7050273c1ee",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in colla",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-02T06:56:30+00:00"
-    },
-    {
-      "id": "dac4f90cb8aa9351a93d9fcf4ea8391248fade93785a628f242f21e3aaf9fce3",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T06:39:29+00:00"
-    },
-    {
-      "id": "3e24cc131aa76ccaf7ee2d63b72c6481daf9e7183c64a45201264d736febd7cb",
-      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
-      "url": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
-      "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-02T05:04:52+00:00"
-    },
-    {
-      "id": "1f806f4f0ff9ae65b258606659e2c12debd2eca820d0f3e18e699052377b55c7",
-      "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
-      "url": "https://therecord.media/router-hacks-fire-ant-group-china",
-      "summary": "A hacking operation dubbed Fire Ant \"didn’t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\"",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-01T20:35:00+00:00"
-    },
-    {
-      "id": "c0d1439f223d302b3629b0e0e79e3769a25e9997fb0c1a4785b5361fa61289df",
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-01T19:28:17+00:00"
     }
   ]
 }

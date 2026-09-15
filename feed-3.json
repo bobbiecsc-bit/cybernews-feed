@@ -1,10 +1,73 @@
 {
-  "updated": "2026-09-15T03:15:23.311989+00:00",
+  "updated": "2026-09-15T10:59:49.705807+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c6ee9d174c9fca2ede286542a29fa9ed155952cbafec71f6b8387ea44b6f4ce7",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T16:48:33+00:00"
+    },
+    {
+      "id": "9927501cbbee3b724e98e57628c97305d129e939bf3064dfe2f8b3e85c6cf12e",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T16:34:05+00:00"
+    },
+    {
+      "id": "21e3904e2ceb049bbf4efffa12d54b66940b5bb3e5870a84f5c69b80a55fb673",
+      "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+      "url": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+      "summary": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android&#8217;s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T16:30:40+00:00"
+    },
+    {
+      "id": "23128b68414663d0dba57aa3a94d3998441d03fdb5f4779bad8676babda2e5c6",
+      "title": "Multiple Chinese hacking groups seen using identical Chrome zero-day exploit",
+      "url": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
+      "summary": "A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T16:30:00+00:00"
+    },
+    {
+      "id": "aecce62b3ad1f192590b2456d55bf4c2b3f2f8846410a8c57eb4d79a5b725090",
+      "title": "FBI puts its cyber strategy on paper",
+      "url": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+      "summary": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Leatherman says.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-09T15:37:00+00:00"
+    },
+    {
+      "id": "1f143425b810d0d3d1c29ad85c1848dbcfd42985927231855f95a7e52fb58ee9",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-09T15:31:23+00:00"
+    },
+    {
+      "id": "656ecabad0f3549515b4f1a844ec19d1166c44cbd2628544c7e1d4ed96a8b119",
+      "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+      "url": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+      "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T14:33:52+00:00"
+    },
     {
       "id": "a7397cc291ced5fd3a77e403300ddcfa4c85dadd3e9ed2799cad47bfd71a23c4",
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-08T12:03:03+00:00"
-    },
-    {
-      "id": "5804e31a65d1bda9f3c529ae6e0e10c4a3ba6f7031d4ddae3a5d18f1f0280d0f",
-      "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-      "url": "https://therecord.media/cyberattack-bavaria-germany-utility",
-      "summary": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-08T12:00:00+00:00"
-    },
-    {
-      "id": "9af5dfe944e1aeb426f02e2b4b754369e7cbb2b7962f02b1e034a5f2368b7bb3",
-      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-      "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Se",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-08T11:22:07+00:00"
-    },
-    {
-      "id": "4fcc364b8562e4ac08a23bce5b731ba6a1dca5b995ab2fea4e4928f17263d5cc",
-      "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
-      "url": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
-      "summary": "Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices. The post MikroTik Patches Critical Flaws Chained to Hack Routers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-08T11:15:00+00:00"
-    },
-    {
-      "id": "5e38af4b384f5837b7f8f1b4acd33c4f16f726de9ca71c85ab467a65e0b3b3f0",
-      "title": "Mathspace Data Breach Exposes Over 1 Million People",
-      "url": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-      "summary": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes Over 1 Million People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-08T10:47:36+00:00"
-    },
-    {
-      "id": "2fdb7e2328900989dfc88cb081d19ce88b569381d5f03c16232fd6b010817483",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which di",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-08T09:13:47+00:00"
-    },
-    {
-      "id": "640afb9db3b284d465a31581c5c17ae3cbffcecf75af9970f69495797d5f1d97",
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the In",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-08T08:43:51+00:00"
-    },
-    {
-      "id": "6c94379fcb16ef16a14e5b6429e4c707bc22b0f07b7ec7383ca52fbd26dd3f91",
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge pr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T18:12:09+00:00"
     }
   ]
 }
