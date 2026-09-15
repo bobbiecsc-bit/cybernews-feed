@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-15T16:10:41.851082+00:00",
+  "updated": "2026-09-15T20:49:47.700138+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b2a972265875efe106ea2f412ef95fbfc900611d2d7987d1ad8c8ee9aa36ba2e",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-13T14:26:32+00:00"
+    },
+    {
+      "id": "fa59062d0b2fe8ab1a853f667c534cb06d6355b4cf6778aaaadbbc2a6f7a2981",
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-13T10:11:48+00:00"
+    },
+    {
+      "id": "0ddc7c58e041304080d6a0b0c9112048113b0133c17e5268e4c73655190613eb",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vuln",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-12T15:54:45+00:00"
+    },
+    {
+      "id": "59b3d76728f85f892241f551191eeb317ef181ce43b83a79941b5570e2e8415d",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-12T14:14:32+00:00"
+    },
+    {
+      "id": "5fcbcfa827600c4b49eb9a74cc3312ce284b640bc59e97ce4d4b7a0547eec61b",
+      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+      "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+      "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-12T11:10:00+00:00"
+    },
     {
       "id": "d66479afd965673d3489c296ef999ffbeeaee9e247c41fe7d553a4d56eeb46fa",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-10T14:00:10+00:00"
-    },
-    {
-      "id": "869b87863a0b4e67131c0fbf7c06fd6ca77ec70af4bcb5ce22bcc5461f94e692",
-      "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-      "url": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-      "summary": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T13:39:52+00:00"
-    },
-    {
-      "id": "29d252963243eb08ea92c52b47925a7671927cc0f569b3e1ede34c60d7c5e67b",
-      "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
-      "url": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
-      "summary": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to track and withdraw their earnings.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-10T13:31:00+00:00"
-    },
-    {
-      "id": "796f1b1c7637d84646ab3f252935c4ee4fe6200582c68da96b5138fb8a4381c1",
-      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-      "summary": "Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3. The post Critical NetScaler Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T12:20:21+00:00"
-    },
-    {
-      "id": "12de003a0981c3cfa91b51f15ce55b0bc3d0f0a18f61451dfa79efe2bab4ad75",
-      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-      "url": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-      "summary": "Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked. The post Widened Scan Turns Up Fourth Rogue Claude Cyber Incident appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-10T11:52:44+00:00"
-    },
-    {
-      "id": "33af29f71c8c922142379d8629f55388d5af9ede192d46f6db112e2f7ad771c0",
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One flaw affects Check Point",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-10T11:45:05+00:00"
     }
   ]
 }
