@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-16T16:03:38.413017+00:00",
+  "updated": "2026-09-16T20:50:08.903417+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "768c30c52b4541c40d08880c76142e91853544ccc038d8d932b11f47824891b1",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-16T20:24:55+00:00"
+    },
+    {
+      "id": "7eb18c524e79a413fa9d898c4c641d767b0860a65927df9dd58dcf8bc9323428",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-16T18:50:53+00:00"
+    },
+    {
+      "id": "83888df984dfb07c43a3465d1a2649d872f347329db75ad9dd33552a3822d795",
+      "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
+      "url": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
+      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-16T18:46:00+00:00"
+    },
+    {
+      "id": "b32240f631c6a10ca7806d738b36857867aa4c6bdeb0f366e3d8e4f16bb7b55e",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-16T17:26:41+00:00"
+    },
+    {
+      "id": "4647ccdbc87822c74642e9b633f7e04af29ba99e67928045048edaf91dab4322",
+      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+      "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-16T16:39:19+00:00"
+    },
+    {
+      "id": "4a519778a75aa182655b26560c0ed80a317816ee4868817e7b0281b80b3fb6f4",
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote att",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-16T15:50:59+00:00"
+    },
     {
       "id": "16c73195f627292f337b395544127dfc26513697d8b40d2540caa10276f9a4cf",
       "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
@@ -10,6 +64,15 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-16T15:47:00+00:00"
+    },
+    {
+      "id": "27afdbdfcf69780c5afb5914a3674bd638ae6f9d12d48dd6fa1077e2761d07e5",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to b",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-16T15:27:49+00:00"
     },
     {
       "id": "e9cc8b3c32fa88e6e1ff99679bcdac7c9c5f085a6f9a0d5b7f0af7e494f33702",
@@ -2188,69 +2251,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-09-04T13:39:00+00:00"
-    },
-    {
-      "id": "d0d77f5c8803746a2679be4cf3e40dafbb82787ff5cf64281913161262e913aa",
-      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-      "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-04T13:23:12+00:00"
-    },
-    {
-      "id": "beea4dd696f2ff5bc86ea16fd6565b89c6fd36dade9737dd725df35e7145f303",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-04T13:22:01+00:00"
-    },
-    {
-      "id": "1d89911d3f6b402d1f131f4bb2420d944dc7fab8232ad9a6544f42d9fa231ecf",
-      "title": "G7 urges organizations to prepare for quantum cyber threats",
-      "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
-      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-04T12:34:00+00:00"
-    },
-    {
-      "id": "0d6d6315b4911a0a39a7e9b0b50dcb93e19a7842888a0246a73a0914f564dd27",
-      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-04T12:06:13+00:00"
-    },
-    {
-      "id": "dc2f42c91d091abc08b53e004a8b9420b93e1968e4ee88f639349f32b8f9cf05",
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-04T11:48:17+00:00"
-    },
-    {
-      "id": "d724b09b1159d455c18347aefde9a9ac83d4ae0ee24e07df4dd3669232f439d2",
-      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-04T11:42:55+00:00"
-    },
-    {
-      "id": "9954213a9a08a1ae871aee510592dec6d753966cd4946e996610aeb9edf0d3e4",
-      "title": "Google Patches 6th Chrome Zero-Day of 2026",
-      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-04T11:31:52+00:00"
     }
   ]
 }
