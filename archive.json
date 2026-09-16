@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-16T03:11:45.346809+00:00",
+  "updated": "2026-09-16T10:47:41.272323+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "72ea866f10f0c6586ee5ce02d954f8ba99fc19dfff1949b602794c81e97c7249",
+      "title": "280,000 Impacted by Premier Medical Group Data Breach",
+      "url": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
+      "summary": "In June 2026, hackers accessed files containing patients’ names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-16T10:47:18+00:00"
+    },
+    {
+      "id": "b76f610e837768fa332e6ccea92849c307bb3a9646305af105b16f0a7d326073",
+      "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
+      "summary": "Google resolved 42 security defects in Chrome, and Mozilla fixed 73 bugs in Firefox. The post Chrome, Firefox Updates Patch 115 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-16T10:28:36+00:00"
+    },
+    {
+      "id": "464d62a610de4b464ff20ff42745bfb737e97dcbc657c4f686d644d518e6c673",
+      "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
+      "url": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
+      "summary": "CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation. The post Acronis Patches Exploited Vulnerability in cPanel Backup Plugin appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-16T09:52:31+00:00"
+    },
+    {
+      "id": "ffa89b89585692f776c6171937a3b331ce12b10d829d8510b6014745c4c925a9",
+      "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability",
+      "url": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/",
+      "summary": "The vulnerability, tracked as CVE-2026-5430, can be exploited to gain access to valuable enterprise data. The post Enterprises Warned of Attacks Exploiting WSO2 Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-16T08:39:05+00:00"
+    },
+    {
+      "id": "4967e51550a0269443a220032ca6ec0349ba1de22f805fe0624d0d7abfb1e5bf",
+      "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update",
+      "url": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
+      "summary": "The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws. The post Oracle Patches 800+ Vulnerabilities in September 2026 Security Update appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-16T08:06:33+00:00"
+    },
+    {
+      "id": "a267aa5e6441e01f53b375c82d7b1b3f780247489501274b5a19c480ff344c1a",
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-16T07:00:19+00:00"
+    },
+    {
+      "id": "eee1a3572e34c6fdafebf2591e3dec3e0f826cc7e7cdcc14e007c9e54fbfe6dc",
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-16T05:48:28+00:00"
+    },
+    {
+      "id": "3db834775cc6fd7ab1bd828a799d0bd822714d634f2a18de2d88feed71370117",
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-16T05:18:06+00:00"
+    },
     {
       "id": "61abe81ccc88a573c66a5553b9ead837ef8426dab5f5a86d535c4702835e9c5e",
       "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
@@ -2179,78 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-09-03T11:58:00+00:00"
-    },
-    {
-      "id": "0ffead6ad9f846a17b980f621d70737df02f62acbec41c5db285151c3ee86cb4",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, techno",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-03T10:43:01+00:00"
-    },
-    {
-      "id": "2504101768298d9cd58c06c519b8fbb9b4736a167822cb1b4117197160571383",
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:40:00+00:00"
-    },
-    {
-      "id": "1db68394268a31c410ea705e0cd37d4c75aeb86815bf159261541901dbeb4d50",
-      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-03T10:30:00+00:00"
-    },
-    {
-      "id": "b6e02e04385587bfc94fbc2569c3b9baa87beadc68c8d5cebde9ffd9a973bae1",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device wi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T08:43:17+00:00"
-    },
-    {
-      "id": "21d7fb2ca2b3641ce8b901ccaed2c58af30e54baec778d247254217167e0bf6b",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0-day privilege escalation that abuses",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T06:26:59+00:00"
-    },
-    {
-      "id": "bf0dadca2770adb187c38567b371a1b7053a29ff2184cf1a19adf54035e576c1",
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request for",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-03T05:19:04+00:00"
-    },
-    {
-      "id": "b6a094e0db0f67fe6c27ad2d5ea8d6b2fab20362792ef92be19e88fb1ed38de3",
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T21:00:13+00:00"
-    },
-    {
-      "id": "c660b2e46ae1f109ea20f23c48c45817ea8ae66dfdaad2cb029cca530f686fb3",
-      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-02T19:30:00+00:00"
     }
   ]
 }
