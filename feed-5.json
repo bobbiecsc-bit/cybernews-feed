@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-15T20:49:47.700138+00:00",
+  "updated": "2026-09-16T03:11:45.346809+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "913cdf66682bb19c7843ef56b2996c1bd59057aaffd4466496885b6c64289550",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-05T16:52:33+00:00"
+    },
     {
       "id": "e74c4bc78631a2537c1666a1f85bb666592c6c9619df8b8ac895f947854f7b99",
       "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-09-02T19:30:00+00:00"
-    },
-    {
-      "id": "da96442218d6978807a4057951e2632d243846c5ba61da3819509c06881c08d7",
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-02T19:28:46+00:00"
     }
   ]
 }
