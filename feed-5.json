@@ -1,10 +1,100 @@
 {
-  "updated": "2026-09-18T03:02:52.021143+00:00",
+  "updated": "2026-09-18T10:30:30.182472+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c3a171cdeb601849928646f739fbeb69ce9844dbf6dd478e269d75c2b270a439",
+      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+      "summary": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T10:49:30+00:00"
+    },
+    {
+      "id": "6724d5b1aa8774968772018ffb882768555cc1ec89387b6d9de745458202d82e",
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-09T10:43:04+00:00"
+    },
+    {
+      "id": "1c548ea4f9d78a4986780ea1b0429ee984a565394419d9a490df06a8a2acfeeb",
+      "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
+      "url": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
+      "summary": "Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws. The post Ivanti Patches Critical Flaws Across Enterprise Security Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-09T10:28:34+00:00"
+    },
+    {
+      "id": "4d22feb60955220953c3e3fd3c1dd82db6f73f60c81c2b20762fc5036516eb03",
+      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-09T10:11:29+00:00"
+    },
+    {
+      "id": "ddade1afbd46b44e4167c453bce48859a00b2d2fae8606a426958c1fda0c0118",
+      "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
+      "url": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
+      "summary": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "e01c92636af022192371eac3de47abddb439c6ade9449bf075933f0f2b8eea29",
+      "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
+      "url": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
+      "summary": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block. The post New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "id": "898e89677a090ce8f206c64256acf99eb42c2273c7d901664b6a5b6bc3122bfb",
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-09T09:32:26+00:00"
+    },
+    {
+      "id": "375dd8a3b2ed53b2a949659779634d8e6b3b1ed0987325eac351e3335fe5c1a0",
+      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Jav",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T09:11:03+00:00"
+    },
+    {
+      "id": "369f97b0285eecf9977fe412b9e9ac4a51d48f05307bc88de5c0c57856dda356",
+      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-09T08:19:32+00:00"
+    },
+    {
+      "id": "88a0315141ea3379372db9ac435ece84883e8c6aa892a5e623176cd7a83a138c",
+      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-09T07:36:49+00:00"
+    },
     {
       "id": "aa6e936777c677196a8a606dd824a7c6ceaed90acd001b10639773ae0ebc2cdc",
       "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-07T12:16:32+00:00"
-    },
-    {
-      "id": "15087a9b58bc352dce7553e3a2e7d58c6b6deea93494c5ff9e97b815b0d805f0",
-      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-07T12:15:57+00:00"
-    },
-    {
-      "id": "bbf12c4b1029613bf2739cf04d605001ac09750888fcaa4233ffc4ace175485f",
-      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:12:08+00:00"
-    },
-    {
-      "id": "8ba058ef0debfd92b809694775e000fdd711835d2345dcc711e3bef5d84a66c4",
-      "title": "OpenAI Agents Hijack Another Victim Website",
-      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:03:04+00:00"
-    },
-    {
-      "id": "be4e97f609ffc4955147c0463f515080417e64ea76737b77ca24fe8716c26add",
-      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-07T11:58:37+00:00"
-    },
-    {
-      "id": "dc4915f3855f4aeba43fc5283f499580db273087f3db920dd76d8892d77c7f08",
-      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
-      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
-      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-07T11:50:00+00:00"
-    },
-    {
-      "id": "2fe084db4bb9243b7adc23170644738008750baa4c20fb29a09aedbaa7813fa8",
-      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-07T11:45:48+00:00"
-    },
-    {
-      "id": "ff2a8ecee2aa5028dadc3df9b235308488ffba6cd23fc1241f999b132355bdfc",
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T11:20:14+00:00"
-    },
-    {
-      "id": "23a72d6695c4d8d205a696fe997319c1a8eb19b4fb0054fdd11ae53904c32a11",
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T10:32:40+00:00"
-    },
-    {
-      "id": "7d32c779b299f0de723c97382fc5cdd9c948de8a8f8511fead42d2a66118db29",
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T10:06:38+00:00"
-    },
-    {
-      "id": "d35595c1e92df27a669bfbf94b744757fd350247839646748c9dcbb4227f6951",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its&nbsp;fourth hotfix&nbsp;in five weeks ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T08:31:12+00:00"
     }
   ]
 }

@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-18T03:02:52.021143+00:00",
+  "updated": "2026-09-18T10:30:30.182472+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "110c0e0c97cb2e8d186c68ed7880cf6d62019a6d8518b07bfb937db7febae825",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-18T09:46:57+00:00"
+    },
+    {
+      "id": "9bc8b96fcffe1f82427719f0fecf959bc321a37fef8e05e74cf2e159f1914566",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-18T09:34:33+00:00"
+    },
+    {
+      "id": "1963d1923e71383cfdc7ff37dd1f76ca0a56f0d28f67f1caa48dbd847001cd69",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confide",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-18T09:18:03+00:00"
+    },
+    {
+      "id": "a36ec0e8e772e32b44c210b9387bddcbb67075bea9e05505f5c4136cb0bd3b13",
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-18T08:42:18+00:00"
+    },
+    {
+      "id": "d406454fd03ec4f1aedcea38429e5777d46fef4fbd2bbb04bb9b6402f9f424d9",
+      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-18T07:14:04+00:00"
+    },
+    {
+      "id": "d520678c4afb9aa5d54fa93c9be6ac4af465778271027f86fa7fcd0d35c1d8ef",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phish",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-18T06:17:25+00:00"
+    },
     {
       "id": "a81acfaa2d140742ae20bf22e7cc67bb26ee363e2242e1901e8cc3a6c4684776",
       "title": "New RatHat Android malware uses AI to automate device control",
@@ -10,6 +64,24 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-17T21:50:26+00:00"
+    },
+    {
+      "id": "1276fb6b0a48564d56b14a05a98e6966749b52436e91b2a0186dc195ab8a132f",
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-17T18:08:28+00:00"
+    },
+    {
+      "id": "27eee14cdf147d2da05fa5454a91f0f3286ee22cb80b824bf791cd2bd2438ebf",
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-17T17:32:22+00:00"
     },
     {
       "id": "ff28c02e7e1b51ea55c5b829213f8f53b69edc30ac1aec1a3e976bff69ef5926",
@@ -48,6 +120,15 @@
       "date": "2026-09-17T15:45:29+00:00"
     },
     {
+      "id": "c7d368380dd4413bae99eca7e351f8eb153b293d7b182ed5ae05d8e9ff168dab",
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement&nbsp;on September 15. The escape runs with the rights of the host account that ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-17T15:37:56+00:00"
+    },
+    {
       "id": "15484f8742de72209fcb333b0ec6ea1d223cc884e98caff0b2c00154d975be16",
       "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
       "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
@@ -55,6 +136,15 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-17T14:28:00+00:00"
+    },
+    {
+      "id": "a2011e05889e82e31eae8efa5461d7198e4fb3b0bd708d0feb83d54b705d2c03",
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-17T14:03:13+00:00"
     },
     {
       "id": "6f8939c423c210c0970b6264c5a886c490085090fd4d1c4753cf896a0d58da12",
@@ -2161,96 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-07T12:16:32+00:00"
-    },
-    {
-      "id": "15087a9b58bc352dce7553e3a2e7d58c6b6deea93494c5ff9e97b815b0d805f0",
-      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-07T12:15:57+00:00"
-    },
-    {
-      "id": "bbf12c4b1029613bf2739cf04d605001ac09750888fcaa4233ffc4ace175485f",
-      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
-      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:12:08+00:00"
-    },
-    {
-      "id": "8ba058ef0debfd92b809694775e000fdd711835d2345dcc711e3bef5d84a66c4",
-      "title": "OpenAI Agents Hijack Another Victim Website",
-      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-07T12:03:04+00:00"
-    },
-    {
-      "id": "be4e97f609ffc4955147c0463f515080417e64ea76737b77ca24fe8716c26add",
-      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-07T11:58:37+00:00"
-    },
-    {
-      "id": "dc4915f3855f4aeba43fc5283f499580db273087f3db920dd76d8892d77c7f08",
-      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
-      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
-      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-07T11:50:00+00:00"
-    },
-    {
-      "id": "2fe084db4bb9243b7adc23170644738008750baa4c20fb29a09aedbaa7813fa8",
-      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-07T11:45:48+00:00"
-    },
-    {
-      "id": "ff2a8ecee2aa5028dadc3df9b235308488ffba6cd23fc1241f999b132355bdfc",
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in t",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T11:20:14+00:00"
-    },
-    {
-      "id": "23a72d6695c4d8d205a696fe997319c1a8eb19b4fb0054fdd11ae53904c32a11",
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T10:32:40+00:00"
-    },
-    {
-      "id": "7d32c779b299f0de723c97382fc5cdd9c948de8a8f8511fead42d2a66118db29",
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-07T10:06:38+00:00"
-    },
-    {
-      "id": "d35595c1e92df27a669bfbf94b744757fd350247839646748c9dcbb4227f6951",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its&nbsp;fourth hotfix&nbsp;in five weeks ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-07T08:31:12+00:00"
     }
   ]
 }
