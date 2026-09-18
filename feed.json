@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-18T15:45:55.531072+00:00",
+  "updated": "2026-09-18T20:21:09.039223+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "55eb40df3f2670c86d6a63354fd2954b90264b101384c69fb384188632936015",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose r",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-18T16:56:19+00:00"
+    },
+    {
+      "id": "2d1da8cc0f6ef27b039527e89f42abd919ee7acebecc20f0728383826ba201c9",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-18T16:00:38+00:00"
+    },
+    {
+      "id": "eb5aad65b2515888fa52ac01678a356827d1a2ce9d19415e9f1136433440610d",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-18T15:24:16+00:00"
+    },
     {
       "id": "a8f08aec46659afed3e2316a3287d9ff35296d9fe0ebbd26ec065de11790088b",
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
@@ -157,6 +184,15 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-18T06:17:25+00:00"
+    },
+    {
+      "id": "60dccb14efa72334d940fd1b428b64cb35845e9c23a7036a8aaa40e4f19ebf34",
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
+      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-18T04:00:00+00:00"
     },
     {
       "id": "a81acfaa2d140742ae20bf22e7cc67bb26ee363e2242e1901e8cc3a6c4684776",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-16T18:50:53+00:00"
-    },
-    {
-      "id": "83888df984dfb07c43a3465d1a2649d872f347329db75ad9dd33552a3822d795",
-      "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
-      "url": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
-      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-16T18:46:00+00:00"
-    },
-    {
-      "id": "b32240f631c6a10ca7806d738b36857867aa4c6bdeb0f366e3d8e4f16bb7b55e",
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-16T17:26:41+00:00"
-    },
-    {
-      "id": "4647ccdbc87822c74642e9b633f7e04af29ba99e67928045048edaf91dab4322",
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-      "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-16T16:39:19+00:00"
-    },
-    {
-      "id": "4a519778a75aa182655b26560c0ed80a317816ee4868817e7b0281b80b3fb6f4",
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote att",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-16T15:50:59+00:00"
     }
   ]
 }

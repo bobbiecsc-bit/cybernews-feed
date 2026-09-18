@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-18T15:45:55.531072+00:00",
+  "updated": "2026-09-18T20:21:09.039223+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "df611a2dd38a1ffe742a5169b245e6e2c1e7d90fafc9e9c9ef1536b8d7836c27",
+      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+      "url": "https://isc.sans.edu/diary/rss/33332",
+      "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of the",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-09-11T14:40:32+00:00"
+    },
+    {
+      "id": "0f8accb03f1064f009f1e4a63788af7c39eaed1b9322b8e221e5d82ad3c1a73e",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-11T14:29:47+00:00"
+    },
+    {
+      "id": "9a3e378a262017c6c4963ec0f58595f2fbac8b8978fda998f789333db98cb0ae",
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review ap",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-11T14:19:18+00:00"
+    },
+    {
+      "id": "dae251a2004b33d7081c3866d7bae670ccb32ad7fd294222f0b710e847a2428b",
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-11T14:10:20+00:00"
+    },
     {
       "id": "4cfe001916713209c8048a9235a67119e9ea42c405980c25972b6c6505b2df37",
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-09T21:30:36+00:00"
-    },
-    {
-      "id": "2bca4c7e6278fce2e19db28ed9184ea1861a39343d51f8454ff127e251087bc5",
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-09-09T17:46:24+00:00"
-    },
-    {
-      "id": "700b823d162c410221477106c1c30e6a3a30f23f42b611bff7ac9ea8f3c32de7",
-      "title": "Electronic health record company says customer data stolen in breach",
-      "url": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
-      "summary": "Veradigm said access was limited to a specific interface, and did not impact the company’s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the company added.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-09T17:03:00+00:00"
-    },
-    {
-      "id": "55aa0d115e88b8b3c79d7a78911561e7b2797af8b0b7ae60ddb9c0e79eb19862",
-      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
-      "url": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
-      "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-09T16:56:25+00:00"
-    },
-    {
-      "id": "c6ee9d174c9fca2ede286542a29fa9ed155952cbafec71f6b8387ea44b6f4ce7",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-09T16:48:33+00:00"
     }
   ]
 }

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-18T15:45:55.531072+00:00",
+  "updated": "2026-09-18T20:21:09.039223+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "55eb40df3f2670c86d6a63354fd2954b90264b101384c69fb384188632936015",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose r",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-18T16:56:19+00:00"
+    },
+    {
+      "id": "2d1da8cc0f6ef27b039527e89f42abd919ee7acebecc20f0728383826ba201c9",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-18T16:00:38+00:00"
+    },
+    {
+      "id": "eb5aad65b2515888fa52ac01678a356827d1a2ce9d19415e9f1136433440610d",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-18T15:24:16+00:00"
+    },
     {
       "id": "a8f08aec46659afed3e2316a3287d9ff35296d9fe0ebbd26ec065de11790088b",
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
@@ -154,6 +181,15 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-18T06:17:25+00:00"
+    },
+    {
+      "id": "60dccb14efa72334d940fd1b428b64cb35845e9c23a7036a8aaa40e4f19ebf34",
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
+      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-18T04:00:00+00:00"
     },
     {
       "id": "a81acfaa2d140742ae20bf22e7cc67bb26ee363e2242e1901e8cc3a6c4684776",
@@ -2215,42 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-08T13:34:47+00:00"
-    },
-    {
-      "id": "4dfc5b9bb611ed46faf17b7040670e556aec15ed720d801095dc9fe84793e50a",
-      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-      "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-08T12:40:48+00:00"
-    },
-    {
-      "id": "6ba0c98e6d1c84c7bd2076534153026d8ab9fbe7565478175ea4f1bbe2504ec5",
-      "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
-      "url": "https://therecord.media/france-hacker-arrest-zerobytes",
-      "summary": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-08T12:30:00+00:00"
-    },
-    {
-      "id": "6c7e13172b772333e984026d35064417ec28952b45d15fa7da54ba160744891a",
-      "title": "Hackers build AI frameworks for widescale credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-      "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-08T12:03:03+00:00"
-    },
-    {
-      "id": "5804e31a65d1bda9f3c529ae6e0e10c4a3ba6f7031d4ddae3a5d18f1f0280d0f",
-      "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-      "url": "https://therecord.media/cyberattack-bavaria-germany-utility",
-      "summary": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-08T12:00:00+00:00"
     }
   ]
 }
