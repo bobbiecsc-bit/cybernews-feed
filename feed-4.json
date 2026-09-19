@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-19T10:15:23.985026+00:00",
+  "updated": "2026-09-19T15:18:04.794076+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c6784d8b5bbcb04cd7daafe9e0a9ed40dcdcc6029082e2cd6f308e89cbb742e4",
+      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+      "url": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
+      "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-11T20:00:00+00:00"
+    },
+    {
+      "id": "a16d62911725a1cb6cfce739f92477177fb5ff4a885e5909e45d6073b95c046a",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-11T19:00:29+00:00"
+    },
+    {
+      "id": "25be28ab1d1ea181349bf8a7568e9a15853c2d2bd0bd70f74e79c12181b53ed7",
+      "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+      "url": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+      "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-11T18:40:00+00:00"
+    },
+    {
+      "id": "1735fc9be4dcdabbedd41c68323de733c5e001cb209976a6f714842e5aaa63ef",
+      "title": "My Talk at DEF CON",
+      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+      "summary": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-09-11T18:06:24+00:00"
+    },
+    {
+      "id": "82dfd2b2ae389af285166b4247dcb51cf373e628e5f48c8e68f489f2220b6e1b",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-11T17:26:50+00:00"
+    },
+    {
+      "id": "a9a3d793fa65cdd062daf1a3307fd92ba2c43139fd863a2e3b0cb377146a4af2",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-11T17:23:36+00:00"
+    },
     {
       "id": "a8b89596a45d74f224ef68bc8f12267559b424fc23b6ddc8fd4de3d5ee46e479",
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-10T11:20:43+00:00"
-    },
-    {
-      "id": "10251c3ec1ce997ee06919e22b5f6504d930560a80f96a543ece42f0640f34f8",
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026. T",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-10T10:36:46+00:00"
-    },
-    {
-      "id": "780ec3beafee83fbebac0603769bb0438a4a4e09737c262690ba11df3cc42bc8",
-      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-      "url": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T10:06:20+00:00"
-    },
-    {
-      "id": "e8f0461d27489ceab26339eb4e66df4e7da8faedae1c0c341f6834fad959998e",
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-10T09:10:20+00:00"
-    },
-    {
-      "id": "fd5c4de796254afd16a8d5dcaa51b43a48813486778e27e9e4069b47a0ebc279",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pa",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-10T07:12:55+00:00"
-    },
-    {
-      "id": "6d37c7a10131d9d55a94e1f3f92799624ad2ff4ac105dfdab783e1dfc3cebb34",
-      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
-      "url": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
-      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T07:09:36+00:00"
-    },
-    {
-      "id": "06d5e914515aea02a17b3b347ab82042f224734aa72b70c4a1efd5ecbb6882e7",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-10T06:56:33+00:00"
     }
   ]
 }
