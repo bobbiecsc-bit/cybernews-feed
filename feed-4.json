@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-21T17:49:44.300703+00:00",
+  "updated": "2026-09-21T21:40:37.895835+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2e4ea22accc39550c1ec2a6ae5eb27806ba23a0f4beed8fc531c0cfbb3f00226",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-14T18:01:49+00:00"
+    },
+    {
+      "id": "7b20c25c567224b9c49589c2110e2a141bb8f86935f173658bcc6dace3bd88d1",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when som",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T17:58:16+00:00"
+    },
+    {
+      "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-14T16:56:30+00:00"
+    },
+    {
+      "id": "5aa4d6dc4864a889324abe516641ea6a3fb843e6264b7cacc8b17e8df7d7c6cf",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-14T16:15:58+00:00"
+    },
+    {
+      "id": "21b205c6ce309c6fc1417f8454975fd8947b0db29b8d3e0b68b84aa7276c68b5",
+      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
+      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-14T16:15:00+00:00"
+    },
     {
       "id": "689d56dc6e17e50c8d36281ec07f91322ad3cdf12aae33757f0667386f5edb0a",
       "title": "Using AI for Weapons Development",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-11T09:41:03+00:00"
-    },
-    {
-      "id": "b4a0906212636693fd9b6449d3956d6492f40753cf7ed9992f4d21d9b213bb91",
-      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-      "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T08:47:07+00:00"
-    },
-    {
-      "id": "79b4464a7cf76a6eaf251197555f5fd27cbfb599105c0f0d0023d83a5253b417",
-      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-      "summary": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T08:18:23+00:00"
-    },
-    {
-      "id": "42df196f2b731e5c170dc716657a53fbb30975ca1fc26ca9bc08b073e8e44c66",
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-11T07:55:15+00:00"
-    },
-    {
-      "id": "6d77d0f66755e664316574d6dc01a3211b0c46ad7969092097387309098cc45e",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:31:05+00:00"
-    },
-    {
-      "id": "11c8b517d375b0496d90fd5b7053a9fccbb014769553e3bd5d643eace4869326",
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in&nbsp;research published Thursday. The attack started with a crafted link ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:14:09+00:00"
     }
   ]
 }

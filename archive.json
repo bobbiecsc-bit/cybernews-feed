@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-21T17:49:44.300703+00:00",
+  "updated": "2026-09-21T21:40:37.895835+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "7a6663942eb5f27773742dd51591c4a243bdd3c2385e1f866c434b3ed3d53a64",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-21T21:18:49+00:00"
+    },
+    {
+      "id": "522af8b6ffea78c37b78b4edf4f9d68325f1aece2b251d7f059e1f5d14d9e689",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-21T20:12:17+00:00"
+    },
+    {
+      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-21T18:23:11+00:00"
+    },
+    {
+      "id": "f2aa6f9693d4bf840038ffaf83992ca8accac35557fd46618b02a59c5bb9538f",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-21T17:31:01+00:00"
+    },
     {
       "id": "80aeffa58d55925260cd199e5199549ee2d23db442a9f502cb00ac29c8631d49",
       "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
@@ -10,6 +46,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-21T17:19:53+00:00"
+    },
+    {
+      "id": "c533abc4730ac9558e06dea033f36be81b0a90c224d07f3426cbec08722969d1",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets o",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-21T17:19:00+00:00"
     },
     {
       "id": "56037aa0642846f6b893794ec48773a1877ddbaef5e5fb576761df98dc922893",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-09T11:57:36+00:00"
-    },
-    {
-      "id": "c33829733f1a8e1bb99008c13e51c6a04377b35d772d5f55e215d6c417eaa53b",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files canno",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-09T11:17:07+00:00"
-    },
-    {
-      "id": "c3a171cdeb601849928646f739fbeb69ce9844dbf6dd478e269d75c2b270a439",
-      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
-      "summary": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-09T10:49:30+00:00"
-    },
-    {
-      "id": "6724d5b1aa8774968772018ffb882768555cc1ec89387b6d9de745458202d82e",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "summary": "Bitcoin wallet company Alby has&nbsp;warned of a critical flaw&nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-09T10:43:04+00:00"
-    },
-    {
-      "id": "1c548ea4f9d78a4986780ea1b0429ee984a565394419d9a490df06a8a2acfeeb",
-      "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
-      "url": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
-      "summary": "Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws. The post Ivanti Patches Critical Flaws Across Enterprise Security Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-09T10:28:34+00:00"
-    },
-    {
-      "id": "4d22feb60955220953c3e3fd3c1dd82db6f73f60c81c2b20762fc5036516eb03",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-09T10:11:29+00:00"
     }
   ]
 }
