@@ -1,10 +1,109 @@
 {
-  "updated": "2026-09-22T16:12:48.835554+00:00",
+  "updated": "2026-09-22T20:50:32.686371+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "178864dedd5d0fdb7e572ef2bdf858aeb3b85833a3d76e5e92047d907e0dd84d",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T20:35:24+00:00"
+    },
+    {
+      "id": "5204aaedc51d4d0b7247a3a64c138b3d51160b3de9bc58dedc31767d424fe121",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-22T19:13:29+00:00"
+    },
+    {
+      "id": "5871a8a80040f207e79245f43ab6444372b2dc115b56fe42d9f13fe5f071b967",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point rele",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:29:39+00:00"
+    },
+    {
+      "id": "724fc722a8951522bdd0611ed19a111cd97177f6881e08d188656852042afed1",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-22T18:04:39+00:00"
+    },
+    {
+      "id": "a94b0a5ed1ae3c208545d09f4372ede74cbae880806da737847648ba66ae259a",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:03:10+00:00"
+    },
+    {
+      "id": "b38195d46412b678f0dd8c772bf70d5a19cae7939da376b79ebb8e36d8300d81",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T17:58:15+00:00"
+    },
+    {
+      "id": "2f79c73abb028a55c536d2e4a14b7de6e47792afbd9d0611d2d568844efc6178",
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "url": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "summary": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-22T17:58:00+00:00"
+    },
+    {
+      "id": "ac1280aee3db8b04969375111d710499a08beb96cdf62a62cd703a7d8d26aac4",
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the ef",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-22T17:03:31+00:00"
+    },
+    {
+      "id": "ba859ad0f6f0f955274dc328cf9d5889219202359e5a89f0c0065772b1a7d094",
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as&nbsp;CVE-2026-90898&nbsp;(CVSS score: 9.8), affe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:41:12+00:00"
+    },
+    {
+      "id": "20fee5056b0e598bf05650841ee0e0df40fba03f958c92074e8d4b2f200b619c",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:32:47+00:00"
+    },
+    {
+      "id": "fa09678c05a66ffcc797baed32f5b7807b4faa02b8a9d8129a31acc3b3bb3795",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:14:04+00:00"
+    },
     {
       "id": "07653b9a9a4b0e9b616c728ff8cd52407c2e88d5c44634a7189dc41c99e14717",
       "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-21T10:55:46+00:00"
-    },
-    {
-      "id": "17eab563c98180bdc274d89a1fe5eccf24e41a4c6e4c9bdb61500dbcc87080d8",
-      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33318",
-      "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out t",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-09-21T10:33:53+00:00"
-    },
-    {
-      "id": "be507c73d619686f375367ea2ee9576a6c9fa87a795261b13e8e9e51a6dc7d6f",
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-      "summary": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T10:03:44+00:00"
-    },
-    {
-      "id": "0a3b43642b6989bd5b6d571e82f7c203818b1d60ff0e3a92e37809dfa3ca8df0",
-      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-      "summary": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-21T09:31:12+00:00"
-    },
-    {
-      "id": "5b62ce8df6dfa4f31b546c84425f9bd0209fe33d94778b46d9f99000d2904ad9",
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoo",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-21T08:39:38+00:00"
-    },
-    {
-      "id": "4efebc5812c3562820289fa2edf6aba1789683fe368963fbc83663d56aef34d9",
-      "title": "Google Confirms Gemini AI Breached Three Firms",
-      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-      "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T07:20:46+00:00"
-    },
-    {
-      "id": "7de86307010bfa2d691153644fa75cd9d0f0dfef92acf3a0430d9ab5d9347f19",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurit",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-21T06:06:44+00:00"
-    },
-    {
-      "id": "fb3398e517ae49317ac63376b85e42d441d5f653b513d7522830788fdd704ac1",
-      "title": "Russia reports thousands of cyberattacks on election infrastructure during vote",
-      "url": "https://therecord.media/russia-reports-cyberattacks-during-election",
-      "summary": "Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-20T23:00:00+00:00"
-    },
-    {
-      "id": "20c9213dc91fb1b17fe2e4fbabd9e7a9e2f70e5ec2d24ddda9009d42f331d5e9",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-20T14:11:21+00:00"
-    },
-    {
-      "id": "cccf7b5fb8fe09a0cf8ced87470792be18f09382ae005d9c88c9c951d8153339",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public he",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-19T18:36:53+00:00"
-    },
-    {
-      "id": "fb9113f4b47af3f8ccfbadd07e61ac46e29f68b05c27419913c31027ff95e042",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-19T14:56:31+00:00"
-    },
-    {
-      "id": "f02d07cbc73e8647ed1efc7b7fe3abf7c8b626f63cf8e50bcff3e5c7a77b7999",
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-19T14:05:15+00:00"
     }
   ]
 }

@@ -1,10 +1,109 @@
 {
-  "updated": "2026-09-22T16:12:48.835554+00:00",
+  "updated": "2026-09-22T20:50:32.686371+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "17eab563c98180bdc274d89a1fe5eccf24e41a4c6e4c9bdb61500dbcc87080d8",
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33318",
+      "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out t",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-09-21T10:33:53+00:00"
+    },
+    {
+      "id": "be507c73d619686f375367ea2ee9576a6c9fa87a795261b13e8e9e51a6dc7d6f",
+      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+      "summary": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-21T10:03:44+00:00"
+    },
+    {
+      "id": "0a3b43642b6989bd5b6d571e82f7c203818b1d60ff0e3a92e37809dfa3ca8df0",
+      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+      "summary": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-21T09:31:12+00:00"
+    },
+    {
+      "id": "5b62ce8df6dfa4f31b546c84425f9bd0209fe33d94778b46d9f99000d2904ad9",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoo",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-21T08:39:38+00:00"
+    },
+    {
+      "id": "4efebc5812c3562820289fa2edf6aba1789683fe368963fbc83663d56aef34d9",
+      "title": "Google Confirms Gemini AI Breached Three Firms",
+      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+      "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-21T07:20:46+00:00"
+    },
+    {
+      "id": "7de86307010bfa2d691153644fa75cd9d0f0dfef92acf3a0430d9ab5d9347f19",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurit",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-21T06:06:44+00:00"
+    },
+    {
+      "id": "fb3398e517ae49317ac63376b85e42d441d5f653b513d7522830788fdd704ac1",
+      "title": "Russia reports thousands of cyberattacks on election infrastructure during vote",
+      "url": "https://therecord.media/russia-reports-cyberattacks-during-election",
+      "summary": "Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-20T23:00:00+00:00"
+    },
+    {
+      "id": "20c9213dc91fb1b17fe2e4fbabd9e7a9e2f70e5ec2d24ddda9009d42f331d5e9",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-20T14:11:21+00:00"
+    },
+    {
+      "id": "cccf7b5fb8fe09a0cf8ced87470792be18f09382ae005d9c88c9c951d8153339",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public he",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T18:36:53+00:00"
+    },
+    {
+      "id": "fb9113f4b47af3f8ccfbadd07e61ac46e29f68b05c27419913c31027ff95e042",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-19T14:56:31+00:00"
+    },
+    {
+      "id": "f02d07cbc73e8647ed1efc7b7fe3abf7c8b626f63cf8e50bcff3e5c7a77b7999",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-19T14:05:15+00:00"
+    },
     {
       "id": "14e87e3a15b5ebd6a5a12f3a4b7dba3ae37465390b52d592870ea1d419e1cc00",
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
@@ -355,105 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-09-17T14:03:13+00:00"
-    },
-    {
-      "id": "6f8939c423c210c0970b6264c5a886c490085090fd4d1c4753cf896a0d58da12",
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-17T14:01:11+00:00"
-    },
-    {
-      "id": "23e014b1301c3c5352ceaebdff4310d29df800f3ff2643474428cde6044eb9b4",
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-17T13:57:41+00:00"
-    },
-    {
-      "id": "6870166d2ea347ebe2cc0c01693c5ccc8845343df953cfa1a9957d312cf58816",
-      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
-      "url": "https://therecord.media/russia-election-hackers-breach",
-      "summary": "An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-17T13:45:00+00:00"
-    },
-    {
-      "id": "5ce6544ead6fde09b839c3e889916c7a256f55161f245cc77c1b176976caab76",
-      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-      "url": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "summary": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:39:28+00:00"
-    },
-    {
-      "id": "4341f2269a01efb541fca4c9782a3e8abfa4e76385981cd8f206066292ab0169",
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "id": "263c5127e5d6520583feada2cf2cb6230ed82a43ea438eae63b63591c295078c",
-      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-      "url": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-      "summary": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:29:53+00:00"
-    },
-    {
-      "id": "c67445e211719f1b2da685c1b3340e105d9ed7b03d4f641c887b83f07775bc45",
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "url": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "summary": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:17:40+00:00"
-    },
-    {
-      "id": "3cc3e48c3179ac60da07e7967326c4515455bae6c15c8372f0a74540b230a186",
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T10:50:53+00:00"
-    },
-    {
-      "id": "f355c5f46acfcc3ba3b66a78fb66cb83c057989b00bb6973c89fac2afbf20158",
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researche",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-17T10:05:45+00:00"
-    },
-    {
-      "id": "ab0296330fd9774ea75d2c59d302183deb60cacf56118ea6fb1604b6324c997a",
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-17T09:00:00+00:00"
-    },
-    {
-      "id": "6829fa0c1a468f194cc62ce4cda2e186d6ebe75071c86a528a3be2d9c1d6f4ca",
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "summary": "The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credenti",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T08:00:29+00:00"
     }
   ]
 }

@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-22T16:12:48.835554+00:00",
+  "updated": "2026-09-22T20:50:32.686371+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "178864dedd5d0fdb7e572ef2bdf858aeb3b85833a3d76e5e92047d907e0dd84d",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T20:35:24+00:00"
+    },
+    {
+      "id": "5204aaedc51d4d0b7247a3a64c138b3d51160b3de9bc58dedc31767d424fe121",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-22T19:13:29+00:00"
+    },
+    {
+      "id": "5871a8a80040f207e79245f43ab6444372b2dc115b56fe42d9f13fe5f071b967",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point rele",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:29:39+00:00"
+    },
+    {
+      "id": "724fc722a8951522bdd0611ed19a111cd97177f6881e08d188656852042afed1",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-22T18:04:39+00:00"
+    },
+    {
+      "id": "a94b0a5ed1ae3c208545d09f4372ede74cbae880806da737847648ba66ae259a",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:03:10+00:00"
+    },
+    {
+      "id": "b38195d46412b678f0dd8c772bf70d5a19cae7939da376b79ebb8e36d8300d81",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T17:58:15+00:00"
+    },
+    {
+      "id": "2f79c73abb028a55c536d2e4a14b7de6e47792afbd9d0611d2d568844efc6178",
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "url": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "summary": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-22T17:58:00+00:00"
+    },
+    {
+      "id": "ac1280aee3db8b04969375111d710499a08beb96cdf62a62cd703a7d8d26aac4",
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the ef",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-22T17:03:31+00:00"
+    },
+    {
+      "id": "ba859ad0f6f0f955274dc328cf9d5889219202359e5a89f0c0065772b1a7d094",
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as&nbsp;CVE-2026-90898&nbsp;(CVSS score: 9.8), affe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:41:12+00:00"
+    },
+    {
+      "id": "20fee5056b0e598bf05650841ee0e0df40fba03f958c92074e8d4b2f200b619c",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:32:47+00:00"
+    },
+    {
+      "id": "fa09678c05a66ffcc797baed32f5b7807b4faa02b8a9d8129a31acc3b3bb3795",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:14:04+00:00"
+    },
     {
       "id": "07653b9a9a4b0e9b616c728ff8cd52407c2e88d5c44634a7189dc41c99e14717",
       "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
@@ -2152,105 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-10T14:00:10+00:00"
-    },
-    {
-      "id": "869b87863a0b4e67131c0fbf7c06fd6ca77ec70af4bcb5ce22bcc5461f94e692",
-      "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-      "url": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-      "summary": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T13:39:52+00:00"
-    },
-    {
-      "id": "29d252963243eb08ea92c52b47925a7671927cc0f569b3e1ede34c60d7c5e67b",
-      "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
-      "url": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
-      "summary": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to track and withdraw their earnings.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-10T13:31:00+00:00"
-    },
-    {
-      "id": "796f1b1c7637d84646ab3f252935c4ee4fe6200582c68da96b5138fb8a4381c1",
-      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-      "summary": "Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3. The post Critical NetScaler Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T12:20:21+00:00"
-    },
-    {
-      "id": "12de003a0981c3cfa91b51f15ce55b0bc3d0f0a18f61451dfa79efe2bab4ad75",
-      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-      "url": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-      "summary": "Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked. The post Widened Scan Turns Up Fourth Rogue Claude Cyber Incident appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-10T11:52:44+00:00"
-    },
-    {
-      "id": "33af29f71c8c922142379d8629f55388d5af9ede192d46f6db112e2f7ad771c0",
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One flaw affects Check Point",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-10T11:45:05+00:00"
-    },
-    {
-      "id": "cd20e349d2f5a9cf928353b6a2bf9c07dc13b1601848206d1461a85ec1d35bd0",
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNois",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-10T11:41:53+00:00"
-    },
-    {
-      "id": "4cb585b593c9dde3cf08f1808f3af342cf344d8ae86b47632de5726ac0e24211",
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&nbsp;report published on September 9. A work profile is a separate space that Android typically reserves for empl",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-10T11:33:43+00:00"
-    },
-    {
-      "id": "e863f73060f9148380a3fba434eef2ae38cfce71c7c9891192da69561efd8d18",
-      "title": "4.1 Million Impacted by AdaptHealth Data Breach",
-      "url": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-      "summary": "In June 2026, hackers stole personal, health, and insurance information from AdaptHealth’s systems. The post 4.1 Million Impacted by AdaptHealth Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-10T11:20:43+00:00"
-    },
-    {
-      "id": "10251c3ec1ce997ee06919e22b5f6504d930560a80f96a543ece42f0640f34f8",
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026. T",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-10T10:36:46+00:00"
-    },
-    {
-      "id": "780ec3beafee83fbebac0603769bb0438a4a4e09737c262690ba11df3cc42bc8",
-      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-      "url": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T10:06:20+00:00"
-    },
-    {
-      "id": "e8f0461d27489ceab26339eb4e66df4e7da8faedae1c0c341f6834fad959998e",
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-10T09:10:20+00:00"
     }
   ]
 }
