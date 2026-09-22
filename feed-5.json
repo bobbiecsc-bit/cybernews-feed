@@ -1,10 +1,118 @@
 {
-  "updated": "2026-09-22T10:55:06.891214+00:00",
+  "updated": "2026-09-22T16:12:48.835554+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1735fc9be4dcdabbedd41c68323de733c5e001cb209976a6f714842e5aaa63ef",
+      "title": "My Talk at DEF CON",
+      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+      "summary": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-09-11T18:06:24+00:00"
+    },
+    {
+      "id": "82dfd2b2ae389af285166b4247dcb51cf373e628e5f48c8e68f489f2220b6e1b",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-11T17:26:50+00:00"
+    },
+    {
+      "id": "a9a3d793fa65cdd062daf1a3307fd92ba2c43139fd863a2e3b0cb377146a4af2",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-11T17:23:36+00:00"
+    },
+    {
+      "id": "a8b89596a45d74f224ef68bc8f12267559b424fc23b6ddc8fd4de3d5ee46e479",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:30:18+00:00"
+    },
+    {
+      "id": "a9e03aba59c7b79438f7f02ce720f44c96dd8eb3501707fa047d137488836592",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:29:44+00:00"
+    },
+    {
+      "id": "ec242e7e40e92d80c3814ee71aa6edaf0eea9910e0e1185a5cd9e05ae3368729",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a m",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-11T16:15:29+00:00"
+    },
+    {
+      "id": "6fb6b22059cea43c30aef3cee36fbb5e1fc140667008b46816776eb6069251a8",
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-11T16:11:08+00:00"
+    },
+    {
+      "id": "df611a2dd38a1ffe742a5169b245e6e2c1e7d90fafc9e9c9ef1536b8d7836c27",
+      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+      "url": "https://isc.sans.edu/diary/rss/33332",
+      "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of the",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-09-11T14:40:32+00:00"
+    },
+    {
+      "id": "0f8accb03f1064f009f1e4a63788af7c39eaed1b9322b8e221e5d82ad3c1a73e",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-11T14:29:47+00:00"
+    },
+    {
+      "id": "9a3e378a262017c6c4963ec0f58595f2fbac8b8978fda998f789333db98cb0ae",
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review ap",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-11T14:19:18+00:00"
+    },
+    {
+      "id": "dae251a2004b33d7081c3866d7bae670ccb32ad7fd294222f0b710e847a2428b",
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-11T14:10:20+00:00"
+    },
+    {
+      "id": "4cfe001916713209c8048a9235a67119e9ea42c405980c25972b6c6505b2df37",
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-11T14:01:11+00:00"
+    },
     {
       "id": "dce377acf56cff0b84b47fdcc294725750039a916f701528c6d4b926d24e9e92",
       "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
@@ -346,114 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-10T09:10:20+00:00"
-    },
-    {
-      "id": "fd5c4de796254afd16a8d5dcaa51b43a48813486778e27e9e4069b47a0ebc279",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pa",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-10T07:12:55+00:00"
-    },
-    {
-      "id": "6d37c7a10131d9d55a94e1f3f92799624ad2ff4ac105dfdab783e1dfc3cebb34",
-      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
-      "url": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
-      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T07:09:36+00:00"
-    },
-    {
-      "id": "06d5e914515aea02a17b3b347ab82042f224734aa72b70c4a1efd5ecbb6882e7",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-10T06:56:33+00:00"
-    },
-    {
-      "id": "b6645c713126ce929abff7f79fb3a727b5250954974af805981ee3b1e1bf7591",
-      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-      "url": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-      "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-10T06:33:36+00:00"
-    },
-    {
-      "id": "b3c3f190a7ae65e15be8662e87993d0df3a61f9e0b92f61cb4a2cf3346dd59d3",
-      "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
-      "url": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
-      "summary": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-10T04:00:00+00:00"
-    },
-    {
-      "id": "8e055682245b5bc397714c2569c3f4c55e75f6d6634195bb230c322b333efea5",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-09T21:40:44+00:00"
-    },
-    {
-      "id": "1e9110d4393fb712bbc2a992dd90470f59c348c62fa6b365c36f92d6f6755b99",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-09T21:30:36+00:00"
-    },
-    {
-      "id": "2bca4c7e6278fce2e19db28ed9184ea1861a39343d51f8454ff127e251087bc5",
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-09-09T17:46:24+00:00"
-    },
-    {
-      "id": "700b823d162c410221477106c1c30e6a3a30f23f42b611bff7ac9ea8f3c32de7",
-      "title": "Electronic health record company says customer data stolen in breach",
-      "url": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
-      "summary": "Veradigm said access was limited to a specific interface, and did not impact the company’s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the company added.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-09T17:03:00+00:00"
-    },
-    {
-      "id": "55aa0d115e88b8b3c79d7a78911561e7b2797af8b0b7ae60ddb9c0e79eb19862",
-      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
-      "url": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
-      "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-09T16:56:25+00:00"
-    },
-    {
-      "id": "c6ee9d174c9fca2ede286542a29fa9ed155952cbafec71f6b8387ea44b6f4ce7",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-09T16:48:33+00:00"
-    },
-    {
-      "id": "9927501cbbee3b724e98e57628c97305d129e939bf3064dfe2f8b3e85c6cf12e",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned s",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-09T16:34:05+00:00"
     }
   ]
 }
