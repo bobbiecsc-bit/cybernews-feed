@@ -1,11 +1,74 @@
 {
-  "updated": "2026-09-23T16:01:56.836065+00:00",
+  "updated": "2026-09-23T21:02:06.851693+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "702aeb848c916af644f69e4f7a2bcce7fcf77d8af40b43ecd0de80dfb7d888bf",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T19:53:54+00:00"
+    },
+    {
+      "id": "368846adf0a4a33882b7f6562405be36ebbe34223172d08d91593f93499e49d6",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T18:31:22+00:00"
+    },
+    {
+      "id": "d1ccb5f32ae97e153e401137d41045a9ab60f2e49544bedfccc0c75a3cc63714",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraf",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-23T18:06:30+00:00"
+    },
+    {
+      "id": "88652842189aea577c218cacbddc5c92667b29d4cd337a33902b6cc08c2066de",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:53:10+00:00"
+    },
+    {
+      "id": "8b8a2ad63964807c5ed8905f16a9ceb627c8570d29e51986abf356c76b25bdaa",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-23T16:20:54+00:00"
+    },
+    {
+      "id": "20d13eec11e10062f8517b8036cfdc069930b4a744077237ee67021f57727d76",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:06:41+00:00"
+    },
     {
       "id": "d7b6374e018b30ea34fbcfb64939cf2149d395eec9b8b0a83507e11ec9147498",
       "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
       "url": "https://therecord.media/ransomware-ryuk-sentenced-DOJ",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-23T15:30:00+00:00"
+    },
+    {
+      "id": "7957a9d06e86e953d1b6b08fe6962d7502ad1787713f46791d9e1c7203ebf428",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-doj",
       "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
       "source": "The Record",
       "category": "malware",
@@ -2188,69 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-09-11T16:15:29+00:00"
-    },
-    {
-      "id": "6fb6b22059cea43c30aef3cee36fbb5e1fc140667008b46816776eb6069251a8",
-      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-      "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-      "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T16:11:08+00:00"
-    },
-    {
-      "id": "df611a2dd38a1ffe742a5169b245e6e2c1e7d90fafc9e9c9ef1536b8d7836c27",
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33332",
-      "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of the",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-09-11T14:40:32+00:00"
-    },
-    {
-      "id": "0f8accb03f1064f009f1e4a63788af7c39eaed1b9322b8e221e5d82ad3c1a73e",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T14:29:47+00:00"
-    },
-    {
-      "id": "9a3e378a262017c6c4963ec0f58595f2fbac8b8978fda998f789333db98cb0ae",
-      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review ap",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T14:19:18+00:00"
-    },
-    {
-      "id": "dae251a2004b33d7081c3866d7bae670ccb32ad7fd294222f0b710e847a2428b",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-11T14:10:20+00:00"
-    },
-    {
-      "id": "4cfe001916713209c8048a9235a67119e9ea42c405980c25972b6c6505b2df37",
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-11T14:01:11+00:00"
-    },
-    {
-      "id": "dce377acf56cff0b84b47fdcc294725750039a916f701528c6d4b926d24e9e92",
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "summary": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T12:48:04+00:00"
     }
   ]
 }
