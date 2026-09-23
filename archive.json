@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-23T10:43:25.168155+00:00",
+  "updated": "2026-09-23T16:01:56.836065+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d7b6374e018b30ea34fbcfb64939cf2149d395eec9b8b0a83507e11ec9147498",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-DOJ",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-23T15:30:00+00:00"
+    },
+    {
+      "id": "957f7dd38517e98285d9b6a305a51f5e9daf93cc1ac6d7c2b73fd82540e69eb7",
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T14:35:26+00:00"
+    },
+    {
+      "id": "5ee61930755a426efcc76ae097c9604c3bfa367fdcae23d4527f1e74fab1fa82",
+      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+      "url": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+      "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-23T14:22:00+00:00"
+    },
+    {
+      "id": "1e2c3d8631df9e51eed4d916238e3ca46086eb3d41241ff654fcde7613f23ce3",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-23T14:17:58+00:00"
+    },
+    {
+      "id": "721edf9e0fd77681aec55a926bd75a914e0ee2204147075f414370b658db40c5",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organizati",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T14:01:11+00:00"
+    },
+    {
+      "id": "344fcd62c82a77ffaa2e28235f4c5a864f5d626d211310920735c7ed0ffca763",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and Step",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T13:52:46+00:00"
+    },
+    {
+      "id": "94b7ca55b2ecc2e7d02a886da0572bbdce8c7e76f5f470c9c54d2731cba571ac",
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-23T12:45:00+00:00"
+    },
+    {
+      "id": "a0cbe8a44ac42e90c0f2587553c11edbf436b45a9845fbf14717e5d2752c91bd",
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T12:29:53+00:00"
+    },
+    {
+      "id": "879d2dbbe17ddaa7f2d1e984ff80a02a3a179754d9d5601c87bf4fa8aae4dac2",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T12:16:00+00:00"
+    },
+    {
+      "id": "9e58e34631c531964fb27bfeeb117a3715488ebe0e5fc72a976c3cd6b12e6a7d",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:47:19+00:00"
+    },
+    {
+      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:40:59+00:00"
+    },
+    {
+      "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-23T11:23:30+00:00"
+    },
+    {
+      "id": "a94e3997808254607df47877173b5b540912ac7b261bedfbe868b71c493ecc5f",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:12:18+00:00"
+    },
     {
       "id": "ee5f7b9028c8f03a5bb6e44230beb26cc2dd6bd34a51ba80c1c16f39714f2ca9",
       "title": "Chrome 154 Patches 108 Vulnerabilities",
@@ -2134,123 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-11T12:48:04+00:00"
-    },
-    {
-      "id": "66f99f7de4f372a6e58bea4b60a4e951ee7992faec97f6ef7c24de8990d7a4ce",
-      "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
-      "url": "https://therecord.media/anthropic-russia-hackers-claude",
-      "summary": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-11T12:45:00+00:00"
-    },
-    {
-      "id": "4c81aa7d24abf7f2099b52b20bbe72593154001f5240fdb68b4158a495fb1254",
-      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-      "url": "https://therecord.media/conti-ransomware-ukraine-hacker",
-      "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-11T12:00:00+00:00"
-    },
-    {
-      "id": "336c262bc83ef09401876afe67f4051db83548563deaf343aeaab7aeefc9001f",
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T11:30:00+00:00"
-    },
-    {
-      "id": "1429d59c0e8ee445f77232d96cdd81cbc73b21479cc2663636e4146576adb57d",
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "summary": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-11T11:29:09+00:00"
-    },
-    {
-      "id": "3b1ca1686e68856d0cc3b87f8fbb7e5c42353548c31efcb2219720e03ae317b0",
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-11T11:15:22+00:00"
-    },
-    {
-      "id": "01371e4d26ef274361887cb5d9259dd7a42c199cf74ffd33e2fee79dc28fb4e0",
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T11:10:02+00:00"
-    },
-    {
-      "id": "22fef40592f00fa62615b1a3e452ccb2f31159a55345bcc3669a67c3a04d8db2",
-      "title": "Cliff Stoll’s DEF CON Talk",
-      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "summary": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-09-11T11:09:55+00:00"
-    },
-    {
-      "id": "21998cde1d7102ca5d24995634cd3dca651c66e10adcd028dee8d0dff89adf3c",
-      "title": "Surfshark Systems Targeted by Hackers",
-      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T09:41:03+00:00"
-    },
-    {
-      "id": "b4a0906212636693fd9b6449d3956d6492f40753cf7ed9992f4d21d9b213bb91",
-      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-      "summary": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-11T08:47:07+00:00"
-    },
-    {
-      "id": "79b4464a7cf76a6eaf251197555f5fd27cbfb599105c0f0d0023d83a5253b417",
-      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-      "summary": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-11T08:18:23+00:00"
-    },
-    {
-      "id": "42df196f2b731e5c170dc716657a53fbb30975ca1fc26ca9bc08b073e8e44c66",
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-11T07:55:15+00:00"
-    },
-    {
-      "id": "6d77d0f66755e664316574d6dc01a3211b0c46ad7969092097387309098cc45e",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:31:05+00:00"
-    },
-    {
-      "id": "11c8b517d375b0496d90fd5b7053a9fccbb014769553e3bd5d643eace4869326",
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in&nbsp;research published Thursday. The attack started with a crafted link ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-11T07:14:09+00:00"
     }
   ]
 }
