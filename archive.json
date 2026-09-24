@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-23T21:02:06.851693+00:00",
+  "updated": "2026-09-24T03:00:29.762380+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3c5d9756b70db29c546fa37bb5292611f82b1e7bc0fd19b8d9c017c7e639ffa6",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-23T22:46:01+00:00"
+    },
+    {
+      "id": "ab9e6d2169bc6936f7bc715d6acb158c809655f2b15ec45ae0c7ef83d2fcc8af",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-23T21:25:13+00:00"
+    },
     {
       "id": "702aeb848c916af644f69e4f7a2bcce7fcf77d8af40b43ecd0de80dfb7d888bf",
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
@@ -2233,24 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-11T16:30:18+00:00"
-    },
-    {
-      "id": "a9e03aba59c7b79438f7f02ce720f44c96dd8eb3501707fa047d137488836592",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-11T16:29:44+00:00"
-    },
-    {
-      "id": "ec242e7e40e92d80c3814ee71aa6edaf0eea9910e0e1185a5cd9e05ae3368729",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a m",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-11T16:15:29+00:00"
     }
   ]
 }

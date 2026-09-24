@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-23T21:02:06.851693+00:00",
+  "updated": "2026-09-24T03:00:29.762380+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3c5d9756b70db29c546fa37bb5292611f82b1e7bc0fd19b8d9c017c7e639ffa6",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-23T22:46:01+00:00"
+    },
+    {
+      "id": "ab9e6d2169bc6936f7bc715d6acb158c809655f2b15ec45ae0c7ef83d2fcc8af",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-23T21:25:13+00:00"
+    },
     {
       "id": "702aeb848c916af644f69e4f7a2bcce7fcf77d8af40b43ecd0de80dfb7d888bf",
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-09-22T13:00:00+00:00"
-    },
-    {
-      "id": "eac3948f2b433c24bcb8d1abc6d5d02143e86f69f47feddfd6ce3479e067eb1e",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-22T12:57:07+00:00"
-    },
-    {
-      "id": "16a35ceaca982db3d2d21447d1fe3ebb24b5579300c464094b47d8ae535e57d2",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-22T12:48:06+00:00"
     }
   ]
 }
