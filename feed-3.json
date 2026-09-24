@@ -1,10 +1,91 @@
 {
-  "updated": "2026-09-24T03:00:29.762380+00:00",
+  "updated": "2026-09-24T11:03:31.335871+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb3398e517ae49317ac63376b85e42d441d5f653b513d7522830788fdd704ac1",
+      "title": "Russia reports thousands of cyberattacks on election infrastructure during vote",
+      "url": "https://therecord.media/russia-reports-cyberattacks-during-election",
+      "summary": "Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-20T23:00:00+00:00"
+    },
+    {
+      "id": "20c9213dc91fb1b17fe2e4fbabd9e7a9e2f70e5ec2d24ddda9009d42f331d5e9",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-20T14:11:21+00:00"
+    },
+    {
+      "id": "cccf7b5fb8fe09a0cf8ced87470792be18f09382ae005d9c88c9c951d8153339",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public he",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T18:36:53+00:00"
+    },
+    {
+      "id": "fb9113f4b47af3f8ccfbadd07e61ac46e29f68b05c27419913c31027ff95e042",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-19T14:56:31+00:00"
+    },
+    {
+      "id": "f02d07cbc73e8647ed1efc7b7fe3abf7c8b626f63cf8e50bcff3e5c7a77b7999",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-19T14:05:15+00:00"
+    },
+    {
+      "id": "14e87e3a15b5ebd6a5a12f3a4b7dba3ae37465390b52d592870ea1d419e1cc00",
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-19T13:48:32+00:00"
+    },
+    {
+      "id": "852ff302b4ad29e14138d39ba46052549c9ec4e0cf18e855a15e032c406bf426",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still v",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T13:28:48+00:00"
+    },
+    {
+      "id": "830c117275ef8fb3a00ef0cc25272743d6fad3d6477d3f5f15acf01b699e3de8",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-19T13:28:41+00:00"
+    },
+    {
+      "id": "531e97a39e7b550ac33407aca33814f5c1c95d286679ee3e9b63f936a746a9fe",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring sy",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T09:31:17+00:00"
+    },
     {
       "id": "c8cb9ca3b0db57d241ce2a34df40a81ddd7981ee0b088a26ce35816eec74f0af",
       "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-17T12:29:53+00:00"
-    },
-    {
-      "id": "c67445e211719f1b2da685c1b3340e105d9ed7b03d4f641c887b83f07775bc45",
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "url": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "summary": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:17:40+00:00"
-    },
-    {
-      "id": "3cc3e48c3179ac60da07e7967326c4515455bae6c15c8372f0a74540b230a186",
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T10:50:53+00:00"
-    },
-    {
-      "id": "f355c5f46acfcc3ba3b66a78fb66cb83c057989b00bb6973c89fac2afbf20158",
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researche",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-17T10:05:45+00:00"
-    },
-    {
-      "id": "ab0296330fd9774ea75d2c59d302183deb60cacf56118ea6fb1604b6324c997a",
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-17T09:00:00+00:00"
-    },
-    {
-      "id": "6829fa0c1a468f194cc62ce4cda2e186d6ebe75071c86a528a3be2d9c1d6f4ca",
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "summary": "The Internet Systems Consortium (ISC) has released&nbsp;BIND 9.20.29 and 9.21.26&nbsp;to fix fourteen security flaws it&nbsp;disclosed&nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credenti",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T08:00:29+00:00"
-    },
-    {
-      "id": "9b2affb8fdaab7e27581ffe0d0ce5050493537258d261ff8d5a5195271ca89a5",
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&nbsp;notice&nbsp;published Wednesday. It also exposed about 490 million image metadata records, mostly for images f",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-17T07:30:01+00:00"
-    },
-    {
-      "id": "e274e5a9f192dd5ac11e0e599041f782e32657ef0d21bf7ce84f9f7a3013db01",
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-17T07:20:54+00:00"
-    },
-    {
-      "id": "fefb67106246aa51b22d0a3fb9ff108b83eb5ad42f87607d634de0ea61ddf544",
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T06:39:40+00:00"
-    },
-    {
-      "id": "aed55b9ef088f17ef5c0f9df3ab3992ac3282c578487c5c8ab6e9fb5c89161c6",
-      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-      "url": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-      "summary": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T06:19:52+00:00"
     }
   ]
 }
