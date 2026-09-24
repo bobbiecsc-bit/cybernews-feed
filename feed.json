@@ -1,10 +1,73 @@
 {
-  "updated": "2026-09-24T16:26:39.354479+00:00",
+  "updated": "2026-09-24T21:06:11.789655+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7265697f416b0e92d6dafd99d9c6521aa04b1c2dc78f5e64a8f03b4c2bbfc1d6",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-24T20:53:35+00:00"
+    },
+    {
+      "id": "1ac7618f2ba9d8178c43d36dc015a08908e3e88549f517e2d8de4489ab51b2b5",
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+      "url": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-24T20:35:21+00:00"
+    },
+    {
+      "id": "9db2a01576e09eac49e4ebcd57f53bf3caa8bac1995147977626d774208d392b",
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-24T20:15:00+00:00"
+    },
+    {
+      "id": "8692e38436e8a580464b3a8ae629a96726d146a0de3c375c18b215e352aa7ac7",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-24T20:10:48+00:00"
+    },
+    {
+      "id": "7a9b3e084e401925ec5518ad733616fd5d2a2bf7cb25d257b9008cad741b3f20",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;to gain root access, the highest level of control over an Android phone. OnePlus",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-24T18:10:18+00:00"
+    },
+    {
+      "id": "37f6b04fa6f0fe4e6aba10f57fe51f7b894b9ff40f9150f8dc716ece7f40ff48",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-24T17:52:43+00:00"
+    },
+    {
+      "id": "d8d3bf9e01bca0f7573946e95b318cc2ed8e270042d19cf1636ce01265f5e939",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-24T17:47:44+00:00"
+    },
     {
       "id": "f6922c0e9c4bde56aac64c55d2bd337e7df48ddd3aa59ed638b66be93d4073c4",
       "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
@@ -391,69 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-23T08:29:48+00:00"
-    },
-    {
-      "id": "47e5a40f39f4aa51b0af066f136c491b578c8826720eca0cbb157edc4e2eb7e6",
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of two vulnerabilities in Chrome (CVE-2026-85046, CVE",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T08:29:24+00:00"
-    },
-    {
-      "id": "a1294697a94593a140dcd7593d9ea3b510cf57d7bef3aece1665899d64603607",
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-23T08:20:05+00:00"
-    },
-    {
-      "id": "56b3d054ffe5b57f006b27bf06852b7a7e00f5d166db8f2c7ca9ef878dd6d239",
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "summary": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:34:18+00:00"
-    },
-    {
-      "id": "e1f16ad60edbc25a9b408cfdda5961b6eb0c3994ea7604c454523d8dc582cab6",
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:17:23+00:00"
-    },
-    {
-      "id": "f683f61314b4c3c6c3c565c20458b345d43da10345e8dfdb129f1958767de970",
-      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-      "url": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-      "summary": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-23T07:13:49+00:00"
-    },
-    {
-      "id": "cda8fee2780106d9dce056e5e48523e592663bb8084e4b205bd4242623f899f9",
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, int",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:04:40+00:00"
-    },
-    {
-      "id": "7aed67fb665e029f5fd5be3b299a56f494ed8a09ceced72829147e8684d326f6",
-      "title": "Check Point Patches Exploited Management Server Zero-Day",
-      "url": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-      "summary": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T06:14:03+00:00"
     }
   ]
 }
