@@ -1,10 +1,91 @@
 {
-  "updated": "2026-09-24T11:03:31.335871+00:00",
+  "updated": "2026-09-24T16:26:39.354479+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c2b107c39a2f79f3f33afd628070d6cc5472c2d15c17c6f52610118bd1263d20",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T05:30:09+00:00"
+    },
+    {
+      "id": "907c082edb0842aed7715af66ee392abc625997c10e6e67d67d67b26b86404fb",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-22T21:45:45+00:00"
+    },
+    {
+      "id": "9a8c2d680adb738443acf121bc8c71fd1917e4645e0564bccca786ebea057b02",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-22T21:40:37+00:00"
+    },
+    {
+      "id": "178864dedd5d0fdb7e572ef2bdf858aeb3b85833a3d76e5e92047d907e0dd84d",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T20:35:24+00:00"
+    },
+    {
+      "id": "5204aaedc51d4d0b7247a3a64c138b3d51160b3de9bc58dedc31767d424fe121",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-22T19:13:29+00:00"
+    },
+    {
+      "id": "5871a8a80040f207e79245f43ab6444372b2dc115b56fe42d9f13fe5f071b967",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point rele",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:29:39+00:00"
+    },
+    {
+      "id": "724fc722a8951522bdd0611ed19a111cd97177f6881e08d188656852042afed1",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-22T18:04:39+00:00"
+    },
+    {
+      "id": "a94b0a5ed1ae3c208545d09f4372ede74cbae880806da737847648ba66ae259a",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T18:03:10+00:00"
+    },
+    {
+      "id": "b38195d46412b678f0dd8c772bf70d5a19cae7939da376b79ebb8e36d8300d81",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T17:58:15+00:00"
+    },
     {
       "id": "2f79c73abb028a55c536d2e4a14b7de6e47792afbd9d0611d2d568844efc6178",
       "title": "BigCommerce Data Stolen via Ribon Apps Hack",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-09-21T12:51:41+00:00"
-    },
-    {
-      "id": "0f83eac476f1c2cb5690703453a9128c8b9e17e48e042d16ef83169f3d60d6a4",
-      "title": "Google says Gemini breached three companies during security test",
-      "url": "https://therecord.media/gemini-google-cyber-breach",
-      "summary": "Google’s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May — the latest in a string of similar incidents.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-21T12:30:00+00:00"
-    },
-    {
-      "id": "5cb8b0ed24295166f875f25930809e9e03204967898b530cab04fe1069759368",
-      "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
-      "url": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-      "summary": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-21T11:57:35+00:00"
-    },
-    {
-      "id": "041aae38d4c359790539cab6fef39bce0350d71c0816ae7b9f33c68126855d68",
-      "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
-      "url": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-      "summary": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T10:55:46+00:00"
-    },
-    {
-      "id": "17eab563c98180bdc274d89a1fe5eccf24e41a4c6e4c9bdb61500dbcc87080d8",
-      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33318",
-      "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out t",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-09-21T10:33:53+00:00"
-    },
-    {
-      "id": "be507c73d619686f375367ea2ee9576a6c9fa87a795261b13e8e9e51a6dc7d6f",
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-      "summary": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T10:03:44+00:00"
-    },
-    {
-      "id": "0a3b43642b6989bd5b6d571e82f7c203818b1d60ff0e3a92e37809dfa3ca8df0",
-      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-      "summary": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-21T09:31:12+00:00"
-    },
-    {
-      "id": "5b62ce8df6dfa4f31b546c84425f9bd0209fe33d94778b46d9f99000d2904ad9",
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoo",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-21T08:39:38+00:00"
-    },
-    {
-      "id": "4efebc5812c3562820289fa2edf6aba1789683fe368963fbc83663d56aef34d9",
-      "title": "Google Confirms Gemini AI Breached Three Firms",
-      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-      "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T07:20:46+00:00"
-    },
-    {
-      "id": "7de86307010bfa2d691153644fa75cd9d0f0dfef92acf3a0430d9ab5d9347f19",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurit",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-21T06:06:44+00:00"
     }
   ]
 }
