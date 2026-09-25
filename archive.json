@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-25T03:17:50.819334+00:00",
+  "updated": "2026-09-25T11:03:56.308706+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "8479bfbd51e5d520d267043fb08ba45c7a5cb472a83a35c26c15fae2856b0027",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T10:14:02+00:00"
+    },
+    {
+      "id": "1502574124fb666c953922b0a3188b16c60b962148980db11db0fd8ba4190274",
+      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "summary": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post &#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-25T09:27:51+00:00"
+    },
+    {
+      "id": "4ef5d17c61039a39102b423cc57725eb11a4a9550d7e2148e8cdb0db85762738",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-25T08:33:44+00:00"
+    },
+    {
+      "id": "d1f0d307ae3b72f7e16eba8485b1b9e7b7831973e0721d918e04636a735f01ce",
+      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-25T06:57:40+00:00"
+    },
+    {
+      "id": "b6378b315cd4f7dbd6c94541e56b9b7f0659395d04262e9b0bfb19b7b7a5b454",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T04:49:22+00:00"
+    },
+    {
+      "id": "9b34a9a8785cc70c6f43f79337607d44fa84072bee644099b9f670f2f6197dc9",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T04:46:34+00:00"
+    },
     {
       "id": "7265697f416b0e92d6dafd99d9c6521aa04b1c2dc78f5e64a8f03b4c2bbfc1d6",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-14T17:58:16+00:00"
-    },
-    {
-      "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-14T16:56:30+00:00"
-    },
-    {
-      "id": "5aa4d6dc4864a889324abe516641ea6a3fb843e6264b7cacc8b17e8df7d7c6cf",
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-14T16:15:58+00:00"
-    },
-    {
-      "id": "21b205c6ce309c6fc1417f8454975fd8947b0db29b8d3e0b68b84aa7276c68b5",
-      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
-      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
-      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-14T16:15:00+00:00"
-    },
-    {
-      "id": "689d56dc6e17e50c8d36281ec07f91322ad3cdf12aae33757f0667386f5edb0a",
-      "title": "Using AI for Weapons Development",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "summary": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a c",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-09-14T16:07:46+00:00"
-    },
-    {
-      "id": "161dd11ccccf6c5948903133bc0fedeb9d4da64a5c9e3e768ebeba05bc4dbabe",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, e",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-14T14:40:34+00:00"
-    },
-    {
-      "id": "7106821c8e6e798ec82640d9abaf3fd78f7162e992cddf5428957e92ea0074bd",
-      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-      "url": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-14T13:03:35+00:00"
     }
   ]
 }

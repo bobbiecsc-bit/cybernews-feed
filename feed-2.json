@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-25T03:17:50.819334+00:00",
+  "updated": "2026-09-25T11:03:56.308706+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:40:59+00:00"
+    },
+    {
+      "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-23T11:23:30+00:00"
+    },
+    {
+      "id": "a94e3997808254607df47877173b5b540912ac7b261bedfbe868b71c493ecc5f",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:12:18+00:00"
+    },
+    {
+      "id": "ee5f7b9028c8f03a5bb6e44230beb26cc2dd6bd34a51ba80c1c16f39714f2ca9",
+      "title": "Chrome 154 Patches 108 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
+      "summary": "The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T10:36:07+00:00"
+    },
+    {
+      "id": "92c512e397bddfc65132666a43aab17538d68221e2b3d3c5f31167b56e4d06eb",
+      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
+      "url": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
+      "summary": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T08:33:06+00:00"
+    },
+    {
+      "id": "54af9eeed99cf72334722e55c1e3ebb257964735b394e9a7edb4bbd624bf9c97",
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T08:29:48+00:00"
+    },
     {
       "id": "47e5a40f39f4aa51b0af066f136c491b578c8826720eca0cbb157edc4e2eb7e6",
       "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-21T20:12:17+00:00"
-    },
-    {
-      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T18:23:11+00:00"
-    },
-    {
-      "id": "f2aa6f9693d4bf840038ffaf83992ca8accac35557fd46618b02a59c5bb9538f",
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-21T17:31:01+00:00"
-    },
-    {
-      "id": "80aeffa58d55925260cd199e5199549ee2d23db442a9f502cb00ac29c8631d49",
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T17:19:53+00:00"
-    },
-    {
-      "id": "c533abc4730ac9558e06dea033f36be81b0a90c224d07f3426cbec08722969d1",
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets o",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-21T17:19:00+00:00"
-    },
-    {
-      "id": "56037aa0642846f6b893794ec48773a1877ddbaef5e5fb576761df98dc922893",
-      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-      "url": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-      "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-21T15:46:58+00:00"
-    },
-    {
-      "id": "0fe0001e6572666151392d3777a08288e0b3c99c9e0210afa0277858e3cd132b",
-      "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
-      "url": "https://therecord.media/belgium-table-tennis-cyberattack",
-      "summary": "Belgium’s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-21T15:00:00+00:00"
     }
   ]
 }

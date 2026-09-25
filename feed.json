@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-25T03:17:50.819334+00:00",
+  "updated": "2026-09-25T11:03:56.308706+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "8479bfbd51e5d520d267043fb08ba45c7a5cb472a83a35c26c15fae2856b0027",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T10:14:02+00:00"
+    },
+    {
+      "id": "1502574124fb666c953922b0a3188b16c60b962148980db11db0fd8ba4190274",
+      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "summary": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post &#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-25T09:27:51+00:00"
+    },
+    {
+      "id": "4ef5d17c61039a39102b423cc57725eb11a4a9550d7e2148e8cdb0db85762738",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-25T08:33:44+00:00"
+    },
+    {
+      "id": "d1f0d307ae3b72f7e16eba8485b1b9e7b7831973e0721d918e04636a735f01ce",
+      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-25T06:57:40+00:00"
+    },
+    {
+      "id": "b6378b315cd4f7dbd6c94541e56b9b7f0659395d04262e9b0bfb19b7b7a5b454",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T04:49:22+00:00"
+    },
+    {
+      "id": "9b34a9a8785cc70c6f43f79337607d44fa84072bee644099b9f670f2f6197dc9",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T04:46:34+00:00"
+    },
     {
       "id": "7265697f416b0e92d6dafd99d9c6521aa04b1c2dc78f5e64a8f03b4c2bbfc1d6",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-23T11:47:19+00:00"
-    },
-    {
-      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:40:59+00:00"
-    },
-    {
-      "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-23T11:23:30+00:00"
-    },
-    {
-      "id": "a94e3997808254607df47877173b5b540912ac7b261bedfbe868b71c493ecc5f",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:12:18+00:00"
-    },
-    {
-      "id": "ee5f7b9028c8f03a5bb6e44230beb26cc2dd6bd34a51ba80c1c16f39714f2ca9",
-      "title": "Chrome 154 Patches 108 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-      "summary": "The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T10:36:07+00:00"
-    },
-    {
-      "id": "92c512e397bddfc65132666a43aab17538d68221e2b3d3c5f31167b56e4d06eb",
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "url": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "summary": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T08:33:06+00:00"
-    },
-    {
-      "id": "54af9eeed99cf72334722e55c1e3ebb257964735b394e9a7edb4bbd624bf9c97",
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T08:29:48+00:00"
     }
   ]
 }

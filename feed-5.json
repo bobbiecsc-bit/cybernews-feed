@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-25T03:17:50.819334+00:00",
+  "updated": "2026-09-25T11:03:56.308706+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f2f24ea2e19aab10b99a954d8bb93591f31df9e7f12c4d0081c7e99616aabf6c",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single co",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-16T11:58:00+00:00"
+    },
+    {
+      "id": "7e51b3ed2d0e12ceb8e0100739c5e68f8be389d9b08152356823083283792272",
+      "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
+      "url": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
+      "summary": "Vulnerabilities in The Events Calendar can provide attackers with remote code execution capabilities. The post Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-16T11:32:53+00:00"
+    },
+    {
+      "id": "8f4404937cb63f29b4d89ed4a114969e028ca131e8756bfc016f2a6d90bca3e7",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-16T11:15:58+00:00"
+    },
+    {
+      "id": "5a937b962d20ac975d21b84f7e06b7f522e3af28dd11977d8c73eec7b0150771",
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelera",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-16T11:15:48+00:00"
+    },
+    {
+      "id": "392afd7c15f5f526b6f2cd2ecda120264a874205ff8872060ea07995fc2d3170",
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-16T11:14:28+00:00"
+    },
+    {
+      "id": "da48e05844653cd9f3490a5907992780e08fdeb0610423e7d09994f4e6e1260d",
+      "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
+      "url": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
+      "summary": "The company will use the new capital to expand its vulnerability operations platform and support international growth. The post Hackuity Raises $19 Million for AI-Powered Vulnerability Management appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-16T11:11:23+00:00"
+    },
     {
       "id": "7b88c993f3771bfa6b77538b5c04df8131f56ad8949a450c491314dddc187bed",
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-14T17:58:16+00:00"
-    },
-    {
-      "id": "09d1dd4eafdffbfc8d8e23989218f89b5c06920b5a513a18d45db57a93dba409",
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries an",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-14T16:56:30+00:00"
-    },
-    {
-      "id": "5aa4d6dc4864a889324abe516641ea6a3fb843e6264b7cacc8b17e8df7d7c6cf",
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-14T16:15:58+00:00"
-    },
-    {
-      "id": "21b205c6ce309c6fc1417f8454975fd8947b0db29b8d3e0b68b84aa7276c68b5",
-      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
-      "url": "https://therecord.media/ukraine-malware-russia-ransomware",
-      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-14T16:15:00+00:00"
-    },
-    {
-      "id": "689d56dc6e17e50c8d36281ec07f91322ad3cdf12aae33757f0667386f5edb0a",
-      "title": "Using AI for Weapons Development",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "summary": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a c",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-09-14T16:07:46+00:00"
-    },
-    {
-      "id": "161dd11ccccf6c5948903133bc0fedeb9d4da64a5c9e3e768ebeba05bc4dbabe",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, e",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-14T14:40:34+00:00"
-    },
-    {
-      "id": "7106821c8e6e798ec82640d9abaf3fd78f7162e992cddf5428957e92ea0074bd",
-      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-      "url": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-14T13:03:35+00:00"
     }
   ]
 }

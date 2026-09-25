@@ -1,10 +1,64 @@
 {
-  "updated": "2026-09-25T03:17:50.819334+00:00",
+  "updated": "2026-09-25T11:03:56.308706+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-21T18:23:11+00:00"
+    },
+    {
+      "id": "f2aa6f9693d4bf840038ffaf83992ca8accac35557fd46618b02a59c5bb9538f",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-21T17:31:01+00:00"
+    },
+    {
+      "id": "80aeffa58d55925260cd199e5199549ee2d23db442a9f502cb00ac29c8631d49",
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-21T17:19:53+00:00"
+    },
+    {
+      "id": "c533abc4730ac9558e06dea033f36be81b0a90c224d07f3426cbec08722969d1",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets o",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-21T17:19:00+00:00"
+    },
+    {
+      "id": "56037aa0642846f6b893794ec48773a1877ddbaef5e5fb576761df98dc922893",
+      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+      "url": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+      "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-09-21T15:46:58+00:00"
+    },
+    {
+      "id": "0fe0001e6572666151392d3777a08288e0b3c99c9e0210afa0277858e3cd132b",
+      "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
+      "url": "https://therecord.media/belgium-table-tennis-cyberattack",
+      "summary": "Belgium’s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-21T15:00:00+00:00"
+    },
     {
       "id": "c404be1c0acbdf139c30994a33ec2a9c268636a4f899a1c20b38c19f9c2a18cb",
       "title": "Reverse-Engineering Flock Cameras",
@@ -400,60 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-18T09:46:57+00:00"
-    },
-    {
-      "id": "9bc8b96fcffe1f82427719f0fecf959bc321a37fef8e05e74cf2e159f1914566",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-18T09:34:33+00:00"
-    },
-    {
-      "id": "1963d1923e71383cfdc7ff37dd1f76ca0a56f0d28f67f1caa48dbd847001cd69",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confide",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-18T09:18:03+00:00"
-    },
-    {
-      "id": "a36ec0e8e772e32b44c210b9387bddcbb67075bea9e05505f5c4136cb0bd3b13",
-      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-18T08:42:18+00:00"
-    },
-    {
-      "id": "d406454fd03ec4f1aedcea38429e5777d46fef4fbd2bbb04bb9b6402f9f424d9",
-      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-18T07:14:04+00:00"
-    },
-    {
-      "id": "d520678c4afb9aa5d54fa93c9be6ac4af465778271027f86fa7fcd0d35c1d8ef",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phish",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-18T06:17:25+00:00"
-    },
-    {
-      "id": "60dccb14efa72334d940fd1b428b64cb35845e9c23a7036a8aaa40e4f19ebf34",
-      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
-      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
-      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-18T04:00:00+00:00"
     }
   ]
 }
