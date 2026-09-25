@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-25T16:27:10.596277+00:00",
+  "updated": "2026-09-25T21:03:31.909704+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "88652842189aea577c218cacbddc5c92667b29d4cd337a33902b6cc08c2066de",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:53:10+00:00"
+    },
+    {
+      "id": "8b8a2ad63964807c5ed8905f16a9ceb627c8570d29e51986abf356c76b25bdaa",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-23T16:20:54+00:00"
+    },
+    {
+      "id": "20d13eec11e10062f8517b8036cfdc069930b4a744077237ee67021f57727d76",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:06:41+00:00"
+    },
+    {
+      "id": "d7b6374e018b30ea34fbcfb64939cf2149d395eec9b8b0a83507e11ec9147498",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-DOJ",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-23T15:30:00+00:00"
+    },
     {
       "id": "7957a9d06e86e953d1b6b08fe6962d7502ad1787713f46791d9e1c7203ebf428",
       "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-09-22T11:45:00+00:00"
-    },
-    {
-      "id": "319e5d081a9add14cf201d25d8ad3110fa674bfc984c1ce0fd6904ce11a7b348",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as&nbsp;CVE-2026-89775, allows a guest to read and write host kernel memory, and the r",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-22T11:38:40+00:00"
-    },
-    {
-      "id": "90fcfd488b694da50d701203b40aadd9eeb0bd0ea28172284c7ffef421e644b4",
-      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
-      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-      "summary": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-22T11:33:59+00:00"
-    },
-    {
-      "id": "b3e51b621cf3a9ced28c752bcf95e936725bca9c71042e2e4fd35778f916fb82",
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T11:17:41+00:00"
-    },
-    {
-      "id": "c57545becb57187609c29cfd16944fded01100ec0ef2519962fff5d76c095ad4",
-      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-      "summary": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches &#8216;Click2Shell&#8217; Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-22T10:22:27+00:00"
     }
   ]
 }

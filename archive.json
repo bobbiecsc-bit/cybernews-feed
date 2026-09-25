@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-25T16:27:10.596277+00:00",
+  "updated": "2026-09-25T21:03:31.909704+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "6e342a8a97cf99d0e3cdcfd8850efeed176d02017d7f57bc2333a1c689e2fd6d",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-25T20:57:55+00:00"
+    },
+    {
+      "id": "1c8ce51fb9bdf4c501c7de4202f89af32309b3c5bd81582ae685e0ef415db9f7",
+      "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
+      "url": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+      "summary": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems for customers.”",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-09-25T20:19:00+00:00"
+    },
+    {
+      "id": "53c3f861257c27459c1dbfa9691d33e31f898a612d83e16bb197a257cb21beea",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-25T18:13:33+00:00"
+    },
+    {
+      "id": "2e9b76e63d00c8de62ded5a102a4aaf2d29277a47997e464b325f7c7985ec8c3",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-25T17:24:20+00:00"
+    },
     {
       "id": "273ba4981624c532ab8cff70fa027be96981cb77469f342f7cf90e3273d2138d",
       "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
@@ -2215,42 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-15T11:12:32+00:00"
-    },
-    {
-      "id": "24d36c89c6cd6742029f53d6cffcbf3055ef6881c24ec314b4e0956b5f691c5d",
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "summary": "This essay was written with Cindy Cohn, and originally appeared in Lawfare. One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap and trace orders&#8212;to mass surveillance techniq",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-09-15T11:01:41+00:00"
-    },
-    {
-      "id": "5828a0b628910d416307527f9f146c503254f09f4f64f3713580db63f53b292f",
-      "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
-      "url": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
-      "summary": "The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability. The post Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-15T09:40:25+00:00"
-    },
-    {
-      "id": "3962a1474812e90d94dda45d82ab4abfaa101deac32acb011b80559e64a44329",
-      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-      "url": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-      "summary": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-15T09:09:00+00:00"
-    },
-    {
-      "id": "96c09c631f163e167a7198b2a4e3c69d2a39bbab8b2960b15ee71b042024844c",
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-15T07:31:09+00:00"
     }
   ]
 }

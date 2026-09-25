@@ -1,10 +1,46 @@
 {
-  "updated": "2026-09-25T16:27:10.596277+00:00",
+  "updated": "2026-09-25T21:03:31.909704+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "319e5d081a9add14cf201d25d8ad3110fa674bfc984c1ce0fd6904ce11a7b348",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as&nbsp;CVE-2026-89775, allows a guest to read and write host kernel memory, and the r",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-22T11:38:40+00:00"
+    },
+    {
+      "id": "90fcfd488b694da50d701203b40aadd9eeb0bd0ea28172284c7ffef421e644b4",
+      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "summary": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-09-22T11:33:59+00:00"
+    },
+    {
+      "id": "b3e51b621cf3a9ced28c752bcf95e936725bca9c71042e2e4fd35778f916fb82",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T11:17:41+00:00"
+    },
+    {
+      "id": "c57545becb57187609c29cfd16944fded01100ec0ef2519962fff5d76c095ad4",
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "summary": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches &#8216;Click2Shell&#8217; Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-22T10:22:27+00:00"
+    },
     {
       "id": "9228fd09d5251b1310f130a160ac6f28e26a6d767692f157aa9a080afea1dfcb",
       "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-18T16:56:19+00:00"
-    },
-    {
-      "id": "2d1da8cc0f6ef27b039527e89f42abd919ee7acebecc20f0728383826ba201c9",
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-18T16:00:38+00:00"
-    },
-    {
-      "id": "eb5aad65b2515888fa52ac01678a356827d1a2ce9d19415e9f1136433440610d",
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-18T15:24:16+00:00"
-    },
-    {
-      "id": "a8f08aec46659afed3e2316a3287d9ff35296d9fe0ebbd26ec065de11790088b",
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-18T15:19:06+00:00"
-    },
-    {
-      "id": "e0ab0e720900624cc3548b12fc20ed7d3794f869dd6da569b2333fc8a503c397",
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared first on SecurityWeek",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-18T14:25:00+00:00"
     }
   ]
 }
