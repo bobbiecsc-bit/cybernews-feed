@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-26T10:46:08.296202+00:00",
+  "updated": "2026-09-26T15:42:11.164782+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fa5c037c6dc25b42b20556a5acbd04029010d0ee0dfabcba0dba28108eff3efe",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-26T14:19:46+00:00"
+    },
+    {
+      "id": "124ca5b2bbe434fe47a02f4a37c34f078e07c17b83a8c8337611fcbbcef512c3",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-26T11:46:40+00:00"
+    },
     {
       "id": "087d84aa6c29cc3476c4ebd5d79a361ac2aae1083f04b35ef77834b4dd657b93",
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-09-24T06:32:03+00:00"
-    },
-    {
-      "id": "baff1d5496fd8ebf6daa31c458a3f43837771cfd2e3ccb09eca594a20cff98d4",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-24T05:36:18+00:00"
-    },
-    {
-      "id": "3c5d9756b70db29c546fa37bb5292611f82b1e7bc0fd19b8d9c017c7e639ffa6",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-23T22:46:01+00:00"
     }
   ]
 }

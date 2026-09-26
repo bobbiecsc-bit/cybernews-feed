@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-26T10:46:08.296202+00:00",
+  "updated": "2026-09-26T15:42:11.164782+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "531e97a39e7b550ac33407aca33814f5c1c95d286679ee3e9b63f936a746a9fe",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring sy",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T09:31:17+00:00"
+    },
+    {
+      "id": "c8cb9ca3b0db57d241ce2a34df40a81ddd7981ee0b088a26ce35816eec74f0af",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 bef",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-19T08:18:54+00:00"
+    },
     {
       "id": "47bdb82a4099c8a13414e0e4332d7173637768086f2d58c187dad0daefa0ec0b",
       "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-17T06:39:40+00:00"
-    },
-    {
-      "id": "aed55b9ef088f17ef5c0f9df3ab3992ac3282c578487c5c8ab6e9fb5c89161c6",
-      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-      "url": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-      "summary": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T06:19:52+00:00"
-    },
-    {
-      "id": "cd6d3ec163047d1489d235f5284f4620005d45ee15a7e011d45ce587fa45f377",
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors t",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-17T05:13:46+00:00"
     }
   ]
 }
