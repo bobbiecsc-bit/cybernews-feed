@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-26T03:22:14.104636+00:00",
+  "updated": "2026-09-26T10:46:08.296202+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ab9e6d2169bc6936f7bc715d6acb158c809655f2b15ec45ae0c7ef83d2fcc8af",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-23T21:25:13+00:00"
+    },
+    {
+      "id": "702aeb848c916af644f69e4f7a2bcce7fcf77d8af40b43ecd0de80dfb7d888bf",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T19:53:54+00:00"
+    },
+    {
+      "id": "368846adf0a4a33882b7f6562405be36ebbe34223172d08d91593f93499e49d6",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T18:31:22+00:00"
+    },
     {
       "id": "d1ccb5f32ae97e153e401137d41045a9ab60f2e49544bedfccc0c75a3cc63714",
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-22T12:57:07+00:00"
-    },
-    {
-      "id": "16a35ceaca982db3d2d21447d1fe3ebb24b5579300c464094b47d8ae535e57d2",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-22T12:48:06+00:00"
-    },
-    {
-      "id": "f619ad1c6009e9220eed33fe462286a56e9002373131360e8ae5c398ee336d65",
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affe",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T12:29:00+00:00"
-    },
-    {
-      "id": "95750cd7ad9330fdbe57814f9462962b7a6f1c6e0e4d17ef8f2cd9c8364ff962",
-      "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
-      "url": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
-      "summary": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-22T11:55:20+00:00"
     }
   ]
 }

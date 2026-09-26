@@ -1,10 +1,37 @@
 {
-  "updated": "2026-09-26T03:22:14.104636+00:00",
+  "updated": "2026-09-26T10:46:08.296202+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "087d84aa6c29cc3476c4ebd5d79a361ac2aae1083f04b35ef77834b4dd657b93",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-26T09:55:22+00:00"
+    },
+    {
+      "id": "049c4c6d156c4523b7940f437ee206be572af39e3d0df427fc2117d852d5c30e",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-26T08:49:53+00:00"
+    },
+    {
+      "id": "16e6f1ff0925d12742d7cd1e6825145759de7217e8c4389ff77303a9407bdb96",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indica",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-26T07:48:33+00:00"
+    },
     {
       "id": "3e6437721d938a62267b8d5b2cca54e6522c7f19a503d4c38bd117ed6816de3d",
       "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-09-23T22:46:01+00:00"
-    },
-    {
-      "id": "ab9e6d2169bc6936f7bc715d6acb158c809655f2b15ec45ae0c7ef83d2fcc8af",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-23T21:25:13+00:00"
-    },
-    {
-      "id": "702aeb848c916af644f69e4f7a2bcce7fcf77d8af40b43ecd0de80dfb7d888bf",
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-23T19:53:54+00:00"
-    },
-    {
-      "id": "368846adf0a4a33882b7f6562405be36ebbe34223172d08d91593f93499e49d6",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-23T18:31:22+00:00"
     }
   ]
 }
