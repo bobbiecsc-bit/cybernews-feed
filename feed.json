@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-26T15:42:11.164782+00:00",
+  "updated": "2026-09-26T20:36:32.641395+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "77ddfbcd4e34cd1f512579673599510b68b231c815351878e6f21d48da2b3f10",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-26T19:03:34+00:00"
+    },
+    {
+      "id": "9f09894f2cc84b8d206e83ce38e0c09c9ebbd1ec8da381ad6de0cc2905fe9c32",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-26T18:22:52+00:00"
+    },
     {
       "id": "fa5c037c6dc25b42b20556a5acbd04029010d0ee0dfabcba0dba28108eff3efe",
       "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-09-24T08:38:29+00:00"
-    },
-    {
-      "id": "fb26ae51b64a055f7ea88b91a5e1a158b21ad4e72fd23ac62fc0c1b118639062",
-      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-      "summary": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-24T07:12:26+00:00"
-    },
-    {
-      "id": "b54ca687b5ebe9a584ce686ebb18c3dbf3bc6747e9a51d6cb6a8435b03ac1b49",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It ori",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-24T06:32:03+00:00"
     }
   ]
 }
