@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-27T11:20:23.421096+00:00",
+  "updated": "2026-09-27T16:20:32.659021+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ba859ad0f6f0f955274dc328cf9d5889219202359e5a89f0c0065772b1a7d094",
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as&nbsp;CVE-2026-90898&nbsp;(CVSS score: 9.8), affe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:41:12+00:00"
+    },
+    {
+      "id": "20fee5056b0e598bf05650841ee0e0df40fba03f958c92074e8d4b2f200b619c",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-22T16:32:47+00:00"
+    },
     {
       "id": "fa09678c05a66ffcc797baed32f5b7807b4faa02b8a9d8129a31acc3b3bb3795",
       "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-20T14:11:21+00:00"
-    },
-    {
-      "id": "cccf7b5fb8fe09a0cf8ced87470792be18f09382ae005d9c88c9c951d8153339",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public he",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-19T18:36:53+00:00"
-    },
-    {
-      "id": "fb9113f4b47af3f8ccfbadd07e61ac46e29f68b05c27419913c31027ff95e042",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-19T14:56:31+00:00"
     }
   ]
 }
