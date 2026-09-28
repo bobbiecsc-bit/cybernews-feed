@@ -1,10 +1,145 @@
 {
-  "updated": "2026-09-28T12:49:34.072803+00:00",
+  "updated": "2026-09-28T22:54:21.037867+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "110c0e0c97cb2e8d186c68ed7880cf6d62019a6d8518b07bfb937db7febae825",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-18T09:46:57+00:00"
+    },
+    {
+      "id": "9bc8b96fcffe1f82427719f0fecf959bc321a37fef8e05e74cf2e159f1914566",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-18T09:34:33+00:00"
+    },
+    {
+      "id": "1963d1923e71383cfdc7ff37dd1f76ca0a56f0d28f67f1caa48dbd847001cd69",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confide",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-18T09:18:03+00:00"
+    },
+    {
+      "id": "a36ec0e8e772e32b44c210b9387bddcbb67075bea9e05505f5c4136cb0bd3b13",
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-18T08:42:18+00:00"
+    },
+    {
+      "id": "d406454fd03ec4f1aedcea38429e5777d46fef4fbd2bbb04bb9b6402f9f424d9",
+      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-18T07:14:04+00:00"
+    },
+    {
+      "id": "d520678c4afb9aa5d54fa93c9be6ac4af465778271027f86fa7fcd0d35c1d8ef",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phish",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-18T06:17:25+00:00"
+    },
+    {
+      "id": "60dccb14efa72334d940fd1b428b64cb35845e9c23a7036a8aaa40e4f19ebf34",
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
+      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-18T04:00:00+00:00"
+    },
+    {
+      "id": "a81acfaa2d140742ae20bf22e7cc67bb26ee363e2242e1901e8cc3a6c4684776",
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-17T21:50:26+00:00"
+    },
+    {
+      "id": "1276fb6b0a48564d56b14a05a98e6966749b52436e91b2a0186dc195ab8a132f",
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-17T18:08:28+00:00"
+    },
+    {
+      "id": "27eee14cdf147d2da05fa5454a91f0f3286ee22cb80b824bf791cd2bd2438ebf",
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-17T17:32:22+00:00"
+    },
+    {
+      "id": "ff28c02e7e1b51ea55c5b829213f8f53b69edc30ac1aec1a3e976bff69ef5926",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-17T17:11:34+00:00"
+    },
+    {
+      "id": "dccde9bd7fa995a712273092f9701fe30c46cfaa6e52477e837fd99d662384ab",
+      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+      "url": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+      "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-17T17:09:40+00:00"
+    },
+    {
+      "id": "a4d5b68cc5363c61e13c41ca9367e1e39d33fe886218c8e8501a49b699df43b9",
+      "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
+      "url": "https://therecord.media/china-hackers-latin-america-espionage",
+      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-17T16:30:00+00:00"
+    },
+    {
+      "id": "49a8ccbbe39e55f2b48298f7bb6185e6e1582ae866628d2802d94377ccc78e1d",
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "url": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+      "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-17T15:45:29+00:00"
+    },
+    {
+      "id": "c7d368380dd4413bae99eca7e351f8eb153b293d7b182ed5ae05d8e9ff168dab",
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement&nbsp;on September 15. The escape runs with the rights of the host account that ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-17T15:37:56+00:00"
+    },
     {
       "id": "15484f8742de72209fcb333b0ec6ea1d223cc884e98caff0b2c00154d975be16",
       "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
@@ -319,141 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-16T12:11:19+00:00"
-    },
-    {
-      "id": "f6002acdda56c2aa1ee9e269f843fc0b15ac1816eef0a581e998d3f17487f7f1",
-      "title": "US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware",
-      "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
-      "summary": "US, UK, and Dutch government agencies published a report detailing the malware, and the FBI described the abuse of Telegram for C&#038;C. The post US, UK, Dutch Agencies Expose Iranian &#8216;Chosen Brick&#8217; Surveillance Malware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-16T12:00:14+00:00"
-    },
-    {
-      "id": "f2f24ea2e19aab10b99a954d8bb93591f31df9e7f12c4d0081c7e99616aabf6c",
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single co",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-16T11:58:00+00:00"
-    },
-    {
-      "id": "7e51b3ed2d0e12ceb8e0100739c5e68f8be389d9b08152356823083283792272",
-      "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
-      "url": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
-      "summary": "Vulnerabilities in The Events Calendar can provide attackers with remote code execution capabilities. The post Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-16T11:32:53+00:00"
-    },
-    {
-      "id": "8f4404937cb63f29b4d89ed4a114969e028ca131e8756bfc016f2a6d90bca3e7",
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-16T11:15:58+00:00"
-    },
-    {
-      "id": "5a937b962d20ac975d21b84f7e06b7f522e3af28dd11977d8c73eec7b0150771",
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelera",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-16T11:15:48+00:00"
-    },
-    {
-      "id": "392afd7c15f5f526b6f2cd2ecda120264a874205ff8872060ea07995fc2d3170",
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-16T11:14:28+00:00"
-    },
-    {
-      "id": "da48e05844653cd9f3490a5907992780e08fdeb0610423e7d09994f4e6e1260d",
-      "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-      "url": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-      "summary": "The company will use the new capital to expand its vulnerability operations platform and support international growth. The post Hackuity Raises $19 Million for AI-Powered Vulnerability Management appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-16T11:11:23+00:00"
-    },
-    {
-      "id": "7b88c993f3771bfa6b77538b5c04df8131f56ad8949a450c491314dddc187bed",
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-16T11:08:54+00:00"
-    },
-    {
-      "id": "72ea866f10f0c6586ee5ce02d954f8ba99fc19dfff1949b602794c81e97c7249",
-      "title": "280,000 Impacted by Premier Medical Group Data Breach",
-      "url": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-      "summary": "In June 2026, hackers accessed files containing patients’ names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-16T10:47:18+00:00"
-    },
-    {
-      "id": "b76f610e837768fa332e6ccea92849c307bb3a9646305af105b16f0a7d326073",
-      "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-      "summary": "Google resolved 42 security defects in Chrome, and Mozilla fixed 73 bugs in Firefox. The post Chrome, Firefox Updates Patch 115 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-16T10:28:36+00:00"
-    },
-    {
-      "id": "464d62a610de4b464ff20ff42745bfb737e97dcbc657c4f686d644d518e6c673",
-      "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
-      "url": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-      "summary": "CVE-2026-87886 is a high-severity insecure file permissions flaw that can lead to local privilege escalation. The post Acronis Patches Exploited Vulnerability in cPanel Backup Plugin appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-16T09:52:31+00:00"
-    },
-    {
-      "id": "ffa89b89585692f776c6171937a3b331ce12b10d829d8510b6014745c4c925a9",
-      "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability",
-      "url": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/",
-      "summary": "The vulnerability, tracked as CVE-2026-5430, can be exploited to gain access to valuable enterprise data. The post Enterprises Warned of Attacks Exploiting WSO2 Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-16T08:39:05+00:00"
-    },
-    {
-      "id": "4967e51550a0269443a220032ca6ec0349ba1de22f805fe0624d0d7abfb1e5bf",
-      "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update",
-      "url": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
-      "summary": "The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws. The post Oracle Patches 800+ Vulnerabilities in September 2026 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-16T08:06:33+00:00"
-    },
-    {
-      "id": "a267aa5e6441e01f53b375c82d7b1b3f780247489501274b5a19c480ff344c1a",
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-16T07:00:19+00:00"
-    },
-    {
-      "id": "eee1a3572e34c6fdafebf2591e3dec3e0f826cc7e7cdcc14e007c9e54fbfe6dc",
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-16T05:48:28+00:00"
     }
   ]
 }
