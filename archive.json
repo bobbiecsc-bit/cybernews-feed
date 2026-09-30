@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-30T03:50:53.111964+00:00",
+  "updated": "2026-09-30T11:52:09.960635+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "d36b3ecb6626d39f2f2321186fc43a9d73c7e80d3b2343de07fae21ea5836698",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "id": "9c5f7a36dcb4fe9fed87dfe019cbf8a93ddc810128e6c226b7e8955c951aeb20",
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-30T11:19:00+00:00"
+    },
+    {
+      "id": "52ffe63dd45a7f657cae3bc86a60d143ee93741dc096045a6e4349596d5e91e9",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-30T11:11:46+00:00"
+    },
+    {
+      "id": "fbfb016e66db7b52619c9c24bd5e74bf3c6cd644d081d82f6b46129aaa44f44f",
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "summary": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-30T10:59:30+00:00"
+    },
+    {
+      "id": "4e63cd870861b1c90480cb308a4de3f0f43d7b1cddbd358a82099b095da34a64",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-30T10:45:00+00:00"
+    },
+    {
+      "id": "7595f834fb9c59d61123782134dcf96934ce2fa29b61865e7a51e6895e9909cd",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T08:24:35+00:00"
+    },
+    {
+      "id": "1b25f217f4254941e84d4a5c260521a80c5fb225034c1127c6144b7e2b59c5db",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak o",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T08:09:28+00:00"
+    },
+    {
+      "id": "a2c9b41769a0c066ffc0f03b15319ff3eb3f76e2ab385399a05bb6bc21cd8ffc",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T05:30:30+00:00"
+    },
     {
       "id": "aafd86b072fb4eb48f8925e8460ca7bbc31ca761df79df4e1dd861b1e56d980a",
       "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
@@ -51,7 +123,7 @@
       "id": "f429d2e637ac61626a595a0a6bef732447fcb8f2135750c35c1d84f2a3b3d6c9",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 varian",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 varian",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-29T17:20:17+00:00"
@@ -2179,78 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-17T14:28:00+00:00"
-    },
-    {
-      "id": "a2011e05889e82e31eae8efa5461d7198e4fb3b0bd708d0feb83d54b705d2c03",
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-17T14:03:13+00:00"
-    },
-    {
-      "id": "6f8939c423c210c0970b6264c5a886c490085090fd4d1c4753cf896a0d58da12",
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-17T14:01:11+00:00"
-    },
-    {
-      "id": "23e014b1301c3c5352ceaebdff4310d29df800f3ff2643474428cde6044eb9b4",
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-17T13:57:41+00:00"
-    },
-    {
-      "id": "6870166d2ea347ebe2cc0c01693c5ccc8845343df953cfa1a9957d312cf58816",
-      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
-      "url": "https://therecord.media/russia-election-hackers-breach",
-      "summary": "An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-17T13:45:00+00:00"
-    },
-    {
-      "id": "5ce6544ead6fde09b839c3e889916c7a256f55161f245cc77c1b176976caab76",
-      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-      "url": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "summary": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:39:28+00:00"
-    },
-    {
-      "id": "4341f2269a01efb541fca4c9782a3e8abfa4e76385981cd8f206066292ab0169",
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "id": "263c5127e5d6520583feada2cf2cb6230ed82a43ea438eae63b63591c295078c",
-      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-      "url": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-      "summary": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:29:53+00:00"
-    },
-    {
-      "id": "c67445e211719f1b2da685c1b3340e105d9ed7b03d4f641c887b83f07775bc45",
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "url": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "summary": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T12:17:40+00:00"
     }
   ]
 }

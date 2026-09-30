@@ -1,10 +1,82 @@
 {
-  "updated": "2026-09-30T03:50:53.111964+00:00",
+  "updated": "2026-09-30T11:52:09.960635+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d36b3ecb6626d39f2f2321186fc43a9d73c7e80d3b2343de07fae21ea5836698",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "id": "9c5f7a36dcb4fe9fed87dfe019cbf8a93ddc810128e6c226b7e8955c951aeb20",
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-30T11:19:00+00:00"
+    },
+    {
+      "id": "52ffe63dd45a7f657cae3bc86a60d143ee93741dc096045a6e4349596d5e91e9",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-30T11:11:46+00:00"
+    },
+    {
+      "id": "fbfb016e66db7b52619c9c24bd5e74bf3c6cd644d081d82f6b46129aaa44f44f",
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "summary": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-30T10:59:30+00:00"
+    },
+    {
+      "id": "4e63cd870861b1c90480cb308a4de3f0f43d7b1cddbd358a82099b095da34a64",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-a",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-30T10:45:00+00:00"
+    },
+    {
+      "id": "7595f834fb9c59d61123782134dcf96934ce2fa29b61865e7a51e6895e9909cd",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T08:24:35+00:00"
+    },
+    {
+      "id": "1b25f217f4254941e84d4a5c260521a80c5fb225034c1127c6144b7e2b59c5db",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak o",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T08:09:28+00:00"
+    },
+    {
+      "id": "a2c9b41769a0c066ffc0f03b15319ff3eb3f76e2ab385399a05bb6bc21cd8ffc",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T05:30:30+00:00"
+    },
     {
       "id": "aafd86b072fb4eb48f8925e8460ca7bbc31ca761df79df4e1dd861b1e56d980a",
       "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
@@ -54,7 +126,7 @@
       "id": "f429d2e637ac61626a595a0a6bef732447fcb8f2135750c35c1d84f2a3b3d6c9",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 varian",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 varian",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-29T17:20:17+00:00"
@@ -382,78 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-28T12:36:16+00:00"
-    },
-    {
-      "id": "a2739f1e6c8ad489cf5103689849208067f08ceed05633a4d0354dceccd80900",
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the framework unchanged, then overwrites its SOUL.md pers",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-28T11:46:00+00:00"
-    },
-    {
-      "id": "cbb75abd275d8005c14060561488f37c2019cd84e8844e102f880b0aab3c9c0c",
-      "title": "New Attack Against RSA",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "summary": "ArsTechnica is reporting on a &#8220;new&#8221; attack against RSA, one that bypasses factoring. First, this attack isn&#8217;t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not r",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-09-28T11:02:58+00:00"
-    },
-    {
-      "id": "3ba40df90f9bd63c00a6946aeed3f35fe8e5b1855b0a4652141d1a2a0826f46c",
-      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "summary": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of ShinyHunters&#8217; Fresh Oracle PeopleSoft Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-28T10:56:46+00:00"
-    },
-    {
-      "id": "3a00f8a749f7f3a7dea4cdca74224b00326a337742bb5ddad2b2d9a4d54359fd",
-      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
-      "url": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-      "summary": "The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-28T09:44:27+00:00"
-    },
-    {
-      "id": "2098b2b0b95774c394ef442942c3784626e5ec8c58d586a843411342d6bf5071",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-28T09:25:29+00:00"
-    },
-    {
-      "id": "6170da86528027aa14fb1ced010c779d5e95ad8ca376fbcb6f5b61f272428504",
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The at",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-28T09:08:21+00:00"
-    },
-    {
-      "id": "8742de811d755b3aa82cd0de56a3e9530cdfa672805b302a97eb1cb7f9f7e8ed",
-      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
-      "url": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-      "summary": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-28T07:29:51+00:00"
-    },
-    {
-      "id": "d10d67a734db59d52785ef77f79103bb1dd0e713d38200f920415878a984c99e",
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below - CVE-2026-88771 (CVSS score: 9.5)",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-28T07:21:49+00:00"
     }
   ]
 }
