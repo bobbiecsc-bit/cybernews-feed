@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-30T11:52:09.960635+00:00",
+  "updated": "2026-09-30T17:33:12.305104+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "37d3b9649beab632464bc51df021992b39cb31540fd12d4a0eadf5ef6c3bd3e8",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-30T15:49:29+00:00"
+    },
+    {
+      "id": "9475c717ac1e72751f86ed7fe483239d5df1ee431e31497e23c97ffcce6ab050",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T15:24:54+00:00"
+    },
+    {
+      "id": "72dbeeb1790cb6f9e42910a36852e91eeb822b7513c1f9cb75154632b99be12d",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another featur",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-30T15:00:15+00:00"
+    },
+    {
+      "id": "8f1d5c9abb6358583e2b64103e48262fc471693f9f3052b5b7609436a6d32d0e",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-30T14:46:40+00:00"
+    },
+    {
+      "id": "11a9439107b73ed1b62a3a561af8addaf953405e30e324fd160d43c38ba89a20",
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T14:05:58+00:00"
+    },
+    {
+      "id": "648cc19d9f9462d14f4f7f74693ab255f196d1895252706badb8b94d3921c3df",
+      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
+      "url": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
+      "summary": "'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "id": "29c0329f5a87d971653ef240f85147d1fc54925fb6ba59510f09d21a33ec3f76",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-30T13:37:15+00:00"
+    },
+    {
+      "id": "c17c6323a566c0babcaa95f25cdae6b5a1e25fdfe02f43ffebd307e66de02185",
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T13:16:56+00:00"
+    },
+    {
+      "id": "95684ad37268b48f7ee77b45556dec0e9ff01bf19d915f6cb85f928175565153",
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T12:48:20+00:00"
+    },
+    {
+      "id": "160a8af8d4d09a2b023ebde336b93d7d7e8cbedcc660fed18197a1ade6133ae4",
+      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "summary": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T12:16:52+00:00"
+    },
+    {
+      "id": "9b82783e55ffad786845725d7e69e80f0c09e353ff6843ba02ba35b3c1bb9ed7",
+      "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
+      "url": "https://therecord.media/russia-hackers-ukraine-blizzard",
+      "summary": "The Russian state-backed hacking group Star Blizzard has expanded its phishing operations this year, using a new technique that makes it easier to infect victims with malware.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-30T12:00:00+00:00"
+    },
+    {
+      "id": "239ba2260483c4a6a54868c2430389acaf16ccbc00b19008efe08562295d2149",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-30T11:58:00+00:00"
+    },
     {
       "id": "d36b3ecb6626d39f2f2321186fc43a9d73c7e80d3b2343de07fae21ea5836698",
       "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
@@ -2143,114 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-18T08:42:18+00:00"
-    },
-    {
-      "id": "d406454fd03ec4f1aedcea38429e5777d46fef4fbd2bbb04bb9b6402f9f424d9",
-      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-18T07:14:04+00:00"
-    },
-    {
-      "id": "d520678c4afb9aa5d54fa93c9be6ac4af465778271027f86fa7fcd0d35c1d8ef",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phish",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-18T06:17:25+00:00"
-    },
-    {
-      "id": "60dccb14efa72334d940fd1b428b64cb35845e9c23a7036a8aaa40e4f19ebf34",
-      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
-      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
-      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-18T04:00:00+00:00"
-    },
-    {
-      "id": "a81acfaa2d140742ae20bf22e7cc67bb26ee363e2242e1901e8cc3a6c4684776",
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-17T21:50:26+00:00"
-    },
-    {
-      "id": "1276fb6b0a48564d56b14a05a98e6966749b52436e91b2a0186dc195ab8a132f",
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T18:08:28+00:00"
-    },
-    {
-      "id": "27eee14cdf147d2da05fa5454a91f0f3286ee22cb80b824bf791cd2bd2438ebf",
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying a",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-17T17:32:22+00:00"
-    },
-    {
-      "id": "ff28c02e7e1b51ea55c5b829213f8f53b69edc30ac1aec1a3e976bff69ef5926",
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-17T17:11:34+00:00"
-    },
-    {
-      "id": "dccde9bd7fa995a712273092f9701fe30c46cfaa6e52477e837fd99d662384ab",
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "url": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-17T17:09:40+00:00"
-    },
-    {
-      "id": "a4d5b68cc5363c61e13c41ca9367e1e39d33fe886218c8e8501a49b699df43b9",
-      "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
-      "url": "https://therecord.media/china-hackers-latin-america-espionage",
-      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-17T16:30:00+00:00"
-    },
-    {
-      "id": "49a8ccbbe39e55f2b48298f7bb6185e6e1582ae866628d2802d94377ccc78e1d",
-      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-      "url": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-      "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-17T15:45:29+00:00"
-    },
-    {
-      "id": "c7d368380dd4413bae99eca7e351f8eb153b293d7b182ed5ae05d8e9ff168dab",
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&nbsp;security announcement&nbsp;on September 15. The escape runs with the rights of the host account that ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-17T15:37:56+00:00"
-    },
-    {
-      "id": "15484f8742de72209fcb333b0ec6ea1d223cc884e98caff0b2c00154d975be16",
-      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-      "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-      "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-17T14:28:00+00:00"
     }
   ]
 }
