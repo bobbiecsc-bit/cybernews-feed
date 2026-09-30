@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-30T17:33:12.305104+00:00",
+  "updated": "2026-09-30T21:50:00.873709+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2d28f457acee0ed72eb826b47e9eedcb3fe441ef2d30d842e49e5added18f12a",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-30T20:34:01+00:00"
+    },
+    {
+      "id": "3776ad1cae04a940ba5533984bb3535b0bb6b144bc72d85f9fbb8cd3112aff8e",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-30T19:49:15+00:00"
+    },
+    {
+      "id": "f08e8a8cad2764711084cd00dabe00ad5cefc14afb58be04bdc3f16829fc6e6e",
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T16:46:29+00:00"
+    },
+    {
+      "id": "cb2af8d2a0d2744bb1110a6b2de1091fdfa4e845037b6c5611d4828af8809313",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-30T16:32:59+00:00"
+    },
     {
       "id": "37d3b9649beab632464bc51df021992b39cb31540fd12d4a0eadf5ef6c3bd3e8",
       "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
@@ -2206,51 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-09-18T10:57:03+00:00"
-    },
-    {
-      "id": "987fdbb14989de685462b433ba7cbc14ffc65a10b8e1cf46b8b9be5364b66e66",
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democr",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-18T10:40:06+00:00"
-    },
-    {
-      "id": "110c0e0c97cb2e8d186c68ed7880cf6d62019a6d8518b07bfb937db7febae825",
-      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-      "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-18T09:46:57+00:00"
-    },
-    {
-      "id": "9bc8b96fcffe1f82427719f0fecf959bc321a37fef8e05e74cf2e159f1914566",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-18T09:34:33+00:00"
-    },
-    {
-      "id": "1963d1923e71383cfdc7ff37dd1f76ca0a56f0d28f67f1caa48dbd847001cd69",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confide",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-18T09:18:03+00:00"
-    },
-    {
-      "id": "a36ec0e8e772e32b44c210b9387bddcbb67075bea9e05505f5c4136cb0bd3b13",
-      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-18T08:42:18+00:00"
     }
   ]
 }

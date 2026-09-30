@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-30T17:33:12.305104+00:00",
+  "updated": "2026-09-30T21:50:00.873709+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5859ebb6f1f83afa1ae9e559abd61f300c04a0dd34f3d0d98d90759bbe0a6a40",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at pri",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-25T11:30:00+00:00"
+    },
+    {
+      "id": "0fba6d21f98399f0f411d430897caf3a6946e6bbd50ea209d4ed7d1f76034cbf",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp; \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" Bitget said in a post ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-25T10:35:55+00:00"
+    },
+    {
+      "id": "8479bfbd51e5d520d267043fb08ba45c7a5cb472a83a35c26c15fae2856b0027",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T10:14:02+00:00"
+    },
+    {
+      "id": "1502574124fb666c953922b0a3188b16c60b962148980db11db0fd8ba4190274",
+      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "summary": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post &#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-09-25T09:27:51+00:00"
+    },
+    {
+      "id": "4ef5d17c61039a39102b423cc57725eb11a4a9550d7e2148e8cdb0db85762738",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-25T08:33:44+00:00"
+    },
     {
       "id": "d1f0d307ae3b72f7e16eba8485b1b9e7b7831973e0721d918e04636a735f01ce",
       "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-23T12:29:53+00:00"
-    },
-    {
-      "id": "879d2dbbe17ddaa7f2d1e984ff80a02a3a179754d9d5601c87bf4fa8aae4dac2",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T12:16:00+00:00"
-    },
-    {
-      "id": "9e58e34631c531964fb27bfeeb117a3715488ebe0e5fc72a976c3cd6b12e6a7d",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:47:19+00:00"
-    },
-    {
-      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:40:59+00:00"
-    },
-    {
-      "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-23T11:23:30+00:00"
-    },
-    {
-      "id": "a94e3997808254607df47877173b5b540912ac7b261bedfbe868b71c493ecc5f",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:12:18+00:00"
     }
   ]
 }

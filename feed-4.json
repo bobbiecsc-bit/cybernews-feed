@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-30T17:33:12.305104+00:00",
+  "updated": "2026-09-30T21:50:00.873709+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "879d2dbbe17ddaa7f2d1e984ff80a02a3a179754d9d5601c87bf4fa8aae4dac2",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T12:16:00+00:00"
+    },
+    {
+      "id": "9e58e34631c531964fb27bfeeb117a3715488ebe0e5fc72a976c3cd6b12e6a7d",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:47:19+00:00"
+    },
+    {
+      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:40:59+00:00"
+    },
+    {
+      "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
+      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-09-23T11:23:30+00:00"
+    },
+    {
+      "id": "a94e3997808254607df47877173b5b540912ac7b261bedfbe868b71c493ecc5f",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:12:18+00:00"
+    },
     {
       "id": "ee5f7b9028c8f03a5bb6e44230beb26cc2dd6bd34a51ba80c1c16f39714f2ca9",
       "title": "Chrome 154 Patches 108 Vulnerabilities",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-22T05:31:59+00:00"
-    },
-    {
-      "id": "7a6663942eb5f27773742dd51591c4a243bdd3c2385e1f866c434b3ed3d53a64",
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-21T21:18:49+00:00"
-    },
-    {
-      "id": "522af8b6ffea78c37b78b4edf4f9d68325f1aece2b251d7f059e1f5d14d9e689",
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T20:12:17+00:00"
-    },
-    {
-      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T18:23:11+00:00"
-    },
-    {
-      "id": "f2aa6f9693d4bf840038ffaf83992ca8accac35557fd46618b02a59c5bb9538f",
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-co",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-21T17:31:01+00:00"
-    },
-    {
-      "id": "80aeffa58d55925260cd199e5199549ee2d23db442a9f502cb00ac29c8631d49",
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-21T17:19:53+00:00"
     }
   ]
 }

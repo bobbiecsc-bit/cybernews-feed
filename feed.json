@@ -1,10 +1,55 @@
 {
-  "updated": "2026-09-30T17:33:12.305104+00:00",
+  "updated": "2026-09-30T21:50:00.873709+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2d28f457acee0ed72eb826b47e9eedcb3fe441ef2d30d842e49e5added18f12a",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-30T20:34:01+00:00"
+    },
+    {
+      "id": "3776ad1cae04a940ba5533984bb3535b0bb6b144bc72d85f9fbb8cd3112aff8e",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-30T19:49:15+00:00"
+    },
+    {
+      "id": "f08e8a8cad2764711084cd00dabe00ad5cefc14afb58be04bdc3f16829fc6e6e",
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T16:46:29+00:00"
+    },
+    {
+      "id": "cb2af8d2a0d2744bb1110a6b2de1091fdfa4e845037b6c5611d4828af8809313",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-30T16:32:59+00:00"
+    },
     {
       "id": "37d3b9649beab632464bc51df021992b39cb31540fd12d4a0eadf5ef6c3bd3e8",
       "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-29T06:08:25+00:00"
-    },
-    {
-      "id": "50972d407b47a0bfb0cedf6bdc92556a31718753e17e4658e3f2318a27816447",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-29T04:45:20+00:00"
-    },
-    {
-      "id": "47eb4c83c66d49707a15bdfd1c2b784181ed9675330806ef3d277fbf35ba370d",
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-09-28T22:35:35+00:00"
-    },
-    {
-      "id": "ccc11f98d4a8d3b30fe01b87eeed3b3d74e81278f9d3d9b10191851a52946c6d",
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-28T20:56:47+00:00"
-    },
-    {
-      "id": "12100c22384661b5f889d99beaae6601aec020a71158ed54af32d0e0ec85f94a",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-28T20:31:16+00:00"
-    },
-    {
-      "id": "ebc12d55e12ae3e2f7c8dd7ac744d249b53e5fd3b4381cdcd0eaac1c525a1626",
-      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-      "summary": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-28T19:30:00+00:00"
     }
   ]
 }
