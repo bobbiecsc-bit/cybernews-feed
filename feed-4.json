@@ -1,10 +1,118 @@
 {
-  "updated": "2026-10-01T03:59:03.907030+00:00",
+  "updated": "2026-10-01T12:22:19.467241+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d1ccb5f32ae97e153e401137d41045a9ab60f2e49544bedfccc0c75a3cc63714",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraf",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-23T18:06:30+00:00"
+    },
+    {
+      "id": "88652842189aea577c218cacbddc5c92667b29d4cd337a33902b6cc08c2066de",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:53:10+00:00"
+    },
+    {
+      "id": "8b8a2ad63964807c5ed8905f16a9ceb627c8570d29e51986abf356c76b25bdaa",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-23T16:20:54+00:00"
+    },
+    {
+      "id": "20d13eec11e10062f8517b8036cfdc069930b4a744077237ee67021f57727d76",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an a",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T16:06:41+00:00"
+    },
+    {
+      "id": "d7b6374e018b30ea34fbcfb64939cf2149d395eec9b8b0a83507e11ec9147498",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-DOJ",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-23T15:30:00+00:00"
+    },
+    {
+      "id": "7957a9d06e86e953d1b6b08fe6962d7502ad1787713f46791d9e1c7203ebf428",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-doj",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-23T15:30:00+00:00"
+    },
+    {
+      "id": "957f7dd38517e98285d9b6a305a51f5e9daf93cc1ac6d7c2b73fd82540e69eb7",
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T14:35:26+00:00"
+    },
+    {
+      "id": "5ee61930755a426efcc76ae097c9604c3bfa367fdcae23d4527f1e74fab1fa82",
+      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+      "url": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+      "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-23T14:22:00+00:00"
+    },
+    {
+      "id": "1e2c3d8631df9e51eed4d916238e3ca46086eb3d41241ff654fcde7613f23ce3",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-23T14:17:58+00:00"
+    },
+    {
+      "id": "721edf9e0fd77681aec55a926bd75a914e0ee2204147075f414370b658db40c5",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organizati",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T14:01:11+00:00"
+    },
+    {
+      "id": "344fcd62c82a77ffaa2e28235f4c5a864f5d626d211310920735c7ed0ffca763",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and Step",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T13:52:46+00:00"
+    },
+    {
+      "id": "94b7ca55b2ecc2e7d02a886da0572bbdce8c7e76f5f470c9c54d2731cba571ac",
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-23T12:45:00+00:00"
+    },
     {
       "id": "a0cbe8a44ac42e90c0f2587553c11edbf436b45a9845fbf14717e5d2752c91bd",
       "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
@@ -346,114 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-09-22T11:55:20+00:00"
-    },
-    {
-      "id": "7a101672fcceea643a088456ace896f81df8d047068fe63124cfc43a58196c0f",
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and docume",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-22T11:45:00+00:00"
-    },
-    {
-      "id": "319e5d081a9add14cf201d25d8ad3110fa674bfc984c1ce0fd6904ce11a7b348",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as&nbsp;CVE-2026-89775, allows a guest to read and write host kernel memory, and the r",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-22T11:38:40+00:00"
-    },
-    {
-      "id": "90fcfd488b694da50d701203b40aadd9eeb0bd0ea28172284c7ffef421e644b4",
-      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
-      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-      "summary": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-22T11:33:59+00:00"
-    },
-    {
-      "id": "b3e51b621cf3a9ced28c752bcf95e936725bca9c71042e2e4fd35778f916fb82",
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&nbsp;full technical details&nbsp;published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T11:17:41+00:00"
-    },
-    {
-      "id": "c57545becb57187609c29cfd16944fded01100ec0ef2519962fff5d76c095ad4",
-      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-      "summary": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches &#8216;Click2Shell&#8217; Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-22T10:22:27+00:00"
-    },
-    {
-      "id": "9228fd09d5251b1310f130a160ac6f28e26a6d767692f157aa9a080afea1dfcb",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-22T09:55:11+00:00"
-    },
-    {
-      "id": "9806c677170e776ddc2656f75eae5814fc87b5e72464e6ad7ee2a478ee8ee3ff",
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimi",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-22T09:38:18+00:00"
-    },
-    {
-      "id": "1f3d832dd5539f77684c8c84ffc87232022a6708ee6a5dc5a8f78906fb1d5a4e",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-22T08:53:09+00:00"
-    },
-    {
-      "id": "6070cf1d38b497fcbfebfe27d4d25ca506619dcaae882bc4e6b2ace991bb13da",
-      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-      "url": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "summary": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-22T08:37:06+00:00"
-    },
-    {
-      "id": "c8f864c65cb4096eaceab307872e99eaf6ab231129cd5dbd568a01d068ada970",
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-22T07:52:03+00:00"
-    },
-    {
-      "id": "f549f03719ff52a60e2a739d43a4dce9c90558c60c1aa12a8924cbb015d20f53",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21. It works by changing a hidden setting so that when the user taps the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-22T06:33:57+00:00"
-    },
-    {
-      "id": "fc67da5b97ae819f12671f6165da34bc3185cad07cd651f41502a8f8078f646d",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as&nbsp;CVE-2026-93485&nbsp;and called \"Comment2Shell",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T06:03:14+00:00"
     }
   ]
 }
