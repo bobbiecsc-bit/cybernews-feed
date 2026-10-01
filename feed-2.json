@@ -1,10 +1,19 @@
 {
-  "updated": "2026-09-30T21:50:00.873709+00:00",
+  "updated": "2026-10-01T03:59:03.907030+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c401e28ae2c1d6950f779a0ad449852ec3bcb85c571649f6888a281cb24d57e3",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "summary": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the P",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-29T06:08:25+00:00"
+    },
     {
       "id": "50972d407b47a0bfb0cedf6bdc92556a31718753e17e4658e3f2318a27816447",
       "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "id": "e20c79b4079910e9151098b1babff83bae2fb1d548e65117f5de9f5452f6a387",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-25T11:35:14+00:00"
     }
   ]
 }
