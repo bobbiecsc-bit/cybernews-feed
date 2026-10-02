@@ -1,10 +1,55 @@
 {
-  "updated": "2026-10-02T17:23:42.510681+00:00",
+  "updated": "2026-10-02T21:46:48.121366+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "94b7ca55b2ecc2e7d02a886da0572bbdce8c7e76f5f470c9c54d2731cba571ac",
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-23T12:45:00+00:00"
+    },
+    {
+      "id": "a0cbe8a44ac42e90c0f2587553c11edbf436b45a9845fbf14717e5d2752c91bd",
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T12:29:53+00:00"
+    },
+    {
+      "id": "879d2dbbe17ddaa7f2d1e984ff80a02a3a179754d9d5601c87bf4fa8aae4dac2",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T12:16:00+00:00"
+    },
+    {
+      "id": "9e58e34631c531964fb27bfeeb117a3715488ebe0e5fc72a976c3cd6b12e6a7d",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:47:19+00:00"
+    },
+    {
+      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
+      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-23T11:40:59+00:00"
+    },
     {
       "id": "6258db133add06a7a1b5df3bd7b7647594a17118799e960644320467af23d794",
       "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-09-22T06:33:57+00:00"
-    },
-    {
-      "id": "fc67da5b97ae819f12671f6165da34bc3185cad07cd651f41502a8f8078f646d",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as&nbsp;CVE-2026-93485&nbsp;and called \"Comment2Shell",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T06:03:14+00:00"
-    },
-    {
-      "id": "b6c97dd33bcff55ff56f619be0c87f080686efe8aa49195d3a254bc7031fd62e",
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T05:31:59+00:00"
-    },
-    {
-      "id": "7a6663942eb5f27773742dd51591c4a243bdd3c2385e1f866c434b3ed3d53a64",
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-21T21:18:49+00:00"
-    },
-    {
-      "id": "522af8b6ffea78c37b78b4edf4f9d68325f1aece2b251d7f059e1f5d14d9e689",
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T20:12:17+00:00"
-    },
-    {
-      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T18:23:11+00:00"
     }
   ]
 }

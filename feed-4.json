@@ -1,10 +1,55 @@
 {
-  "updated": "2026-10-02T17:23:42.510681+00:00",
+  "updated": "2026-10-02T21:46:48.121366+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e127d513ce8e0a300ed32ec1d4b889ef2471816766be00f86cff9e08b5935269",
+      "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
+      "url": "https://therecord.media/openai-australia-breach-cyber",
+      "summary": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-09-25T12:00:00+00:00"
+    },
+    {
+      "id": "e20c79b4079910e9151098b1babff83bae2fb1d548e65117f5de9f5452f6a387",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-25T11:35:14+00:00"
+    },
+    {
+      "id": "5859ebb6f1f83afa1ae9e559abd61f300c04a0dd34f3d0d98d90759bbe0a6a40",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at pri",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-25T11:30:00+00:00"
+    },
+    {
+      "id": "0fba6d21f98399f0f411d430897caf3a6946e6bbd50ea209d4ed7d1f76034cbf",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp; \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" Bitget said in a post ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-25T10:35:55+00:00"
+    },
+    {
+      "id": "8479bfbd51e5d520d267043fb08ba45c7a5cb472a83a35c26c15fae2856b0027",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versio",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-25T10:14:02+00:00"
+    },
     {
       "id": "1502574124fb666c953922b0a3188b16c60b962148980db11db0fd8ba4190274",
       "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-23T13:52:46+00:00"
-    },
-    {
-      "id": "94b7ca55b2ecc2e7d02a886da0572bbdce8c7e76f5f470c9c54d2731cba571ac",
-      "title": "Latvia arrests suspected hacker for electronics repair company breach",
-      "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
-      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-23T12:45:00+00:00"
-    },
-    {
-      "id": "a0cbe8a44ac42e90c0f2587553c11edbf436b45a9845fbf14717e5d2752c91bd",
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-23T12:29:53+00:00"
-    },
-    {
-      "id": "879d2dbbe17ddaa7f2d1e984ff80a02a3a179754d9d5601c87bf4fa8aae4dac2",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T12:16:00+00:00"
-    },
-    {
-      "id": "9e58e34631c531964fb27bfeeb117a3715488ebe0e5fc72a976c3cd6b12e6a7d",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a securit",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:47:19+00:00"
-    },
-    {
-      "id": "2a20c10de031bb7cf02ced62ca48c8abf42f03da5a8c2ff8cadadc695671f5d2",
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T11:40:59+00:00"
     }
   ]
 }

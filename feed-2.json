@@ -1,10 +1,55 @@
 {
-  "updated": "2026-10-02T17:23:42.510681+00:00",
+  "updated": "2026-10-02T21:46:48.121366+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "87574535fedc74f2af39dd07ae40acabc5c7058e7f6fb382f661e0b31acf9b29",
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations &amp; Research (THOR) team, which analyzed the exploi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-01T04:35:34+00:00"
+    },
+    {
+      "id": "b42013daebdfc3b076d4037214d0f0c8d0e704952b5dd0bda153cd245ad3593f",
+      "title": "US sanctions 10 over ATM malware scheme tied to Tren de Aragua",
+      "url": "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
+      "summary": "Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-30T22:35:00+00:00"
+    },
+    {
+      "id": "2d28f457acee0ed72eb826b47e9eedcb3fe441ef2d30d842e49e5added18f12a",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-09-30T20:34:01+00:00"
+    },
+    {
+      "id": "3776ad1cae04a940ba5533984bb3535b0bb6b144bc72d85f9fbb8cd3112aff8e",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-09-30T19:49:15+00:00"
+    },
+    {
+      "id": "f08e8a8cad2764711084cd00dabe00ad5cefc14afb58be04bdc3f16829fc6e6e",
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-09-30T19:00:00+00:00"
+    },
     {
       "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
@@ -409,51 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-29T07:33:12+00:00"
-    },
-    {
-      "id": "cb061ceb53a9d351d7c29275af75add5288f1ac0d7d111f048f78484bf0b4d3a",
-      "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-      "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-      "summary": "Apple released iOS and macOS updates to patch a zero-day vulnerability (CVE-2026-86950) reported by Meta’s product security team. The post Apple Patches Zero-Day Linked to &#8216;Extremely Sophisticated Attack&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-29T06:18:27+00:00"
-    },
-    {
-      "id": "c401e28ae2c1d6950f779a0ad449852ec3bcb85c571649f6888a281cb24d57e3",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "summary": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the P",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-29T06:08:25+00:00"
-    },
-    {
-      "id": "50972d407b47a0bfb0cedf6bdc92556a31718753e17e4658e3f2318a27816447",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-29T04:45:20+00:00"
-    },
-    {
-      "id": "47eb4c83c66d49707a15bdfd1c2b784181ed9675330806ef3d277fbf35ba370d",
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-09-28T22:35:35+00:00"
-    },
-    {
-      "id": "ccc11f98d4a8d3b30fe01b87eeed3b3d74e81278f9d3d9b10191851a52946c6d",
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-28T20:56:47+00:00"
     }
   ]
 }

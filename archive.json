@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-02T17:23:42.510681+00:00",
+  "updated": "2026-10-02T21:46:48.121366+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "1a019c2da70684a54f4db9136963428c2bcf5754e420011eb025c374eaf24a1a",
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-02T19:01:40+00:00"
+    },
+    {
+      "id": "e611cb20ae49777dc80b029ef786388b202ffb91926d37fd3c041cc562f95a89",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-02T18:33:01+00:00"
+    },
+    {
+      "id": "5ef20bc51467188265c7518d9944e2d8e0f120302b7d2451ea66da373fe27a7c",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-02T17:33:31+00:00"
+    },
+    {
+      "id": "2fb0abb39d71922812ae99c167e45492c1cf26f035bd56f26093f4765697c204",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deploym",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-02T17:33:16+00:00"
+    },
+    {
+      "id": "5f13530361d7760b64b43979cd241364ec98ddd8abe4e1e18dfea966d64ba380",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for criti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-02T17:02:12+00:00"
+    },
     {
       "id": "9814dffcb60cd9ffa06c7949cfc9101f6ec9faea757a94bbc13d83e6ceba2d31",
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-09-22T06:33:57+00:00"
-    },
-    {
-      "id": "fc67da5b97ae819f12671f6165da34bc3185cad07cd651f41502a8f8078f646d",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as&nbsp;CVE-2026-93485&nbsp;and called \"Comment2Shell",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T06:03:14+00:00"
-    },
-    {
-      "id": "b6c97dd33bcff55ff56f619be0c87f080686efe8aa49195d3a254bc7031fd62e",
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-22T05:31:59+00:00"
-    },
-    {
-      "id": "7a6663942eb5f27773742dd51591c4a243bdd3c2385e1f866c434b3ed3d53a64",
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-21T21:18:49+00:00"
-    },
-    {
-      "id": "522af8b6ffea78c37b78b4edf4f9d68325f1aece2b251d7f059e1f5d14d9e689",
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T20:12:17+00:00"
-    },
-    {
-      "id": "7c13e8164b6aa5d1e74e663226c085419f3d458a99e81825a829171f6a3f0be2",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-21T18:23:11+00:00"
     }
   ]
 }
