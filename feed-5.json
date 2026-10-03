@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-03T11:02:57.359311+00:00",
+  "updated": "2026-10-03T15:40:04.408778+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1e2c3d8631df9e51eed4d916238e3ca46086eb3d41241ff654fcde7613f23ce3",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-23T14:17:58+00:00"
+    },
+    {
+      "id": "721edf9e0fd77681aec55a926bd75a914e0ee2204147075f414370b658db40c5",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organizati",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-23T14:01:11+00:00"
+    },
+    {
+      "id": "344fcd62c82a77ffaa2e28235f4c5a864f5d626d211310920735c7ed0ffca763",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and Step",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-09-23T13:52:46+00:00"
+    },
     {
       "id": "94b7ca55b2ecc2e7d02a886da0572bbdce8c7e76f5f470c9c54d2731cba571ac",
       "title": "Latvia arrests suspected hacker for electronics repair company breach",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-09-22T08:53:09+00:00"
-    },
-    {
-      "id": "6070cf1d38b497fcbfebfe27d4d25ca506619dcaae882bc4e6b2ace991bb13da",
-      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-      "url": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "summary": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-22T08:37:06+00:00"
-    },
-    {
-      "id": "c8f864c65cb4096eaceab307872e99eaf6ab231129cd5dbd568a01d068ada970",
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-22T07:52:03+00:00"
-    },
-    {
-      "id": "f549f03719ff52a60e2a739d43a4dce9c90558c60c1aa12a8924cbb015d20f53",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21. It works by changing a hidden setting so that when the user taps the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-22T06:33:57+00:00"
     }
   ]
 }
