@@ -1,7 +1,115 @@
 {
-  "updated": "2026-10-06T04:43:03.242289+00:00",
+  "updated": "2026-10-06T12:41:57.134938+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "0d2a51b21028dbfb807b576a115673f2b5f1977f4857a379b50021e8c738fa40",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-06T11:57:00+00:00"
+    },
+    {
+      "id": "5c899de9ddbf338aac47b29a27ebd2f22eb4c38698b109696f24160b4df27f68",
+      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
+      "summary": "404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn&#8217;t been used for 72 hours. The new techno",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-10-06T11:06:46+00:00"
+    },
+    {
+      "id": "5d17f36a69e741e860b843ce9faf13d7db9dc3d066fd77974ecf56ce4e8f4402",
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "url": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "summary": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-06T10:34:25+00:00"
+    },
+    {
+      "id": "2c43cef88c38367d55d24e02d06287d3799b926ad192e1cf82a7780da848baf7",
+      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+      "url": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "summary": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-06T09:38:30+00:00"
+    },
+    {
+      "id": "3a8c72da98193920c69f754e83b89cea6771b0d2527090204bd5d2991f0d4cee",
+      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
+      "url": "https://isc.sans.edu/diary/rss/33400",
+      "summary": "It seems that a trend started&#x26;#xe2;&#x26;#x80;&#x26;#xa6; I continue my journey discovering more RMM (\"Remote Management &#x26; Monitoring\") tools abused by threat actors&#x21; A few days ago, I wrote a diary&#x5b;1&#x5d; about ScreenConnect used in the wild. Today, I found another one.&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-10-06T09:34:56+00:00"
+    },
+    {
+      "id": "8a072195000a84bf267221bd59d40ead6886a0dbadfad3c871e6cc307fd78f72",
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-06T09:25:50+00:00"
+    },
+    {
+      "id": "0b1fb37b29c25d4c371dfa6489ba3c7ada530fab5a7f4b9e88e7b4061682b9fb",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. R",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-06T09:21:47+00:00"
+    },
+    {
+      "id": "5a2d043e5a7f3312e9e89cf993667f0a2cbd585c17d9479844dcd8eb44ccf9d1",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-06T08:19:24+00:00"
+    },
+    {
+      "id": "f57b4be0b51a470e49c854e28c3b47b423c03f4ae85e5ddffa6e8b6091db56c5",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-06T06:58:56+00:00"
+    },
+    {
+      "id": "e8fc3bf6b8bd024b0f3f60aabfa5892dd135079c0396efdf29e6bc989a1b3e5c",
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To d",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-06T06:56:57+00:00"
+    },
+    {
+      "id": "4a058ff83e7c746eccc7ce44633653dd377836ea222248a1624f23eb10dbe3c9",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry&nbsp;said on October 5. They used a private Danish company's lawful righ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-06T06:00:30+00:00"
+    },
+    {
+      "id": "fe8af18cdfe3184775d0793436b1c28c493f42420806e0a0c94df30d6e0a84f2",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the brows",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-06T05:22:55+00:00"
+    },
     {
       "id": "243a0ed18472aa6d5924d8d79f6d99a659c915816c776e9110ed1a108b1a946f",
       "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
@@ -2143,114 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-09-23T08:29:48+00:00"
-    },
-    {
-      "id": "47e5a40f39f4aa51b0af066f136c491b578c8826720eca0cbb157edc4e2eb7e6",
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of two vulnerabilities in Chrome (CVE-2026-85046, CVE",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T08:29:24+00:00"
-    },
-    {
-      "id": "a1294697a94593a140dcd7593d9ea3b510cf57d7bef3aece1665899d64603607",
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-23T08:20:05+00:00"
-    },
-    {
-      "id": "56b3d054ffe5b57f006b27bf06852b7a7e00f5d166db8f2c7ca9ef878dd6d239",
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "summary": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:34:18+00:00"
-    },
-    {
-      "id": "e1f16ad60edbc25a9b408cfdda5961b6eb0c3994ea7604c454523d8dc582cab6",
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:17:23+00:00"
-    },
-    {
-      "id": "f683f61314b4c3c6c3c565c20458b345d43da10345e8dfdb129f1958767de970",
-      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-      "url": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-      "summary": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-23T07:13:49+00:00"
-    },
-    {
-      "id": "cda8fee2780106d9dce056e5e48523e592663bb8084e4b205bd4242623f899f9",
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, int",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-23T07:04:40+00:00"
-    },
-    {
-      "id": "7aed67fb665e029f5fd5be3b299a56f494ed8a09ceced72829147e8684d326f6",
-      "title": "Check Point Patches Exploited Management Server Zero-Day",
-      "url": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-      "summary": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-23T06:14:03+00:00"
-    },
-    {
-      "id": "c2b107c39a2f79f3f33afd628070d6cc5472c2d15c17c6f52610118bd1263d20",
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-23T05:30:09+00:00"
-    },
-    {
-      "id": "907c082edb0842aed7715af66ee392abc625997c10e6e67d67d67b26b86404fb",
-      "title": "Rogue external MFA providers can steal passwords during logins",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
-      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-22T21:45:45+00:00"
-    },
-    {
-      "id": "9a8c2d680adb738443acf121bc8c71fd1917e4645e0564bccca786ebea057b02",
-      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-22T21:40:37+00:00"
-    },
-    {
-      "id": "178864dedd5d0fdb7e572ef2bdf858aeb3b85833a3d76e5e92047d907e0dd84d",
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-22T20:35:24+00:00"
-    },
-    {
-      "id": "5204aaedc51d4d0b7247a3a64c138b3d51160b3de9bc58dedc31767d424fe121",
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-22T19:13:29+00:00"
     }
   ]
 }
