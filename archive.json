@@ -1,7 +1,169 @@
 {
-  "updated": "2026-10-07T12:35:26.693970+00:00",
+  "updated": "2026-10-07T22:38:18.315675+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "049aad3b8e0ab1a7e8fd67558036fcacc93a9cf5f273d12a22ce91937892a5b8",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-07T21:28:54+00:00"
+    },
+    {
+      "id": "7f3dc49181a94be7982b728b3a31f174f2ad1fd301318881278e31072f73cb88",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-07T20:50:13+00:00"
+    },
+    {
+      "id": "a654a360d68cc30ec3a696c4b6bf0fbbd379fb0f713514cbae90b87ce81ebc69",
+      "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
+      "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+      "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-07T19:50:00+00:00"
+    },
+    {
+      "id": "d19160e8f030fa9c6064cfaec96bb968f2a2e24e343f794891de058a198a39eb",
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T18:48:17+00:00"
+    },
+    {
+      "id": "7806992aa6ee9c4b844404759deba531481958dc1868c45db127f4e28ead274b",
+      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
+      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
+      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-07T18:31:00+00:00"
+    },
+    {
+      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T17:43:20+00:00"
+    },
+    {
+      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T16:17:44+00:00"
+    },
+    {
+      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:34:53+00:00"
+    },
+    {
+      "id": "99a195ea89001c923b5a6f38ecf8fd569fe5c258253a20566a29c386db3b5fb6",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivate",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T15:33:51+00:00"
+    },
+    {
+      "id": "3c3ca0f12e618495dcb64af3a19725ae7f58441110bbb59d10d88a25042b74c1",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:04:08+00:00"
+    },
+    {
+      "id": "394be2a0c7c952ffe93faf072b4bb21534360e14c5caeb4ad06d1a1e575d5e79",
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "summary": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;CVE-2026-21589&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5d&#x3b;. An atta",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-07T14:59:33+00:00"
+    },
+    {
+      "id": "673aae8d660f14e837548df2fd305d80ab7b4f2b8bc3e1a86877a660f5db2016",
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T14:15:20+00:00"
+    },
+    {
+      "id": "69f65ecd6d96b4b572da21306206ed58ce2d962114860fe42302f1a8fac95c7d",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-07T14:01:11+00:00"
+    },
+    {
+      "id": "2c4e6a4177d19a1d8c4aed8fb2438d684208cc979711213a43b299bcedbb8e77",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was ",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-10-07T13:48:45+00:00"
+    },
+    {
+      "id": "c8213cf695f3ccec3eb59397706c4c54e1632b6be5a818ba3c49708352a355d6",
+      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T13:47:12+00:00"
+    },
+    {
+      "id": "7f62466206d4950a7db624bd313fe97aa4bf278bfca8a1214066db445b5aae67",
+      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-07T13:06:10+00:00"
+    },
+    {
+      "id": "4e5e4a2f6d27f72a2915e61af85af3dd860cb982ee6bc905de4c0aaa263fa9ce",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T12:49:01+00:00"
+    },
+    {
+      "id": "7398b758d01272d1c3a9d6dec2a0145a7636e52431ac5e071425606e63aa59fb",
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T12:37:24+00:00"
+    },
     {
       "id": "98f167473783047aae3ab93d4f0981529810bceca2913b52052d5b19ac0f566d",
       "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
@@ -2089,168 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-09-24T14:29:06+00:00"
-    },
-    {
-      "id": "1c3c43c410792b809c0eabd17defeeb17138ff680b36a6a80a06e0d34d87d207",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated complian",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-24T14:02:12+00:00"
-    },
-    {
-      "id": "6e191e9f9662ff8131869138e0204eedf9ff3d2ee858b2177ed36bc59dad5e43",
-      "title": "Kyiv internet providers report major outages after Russian attacks damage data centers",
-      "url": "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
-      "summary": "At least four internet providers serving Kyiv and other parts of Ukraine suffered partial connectivity losses following Wednesday’s drone attack, according to internet monitoring group NetBlocks.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-09-24T13:30:00+00:00"
-    },
-    {
-      "id": "d7761a75ee2f45961ad64136ddf903692639217b1a9fab224a12fd1b55cdde5e",
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-24T13:27:57+00:00"
-    },
-    {
-      "id": "0e1aafa74d4f67c7a7e0d6ff0c8849f527b726b38ad084494d3e70da6ee45d2e",
-      "title": "Astrana latest healthcare tech firm to report data breach to SEC",
-      "url": "https://therecord.media/astrana-cyberattack-sec-ransomware",
-      "summary": "The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-24T13:15:00+00:00"
-    },
-    {
-      "id": "f074e04f207219a868b506f258f33570e19b66e62d11d39141d899fa66342ab3",
-      "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
-      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
-      "summary": "A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration. The post AI-Powered Campaign Targets Hundreds of Online Retailers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-24T12:48:14+00:00"
-    },
-    {
-      "id": "9bf13dbe933672ec7afc7d993dd4b6736ac14a6d07a2d236505c5f67837e4667",
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "url": "https://therecord.media/openai-australia-health-breach",
-      "summary": "An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-24T12:30:00+00:00"
-    },
-    {
-      "id": "00d7c4958ac55b4f1ea8bd666fb46335c0335c18541406d947b2b0b9ac6a6aab",
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dr",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-24T12:05:27+00:00"
-    },
-    {
-      "id": "eeeda4f678fad5310c43022a3faabf6dabfc701403e0cecb73367ea18aeeee14",
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-writt",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-24T11:00:00+00:00"
-    },
-    {
-      "id": "f5dd20ff54d8912d04f00fb6b5a02c1135a79dfe57ed3e303e319dab5609a3a5",
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-24T10:42:37+00:00"
-    },
-    {
-      "id": "8a7204a51136827c90f8c7be23fe05812ab461f626a92258414decd1a94bf0cc",
-      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-      "summary": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-24T10:40:40+00:00"
-    },
-    {
-      "id": "890365e73e5c4b874cff31af19964bbe9cc525d5ab949ee6ae8cdc4d7aaf79b0",
-      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-      "summary": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-24T09:56:04+00:00"
-    },
-    {
-      "id": "7e0f816f375f2a30132d812186bf822beb86792098bd266b6b229462561463c5",
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-24T09:38:53+00:00"
-    },
-    {
-      "id": "5408002adacbee0dc276b1782d914fc4255fd4524f2e9f26a28dc6046ff213ec",
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponso",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-24T09:14:21+00:00"
-    },
-    {
-      "id": "6e2713f4517daccc6881aef7fd1c68a2a82c53a9ca8a2c950690f5a5f01c1bfa",
-      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-      "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-09-24T08:38:29+00:00"
-    },
-    {
-      "id": "fb26ae51b64a055f7ea88b91a5e1a158b21ad4e72fd23ac62fc0c1b118639062",
-      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-      "summary": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-24T07:12:26+00:00"
-    },
-    {
-      "id": "b54ca687b5ebe9a584ce686ebb18c3dbf3bc6747e9a51d6cb6a8435b03ac1b49",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It ori",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-24T06:32:03+00:00"
-    },
-    {
-      "id": "baff1d5496fd8ebf6daa31c458a3f43837771cfd2e3ccb09eca594a20cff98d4",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-24T05:36:18+00:00"
-    },
-    {
-      "id": "3c5d9756b70db29c546fa37bb5292611f82b1e7bc0fd19b8d9c017c7e639ffa6",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-23T22:46:01+00:00"
     }
   ]
 }
