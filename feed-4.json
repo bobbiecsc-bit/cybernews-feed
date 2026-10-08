@@ -1,10 +1,118 @@
 {
-  "updated": "2026-10-08T04:21:25.579247+00:00",
+  "updated": "2026-10-08T12:45:20.712472+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T16:46:29+00:00"
+    },
+    {
+      "id": "cb2af8d2a0d2744bb1110a6b2de1091fdfa4e845037b6c5611d4828af8809313",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-09-30T16:32:59+00:00"
+    },
+    {
+      "id": "37d3b9649beab632464bc51df021992b39cb31540fd12d4a0eadf5ef6c3bd3e8",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-30T15:49:29+00:00"
+    },
+    {
+      "id": "9475c717ac1e72751f86ed7fe483239d5df1ee431e31497e23c97ffcce6ab050",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-09-30T15:24:54+00:00"
+    },
+    {
+      "id": "72dbeeb1790cb6f9e42910a36852e91eeb822b7513c1f9cb75154632b99be12d",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another featur",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-09-30T15:00:15+00:00"
+    },
+    {
+      "id": "8f1d5c9abb6358583e2b64103e48262fc471693f9f3052b5b7609436a6d32d0e",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-09-30T14:46:40+00:00"
+    },
+    {
+      "id": "11a9439107b73ed1b62a3a561af8addaf953405e30e324fd160d43c38ba89a20",
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T14:05:58+00:00"
+    },
+    {
+      "id": "648cc19d9f9462d14f4f7f74693ab255f196d1895252706badb8b94d3921c3df",
+      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
+      "url": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
+      "summary": "'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "id": "29c0329f5a87d971653ef240f85147d1fc54925fb6ba59510f09d21a33ec3f76",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-09-30T13:37:15+00:00"
+    },
+    {
+      "id": "c17c6323a566c0babcaa95f25cdae6b5a1e25fdfe02f43ffebd307e66de02185",
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T13:16:56+00:00"
+    },
+    {
+      "id": "95684ad37268b48f7ee77b45556dec0e9ff01bf19d915f6cb85f928175565153",
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T12:48:20+00:00"
+    },
+    {
+      "id": "160a8af8d4d09a2b023ebde336b93d7d7e8cbedcc660fed18197a1ade6133ae4",
+      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "summary": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-09-30T12:16:52+00:00"
+    },
     {
       "id": "9b82783e55ffad786845725d7e69e80f0c09e353ff6843ba02ba35b3c1bb9ed7",
       "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
@@ -346,114 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-28T20:56:47+00:00"
-    },
-    {
-      "id": "12100c22384661b5f889d99beaae6601aec020a71158ed54af32d0e0ec85f94a",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-28T20:31:16+00:00"
-    },
-    {
-      "id": "ebc12d55e12ae3e2f7c8dd7ac744d249b53e5fd3b4381cdcd0eaac1c525a1626",
-      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-      "summary": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-28T19:30:00+00:00"
-    },
-    {
-      "id": "3e5bc5aeb6b9864eff47897cd1a65f900961f1a78191bd08192ff69401c91b1a",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-28T19:18:01+00:00"
-    },
-    {
-      "id": "bef7f6a21fd6f32c4da3d0b40a12882536d8ffbe23b9f3339834b795c4292cd5",
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprof",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-28T18:35:42+00:00"
-    },
-    {
-      "id": "cb8a6ba8d9499fadbc1ae52e4e4f15c555380a39a6156176f7a6d00ae5dd3c73",
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, use",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-28T17:42:18+00:00"
-    },
-    {
-      "id": "4ca847aa2cb154c66ea1705ff2e14e7fa2298c6f38df13f7484bf4132153ba5a",
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console since April 2026. It said this fits a malware-as-a-service model, in which each cus",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-28T17:38:33+00:00"
-    },
-    {
-      "id": "f211a09cf6a989e1c28094805cc981beed1a8b732f50ebdf0fa999d3b60a8424",
-      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
-      "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
-      "summary": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-09-28T16:19:00+00:00"
-    },
-    {
-      "id": "178f19609d472e572bbf5c3882d469062a1aa93b5391c050830468344328c9ee",
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-28T15:49:27+00:00"
-    },
-    {
-      "id": "0ac9e2c44b6808b963aa11eded442e048669c994b1aa1c255b21fd71cf64e6e8",
-      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-      "url": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-      "summary": "SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs. The post Call for Presentations Open for 2026 CISO Forum Virtual Summit appear",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-28T15:15:00+00:00"
-    },
-    {
-      "id": "92a47b18db9bbe47493e7e5a1eff66c3bee58cbcc3b3fd3dda176dea32bcec0f",
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed systems,",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-28T14:00:53+00:00"
-    },
-    {
-      "id": "cdfc9fd9c0967ef832e037b36c0810969b31cf7abe6075684fc9dbb48741cf3b",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-28T14:00:10+00:00"
-    },
-    {
-      "id": "aae4191754be1c0933f9c1e6f59be9a2b03e3d57c8e377c9ee08cc8e06a053b6",
-      "title": "Cyberattack on Polish medical software provider exposes patient data",
-      "url": "https://therecord.media/poland-cyberattack-medical-medyc",
-      "summary": "Hackers stole personal data from a Polish healthcare software provider in the latest cyberattack to hit the country’s medical sector in recent months.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-28T13:30:00+00:00"
     }
   ]
 }
