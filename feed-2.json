@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-07T22:38:18.315675+00:00",
+  "updated": "2026-10-08T04:21:25.579247+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f57b4be0b51a470e49c854e28c3b47b423c03f4ae85e5ddffa6e8b6091db56c5",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-06T06:58:56+00:00"
+    },
     {
       "id": "e8fc3bf6b8bd024b0f3f60aabfa5892dd135079c0396efdf29e6bc989a1b3e5c",
       "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-10-02T09:34:41+00:00"
-    },
-    {
-      "id": "b8b4a1085f35e6383360f168d094d6e0e49f4b997233b033878ff67fc370e596",
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-02T09:29:56+00:00"
     }
   ]
 }
