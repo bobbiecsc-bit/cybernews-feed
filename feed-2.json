@@ -1,10 +1,136 @@
 {
-  "updated": "2026-10-09T04:26:08.813868+00:00",
+  "updated": "2026-10-09T12:31:26.438799+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T16:17:44+00:00"
+    },
+    {
+      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:34:53+00:00"
+    },
+    {
+      "id": "99a195ea89001c923b5a6f38ecf8fd569fe5c258253a20566a29c386db3b5fb6",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivate",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T15:33:51+00:00"
+    },
+    {
+      "id": "3c3ca0f12e618495dcb64af3a19725ae7f58441110bbb59d10d88a25042b74c1",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:04:08+00:00"
+    },
+    {
+      "id": "394be2a0c7c952ffe93faf072b4bb21534360e14c5caeb4ad06d1a1e575d5e79",
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "summary": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;CVE-2026-21589&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5d&#x3b;. An atta",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-07T14:59:33+00:00"
+    },
+    {
+      "id": "673aae8d660f14e837548df2fd305d80ab7b4f2b8bc3e1a86877a660f5db2016",
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T14:15:20+00:00"
+    },
+    {
+      "id": "69f65ecd6d96b4b572da21306206ed58ce2d962114860fe42302f1a8fac95c7d",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-07T14:01:11+00:00"
+    },
+    {
+      "id": "2c4e6a4177d19a1d8c4aed8fb2438d684208cc979711213a43b299bcedbb8e77",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was ",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-10-07T13:48:45+00:00"
+    },
+    {
+      "id": "c8213cf695f3ccec3eb59397706c4c54e1632b6be5a818ba3c49708352a355d6",
+      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T13:47:12+00:00"
+    },
+    {
+      "id": "7f62466206d4950a7db624bd313fe97aa4bf278bfca8a1214066db445b5aae67",
+      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-07T13:06:10+00:00"
+    },
+    {
+      "id": "4e5e4a2f6d27f72a2915e61af85af3dd860cb982ee6bc905de4c0aaa263fa9ce",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T12:49:01+00:00"
+    },
+    {
+      "id": "7398b758d01272d1c3a9d6dec2a0145a7636e52431ac5e071425606e63aa59fb",
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T12:37:24+00:00"
+    },
+    {
+      "id": "98f167473783047aae3ab93d4f0981529810bceca2913b52052d5b19ac0f566d",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The camp",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-07T11:56:56+00:00"
+    },
+    {
+      "id": "b144badd2c910f28db96c1cd866e09e22076b57342067bf74038ba390c9965fa",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T11:49:26+00:00"
+    },
     {
       "id": "b3468b5f887d32346c5854fc88a35ea98db1e2492bb1540cf4ae9be145fadd4a",
       "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
@@ -328,132 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-05T19:15:00+00:00"
-    },
-    {
-      "id": "7fc21371058e4548b07ce0fdc889c98d32aa5a077bdd74c7da65d8384bd32d25",
-      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
-      "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
-      "summary": "Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-05T17:22:00+00:00"
-    },
-    {
-      "id": "5682dfaf1f5328ca9132507d9ab2879ae8df8fa162771eb44543f8db07f2ec9c",
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "summary": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T17:00:00+00:00"
-    },
-    {
-      "id": "00260114e73039a46463a30a660066468c9584241fcb3af8c2accb8943f1194c",
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-05T16:21:52+00:00"
-    },
-    {
-      "id": "93e37dfa30f8bf05dafd5376bdc743846646df3817f47a3a6a33293cbb7ff1b0",
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "url": "https://therecord.media/ransomware-university-illinois-chicago",
-      "summary": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-05T15:30:00+00:00"
-    },
-    {
-      "id": "2b5b7c2cd2dfc5a5dce1df2f672dfb4d5e2d25b424cff95c73881c336ab6fcb8",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-05T15:21:10+00:00"
-    },
-    {
-      "id": "8529f42bd2dde732af249c2325b09ca19d708033a9295b17bfba6e16ba43ca68",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-05T14:53:06+00:00"
-    },
-    {
-      "id": "a5e296f892f4b9f3518afc152950149494a943224e62b699a31149339fb79f27",
-      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-      "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-      "summary": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-05T14:26:00+00:00"
-    },
-    {
-      "id": "d9fe3a1e916f0e9e992f5d95f1f66eb5daf7b917cbfc7cf944ed26e7c6015a59",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-05T14:22:12+00:00"
-    },
-    {
-      "id": "634898ddff2f483c1ea54560c8413ee93a40b03703be7b8fc1df1ce3dce9c6dc",
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter aut",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-05T14:20:43+00:00"
-    },
-    {
-      "id": "1255788e77af42896e8b9fa977361701b86a2f235ced6575d325e91a294d5608",
-      "title": "Japanese media group Nikkei discloses cyberattack targeting journalistic sources",
-      "url": "https://therecord.media/nikkei-cyberattack-japan-data",
-      "summary": "The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T13:15:00+00:00"
-    },
-    {
-      "id": "7f005eff5309d107cee66643e97e7248b6103bf6bb5f09407b82e1f713911127",
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-05T13:01:45+00:00"
-    },
-    {
-      "id": "d968cf53c3eb7b2d38a09c418f92a6e153ecc8e1e389b14f5ac19e08f57a0f6c",
-      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-      "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-      "summary": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "id": "bd4b7f955919d9bc3a74ce09d0f94a5ee60474396946697e007e2c2d4193c17a",
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "summary": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-05T12:35:15+00:00"
-    },
-    {
-      "id": "bbcac68dce1a15c33a37af7a7eaf4e7fb359136dc550e674a1568b42f26327f1",
-      "title": "Data breach at Denmark’s national population register exposes 8.8 million people",
-      "url": "https://therecord.media/denmark-breach-register-cyberattack",
-      "summary": "Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T12:00:00+00:00"
     }
   ]
 }
