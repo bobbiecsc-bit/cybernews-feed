@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-10T11:51:18.832235+00:00",
+  "updated": "2026-10-10T16:54:32.346940+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5f13530361d7760b64b43979cd241364ec98ddd8abe4e1e18dfea966d64ba380",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for criti",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-02T17:02:12+00:00"
+    },
+    {
+      "id": "9814dffcb60cd9ffa06c7949cfc9101f6ec9faea757a94bbc13d83e6ceba2d31",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-02T16:20:05+00:00"
+    },
     {
       "id": "5098f8e142a5acb2f596af696235498e2228d6854620d142f6a2e46643abcbd4",
       "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
@@ -436,24 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-09-30T19:49:15+00:00"
-    },
-    {
-      "id": "f08e8a8cad2764711084cd00dabe00ad5cefc14afb58be04bdc3f16829fc6e6e",
-      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
-      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
-      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-09-30T19:00:00+00:00"
-    },
-    {
-      "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-30T16:46:29+00:00"
     }
   ]
 }
