@@ -1,7 +1,169 @@
 {
-  "updated": "2026-10-13T13:29:48.488126+00:00",
+  "updated": "2026-10-13T22:15:18.388079+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "521975252a515749d365202d298d4de1c2eacd3a426e71abac625c8fab83854d",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T21:33:26+00:00"
+    },
+    {
+      "id": "6d5f004d3883642dce86d8504fb3d52148e222e67e1e9b770b9cf75a80a84762",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T19:56:09+00:00"
+    },
+    {
+      "id": "ad238618311362162cbf7660596b289aab44dc852b9b8439cebf97bd5bd2aff4",
+      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
+      "url": "https://isc.sans.edu/diary/rss/33422",
+      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s patch Tuesday, and one is already exploited",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-13T19:25:52+00:00"
+    },
+    {
+      "id": "a59a9af7ace6e94c96f7bf603ab198222d2fefe34a2a64409ac0269f8119faab",
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T18:43:43+00:00"
+    },
+    {
+      "id": "f459c5923c1f2f1f0f0399d778e50fd56cd0cc834f0c02647efe67e017a828a7",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that&nbsp;converts a personal a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T18:03:18+00:00"
+    },
+    {
+      "id": "ea27b5cc9be9a7810f86f7c6b53f26cc86da50680ed68c085cd4ad2ac1699893",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:33:11+00:00"
+    },
+    {
+      "id": "9f98c61ecb3c8b3b53b75739a2c0bf095e7742d287173b19b434ea1ea94b0a36",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's o",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:28:50+00:00"
+    },
+    {
+      "id": "87a5f4d438ee6ef7536286ee3f22ce0f03cf91efe6e059dad3fcd2c6ef76330d",
+      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:14:42+00:00"
+    },
+    {
+      "id": "fc6dca316e4fb25e7596dd0ace99c4254dd29feba389ca4be19487c7b95d55ec",
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "id": "92637fae567836d42d18daeda39b42e547909f7af6db8cc56b5093abb5fb824b",
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-13T16:44:18+00:00"
+    },
+    {
+      "id": "3d29c827bc05744dd0bcbb832c7261ff5d35ce963cfd73a3940868f1d32bc507",
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes valid",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T16:18:18+00:00"
+    },
+    {
+      "id": "c8dbd5c1a621e85dba4b1552323c5fde1cec49c9b9fab2e0215f686f6e2240b3",
+      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
+      "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit data outside approved networks.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-13T16:18:00+00:00"
+    },
+    {
+      "id": "31360dd1cd4ddbaf6fa688cd38e5dbb7087ca0fbdc78dff4cbeae4cf10e58882",
+      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-13T16:01:00+00:00"
+    },
+    {
+      "id": "0dfe312cc7dd1fa68b9590e6c510526efc2b08a04c785f6cd1761638810908f2",
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T15:45:50+00:00"
+    },
+    {
+      "id": "2641e35974698b4705b22c1ae9cbd04754ef3336a31bbe954ed6e839ef171f1b",
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T15:20:20+00:00"
+    },
+    {
+      "id": "75ff0fe159c38ee0910a09a577dd2cd666532eb32e25d6fba55275c49b4f696a",
+      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
+      "url": "https://therecord.media/north-korea-hackers-russia-ukraine",
+      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-13T15:15:00+00:00"
+    },
+    {
+      "id": "f7a2a64fd763c0e688be5552e605fe2689042419b5596207eade23156eea50ba",
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-13T14:01:11+00:00"
+    },
+    {
+      "id": "3b61a6f16cb0f0284488ecd88843e35cfb77d464962bc03dd349f4c87e33b634",
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T13:51:02+00:00"
+    },
     {
       "id": "65a518d05c7526a5c13554d39ef9e071cb77534eefddbf53125901951ef00b7b",
       "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
@@ -2089,168 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-09-30T20:34:01+00:00"
-    },
-    {
-      "id": "3776ad1cae04a940ba5533984bb3535b0bb6b144bc72d85f9fbb8cd3112aff8e",
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-30T19:49:15+00:00"
-    },
-    {
-      "id": "f08e8a8cad2764711084cd00dabe00ad5cefc14afb58be04bdc3f16829fc6e6e",
-      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
-      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
-      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-09-30T19:00:00+00:00"
-    },
-    {
-      "id": "fe95a2c38cafc89756761d9175c1528791319f6830228b0baf81d1657f0521cc",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system comma",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-30T16:46:29+00:00"
-    },
-    {
-      "id": "cb2af8d2a0d2744bb1110a6b2de1091fdfa4e845037b6c5611d4828af8809313",
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-09-30T16:32:59+00:00"
-    },
-    {
-      "id": "37d3b9649beab632464bc51df021992b39cb31540fd12d4a0eadf5ef6c3bd3e8",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-30T15:49:29+00:00"
-    },
-    {
-      "id": "9475c717ac1e72751f86ed7fe483239d5df1ee431e31497e23c97ffcce6ab050",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-30T15:24:54+00:00"
-    },
-    {
-      "id": "72dbeeb1790cb6f9e42910a36852e91eeb822b7513c1f9cb75154632b99be12d",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another featur",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-09-30T15:00:15+00:00"
-    },
-    {
-      "id": "8f1d5c9abb6358583e2b64103e48262fc471693f9f3052b5b7609436a6d32d0e",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-09-30T14:46:40+00:00"
-    },
-    {
-      "id": "11a9439107b73ed1b62a3a561af8addaf953405e30e324fd160d43c38ba89a20",
-      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
-      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
-      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-30T14:05:58+00:00"
-    },
-    {
-      "id": "648cc19d9f9462d14f4f7f74693ab255f196d1895252706badb8b94d3921c3df",
-      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
-      "url": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
-      "summary": "'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-30T14:00:00+00:00"
-    },
-    {
-      "id": "29c0329f5a87d971653ef240f85147d1fc54925fb6ba59510f09d21a33ec3f76",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-30T13:37:15+00:00"
-    },
-    {
-      "id": "c17c6323a566c0babcaa95f25cdae6b5a1e25fdfe02f43ffebd307e66de02185",
-      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
-      "url": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
-      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-30T13:16:56+00:00"
-    },
-    {
-      "id": "95684ad37268b48f7ee77b45556dec0e9ff01bf19d915f6cb85f928175565153",
-      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
-      "url": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
-      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-30T12:48:20+00:00"
-    },
-    {
-      "id": "160a8af8d4d09a2b023ebde336b93d7d7e8cbedcc660fed18197a1ade6133ae4",
-      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-      "summary": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-09-30T12:16:52+00:00"
-    },
-    {
-      "id": "9b82783e55ffad786845725d7e69e80f0c09e353ff6843ba02ba35b3c1bb9ed7",
-      "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
-      "url": "https://therecord.media/russia-hackers-ukraine-blizzard",
-      "summary": "The Russian state-backed hacking group Star Blizzard has expanded its phishing operations this year, using a new technique that makes it easier to infect victims with malware.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-09-30T12:00:00+00:00"
-    },
-    {
-      "id": "239ba2260483c4a6a54868c2430389acaf16ccbc00b19008efe08562295d2149",
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-30T11:58:00+00:00"
-    },
-    {
-      "id": "d36b3ecb6626d39f2f2321186fc43a9d73c7e80d3b2343de07fae21ea5836698",
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-09-30T11:30:00+00:00"
-    },
-    {
-      "id": "9c5f7a36dcb4fe9fed87dfe019cbf8a93ddc810128e6c226b7e8955c951aeb20",
-      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
-      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
-      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-09-30T11:19:00+00:00"
     }
   ]
 }
