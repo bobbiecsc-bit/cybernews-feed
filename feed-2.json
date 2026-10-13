@@ -1,10 +1,127 @@
 {
-  "updated": "2026-10-13T00:05:51.053430+00:00",
+  "updated": "2026-10-13T13:29:48.488126+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d33e86be6de0bd5dd04ebc92d4b37c3ebcb9fae0cfa1118ce15ddad9eedf01e8",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:47:26+00:00"
+    },
+    {
+      "id": "6dabc0f8fb49ecb0d0381a51a05922bf9c48f7b5db0f24287cb40d6658c4a3b2",
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:32:16+00:00"
+    },
+    {
+      "id": "d96e6fa992364d217b8d1acf524131bc8f3587c99146bdf5db2b8ec2e9352a70",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:21:51+00:00"
+    },
+    {
+      "id": "77e8a1bce957924c21411708e5c65022a41ceffbdfd71420e5330676ba95ff74",
+      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on Se",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T12:03:50+00:00"
+    },
+    {
+      "id": "9fbb4937f47542c1137f685c7be372fb540335aa3bb282435b4c163cfb1d3a33",
+      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+      "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T11:43:14+00:00"
+    },
+    {
+      "id": "ff63f58751b625a492dc461e4b025c64f1e96e13e30da52d380127939600de97",
+      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+      "summary": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-09T10:23:42+00:00"
+    },
+    {
+      "id": "04744af1d6372d87f2e09118abdfedc67e703780f25e921efdd0365a8110327b",
+      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
+      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-09T09:55:35+00:00"
+    },
+    {
+      "id": "68ce0dcd2db006a487f4fb8647bc50e00cf1d885e6c0e0101514caaba87c3a6d",
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which&nbsp;disclosed the flaw&nbsp;on October 8, says an a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T09:03:24+00:00"
+    },
+    {
+      "id": "6357f6c8dfde06d78ccbd706bfa4bcd7b4f309bd90b761cd3bac458ce298a2a3",
+      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
+      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+      "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T08:36:37+00:00"
+    },
+    {
+      "id": "0c103a036f9d585dc392becd803a06f968ed437d5550423948f7319148ee55ad",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-09T08:27:42+00:00"
+    },
+    {
+      "id": "b0109e34ecc868c623bdccac21c9415fc943662fb71b5f3b2009923624fc49c7",
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel exploits earned Ikotas ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T08:26:17+00:00"
+    },
+    {
+      "id": "dada16fa3e4cf93e439c0dec6f33baed2590dada3a08f56b8845aed2dda669e2",
+      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-09T08:19:33+00:00"
+    },
+    {
+      "id": "282fb784975a02d0f6d8bc6b486d280540ee64721a4b541ffd850855b00c5de5",
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T08:11:33+00:00"
+    },
     {
       "id": "8d2528422f22ae446c0875076d3924e6d676e343b7e979aa1deb888420701f09",
       "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
@@ -337,123 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-07T19:50:00+00:00"
-    },
-    {
-      "id": "d19160e8f030fa9c6064cfaec96bb968f2a2e24e343f794891de058a198a39eb",
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T18:48:17+00:00"
-    },
-    {
-      "id": "7806992aa6ee9c4b844404759deba531481958dc1868c45db127f4e28ead274b",
-      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
-      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
-      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-07T18:31:00+00:00"
-    },
-    {
-      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T17:43:20+00:00"
-    },
-    {
-      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-07T16:17:44+00:00"
-    },
-    {
-      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-07T15:34:53+00:00"
-    },
-    {
-      "id": "99a195ea89001c923b5a6f38ecf8fd569fe5c258253a20566a29c386db3b5fb6",
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivate",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T15:33:51+00:00"
-    },
-    {
-      "id": "3c3ca0f12e618495dcb64af3a19725ae7f58441110bbb59d10d88a25042b74c1",
-      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-07T15:04:08+00:00"
-    },
-    {
-      "id": "394be2a0c7c952ffe93faf072b4bb21534360e14c5caeb4ad06d1a1e575d5e79",
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "url": "https://isc.sans.edu/diary/rss/33406",
-      "summary": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;CVE-2026-21589&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5d&#x3b;. An atta",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-07T14:59:33+00:00"
-    },
-    {
-      "id": "673aae8d660f14e837548df2fd305d80ab7b4f2b8bc3e1a86877a660f5db2016",
-      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-07T14:15:20+00:00"
-    },
-    {
-      "id": "69f65ecd6d96b4b572da21306206ed58ce2d962114860fe42302f1a8fac95c7d",
-      "title": "Ransomware has a new target. Is your backup ready?",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-07T14:01:11+00:00"
-    },
-    {
-      "id": "2c4e6a4177d19a1d8c4aed8fb2438d684208cc979711213a43b299bcedbb8e77",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was ",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-10-07T13:48:45+00:00"
-    },
-    {
-      "id": "c8213cf695f3ccec3eb59397706c4c54e1632b6be5a818ba3c49708352a355d6",
-      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-07T13:47:12+00:00"
-    },
-    {
-      "id": "7f62466206d4950a7db624bd313fe97aa4bf278bfca8a1214066db445b5aae67",
-      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-07T13:06:10+00:00"
     }
   ]
 }
