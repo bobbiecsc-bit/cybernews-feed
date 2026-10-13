@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-12T14:20:34.360428+00:00",
+  "updated": "2026-10-13T00:05:51.053430+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "4e5e4a2f6d27f72a2915e61af85af3dd860cb982ee6bc905de4c0aaa263fa9ce",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T12:49:01+00:00"
+    },
+    {
+      "id": "7398b758d01272d1c3a9d6dec2a0145a7636e52431ac5e071425606e63aa59fb",
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T12:37:24+00:00"
+    },
+    {
+      "id": "98f167473783047aae3ab93d4f0981529810bceca2913b52052d5b19ac0f566d",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The camp",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-07T11:56:56+00:00"
+    },
+    {
+      "id": "b144badd2c910f28db96c1cd866e09e22076b57342067bf74038ba390c9965fa",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T11:49:26+00:00"
+    },
+    {
+      "id": "b3468b5f887d32346c5854fc88a35ea98db1e2492bb1540cf4ae9be145fadd4a",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It’s also worth pressu",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T11:42:24+00:00"
+    },
+    {
+      "id": "2b5af208b475bd925c219e63976465b4bda8718c72b8b2e2ae0ccdd91e7945f1",
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-07T10:27:52+00:00"
+    },
     {
       "id": "b8e584b788474e10b3570881bb0ee3099db98ae8a6ba4b926fe6680a972342bb",
       "title": "ASOS Confirms Cyberattack, Data Breach",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-05T13:15:00+00:00"
-    },
-    {
-      "id": "7f005eff5309d107cee66643e97e7248b6103bf6bb5f09407b82e1f713911127",
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-05T13:01:45+00:00"
-    },
-    {
-      "id": "d968cf53c3eb7b2d38a09c418f92a6e153ecc8e1e389b14f5ac19e08f57a0f6c",
-      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-      "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-      "summary": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "id": "bd4b7f955919d9bc3a74ce09d0f94a5ee60474396946697e007e2c2d4193c17a",
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "summary": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-05T12:35:15+00:00"
-    },
-    {
-      "id": "bbcac68dce1a15c33a37af7a7eaf4e7fb359136dc550e674a1568b42f26327f1",
-      "title": "Data breach at Denmark’s national population register exposes 8.8 million people",
-      "url": "https://therecord.media/denmark-breach-register-cyberattack",
-      "summary": "Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T12:00:00+00:00"
-    },
-    {
-      "id": "b5ce63915515734944ec090ebb2ab6e62f2e0d9c1735d84e7034187f9b4115e9",
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-05T11:46:25+00:00"
-    },
-    {
-      "id": "6dc73690599c02d6329431de7c0f376d0dc44545d2e435ae74df086c68cea00e",
-      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-      "summary": "CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE. The post Exploitation Hits Rejetto HFS Vulnerability Discovered by AI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-05T11:00:05+00:00"
     }
   ]
 }

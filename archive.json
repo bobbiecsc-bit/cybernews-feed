@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-12T14:20:34.360428+00:00",
+  "updated": "2026-10-13T00:05:51.053430+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "aec445a38383e47366ad8b14227d65e0b72ad1562e00b8b9ef2778af76a055f7",
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-12T19:23:01+00:00"
+    },
+    {
+      "id": "db0de857c940096aeedc6555e4ad4d0ce696ae0aa199110a93b21f00425036de",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-12T18:51:59+00:00"
+    },
+    {
+      "id": "953fff0f262464208cd61e48d5a4a0c5b7edb8a9309a16c196e4140dcddd95ea",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-12T15:23:34+00:00"
+    },
+    {
+      "id": "6297931f11be8be3b1576ac6ea66cef90802dddda730cb48ac08a94cbda4b3f8",
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-12T15:16:26+00:00"
+    },
+    {
+      "id": "79aba1b981e2efa98f9c6556d92794ab6f25c6e6ff506c42d19ab45eca21c8bd",
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "summary": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-10-12T15:01:26+00:00"
+    },
     {
       "id": "a1a9815eeb632a0e174ef51803d913ec4bc82605ac045066052dd00bd9b0f518",
       "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
@@ -118,6 +163,15 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-10-12T07:26:12+00:00"
+    },
+    {
+      "id": "f5666c94e691a1da66f4adebb402485f5bc4f10a8311f23ab4c9c1466f7c54c0",
+      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
+      "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
+      "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country’s largest grocery chains.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-11T23:00:00+00:00"
     },
     {
       "id": "406e1eebee8a0cabea1a12765f78079df9e9c63202a940e487d0c853db5aad82",
@@ -2197,60 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-09-29T17:20:08+00:00"
-    },
-    {
-      "id": "189887844e8027a43535ce27a857d5e8da2c93f684892dcbc422805ab0dfc7b3",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-29T17:10:11+00:00"
-    },
-    {
-      "id": "3389cc4b540c7182a19f016ff230a3a339eb847f4cd7256ca3a60abe508977b9",
-      "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-      "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-      "summary": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-29T17:00:00+00:00"
-    },
-    {
-      "id": "adeb989744729e652565cd97ff28e53fb72ec52323db870f17c1cd3331e5aacd",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-09-29T15:39:19+00:00"
-    },
-    {
-      "id": "4901e9ee4337a19b54a60df57a1c1f6a55b9aebbaa14602b1cc2cdd36d5b0c4e",
-      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-      "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-      "summary": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Offensive Operations Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-09-29T14:38:07+00:00"
-    },
-    {
-      "id": "ef8a09af0278d8a425bac716e271920c923246a6e1da299d7b0bf64d2b413f3c",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerabil",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-09-29T14:13:20+00:00"
-    },
-    {
-      "id": "f45ff54e25bb1672bbbd6a4b2f717b611683a6a2704dcb0599adbc4999bb6592",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-09-29T14:01:11+00:00"
     }
   ]
 }
