@@ -1,10 +1,73 @@
 {
-  "updated": "2026-10-14T16:27:41.644330+00:00",
+  "updated": "2026-10-14T21:15:24.860449+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T17:43:20+00:00"
+    },
+    {
+      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T16:17:44+00:00"
+    },
+    {
+      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:34:53+00:00"
+    },
+    {
+      "id": "99a195ea89001c923b5a6f38ecf8fd569fe5c258253a20566a29c386db3b5fb6",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivate",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T15:33:51+00:00"
+    },
+    {
+      "id": "3c3ca0f12e618495dcb64af3a19725ae7f58441110bbb59d10d88a25042b74c1",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:04:08+00:00"
+    },
+    {
+      "id": "394be2a0c7c952ffe93faf072b4bb21534360e14c5caeb4ad06d1a1e575d5e79",
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "summary": "On October 5th, Atlassian published patches&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xc2&#x3b;&&#x23&#x3b;x26&#x3b;&#x23&#x3b;xa0&#x3b;for multiple products to fix an \"Arbitrary File Access\" vulnerability &&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5b&#x3b;CVE-2026-21589&&#x23&#x3b;x26&#x3b;&#x23&#x3b;x5d&#x3b;. An atta",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-07T14:59:33+00:00"
+    },
+    {
+      "id": "673aae8d660f14e837548df2fd305d80ab7b4f2b8bc3e1a86877a660f5db2016",
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-07T14:15:20+00:00"
+    },
     {
       "id": "69f65ecd6d96b4b572da21306206ed58ce2d962114860fe42302f1a8fac95c7d",
       "title": "Ransomware has a new target. Is your backup ready?",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-05T20:20:05+00:00"
-    },
-    {
-      "id": "ea9a3647130437b676ed2c0e59f7c14f93a2426f137e41475af0ba15854c75d8",
-      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
-      "url": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
-      "summary": "Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T19:15:00+00:00"
-    },
-    {
-      "id": "7fc21371058e4548b07ce0fdc889c98d32aa5a077bdd74c7da65d8384bd32d25",
-      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
-      "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
-      "summary": "Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-05T17:22:00+00:00"
-    },
-    {
-      "id": "5682dfaf1f5328ca9132507d9ab2879ae8df8fa162771eb44543f8db07f2ec9c",
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "summary": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T17:00:00+00:00"
-    },
-    {
-      "id": "00260114e73039a46463a30a660066468c9584241fcb3af8c2accb8943f1194c",
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-05T16:21:52+00:00"
-    },
-    {
-      "id": "93e37dfa30f8bf05dafd5376bdc743846646df3817f47a3a6a33293cbb7ff1b0",
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "url": "https://therecord.media/ransomware-university-illinois-chicago",
-      "summary": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-05T15:30:00+00:00"
-    },
-    {
-      "id": "2b5b7c2cd2dfc5a5dce1df2f672dfb4d5e2d25b424cff95c73881c336ab6fcb8",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-05T15:21:10+00:00"
-    },
-    {
-      "id": "8529f42bd2dde732af249c2325b09ca19d708033a9295b17bfba6e16ba43ca68",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-05T14:53:06+00:00"
     }
   ]
 }
