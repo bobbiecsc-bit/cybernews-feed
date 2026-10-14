@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-14T11:06:55.929553+00:00",
+  "updated": "2026-10-14T16:27:41.644330+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "3e16f8a63b6117bbf72fa270149a121a0fd2b47a307ab6d1537fcbac70ba53fb",
+      "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+      "summary": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T15:15:15+00:00"
+    },
+    {
+      "id": "679425e2c5ab85db838a94c30e74c7ef2dbd2fec14425120584cab212b166333",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-10-14T14:22:49+00:00"
+    },
+    {
+      "id": "f29db2aa1cfbd6ff554544784a94770d6edba970add8ddd35002719e62248252",
+      "title": "Cyberattack on Connected Fridges in France",
+      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
+      "summary": "Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;] Normally, supermarket freezers go through a short perio",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-10-14T14:10:22+00:00"
+    },
+    {
+      "id": "1651735e0da58aedeb54063b867d8d3e2d80f9ff4f84fd5952bccf64add0b49a",
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-14T14:00:10+00:00"
+    },
+    {
+      "id": "b09c3419e62c04debb2b48c56087d213f28056d706ed2b8989b4cb18ac65be00",
+      "title": "Russian travel booking platform suspends reservations after cyberattack",
+      "url": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
+      "summary": "Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-14T13:05:00+00:00"
+    },
+    {
+      "id": "e05ffdb17dfb1573de638939b479bf17500a0ff1e81576ab7c136e6b0036e44e",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:58:07+00:00"
+    },
+    {
+      "id": "c044be30ef826ca51935f4b65e7faae26952a4885a8524c6ec0c14918cc7b536",
+      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
+      "url": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
+      "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "id": "13d15f9231c43ced0025597415b2102b047308219e866af8614cd231cd0a7479",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:30:42+00:00"
+    },
+    {
+      "id": "05d981a16f272692a24f34eaa5bc01e7ab5c4753e1f4ea37669a38626c1e11cb",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in&nbsp;curl 8.23.0. Taking over a client needs exac",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:13:36+00:00"
+    },
+    {
+      "id": "7a5799db26b54ed8e1f21daf0433dca59d4d38e136a16244fbcd3cf595041c62",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-14T11:41:20+00:00"
+    },
+    {
+      "id": "2c2810e8b4ea0e8480b2ab75a2583c557e9b2be18a0688f12f37ecce43415c9c",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:19:02+00:00"
+    },
+    {
+      "id": "a95ca09cfb1e085592159cf574034b531fcee713a2284b80fc8118e3c12b7d0c",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.&nbsp; Dutch m",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:08:22+00:00"
+    },
+    {
+      "id": "7b712b7943a44d07d41980f3920e89b40fe670eedac187ed51dc196aa996e845",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:00:00+00:00"
+    },
     {
       "id": "2a29077196100551b24a3acf0357d07abfd1030b472876be4cbb81aa574995cb",
       "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
@@ -2134,123 +2251,6 @@
       "source": "The Record",
       "category": "malware",
       "date": "2026-10-01T15:55:00+00:00"
-    },
-    {
-      "id": "dcd4b62c704ac0a9913324912247813b1c03adbf90baaa6e72cc249100724d1c",
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injec",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-01T14:37:35+00:00"
-    },
-    {
-      "id": "b6def06efdd15e757154e834c87316a919155fb279081efee33c155341680d42",
-      "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-      "url": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-      "summary": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-01T14:30:00+00:00"
-    },
-    {
-      "id": "8f523d3c9d55ee0976d311fe0f484035b728ad162f1a6f5367eb16276852daa5",
-      "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
-      "url": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-      "summary": "PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures. The post Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-01T14:30:00+00:00"
-    },
-    {
-      "id": "624e1a7a0804909562249230599e32ff049b0a25c8b7d6db49fcda9c7c3d405c",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-01T14:25:14+00:00"
-    },
-    {
-      "id": "35f80672fffac92c39507d9299ed7ebb85e82736f13c0a9e4a5ed9f80fd8e9fe",
-      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
-      "url": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-      "summary": "Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims. The post Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-01T14:17:07+00:00"
-    },
-    {
-      "id": "3e59dcb3b502dca383b1350575508db3af54a14c79c72711dd969fae8dd2bb94",
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-01T13:51:08+00:00"
-    },
-    {
-      "id": "d93d0d7377e524a55b747ffcf0cbbf38418eeabac2eeb0ac840ac621f7207402",
-      "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-      "url": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-      "summary": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security Fundamentals appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-01T13:15:00+00:00"
-    },
-    {
-      "id": "bb1cb46b2e505a51fd3d2bb2a1691517ad21205df48179f79f0f349b544762c3",
-      "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-      "url": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-      "summary": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction. The post Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-01T12:55:57+00:00"
-    },
-    {
-      "id": "d7086b6bb1656c01190b37c01156eaf80988cdf5ea034126133134daa9e90736",
-      "title": "Cyberattack on major Polish invoicing platform exposes customer data",
-      "url": "https://therecord.media/poland-cyberattack-invoice-software",
-      "summary": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-01T12:30:00+00:00"
-    },
-    {
-      "id": "87d4e111a9fa66b191535e590362b94d26e01c1638642af7190f71a7d9dd263f",
-      "title": "Connected Cars Are a Surveillance Platform",
-      "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-      "summary": "Researchers at Northeastern University, in collaboration with Consumer Reports, evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, ",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-10-01T11:06:14+00:00"
-    },
-    {
-      "id": "5c3d1e65afa07c610586b7805a64e7e50a93aa778136ec03c199cf614bba5609",
-      "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
-      "url": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
-      "summary": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware Developer and His Network appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-01T10:51:39+00:00"
-    },
-    {
-      "id": "c06bed30eaaa8439cc9354fc783cfdca1eb47f134e5d4ce9e9bceaf6348e8558",
-      "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
-      "url": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
-      "summary": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in AI-Powered DIVD Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-01T10:42:49+00:00"
-    },
-    {
-      "id": "33c11d72966e45365da8433fbb506b2cbfd2d1ef18603425a9c41a519da7c0c5",
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-01T10:42:36+00:00"
     }
   ]
 }
