@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-14T03:24:31.927154+00:00",
+  "updated": "2026-10-14T11:06:55.929553+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2a29077196100551b24a3acf0357d07abfd1030b472876be4cbb81aa574995cb",
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "url": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "summary": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-14T10:55:21+00:00"
+    },
+    {
+      "id": "dce2d98112cca9f3273759ecef710cd86ad2600946b0ad8ba2eb5682a0f36a3e",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:46:57+00:00"
+    },
+    {
+      "id": "d1302977fca35241919fb8f6c1191832bb07988fa95e4424ac1af1ce20e23338",
+      "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+      "summary": "Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:38:51+00:00"
+    },
+    {
+      "id": "283a883f37c7bde8c8f7c0e2df8e911d492b1b2ef9f8459df8e452a780e1cf30",
+      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+      "url": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+      "summary": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:26:35+00:00"
+    },
+    {
+      "id": "36dc6aa9b1fcad0a5e8ed408511d7c72bdb20aaa14a791d4ae71c7b7dd6142fe",
+      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+      "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "summary": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:16:12+00:00"
+    },
+    {
+      "id": "20e9f6d65963606d419bc68c41f2138cbfd0d6f52dbf001490d3cf6382ff1328",
+      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "summary": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T06:12:10+00:00"
+    },
+    {
+      "id": "0c18f2a3df012bdd1f2e05bbbd286d4b4bd89ecbd922d3596274cabf2f7db028",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T05:52:28+00:00"
+    },
+    {
+      "id": "9917fb9c5e95cc7a28f075867858f4c999a04c18042b6318f0e524696bcffda3",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Serv",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T04:34:43+00:00"
+    },
     {
       "id": "0fbd64ca10e3ba0a1614ea76e80b28f2a309b4432628f0d165773faf7a59eb50",
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -10,6 +82,15 @@
       "source": "Krebs on Security",
       "category": "vulnerability",
       "date": "2026-10-13T23:24:53+00:00"
+    },
+    {
+      "id": "838871d1308daa97c55b996eb5c2c53ae14990589cbc7745d8617f53390dce1b",
+      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+      "url": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+      "summary": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-13T23:00:00+00:00"
     },
     {
       "id": "521975252a515749d365202d298d4de1c2eacd3a426e71abac625c8fab83854d",
@@ -76,9 +157,9 @@
     },
     {
       "id": "87a5f4d438ee6ef7536286ee3f22ce0f03cf91efe6e059dad3fcd2c6ef76330d",
-      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek.",
+      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-13T17:14:42+00:00"
@@ -2170,87 +2251,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-10-01T10:42:36+00:00"
-    },
-    {
-      "id": "346b23ad75b1b976dc9cd3345dae4d8f9962bed293eef0683d7062bb2bf2595c",
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-01T10:33:16+00:00"
-    },
-    {
-      "id": "4f07180fa12189cbe89e78eaf861a6f8f00f899e0a242964024dbfb70b8b4090",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-01T09:44:28+00:00"
-    },
-    {
-      "id": "1b240680a7e9dab0d305fef2ee04a04a29847e519ec0e2378e58189bb3ca2a0c",
-      "title": "Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability",
-      "url": "https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
-      "summary": "The flaw could allow remote, unauthenticated attackers to access vulnerable appliances with administrative privileges. The post Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-01T08:26:03+00:00"
-    },
-    {
-      "id": "a34dca403481fcfabc1ef4015e1eae38a1a200be3d5bb062e04a11888d0e5253",
-      "title": "Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders",
-      "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
-      "summary": "The company says its new frontier AI model found a critical vulnerability in software used by hospitals worldwide. The post Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-01T07:52:26+00:00"
-    },
-    {
-      "id": "43ea94fc4334db43054f4e6efdb26c9ac9879438fcf1b3966aad0fbcf853db57",
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. Th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-01T05:54:41+00:00"
-    },
-    {
-      "id": "5af31d29d4e782516f815a51df3f64b95004ded19def1434d62ec69223d2ed87",
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33388",
-      "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-10-01T05:32:13+00:00"
-    },
-    {
-      "id": "b4409a570832e0f95c2b09f06d74cba73eb7b64a7bba9c6a7a01a211d4f59252",
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Their investigation identified malicious activity involving third-party security p",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-01T05:21:10+00:00"
-    },
-    {
-      "id": "87574535fedc74f2af39dd07ae40acabc5c7058e7f6fb382f661e0b31acf9b29",
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations &amp; Research (THOR) team, which analyzed the exploi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-01T04:35:34+00:00"
-    },
-    {
-      "id": "b42013daebdfc3b076d4037214d0f0c8d0e704952b5dd0bda153cd245ad3593f",
-      "title": "US sanctions 10 over ATM malware scheme tied to Tren de Aragua",
-      "url": "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
-      "summary": "Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-09-30T22:35:00+00:00"
     }
   ]
 }

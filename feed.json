@@ -1,10 +1,82 @@
 {
-  "updated": "2026-10-14T03:24:31.927154+00:00",
+  "updated": "2026-10-14T11:06:55.929553+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "2a29077196100551b24a3acf0357d07abfd1030b472876be4cbb81aa574995cb",
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "url": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "summary": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-14T10:55:21+00:00"
+    },
+    {
+      "id": "dce2d98112cca9f3273759ecef710cd86ad2600946b0ad8ba2eb5682a0f36a3e",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The b",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:46:57+00:00"
+    },
+    {
+      "id": "d1302977fca35241919fb8f6c1191832bb07988fa95e4424ac1af1ce20e23338",
+      "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+      "summary": "Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:38:51+00:00"
+    },
+    {
+      "id": "283a883f37c7bde8c8f7c0e2df8e911d492b1b2ef9f8459df8e452a780e1cf30",
+      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+      "url": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+      "summary": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:26:35+00:00"
+    },
+    {
+      "id": "36dc6aa9b1fcad0a5e8ed408511d7c72bdb20aaa14a791d4ae71c7b7dd6142fe",
+      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+      "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "summary": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T07:16:12+00:00"
+    },
+    {
+      "id": "20e9f6d65963606d419bc68c41f2138cbfd0d6f52dbf001490d3cf6382ff1328",
+      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "summary": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-14T06:12:10+00:00"
+    },
+    {
+      "id": "0c18f2a3df012bdd1f2e05bbbd286d4b4bd89ecbd922d3596274cabf2f7db028",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T05:52:28+00:00"
+    },
+    {
+      "id": "9917fb9c5e95cc7a28f075867858f4c999a04c18042b6318f0e524696bcffda3",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Serv",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T04:34:43+00:00"
+    },
     {
       "id": "0fbd64ca10e3ba0a1614ea76e80b28f2a309b4432628f0d165773faf7a59eb50",
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -13,6 +85,15 @@
       "source": "Krebs on Security",
       "category": "vulnerability",
       "date": "2026-10-13T23:24:53+00:00"
+    },
+    {
+      "id": "838871d1308daa97c55b996eb5c2c53ae14990589cbc7745d8617f53390dce1b",
+      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+      "url": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+      "summary": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-13T23:00:00+00:00"
     },
     {
       "id": "521975252a515749d365202d298d4de1c2eacd3a426e71abac625c8fab83854d",
@@ -79,9 +160,9 @@
     },
     {
       "id": "87a5f4d438ee6ef7536286ee3f22ce0f03cf91efe6e059dad3fcd2c6ef76330d",
-      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek.",
+      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-13T17:14:42+00:00"
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-12T13:09:09+00:00"
-    },
-    {
-      "id": "bde5f57d0e6735f15b34a241f64d1d41ac9d3dc6bdf1c7be0ba941a832004ab2",
-      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-      "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-12T11:58:39+00:00"
-    },
-    {
-      "id": "1ab75555dc2885894aadc2133fe9f321c4a33c7406908663930a6b03666d7430",
-      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-      "summary": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T11:24:50+00:00"
-    },
-    {
-      "id": "001d5c2cb7d776f3d0934251eeeb36a1c3b17f6cebb7edf15b3efffba1830128",
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased product",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-12T11:21:48+00:00"
-    },
-    {
-      "id": "7efaee3b0a668c94cbd708dddcc06b2eaa39dafd1fa51ce92251fd962a17ead3",
-      "title": "iRhythm Data Breach Impacts at Least 360,000 People",
-      "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
-      "summary": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers. The post iRhythm Data Breach Impacts at Least 360,000 People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T11:05:43+00:00"
-    },
-    {
-      "id": "c7baac5e718b8a6f18aa8271904624a36c63ee98bc3d3038eaf395351b54ec61",
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forge",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-12T10:36:56+00:00"
-    },
-    {
-      "id": "c54aebde31922240f119c2bc00aa2319d20f0499ca4e8c77fa7d6e13491d1d33",
-      "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-      "summary": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T10:32:05+00:00"
-    },
-    {
-      "id": "c9dce304dcc90255d486ef511a80e2965f2fe6e8c10b552a1ec675073de46cda",
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-12T09:02:14+00:00"
-    },
-    {
-      "id": "d58e65970256458b43ad7cc3813eedc4621dd829999b31a8609c1acb0a249304",
-      "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-      "summary": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-12T08:36:01+00:00"
-    },
-    {
-      "id": "7e4ca9da052231497996de39f1fdabe7d2c2d1df4c1b6cf47d04e771ffbf9177",
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-12T07:26:12+00:00"
     }
   ]
 }
