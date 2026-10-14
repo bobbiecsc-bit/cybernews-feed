@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-13T22:15:18.388079+00:00",
+  "updated": "2026-10-14T03:24:31.927154+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5ef20bc51467188265c7518d9944e2d8e0f120302b7d2451ea66da373fe27a7c",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-02T17:33:31+00:00"
+    },
     {
       "id": "2fb0abb39d71922812ae99c167e45492c1cf26f035bd56f26093f4765697c204",
       "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "malware",
       "date": "2026-09-30T22:35:00+00:00"
-    },
-    {
-      "id": "2d28f457acee0ed72eb826b47e9eedcb3fe441ef2d30d842e49e5added18f12a",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-09-30T20:34:01+00:00"
     }
   ]
 }
