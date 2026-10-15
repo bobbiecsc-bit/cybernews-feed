@@ -1,10 +1,91 @@
 {
-  "updated": "2026-10-15T10:48:27.344718+00:00",
+  "updated": "2026-10-15T16:14:42.400706+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d5f004d3883642dce86d8504fb3d52148e222e67e1e9b770b9cf75a80a84762",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T19:56:09+00:00"
+    },
+    {
+      "id": "ad238618311362162cbf7660596b289aab44dc852b9b8439cebf97bd5bd2aff4",
+      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
+      "url": "https://isc.sans.edu/diary/rss/33422",
+      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&&#x23&#x3b;x26&#x3b;&#x23&#x3b;39&#x3b;s patch Tuesday, and one is already exploited",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-13T19:25:52+00:00"
+    },
+    {
+      "id": "a59a9af7ace6e94c96f7bf603ab198222d2fefe34a2a64409ac0269f8119faab",
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T18:43:43+00:00"
+    },
+    {
+      "id": "f459c5923c1f2f1f0f0399d778e50fd56cd0cc834f0c02647efe67e017a828a7",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that&nbsp;converts a personal a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T18:03:18+00:00"
+    },
+    {
+      "id": "ea27b5cc9be9a7810f86f7c6b53f26cc86da50680ed68c085cd4ad2ac1699893",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:33:11+00:00"
+    },
+    {
+      "id": "9f98c61ecb3c8b3b53b75739a2c0bf095e7742d287173b19b434ea1ea94b0a36",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's o",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:28:50+00:00"
+    },
+    {
+      "id": "87a5f4d438ee6ef7536286ee3f22ce0f03cf91efe6e059dad3fcd2c6ef76330d",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
+      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:14:42+00:00"
+    },
+    {
+      "id": "fc6dca316e4fb25e7596dd0ace99c4254dd29feba389ca4be19487c7b95d55ec",
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "id": "92637fae567836d42d18daeda39b42e547909f7af6db8cc56b5093abb5fb824b",
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-13T16:44:18+00:00"
+    },
     {
       "id": "3d29c827bc05744dd0bcbb832c7261ff5d35ce963cfd73a3940868f1d32bc507",
       "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
@@ -373,87 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-10-11T14:23:46+00:00"
-    },
-    {
-      "id": "2d8b2a661271f3ed2fea9ffea1009da3eb0d31cfcb71f22ceaa1c55663a4c0fb",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-11T04:24:34+00:00"
-    },
-    {
-      "id": "c1d0598b68547532044326ad8bb11c234741c76accb15b05efa9889fb8ab89c4",
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-10T14:16:17+00:00"
-    },
-    {
-      "id": "b795ef5d79a9599367e3559f575193defc8c51c2f9de303a382a7773e98a9d4e",
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-10T12:30:39+00:00"
-    },
-    {
-      "id": "efd24bc6b14734d03e9ac7193fb1550b449dbf32ccc4fbc2a9aae45e0118f9bb",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified f",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-10T09:18:45+00:00"
-    },
-    {
-      "id": "9d4120ee38afb875e2dcb492ba81ac687419fdda46206eb3cc7cc11fb768d49c",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "id": "944cba0b0c149de620126c7a0eac32ae9719e2baa29c106892fa3e6ba57e41db",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-09T20:31:37+00:00"
-    },
-    {
-      "id": "bf89595af7c39e7a025ec626eeeb09ce33b8e83a8d0e785473c5926e951fd3f1",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, th",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-09T19:14:28+00:00"
-    },
-    {
-      "id": "6612071623f0df2992b3c6a828ce22c911bde6d6f2cac2c4e2327100b910205c",
-      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-      "url": "https://therecord.media/japan-germany-ransomware-arrest",
-      "summary": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-09T18:45:00+00:00"
-    },
-    {
-      "id": "30dc1b1f3fcaab410b5efcd32458f684fe358030d092f75ca11d87d829b3b070",
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X. ShinyHunters is the extortion group that said in September it had&nbsp;breached the FBI's jobs portal&nbsp;and stolen sensitive data on almost all FBI agents and job ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-09T17:45:26+00:00"
     }
   ]
 }
