@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-15T16:14:42.400706+00:00",
+  "updated": "2026-10-15T20:53:42.743051+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "227c5a080ac141544c5f3e66b69e588163f8400281ae4c20977d2e64fe1ffb4c",
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-15T20:46:00+00:00"
+    },
+    {
+      "id": "d0b52638beda04f741558ff3a4b1bf5e4271e447d13f875536d8d12aef6061c5",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-15T20:25:04+00:00"
+    },
+    {
+      "id": "e2089d243155ed7a05c2caf047206c938b1d7289ca984c3299fef5aac94b413c",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape,",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T20:24:36+00:00"
+    },
+    {
+      "id": "06720af8fb4892a0dc1df4b42e82b12d260b3cea7fdd36baa09acf5c4acfc2d2",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the w",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-15T18:49:33+00:00"
+    },
+    {
+      "id": "f6df72ea2abc993dfa9eb6589e768d0c6e61d64aa15398017f8413b53ca8d123",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-15T18:20:59+00:00"
+    },
+    {
+      "id": "7c3fcbaf6261fb70fa16d1c32b8f293844c182cf2ee4706b5d6da653526e4c2a",
+      "title": "Context Is King in the Fight Against Modern Cyberattacks",
+      "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
+      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-15T17:42:50+00:00"
+    },
+    {
+      "id": "bf40b114a657e05df347de861dbaebf471081682cfbe2c0de87e4513494ee6ef",
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-15T17:12:31+00:00"
+    },
+    {
+      "id": "925554bf2f9c48bc27c2b52eaac561e7935629cb66c9da36a31243a32b27015d",
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;the Citizen Lab&nbsp;said Thursday. The hidden attack code ran the moment an ad lo",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-15T16:01:57+00:00"
+    },
+    {
+      "id": "c4b7926adcfb8ca7088112a52fbbc844a15a3773a88ab5e8232942633c27f4ed",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabl",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T16:00:26+00:00"
+    },
     {
       "id": "d30d4a2455060b73095329de7cadca8306a79b54639684327e6927742fea3c05",
       "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
@@ -2170,87 +2251,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-05T05:14:48+00:00"
-    },
-    {
-      "id": "8873deea669b4d54ac7b0e5c840fcd47ba236c0edbfd02e4d2bfa1f1a98bf692",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-04T21:58:01+00:00"
-    },
-    {
-      "id": "aac5cc1a7d26e13fa0a5f7d7365a0ed8fd8515b8b7334c47b468a810f22db7f6",
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-04T07:20:32+00:00"
-    },
-    {
-      "id": "d5d7c3b1775bb907651a5209a9a02d959c4f1dc67651df4f839696133b3aac2b",
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hu",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-03T14:36:33+00:00"
-    },
-    {
-      "id": "c24f61f66f613431ba97a9449695cca50a2f11559182f2c278fe97abb53bf85d",
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-03T14:35:20+00:00"
-    },
-    {
-      "id": "a28608a1a39437747ecf4cf4fe49f38f52be0978443456922d1302cb7c75ea55",
-      "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-      "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-      "summary": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-03T11:34:00+00:00"
-    },
-    {
-      "id": "1a019c2da70684a54f4db9136963428c2bcf5754e420011eb025c374eaf24a1a",
-      "title": "Frontline Education breach exposes school district employee data",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-02T19:01:40+00:00"
-    },
-    {
-      "id": "e611cb20ae49777dc80b029ef786388b202ffb91926d37fd3c041cc562f95a89",
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-02T18:33:01+00:00"
-    },
-    {
-      "id": "5ef20bc51467188265c7518d9944e2d8e0f120302b7d2451ea66da373fe27a7c",
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-02T17:33:31+00:00"
-    },
-    {
-      "id": "2fb0abb39d71922812ae99c167e45492c1cf26f035bd56f26093f4765697c204",
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deploym",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-02T17:33:16+00:00"
     }
   ]
 }
