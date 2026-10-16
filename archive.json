@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-16T16:00:56.031227+00:00",
+  "updated": "2026-10-16T20:27:44.737026+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "eef67d66b352919d991d03da0405e44a65a2cc59027ee19d8ebb5acdd5afddcb",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-16T20:00:59+00:00"
+    },
+    {
+      "id": "ebaf37949a88c936e530e83bfd13a0855d99a808c925f902d5ff17e1242b28eb",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-16T17:48:45+00:00"
+    },
+    {
+      "id": "f10c7fe5846196e7c87d03951b1e0034b2dd766b381acf31f24574de46f36956",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-16T17:20:03+00:00"
+    },
+    {
+      "id": "ffdcabb15288bf144b88d0dbd9598a1f314716e88738655af300cf637050828e",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-16T16:43:39+00:00"
+    },
+    {
+      "id": "23e4826e2b125739a8b095fb52756c3fda2fc1f6eaf919f78459099bef8e2583",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-16T16:16:44+00:00"
+    },
     {
       "id": "5464399489453ea56c42eb06d44e351c25b787b72378da592d6d30277db7bf33",
       "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -2206,51 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-05T16:21:52+00:00"
-    },
-    {
-      "id": "93e37dfa30f8bf05dafd5376bdc743846646df3817f47a3a6a33293cbb7ff1b0",
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "url": "https://therecord.media/ransomware-university-illinois-chicago",
-      "summary": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-05T15:30:00+00:00"
-    },
-    {
-      "id": "2b5b7c2cd2dfc5a5dce1df2f672dfb4d5e2d25b424cff95c73881c336ab6fcb8",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-05T15:21:10+00:00"
-    },
-    {
-      "id": "8529f42bd2dde732af249c2325b09ca19d708033a9295b17bfba6e16ba43ca68",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-05T14:53:06+00:00"
-    },
-    {
-      "id": "a5e296f892f4b9f3518afc152950149494a943224e62b699a31149339fb79f27",
-      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-      "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-      "summary": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-05T14:26:00+00:00"
-    },
-    {
-      "id": "d9fe3a1e916f0e9e992f5d95f1f66eb5daf7b917cbfc7cf944ed26e7c6015a59",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-05T14:22:12+00:00"
     }
   ]
 }
