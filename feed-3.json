@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-16T10:37:37.824331+00:00",
+  "updated": "2026-10-16T16:00:56.031227+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "11ed89f3164712a85e6c9b6f884760f93348a44911f23a9f4267fdfe7522d010",
+      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-13T08:28:51+00:00"
+    },
+    {
+      "id": "56358479006c5238f71c844af40cf853be110a5b8e4b221ab27519739b26156d",
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several bra",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-13T06:00:11+00:00"
+    },
+    {
+      "id": "aec445a38383e47366ad8b14227d65e0b72ad1562e00b8b9ef2778af76a055f7",
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-12T19:23:01+00:00"
+    },
+    {
+      "id": "db0de857c940096aeedc6555e4ad4d0ce696ae0aa199110a93b21f00425036de",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-12T18:51:59+00:00"
+    },
+    {
+      "id": "953fff0f262464208cd61e48d5a4a0c5b7edb8a9309a16c196e4140dcddd95ea",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-12T15:23:34+00:00"
+    },
+    {
+      "id": "6297931f11be8be3b1576ac6ea66cef90802dddda730cb48ac08a94cbda4b3f8",
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-12T15:16:26+00:00"
+    },
     {
       "id": "79aba1b981e2efa98f9c6556d92794ab6f25c6e6ff506c42d19ab45eca21c8bd",
       "title": "FBI Arrests Suspect in FBI-Hacking Case",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-09T08:26:17+00:00"
-    },
-    {
-      "id": "dada16fa3e4cf93e439c0dec6f33baed2590dada3a08f56b8845aed2dda669e2",
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:19:33+00:00"
-    },
-    {
-      "id": "282fb784975a02d0f6d8bc6b486d280540ee64721a4b541ffd850855b00c5de5",
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:11:33+00:00"
-    },
-    {
-      "id": "8d2528422f22ae446c0875076d3924e6d676e343b7e979aa1deb888420701f09",
-      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
-      "url": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-      "summary": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-09T06:53:53+00:00"
-    },
-    {
-      "id": "c00207433b6a8e4ceef5c482b864835af6b2d419f239a19c30c4c2044a9ba0a3",
-      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
-      "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-      "summary": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-09T06:39:55+00:00"
-    },
-    {
-      "id": "de0aa2292fa32876e1eeb31d08fd1348c06f1b0eed2eb12e235b9f698bfd3594",
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were us",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-09T06:39:29+00:00"
-    },
-    {
-      "id": "4628e43fc12ef4fe4ff2b88dda333180dbeb7215218d99139dafce9e50bd25fd",
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-09T05:41:04+00:00"
     }
   ]
 }
