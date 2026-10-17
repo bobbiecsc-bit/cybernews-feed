@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-17T10:05:58.725522+00:00",
+  "updated": "2026-10-17T14:53:57.184980+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-07T17:43:20+00:00"
+    },
+    {
+      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T16:17:44+00:00"
+    },
+    {
+      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-07T15:34:53+00:00"
+    },
     {
       "id": "99a195ea89001c923b5a6f38ecf8fd569fe5c258253a20566a29c386db3b5fb6",
       "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
@@ -427,33 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-05T20:20:05+00:00"
-    },
-    {
-      "id": "ea9a3647130437b676ed2c0e59f7c14f93a2426f137e41475af0ba15854c75d8",
-      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
-      "url": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
-      "summary": "Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T19:15:00+00:00"
-    },
-    {
-      "id": "7fc21371058e4548b07ce0fdc889c98d32aa5a077bdd74c7da65d8384bd32d25",
-      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
-      "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
-      "summary": "Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-05T17:22:00+00:00"
-    },
-    {
-      "id": "5682dfaf1f5328ca9132507d9ab2879ae8df8fa162771eb44543f8db07f2ec9c",
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "summary": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-05T17:00:00+00:00"
     }
   ]
 }

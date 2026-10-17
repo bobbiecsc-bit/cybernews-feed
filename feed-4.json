@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-17T10:05:58.725522+00:00",
+  "updated": "2026-10-17T14:53:57.184980+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d96e6fa992364d217b8d1acf524131bc8f3587c99146bdf5db2b8ec2e9352a70",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:21:51+00:00"
+    },
+    {
+      "id": "77e8a1bce957924c21411708e5c65022a41ceffbdfd71420e5330676ba95ff74",
+      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on Se",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T12:03:50+00:00"
+    },
+    {
+      "id": "9fbb4937f47542c1137f685c7be372fb540335aa3bb282435b4c163cfb1d3a33",
+      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+      "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T11:43:14+00:00"
+    },
     {
       "id": "ff63f58751b625a492dc461e4b025c64f1e96e13e30da52d380127939600de97",
       "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-07T18:31:00+00:00"
-    },
-    {
-      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T17:43:20+00:00"
-    },
-    {
-      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-07T16:17:44+00:00"
-    },
-    {
-      "id": "4d160aba1a13f600ac47c6dc4eb48a1a8e12b5d88f2cf4f6b05e42885874bd4f",
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's&nbsp;multiprocess mode, where the cache runs as a st",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-07T15:34:53+00:00"
     }
   ]
 }
