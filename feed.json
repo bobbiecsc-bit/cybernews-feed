@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-17T14:53:57.184980+00:00",
+  "updated": "2026-10-17T20:02:54.182211+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "622bd951152759335bff398f676970b5a04f59754ebbdf6734e5c8d432308120",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-17T15:18:51+00:00"
+    },
     {
       "id": "978985bee2a5f3ab64de6a951419fd8a7aa139c0452d05109b87f5bc7438e166",
       "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
@@ -54,7 +63,7 @@
       "id": "ebaf37949a88c936e530e83bfd13a0855d99a808c925f902d5ff17e1242b28eb",
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte",
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-16T17:48:45+00:00"
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-15T06:34:15+00:00"
-    },
-    {
-      "id": "10dada637c3ef8019c7e50ea7c2227ec51526bae9491087bc5f60581574bbad9",
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-14T22:56:47+00:00"
     }
   ]
 }
