@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-18T10:20:03.316786+00:00",
+  "updated": "2026-10-18T15:19:46.683234+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "de332aa1deffb5103d698831e7f8b7b37a89bb5dc78b42774b5b5af6c7f5828b",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-18T14:23:16+00:00"
+    },
     {
       "id": "1a74dd4c9004a29993dc050f85457de1b53f76396882a7ca967835ba0ecc59c1",
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-15T06:59:54+00:00"
-    },
-    {
-      "id": "ab68bb7b689bedcb6b9a35cf6370f5a712f41f64aeebda47e4799a4825d9a690",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-15T06:43:08+00:00"
     }
   ]
 }
