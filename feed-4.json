@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-18T02:54:00.282109+00:00",
+  "updated": "2026-10-18T10:20:03.316786+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d33e86be6de0bd5dd04ebc92d4b37c3ebcb9fae0cfa1118ce15ddad9eedf01e8",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:47:26+00:00"
+    },
     {
       "id": "6dabc0f8fb49ecb0d0381a51a05922bf9c48f7b5db0f24287cb40d6658c4a3b2",
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-07T19:50:00+00:00"
-    },
-    {
-      "id": "d19160e8f030fa9c6064cfaec96bb968f2a2e24e343f794891de058a198a39eb",
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T18:48:17+00:00"
     }
   ]
 }
