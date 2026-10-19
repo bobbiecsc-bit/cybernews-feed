@@ -1,10 +1,73 @@
 {
-  "updated": "2026-10-19T03:07:18.015006+00:00",
+  "updated": "2026-10-19T12:01:35.263505+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "60f1b8a84c1a90e1c111ae39c6a13dd981bce1f54f01589fc40ce6666998ee60",
+      "title": "CikaBika Bot RAT Uses Discord for C&C",
+      "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+      "summary": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&#038;C appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-15T11:25:58+00:00"
+    },
+    {
+      "id": "17a097b616c376e41f2f255ff4c0630370f4cd7921074ecba5a0ed6b6197a977",
+      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
+      "url": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+      "summary": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-15T10:15:32+00:00"
+    },
+    {
+      "id": "642e21ce6c89b65eba2458295f94d94149711966d1ff730c9f6c1eefbc5a40a1",
+      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
+      "url": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+      "summary": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised. The post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-15T09:55:19+00:00"
+    },
+    {
+      "id": "871699ef8521713692e97c4350d918b9b0011bdaa513681603cffe1f25b7ff3d",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It at",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-15T08:45:10+00:00"
+    },
+    {
+      "id": "cfef32934ffbcfe5f332392c10053ee99d01d7a385c170e0452073d8d2016fe7",
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-15T08:06:47+00:00"
+    },
+    {
+      "id": "43828a09caae063058822a829e05f05b68235a4e895d3142f449a42ae76fdd33",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, wa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T07:07:05+00:00"
+    },
+    {
+      "id": "bc4412ae7c09fb26938a1514d630fbce93439b010552c764e4216a596d0f20fb",
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "summary": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:59:54+00:00"
+    },
     {
       "id": "ab68bb7b689bedcb6b9a35cf6370f5a712f41f64aeebda47e4799a4825d9a690",
       "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-10-13T16:44:18+00:00"
-    },
-    {
-      "id": "3d29c827bc05744dd0bcbb832c7261ff5d35ce963cfd73a3940868f1d32bc507",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes valid",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-13T16:18:18+00:00"
-    },
-    {
-      "id": "c8dbd5c1a621e85dba4b1552323c5fde1cec49c9b9fab2e0215f686f6e2240b3",
-      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
-      "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
-      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit data outside approved networks.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-13T16:18:00+00:00"
-    },
-    {
-      "id": "31360dd1cd4ddbaf6fa688cd38e5dbb7087ca0fbdc78dff4cbeae4cf10e58882",
-      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-      "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-13T16:01:00+00:00"
-    },
-    {
-      "id": "0dfe312cc7dd1fa68b9590e6c510526efc2b08a04c785f6cd1761638810908f2",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T15:45:50+00:00"
-    },
-    {
-      "id": "2641e35974698b4705b22c1ae9cbd04754ef3336a31bbe954ed6e839ef171f1b",
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T15:20:20+00:00"
-    },
-    {
-      "id": "75ff0fe159c38ee0910a09a577dd2cd666532eb32e25d6fba55275c49b4f696a",
-      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-      "url": "https://therecord.media/north-korea-hackers-russia-ukraine",
-      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-13T15:15:00+00:00"
-    },
-    {
-      "id": "f7a2a64fd763c0e688be5552e605fe2689042419b5596207eade23156eea50ba",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-13T14:01:11+00:00"
     }
   ]
 }
