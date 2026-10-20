@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-20T16:18:08.790427+00:00",
+  "updated": "2026-10-20T21:12:19.096540+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f19c6036be879f8a95dd57b4ae8c5464f4751e48073dd935412a6d5c91ece303",
+      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+      "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+      "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-10-20T20:27:00+00:00"
+    },
+    {
+      "id": "3c30069909e9b9e6b9c5256ee1d0cd1de85bc49ef5c6aa92c35de71ffdf622c4",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-20T19:33:02+00:00"
+    },
+    {
+      "id": "3ab57040bd4b56a8ce22bdc67c405382a3d68157ec8a27267196f6ef12c24d63",
+      "title": "California warns all public school students of data stolen in contractor breach",
+      "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+      "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-20T19:20:00+00:00"
+    },
+    {
+      "id": "bd1247048194d49cb5a3378db52c7122aed51d8bbd3bd51afefe7ce6a2709f9b",
+      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+      "url": "https://therecord.media/23andme-california-data-breach-settlement",
+      "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-20T18:32:00+00:00"
+    },
+    {
+      "id": "13870bb518e7a0f90efa15d662076011c9c636106cc3b40b7482e8661b8a69d2",
+      "title": "Nigerian national given 8-year sentence for tax business hacks",
+      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+      "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-20T17:14:00+00:00"
+    },
+    {
+      "id": "1e26274c4cd9491712143e4ae714dfefb589c69eb42ff55f03efa741c51fcb58",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-20T17:09:53+00:00"
+    },
     {
       "id": "584d35c71235748c5853ae0ee8facd11c2557a1afe12b5bae233b2cc206ecade",
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -400,60 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-19T06:29:44+00:00"
-    },
-    {
-      "id": "6dda7c5d535ad3e23867f6c55ad15b5d360442a6ba6cb8256e74f6c28d6cba31",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-19T06:07:08+00:00"
-    },
-    {
-      "id": "de332aa1deffb5103d698831e7f8b7b37a89bb5dc78b42774b5b5af6c7f5828b",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-18T14:23:16+00:00"
-    },
-    {
-      "id": "1a74dd4c9004a29993dc050f85457de1b53f76396882a7ca967835ba0ecc59c1",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-18T08:23:02+00:00"
-    },
-    {
-      "id": "622bd951152759335bff398f676970b5a04f59754ebbdf6734e5c8d432308120",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-17T15:18:51+00:00"
-    },
-    {
-      "id": "978985bee2a5f3ab64de6a951419fd8a7aa139c0452d05109b87f5bc7438e166",
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-17T14:32:48+00:00"
-    },
-    {
-      "id": "219fd9eab491daf6e2fa95ed6dd86eea75a0ccb1886230efb6b82e44ee49d6c6",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-17T11:11:56+00:00"
     }
   ]
 }

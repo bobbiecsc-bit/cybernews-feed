@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-20T16:18:08.790427+00:00",
+  "updated": "2026-10-20T21:12:19.096540+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b8e2f39fd1297ab6dbeb3bac5fdd0aa67885420082e4d6ed8c7ce7e1347fa9bc",
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "summary": "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its&nbsp;changelog&nbsp;described t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:59:22+00:00"
+    },
+    {
+      "id": "6df49761e69e4df829e7a2a170a85ff037fae5eb237d8351f6acebf8e004448f",
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:47:28+00:00"
+    },
+    {
+      "id": "d33e86be6de0bd5dd04ebc92d4b37c3ebcb9fae0cfa1118ce15ddad9eedf01e8",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:47:26+00:00"
+    },
+    {
+      "id": "6dabc0f8fb49ecb0d0381a51a05922bf9c48f7b5db0f24287cb40d6658c4a3b2",
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:32:16+00:00"
+    },
+    {
+      "id": "d96e6fa992364d217b8d1acf524131bc8f3587c99146bdf5db2b8ec2e9352a70",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-09T12:21:51+00:00"
+    },
+    {
+      "id": "77e8a1bce957924c21411708e5c65022a41ceffbdfd71420e5330676ba95ff74",
+      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on Se",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-09T12:03:50+00:00"
+    },
     {
       "id": "9fbb4937f47542c1137f685c7be372fb540335aa3bb282435b4c163cfb1d3a33",
       "title": "Google Domains Impacted by Recent ccTLD Hijacks",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-10-07T21:28:54+00:00"
-    },
-    {
-      "id": "7f3dc49181a94be7982b728b3a31f174f2ad1fd301318881278e31072f73cb88",
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-07T20:50:13+00:00"
-    },
-    {
-      "id": "a654a360d68cc30ec3a696c4b6bf0fbbd379fb0f713514cbae90b87ce81ebc69",
-      "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
-      "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
-      "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-07T19:50:00+00:00"
-    },
-    {
-      "id": "d19160e8f030fa9c6064cfaec96bb968f2a2e24e343f794891de058a198a39eb",
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&nbsp;said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T18:48:17+00:00"
-    },
-    {
-      "id": "7806992aa6ee9c4b844404759deba531481958dc1868c45db127f4e28ead274b",
-      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
-      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
-      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-07T18:31:00+00:00"
-    },
-    {
-      "id": "39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a l",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-07T17:43:20+00:00"
-    },
-    {
-      "id": "6e23ba3132bb40b870711fe7b5b9d392ec69173b65473c3a0ed6d92ab6992ece",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rate",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-07T16:17:44+00:00"
     }
   ]
 }

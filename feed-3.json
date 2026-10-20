@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-20T16:18:08.790427+00:00",
+  "updated": "2026-10-20T21:12:19.096540+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bc4412ae7c09fb26938a1514d630fbce93439b010552c764e4216a596d0f20fb",
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "summary": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:59:54+00:00"
+    },
+    {
+      "id": "ab68bb7b689bedcb6b9a35cf6370f5a712f41f64aeebda47e4799a4825d9a690",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:43:08+00:00"
+    },
+    {
+      "id": "c52508bc08a7b30585641497b1a7075fa845049dca8e083c6e2faa193cb8e7ca",
+      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+      "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+      "summary": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:34:15+00:00"
+    },
+    {
+      "id": "10dada637c3ef8019c7e50ea7c2227ec51526bae9491087bc5f60581574bbad9",
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-14T22:56:47+00:00"
+    },
+    {
+      "id": "f5298475776fafd33d0c81705c58db36e236f882fd8d725d0155079226319741",
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-14T19:41:43+00:00"
+    },
+    {
+      "id": "402aaeff71af9a0903716f2ab9c965044fe95b98a71ddd82b1e9397fc681f0ef",
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, co",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T18:38:56+00:00"
+    },
     {
       "id": "0077d1f981ae153d0f8e049bd5b67d7ebff9b72401f362d4156e7291da90429f",
       "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
@@ -400,60 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-13T15:15:00+00:00"
-    },
-    {
-      "id": "f7a2a64fd763c0e688be5552e605fe2689042419b5596207eade23156eea50ba",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-13T14:01:11+00:00"
-    },
-    {
-      "id": "3b61a6f16cb0f0284488ecd88843e35cfb77d464962bc03dd349f4c87e33b634",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T13:51:02+00:00"
-    },
-    {
-      "id": "65a518d05c7526a5c13554d39ef9e071cb77534eefddbf53125901951ef00b7b",
-      "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
-      "url": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
-      "summary": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferencing.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-13T13:20:00+00:00"
-    },
-    {
-      "id": "d23c4f28273e3e8d7832cda0636f522697e9259cdd1aba8bae6cdbf3952a952d",
-      "title": "South African clothing retailer Foschini Group investigating cyberattack on British fashion brands",
-      "url": "https://therecord.media/foschini-group-south-africa-cyber",
-      "summary": "The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands, leaving some services unavailable.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-13T13:00:00+00:00"
-    },
-    {
-      "id": "38999a55a49a2d39a93e9a71b5c82844a0f269b6db0336c959a30297538ed176",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-13T11:57:06+00:00"
-    },
-    {
-      "id": "4aa5a9876a26104d805e2a70328f8ddb894ba0b86fa4a54311d264a81e38567b",
-      "title": "XWorm RAT Evolves Into Surveillance Platform",
-      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-      "summary": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-13T11:13:10+00:00"
     }
   ]
 }
