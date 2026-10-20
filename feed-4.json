@@ -1,10 +1,64 @@
 {
-  "updated": "2026-10-20T03:16:10.472179+00:00",
+  "updated": "2026-10-20T10:53:23.291015+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a1a9815eeb632a0e174ef51803d913ec4bc82605ac045066052dd00bd9b0f518",
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-12T14:00:10+00:00"
+    },
+    {
+      "id": "58f28dbb5db2e5181ff8985928e7864922a863a4d6d89a6513efeb9496730cac",
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-12T13:51:07+00:00"
+    },
+    {
+      "id": "1c16974ba9b7c0965864d75a3508ace00a065bf4260447950cc28e04958faae4",
+      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-12T13:14:37+00:00"
+    },
+    {
+      "id": "768e82c2b3a27eb9cb1e98e78386f92e1fc92492979597079293eaa45090859c",
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-12T13:09:09+00:00"
+    },
+    {
+      "id": "bde5f57d0e6735f15b34a241f64d1d41ac9d3dc6bdf1c7be0ba941a832004ab2",
+      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+      "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-12T11:58:39+00:00"
+    },
+    {
+      "id": "1ab75555dc2885894aadc2133fe9f321c4a33c7406908663930a6b03666d7430",
+      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+      "summary": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-12T11:24:50+00:00"
+    },
     {
       "id": "001d5c2cb7d776f3d0934251eeeb36a1c3b17f6cebb7edf15b3efffba1830128",
       "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
@@ -400,60 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-10-08T21:42:51+00:00"
-    },
-    {
-      "id": "82ee7a48c04d51c52b44d842f2a6ffa00d2854e502bca3b9a2547d1e67e08804",
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-08T20:09:45+00:00"
-    },
-    {
-      "id": "5a63718732ecbc41d3b12ddcccbc62a6dcb1d5ec410874bea393bb9e74c3bf9c",
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-08T19:20:33+00:00"
-    },
-    {
-      "id": "519ec05edb821c15b5d252be9e04e9a6ff2f81c57772a9237f9d1337f414b608",
-      "title": "International coalition seizes tools used by cyber firm behind Flax Typhoon",
-      "url": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
-      "summary": "The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed \"widespread vulnerability scanning and, in some cases, intrusions\" as part of the Flax Typhoon campaign.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-08T19:20:00+00:00"
-    },
-    {
-      "id": "92f3696e16484178f00f49df4a6c67df3b79068c38e1683f7bb4b6d77724a4fe",
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sancti",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-08T18:32:21+00:00"
-    },
-    {
-      "id": "d4fcba26f34220f81c4eb6bb2e7467aafc06b0a40260e6384e42d98fbd44c1bc",
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-08T17:58:02+00:00"
-    },
-    {
-      "id": "91772b15c79976758b08900772ee88ec10e035201b3d070c7b628ae7c661c65b",
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-08T17:10:55+00:00"
     }
   ]
 }
