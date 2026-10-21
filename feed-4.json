@@ -1,10 +1,82 @@
 {
-  "updated": "2026-10-21T16:33:14.269079+00:00",
+  "updated": "2026-10-21T21:12:38.896063+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c044be30ef826ca51935f4b65e7faae26952a4885a8524c6ec0c14918cc7b536",
+      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
+      "url": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
+      "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:35:00+00:00"
+    },
+    {
+      "id": "13d15f9231c43ced0025597415b2102b047308219e866af8614cd231cd0a7479",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:30:42+00:00"
+    },
+    {
+      "id": "05d981a16f272692a24f34eaa5bc01e7ab5c4753e1f4ea37669a38626c1e11cb",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in&nbsp;curl 8.23.0. Taking over a client needs exac",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T12:13:36+00:00"
+    },
+    {
+      "id": "7a5799db26b54ed8e1f21daf0433dca59d4d38e136a16244fbcd3cf595041c62",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-14T11:41:20+00:00"
+    },
+    {
+      "id": "2c2810e8b4ea0e8480b2ab75a2583c557e9b2be18a0688f12f37ecce43415c9c",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:19:02+00:00"
+    },
+    {
+      "id": "a95ca09cfb1e085592159cf574034b531fcee713a2284b80fc8118e3c12b7d0c",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud.&nbsp; Dutch m",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:08:22+00:00"
+    },
+    {
+      "id": "7b712b7943a44d07d41980f3920e89b40fe670eedac187ed51dc196aa996e845",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "id": "2a29077196100551b24a3acf0357d07abfd1030b472876be4cbb81aa574995cb",
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "url": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "summary": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-14T10:55:21+00:00"
+    },
     {
       "id": "dce2d98112cca9f3273759ecef710cd86ad2600946b0ad8ba2eb5682a0f36a3e",
       "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-10-12T18:51:59+00:00"
-    },
-    {
-      "id": "953fff0f262464208cd61e48d5a4a0c5b7edb8a9309a16c196e4140dcddd95ea",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-12T15:23:34+00:00"
-    },
-    {
-      "id": "6297931f11be8be3b1576ac6ea66cef90802dddda730cb48ac08a94cbda4b3f8",
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-12T15:16:26+00:00"
-    },
-    {
-      "id": "79aba1b981e2efa98f9c6556d92794ab6f25c6e6ff506c42d19ab45eca21c8bd",
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "summary": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster. Last week, the FBI arrested (alternate link) someone associated with that crime.",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-10-12T15:01:26+00:00"
-    },
-    {
-      "id": "a1a9815eeb632a0e174ef51803d913ec4bc82605ac045066052dd00bd9b0f518",
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-12T14:00:10+00:00"
-    },
-    {
-      "id": "58f28dbb5db2e5181ff8985928e7864922a863a4d6d89a6513efeb9496730cac",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-12T13:51:07+00:00"
-    },
-    {
-      "id": "1c16974ba9b7c0965864d75a3508ace00a065bf4260447950cc28e04958faae4",
-      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-12T13:14:37+00:00"
-    },
-    {
-      "id": "768e82c2b3a27eb9cb1e98e78386f92e1fc92492979597079293eaa45090859c",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-12T13:09:09+00:00"
-    },
-    {
-      "id": "bde5f57d0e6735f15b34a241f64d1d41ac9d3dc6bdf1c7be0ba941a832004ab2",
-      "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-      "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-12T11:58:39+00:00"
     }
   ]
 }
