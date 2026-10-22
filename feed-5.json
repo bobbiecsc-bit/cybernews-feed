@@ -1,10 +1,100 @@
 {
-  "updated": "2026-10-22T11:06:05.469089+00:00",
+  "updated": "2026-10-22T16:34:44.868293+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c8dbd5c1a621e85dba4b1552323c5fde1cec49c9b9fab2e0215f686f6e2240b3",
+      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
+      "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit data outside approved networks.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-13T16:18:00+00:00"
+    },
+    {
+      "id": "31360dd1cd4ddbaf6fa688cd38e5dbb7087ca0fbdc78dff4cbeae4cf10e58882",
+      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-13T16:01:00+00:00"
+    },
+    {
+      "id": "0dfe312cc7dd1fa68b9590e6c510526efc2b08a04c785f6cd1761638810908f2",
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T15:45:50+00:00"
+    },
+    {
+      "id": "2641e35974698b4705b22c1ae9cbd04754ef3336a31bbe954ed6e839ef171f1b",
+      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T15:20:20+00:00"
+    },
+    {
+      "id": "75ff0fe159c38ee0910a09a577dd2cd666532eb32e25d6fba55275c49b4f696a",
+      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
+      "url": "https://therecord.media/north-korea-hackers-russia-ukraine",
+      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-13T15:15:00+00:00"
+    },
+    {
+      "id": "f7a2a64fd763c0e688be5552e605fe2689042419b5596207eade23156eea50ba",
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-13T14:01:11+00:00"
+    },
+    {
+      "id": "3b61a6f16cb0f0284488ecd88843e35cfb77d464962bc03dd349f4c87e33b634",
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-13T13:51:02+00:00"
+    },
+    {
+      "id": "65a518d05c7526a5c13554d39ef9e071cb77534eefddbf53125901951ef00b7b",
+      "title": "Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers",
+      "url": "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
+      "summary": "One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferencing.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-13T13:20:00+00:00"
+    },
+    {
+      "id": "d23c4f28273e3e8d7832cda0636f522697e9259cdd1aba8bae6cdbf3952a952d",
+      "title": "South African clothing retailer Foschini Group investigating cyberattack on British fashion brands",
+      "url": "https://therecord.media/foschini-group-south-africa-cyber",
+      "summary": "The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands, leaving some services unavailable.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-13T13:00:00+00:00"
+    },
+    {
+      "id": "38999a55a49a2d39a93e9a71b5c82844a0f269b6db0336c959a30297538ed176",
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-13T11:57:06+00:00"
+    },
     {
       "id": "4aa5a9876a26104d805e2a70328f8ddb894ba0b86fa4a54311d264a81e38567b",
       "title": "XWorm RAT Evolves Into Surveillance Platform",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-09T17:17:23+00:00"
-    },
-    {
-      "id": "2578558362f02f989be4b2e6bdde6861691d4c6dd863ae5ded2319569d564990",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-09T17:02:29+00:00"
-    },
-    {
-      "id": "5743398ef5e90d69004f0691ea0f30e600a8103ed73a9b1d42a50e64ed535c0b",
-      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-      "url": "https://therecord.media/irhythm-data-breach-reports",
-      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-09T16:06:00+00:00"
-    },
-    {
-      "id": "5b4b4b97eafdf499b98e8b684ab4ff86e945d2c7b2b47184ce1f10b7dcc39f0b",
-      "title": "FBI touts another ShinyHunters arrest in response to data breach",
-      "url": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-      "summary": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-09T15:41:00+00:00"
-    },
-    {
-      "id": "80ea615a8d476f8cf914875963b62b1e491cf80477505687d872b0b2aafaad29",
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-09T15:38:56+00:00"
-    },
-    {
-      "id": "80281de4d9d22cef4c07833d449ebe5a42be8dd46278b873846763e5cae807f9",
-      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
-      "url": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
-      "summary": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-09T14:40:00+00:00"
-    },
-    {
-      "id": "b8e2f39fd1297ab6dbeb3bac5fdd0aa67885420082e4d6ed8c7ce7e1347fa9bc",
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "summary": "Security researchers have&nbsp;published a full working exploit&nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its&nbsp;changelog&nbsp;described t",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T12:59:22+00:00"
-    },
-    {
-      "id": "6df49761e69e4df829e7a2a170a85ff037fae5eb237d8351f6acebf8e004448f",
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T12:47:28+00:00"
-    },
-    {
-      "id": "d33e86be6de0bd5dd04ebc92d4b37c3ebcb9fae0cfa1118ce15ddad9eedf01e8",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulne",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T12:47:26+00:00"
-    },
-    {
-      "id": "6dabc0f8fb49ecb0d0381a51a05922bf9c48f7b5db0f24287cb40d6658c4a3b2",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-09T12:32:16+00:00"
-    },
-    {
-      "id": "d96e6fa992364d217b8d1acf524131bc8f3587c99146bdf5db2b8ec2e9352a70",
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (C",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T12:21:51+00:00"
     }
   ]
 }
