@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-22T03:09:57.340218+00:00",
+  "updated": "2026-10-22T11:06:05.469089+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "729d445756d1e8d4fe95c3cbc5db1e864ed8bd08ff99affeb7473f130c15dc57",
+      "title": "Splunk, SolarWinds Release Fresh Security Updates",
+      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-22T10:45:24+00:00"
+    },
+    {
+      "id": "9a2e63caba1553c77bd1c27c273b7f96f0528d29648ecaa9feba86e10c0e5852",
+      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-22T10:05:21+00:00"
+    },
+    {
+      "id": "514a0395e5179c0e42f991e7a9986c6bc77ca0bd261ec81bc568f7026a5e910a",
+      "title": "PHP2Shell Exploitation Started Days Before Patches",
+      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+      "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-22T09:48:58+00:00"
+    },
+    {
+      "id": "89c43e5d413adbb4e67f8d9a6f2228eef89b5a35ee1e3a41958a55f49034ea53",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub r",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-22T08:28:48+00:00"
+    },
+    {
+      "id": "e476028eb9f1368a202b77ef3565e3037db64d8573cb258982de027eec9d36cd",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-22T08:27:11+00:00"
+    },
+    {
+      "id": "4681e139a804e148c37ceed09c27eddf38b451dcdba462f0386d235726589a1b",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could ru",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T07:47:22+00:00"
+    },
+    {
+      "id": "059d0a92d893199070624a4572f2ab45e3282475f109c759e70c3d210b9d09f5",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T06:38:31+00:00"
+    },
+    {
+      "id": "5dc62af2c3e97dbba9c36436287f4d45f27d00f9fe43bec4fdcfc903fb9f4a1b",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit atte",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T06:34:10+00:00"
+    },
+    {
+      "id": "6f676746f765de6e990188fa5053c37f1ab9ae1b510645fb827f6dfa57919a06",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-22T04:21:26+00:00"
+    },
     {
       "id": "74d714d3ba5e87cf8e4c58f34607234c78886dfad7795cf368aaafaf26fe4634",
       "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
@@ -126,6 +207,15 @@
       "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "vulnerability",
+      "date": "2026-10-21T14:45:00+00:00"
+    },
+    {
+      "id": "171e16431e581803e7e35d095c084df5bbc24f0de3c3d6a91a268be5ae514654",
+      "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
+      "url": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
+      "summary": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday.",
+      "source": "The Record",
+      "category": "breach",
       "date": "2026-10-21T14:45:00+00:00"
     },
     {
@@ -2161,96 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-09T12:21:51+00:00"
-    },
-    {
-      "id": "77e8a1bce957924c21411708e5c65022a41ceffbdfd71420e5330676ba95ff74",
-      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on Se",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-09T12:03:50+00:00"
-    },
-    {
-      "id": "9fbb4937f47542c1137f685c7be372fb540335aa3bb282435b4c163cfb1d3a33",
-      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
-      "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-09T11:43:14+00:00"
-    },
-    {
-      "id": "ff63f58751b625a492dc461e4b025c64f1e96e13e30da52d380127939600de97",
-      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-      "summary": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-09T10:23:42+00:00"
-    },
-    {
-      "id": "04744af1d6372d87f2e09118abdfedc67e703780f25e921efdd0365a8110327b",
-      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
-      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-09T09:55:35+00:00"
-    },
-    {
-      "id": "68ce0dcd2db006a487f4fb8647bc50e00cf1d885e6c0e0101514caaba87c3a6d",
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which&nbsp;disclosed the flaw&nbsp;on October 8, says an a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T09:03:24+00:00"
-    },
-    {
-      "id": "6357f6c8dfde06d78ccbd706bfa4bcd7b4f309bd90b761cd3bac458ce298a2a3",
-      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-      "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-09T08:36:37+00:00"
-    },
-    {
-      "id": "0c103a036f9d585dc392becd803a06f968ed437d5550423948f7319148ee55ad",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:27:42+00:00"
-    },
-    {
-      "id": "b0109e34ecc868c623bdccac21c9415fc943662fb71b5f3b2009923624fc49c7",
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel exploits earned Ikotas ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:26:17+00:00"
-    },
-    {
-      "id": "dada16fa3e4cf93e439c0dec6f33baed2590dada3a08f56b8845aed2dda669e2",
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:19:33+00:00"
-    },
-    {
-      "id": "282fb784975a02d0f6d8bc6b486d280540ee64721a4b541ffd850855b00c5de5",
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-09T08:11:33+00:00"
     }
   ]
 }
