@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-23T16:23:55.730704+00:00",
+  "updated": "2026-10-23T20:56:20.016203+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a5d4387518b81efb54bc9972f0c99220e56df8b48eae7401de419c02452afa61",
+      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-23T20:55:05+00:00"
+    },
+    {
+      "id": "9abacdc57711ec248fcedc72e573efbb67d2520d50076552b0d824de2b997475",
+      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-23T20:04:47+00:00"
+    },
+    {
+      "id": "68f2c8a7a2b64fb92945ca756d6bbda3d540d334d327f72cc6598fc8fba846db",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T18:50:13+00:00"
+    },
+    {
+      "id": "14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T17:54:08+00:00"
+    },
+    {
+      "id": "6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-23T17:50:47+00:00"
+    },
+    {
+      "id": "5d9f1f66a499403a0f0cb3e1e45881906dd47a1642d227a3c39e3165fd778837",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-23T16:40:07+00:00"
+    },
     {
       "id": "d32d82b9d6777801ca8f0750a35661160291557eea428b747a829379f4fe3698",
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
@@ -76,7 +130,7 @@
     },
     {
       "id": "76da60089176983713f45816e41f527b55fd384f7508dfc491f47b7b2284b45e",
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
       "source": "The Hacker News",
@@ -190,6 +244,15 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-10-23T06:39:29+00:00"
+    },
+    {
+      "id": "e6136b3369707acb026f8113efa98e56a61d017e227b97e7cf66dedeecaf6acf",
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-23T04:00:00+00:00"
     },
     {
       "id": "ea40ccd76acf9cc833cdc4d439e6a6d53c3e34945668fdd8fdd8469abb1cd29b",
@@ -2188,69 +2251,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-10-13T11:00:00+00:00"
-    },
-    {
-      "id": "6377b2f354d83372c0d8fd095f4b2fe8961ab9ad59395e654eb1bed44793440c",
-      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-      "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-      "summary": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-13T10:36:05+00:00"
-    },
-    {
-      "id": "44ed7815a902356ea4abeedbdc19073bf7636d7ed3bdf359c1a4e1d6936dbb4c",
-      "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "summary": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-13T09:37:12+00:00"
-    },
-    {
-      "id": "08cfd38e9d135daec84e9c8807931ef6ee66f5018e0b160d09cd9cb74a9a3d3e",
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a dev",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-13T08:48:41+00:00"
-    },
-    {
-      "id": "81cc829d876c6a2ed51604c5bcb8d281ecb8a3c072616f09c0fd4005a357db81",
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-13T08:44:01+00:00"
-    },
-    {
-      "id": "6888d3f1bf78a5a7891c1c4d827efa5333441cd2287e7f237c3f79511106f059",
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to exec",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-13T08:43:37+00:00"
-    },
-    {
-      "id": "11ed89f3164712a85e6c9b6f884760f93348a44911f23a9f4267fdfe7522d010",
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-13T08:28:51+00:00"
-    },
-    {
-      "id": "56358479006c5238f71c844af40cf853be110a5b8e4b221ab27519739b26156d",
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several bra",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-13T06:00:11+00:00"
     }
   ]
 }
