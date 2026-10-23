@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-23T03:15:23.752889+00:00",
+  "updated": "2026-10-23T10:57:38.274519+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "28839fb95b7747e437f9dadc11f671e970d5a9813028618b5a9d2cd6767e65f5",
+      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+      "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T10:31:16+00:00"
+    },
+    {
+      "id": "5912abcc55abe8dc3297b6d5a87f72d1f25efcde4fc610e223cb6e54e5be8efb",
+      "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+      "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-23T09:58:34+00:00"
+    },
+    {
+      "id": "e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373",
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a se",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T09:36:00+00:00"
+    },
+    {
+      "id": "5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T08:40:43+00:00"
+    },
+    {
+      "id": "43513002b0c380e9582f3a3c90908e230226b0b42421828d2ef45ec24bac83df",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 1",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T08:35:45+00:00"
+    },
+    {
+      "id": "a84146c79913cb148089647f393178af1b03572b82c8ec8386f702c76712bf49",
+      "title": "11 Million Impacted by Capcom Data Breach",
+      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:34:14+00:00"
+    },
+    {
+      "id": "4a6ee4bb600aa56592dcb1793509866c3c98ac3e2739802c47bad21b7a4ddb32",
+      "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+      "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:25:06+00:00"
+    },
+    {
+      "id": "01e5ecb395f55fddfa47703de22a34d77a33871f6958e3838c8df1f88ed8e9c0",
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:10:46+00:00"
+    },
+    {
+      "id": "87fa2cd295e99fe6a8d48797bdb3157d70c5654bddfeb87f09d05d07be3f8b81",
+      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+      "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+      "summary": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-23T07:54:47+00:00"
+    },
+    {
+      "id": "9d0cfa945b257eb4fa88e08028067c17eef1cee4e619ba476384f035a8fc62c7",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T07:40:45+00:00"
+    },
+    {
+      "id": "99c9511054cecf20beb8690f951b13516a01630c566391be327ed376b8ca4a0d",
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "summary": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-23T06:39:29+00:00"
+    },
     {
       "id": "ea40ccd76acf9cc833cdc4d439e6a6d53c3e34945668fdd8fdd8469abb1cd29b",
       "title": "Railway warns devs to rotate secrets after potential breach",
@@ -2152,105 +2251,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-10-12T11:58:39+00:00"
-    },
-    {
-      "id": "1ab75555dc2885894aadc2133fe9f321c4a33c7406908663930a6b03666d7430",
-      "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-      "summary": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T11:24:50+00:00"
-    },
-    {
-      "id": "001d5c2cb7d776f3d0934251eeeb36a1c3b17f6cebb7edf15b3efffba1830128",
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased product",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-12T11:21:48+00:00"
-    },
-    {
-      "id": "7efaee3b0a668c94cbd708dddcc06b2eaa39dafd1fa51ce92251fd962a17ead3",
-      "title": "iRhythm Data Breach Impacts at Least 360,000 People",
-      "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
-      "summary": "Hackers stole patients’ personal information, including names, addresses, email addresses, dates of birth, and phone numbers. The post iRhythm Data Breach Impacts at Least 360,000 People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T11:05:43+00:00"
-    },
-    {
-      "id": "c7baac5e718b8a6f18aa8271904624a36c63ee98bc3d3038eaf395351b54ec61",
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forge",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-12T10:36:56+00:00"
-    },
-    {
-      "id": "c54aebde31922240f119c2bc00aa2319d20f0499ca4e8c77fa7d6e13491d1d33",
-      "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-      "summary": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-12T10:32:05+00:00"
-    },
-    {
-      "id": "c9dce304dcc90255d486ef511a80e2965f2fe6e8c10b552a1ec675073de46cda",
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-12T09:02:14+00:00"
-    },
-    {
-      "id": "d58e65970256458b43ad7cc3813eedc4621dd829999b31a8609c1acb0a249304",
-      "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-      "summary": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-12T08:36:01+00:00"
-    },
-    {
-      "id": "7e4ca9da052231497996de39f1fdabe7d2c2d1df4c1b6cf47d04e771ffbf9177",
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-12T07:26:12+00:00"
-    },
-    {
-      "id": "f5666c94e691a1da66f4adebb402485f5bc4f10a8311f23ab4c9c1466f7c54c0",
-      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
-      "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-      "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country’s largest grocery chains.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-11T23:00:00+00:00"
-    },
-    {
-      "id": "406e1eebee8a0cabea1a12765f78079df9e9c63202a940e487d0c853db5aad82",
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-11T14:23:46+00:00"
-    },
-    {
-      "id": "2d8b2a661271f3ed2fea9ffea1009da3eb0d31cfcb71f22ceaa1c55663a4c0fb",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-11T04:24:34+00:00"
     }
   ]
 }
