@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-24T10:13:53.768099+00:00",
+  "updated": "2026-10-24T15:20:05.071825+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "ed9fe79f62b579cc63434a8cb2b25991cc3db96c7e366e60f081f06e2d5216ce",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-24T14:17:32+00:00"
+    },
+    {
+      "id": "a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compres",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-24T11:09:29+00:00"
+    },
+    {
+      "id": "c2f353f11fcac6078e3a8d417a06273b21c39d4ca93451ff32b6c5c6b61d7410",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-24T11:03:33+00:00"
+    },
     {
       "id": "ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300",
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
@@ -2224,33 +2251,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-10-13T13:00:00+00:00"
-    },
-    {
-      "id": "38999a55a49a2d39a93e9a71b5c82844a0f269b6db0336c959a30297538ed176",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-13T11:57:06+00:00"
-    },
-    {
-      "id": "4aa5a9876a26104d805e2a70328f8ddb894ba0b86fa4a54311d264a81e38567b",
-      "title": "XWorm RAT Evolves Into Surveillance Platform",
-      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-      "summary": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-13T11:13:10+00:00"
-    },
-    {
-      "id": "1cc27b40bd693f11ee901a72c6f0b91c91ca265a30023a39e42ecddf1508317e",
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to&nbsp;an advisory published by SSD Secure Disclosure&nbsp;on October 12. The chain was t",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-13T11:09:10+00:00"
     }
   ]
 }

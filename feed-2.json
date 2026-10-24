@@ -1,10 +1,37 @@
 {
-  "updated": "2026-10-24T10:13:53.768099+00:00",
+  "updated": "2026-10-24T15:20:05.071825+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "729d445756d1e8d4fe95c3cbc5db1e864ed8bd08ff99affeb7473f130c15dc57",
+      "title": "Splunk, SolarWinds Release Fresh Security Updates",
+      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-22T10:45:24+00:00"
+    },
+    {
+      "id": "3c95c0f04e66e1214444d1c5eb7bda778e5061991c7b6f9f99cc8a52904bc7ea",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T10:44:05+00:00"
+    },
+    {
+      "id": "9a2e63caba1553c77bd1c27c273b7f96f0528d29648ecaa9feba86e10c0e5852",
+      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-22T10:05:21+00:00"
+    },
     {
       "id": "514a0395e5179c0e42f991e7a9986c6bc77ca0bd261ec81bc568f7026a5e910a",
       "title": "PHP2Shell Exploitation Started Days Before Patches",
@@ -427,33 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-20T18:32:00+00:00"
-    },
-    {
-      "id": "13870bb518e7a0f90efa15d662076011c9c636106cc3b40b7482e8661b8a69d2",
-      "title": "Nigerian national given 8-year sentence for tax business hacks",
-      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
-      "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-20T17:14:00+00:00"
-    },
-    {
-      "id": "1e26274c4cd9491712143e4ae714dfefb589c69eb42ff55f03efa741c51fcb58",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-20T17:09:53+00:00"
-    },
-    {
-      "id": "584d35c71235748c5853ae0ee8facd11c2557a1afe12b5bae233b2cc206ecade",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-20T15:38:52+00:00"
     }
   ]
 }
