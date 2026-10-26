@@ -1,10 +1,109 @@
 {
-  "updated": "2026-10-26T03:03:36.716918+00:00",
+  "updated": "2026-10-26T12:12:03.590717+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "42bfa2e2916b0cdc5e7b46d1c6f3fc74e88804db75c6eda8824a4e785280a7ab",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in&nbsp;its advisory. Sev",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T12:07:20+00:00"
+    },
+    {
+      "id": "db1c119cd4bd5726aad0617a1bdf9c73830b024cbcf077e0e997e975f734c07e",
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp; The campaigns also increase operational pressure on MSSPs servin",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-15T11:46:59+00:00"
+    },
+    {
+      "id": "cc144af6dd9ebca8149664c996c8c98f1f616e2746fb5f96af5cdb4bc406b80c",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) v",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T11:46:49+00:00"
+    },
+    {
+      "id": "60f1b8a84c1a90e1c111ae39c6a13dd981bce1f54f01589fc40ce6666998ee60",
+      "title": "CikaBika Bot RAT Uses Discord for C&C",
+      "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+      "summary": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&#038;C appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-15T11:25:58+00:00"
+    },
+    {
+      "id": "17a097b616c376e41f2f255ff4c0630370f4cd7921074ecba5a0ed6b6197a977",
+      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
+      "url": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+      "summary": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-15T10:15:32+00:00"
+    },
+    {
+      "id": "642e21ce6c89b65eba2458295f94d94149711966d1ff730c9f6c1eefbc5a40a1",
+      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
+      "url": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+      "summary": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised. The post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-15T09:55:19+00:00"
+    },
+    {
+      "id": "871699ef8521713692e97c4350d918b9b0011bdaa513681603cffe1f25b7ff3d",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It at",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-15T08:45:10+00:00"
+    },
+    {
+      "id": "cfef32934ffbcfe5f332392c10053ee99d01d7a385c170e0452073d8d2016fe7",
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-15T08:06:47+00:00"
+    },
+    {
+      "id": "43828a09caae063058822a829e05f05b68235a4e895d3142f449a42ae76fdd33",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, wa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T07:07:05+00:00"
+    },
+    {
+      "id": "bc4412ae7c09fb26938a1514d630fbce93439b010552c764e4216a596d0f20fb",
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "summary": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:59:54+00:00"
+    },
+    {
+      "id": "ab68bb7b689bedcb6b9a35cf6370f5a712f41f64aeebda47e4799a4825d9a690",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-15T06:43:08+00:00"
+    },
     {
       "id": "c52508bc08a7b30585641497b1a7075fa845049dca8e083c6e2faa193cb8e7ca",
       "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
@@ -355,105 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-13T17:28:50+00:00"
-    },
-    {
-      "id": "87a5f4d438ee6ef7536286ee3f22ce0f03cf91efe6e059dad3fcd2c6ef76330d",
-      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
-      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-13T17:14:42+00:00"
-    },
-    {
-      "id": "fc6dca316e4fb25e7596dd0ace99c4254dd29feba389ca4be19487c7b95d55ec",
-      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
-      "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-      "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-13T17:00:00+00:00"
-    },
-    {
-      "id": "92637fae567836d42d18daeda39b42e547909f7af6db8cc56b5093abb5fb824b",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-13T16:44:18+00:00"
-    },
-    {
-      "id": "3d29c827bc05744dd0bcbb832c7261ff5d35ce963cfd73a3940868f1d32bc507",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes valid",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-13T16:18:18+00:00"
-    },
-    {
-      "id": "c8dbd5c1a621e85dba4b1552323c5fde1cec49c9b9fab2e0215f686f6e2240b3",
-      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
-      "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
-      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit data outside approved networks.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-13T16:18:00+00:00"
-    },
-    {
-      "id": "31360dd1cd4ddbaf6fa688cd38e5dbb7087ca0fbdc78dff4cbeae4cf10e58882",
-      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-      "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-13T16:01:00+00:00"
-    },
-    {
-      "id": "0dfe312cc7dd1fa68b9590e6c510526efc2b08a04c785f6cd1761638810908f2",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T15:45:50+00:00"
-    },
-    {
-      "id": "2641e35974698b4705b22c1ae9cbd04754ef3336a31bbe954ed6e839ef171f1b",
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T15:20:20+00:00"
-    },
-    {
-      "id": "75ff0fe159c38ee0910a09a577dd2cd666532eb32e25d6fba55275c49b4f696a",
-      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-      "url": "https://therecord.media/north-korea-hackers-russia-ukraine",
-      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-13T15:15:00+00:00"
-    },
-    {
-      "id": "f7a2a64fd763c0e688be5552e605fe2689042419b5596207eade23156eea50ba",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-13T14:01:11+00:00"
-    },
-    {
-      "id": "3b61a6f16cb0f0284488ecd88843e35cfb77d464962bc03dd349f4c87e33b634",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-13T13:51:02+00:00"
     }
   ]
 }
