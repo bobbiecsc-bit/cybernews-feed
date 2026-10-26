@@ -1,10 +1,136 @@
 {
-  "updated": "2026-10-26T12:12:03.590717+00:00",
+  "updated": "2026-10-26T22:15:01.201333+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T08:40:43+00:00"
+    },
+    {
+      "id": "43513002b0c380e9582f3a3c90908e230226b0b42421828d2ef45ec24bac83df",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 1",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T08:35:45+00:00"
+    },
+    {
+      "id": "a84146c79913cb148089647f393178af1b03572b82c8ec8386f702c76712bf49",
+      "title": "11 Million Impacted by Capcom Data Breach",
+      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:34:14+00:00"
+    },
+    {
+      "id": "4a6ee4bb600aa56592dcb1793509866c3c98ac3e2739802c47bad21b7a4ddb32",
+      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
+      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+      "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:25:06+00:00"
+    },
+    {
+      "id": "01e5ecb395f55fddfa47703de22a34d77a33871f6958e3838c8df1f88ed8e9c0",
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T08:10:46+00:00"
+    },
+    {
+      "id": "87fa2cd295e99fe6a8d48797bdb3157d70c5654bddfeb87f09d05d07be3f8b81",
+      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+      "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+      "summary": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-23T07:54:47+00:00"
+    },
+    {
+      "id": "9d0cfa945b257eb4fa88e08028067c17eef1cee4e619ba476384f035a8fc62c7",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-20",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T07:40:45+00:00"
+    },
+    {
+      "id": "99c9511054cecf20beb8690f951b13516a01630c566391be327ed376b8ca4a0d",
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "summary": "After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016. The post Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-23T06:39:29+00:00"
+    },
+    {
+      "id": "e6136b3369707acb026f8113efa98e56a61d017e227b97e7cf66dedeecaf6acf",
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-23T04:00:00+00:00"
+    },
+    {
+      "id": "ea40ccd76acf9cc833cdc4d439e6a6d53c3e34945668fdd8fdd8469abb1cd29b",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-22T21:25:31+00:00"
+    },
+    {
+      "id": "e06f204d71b442257df7b30e4d23bff18cd671344733cdcd27e40717c4db54cb",
+      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+      "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+      "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-22T20:52:00+00:00"
+    },
+    {
+      "id": "1e6095c6e828de757f9a2eee0fde0a09e2745eb65a8b1b615551bd5489ba3fe5",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-22T20:22:45+00:00"
+    },
+    {
+      "id": "37f56369e2ff40e06833d0b80ebd72a0eb4753f5b2fc8c2ef6eed887bd73402b",
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-22T19:12:51+00:00"
+    },
+    {
+      "id": "63d6bc3687b50b5c1b6fba6b0e629d8a38f0ae7f68650d5e0a29456373f1fba0",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little over",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-22T19:05:35+00:00"
+    },
     {
       "id": "5a34460990741de0ec2f306d71086450fe8cea9333bee9066437eb487e523af2",
       "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
@@ -328,132 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "f7e7dbc075bd97ab65bb2287c5ee52739ff7c52ff5143ce08b011f26f4823a7b",
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-21T14:45:00+00:00"
-    },
-    {
-      "id": "171e16431e581803e7e35d095c084df5bbc24f0de3c3d6a91a268be5ae514654",
-      "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
-      "url": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
-      "summary": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-21T14:45:00+00:00"
-    },
-    {
-      "id": "29ec5233c9bba99b4fa58144d8ee95929a0f06884f7f74c0f73ac92d1fd1b4b4",
-      "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
-      "url": "https://therecord.media/php-script-vulnerabilities-warnings",
-      "summary": "The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-21T14:17:00+00:00"
-    },
-    {
-      "id": "f86121e76c16bc505cb2ae7f7685a6843104ee22c93b9ecf02ae89039063023a",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-21T14:07:05+00:00"
-    },
-    {
-      "id": "dc9d5e13ec1b033afa5513b945150046131465427b9257030fbaa4414ec7732b",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-21T14:00:10+00:00"
-    },
-    {
-      "id": "02b6efa6343689ed583be05adf75690545cd4254d298475797bf3fc21013f2a0",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-21T14:00:00+00:00"
-    },
-    {
-      "id": "e2527452350fa74e2228678b88b36304d835c228438d170475aa98f796f4f0dc",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into the",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-21T13:15:09+00:00"
-    },
-    {
-      "id": "6e13451eb42623acdc2a20468285d7da0e7a12abb77c93284c51684618242a4e",
-      "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-      "url": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-      "summary": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome&#8217;s 353 New Security Fixes appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-21T12:57:47+00:00"
-    },
-    {
-      "id": "5ff1dd07c5c834bcee5aa5259a351adb637a5b181b972bcfde822a4f08f18cf4",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use o",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-21T12:05:00+00:00"
-    },
-    {
-      "id": "f30f01f4990953235fef972678aac36e601976b2d901aeda1b399910ab8d8f2f",
-      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
-      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
-      "summary": "The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them. The post Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-21T11:22:05+00:00"
-    },
-    {
-      "id": "1dac3ddb6c024270eec9b6ca5b7e6a9c215500669d8c37c71e08e13eb3ec1e68",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at&nbsp;14:00 UTC on October 21&nbsp;for two flaws it rates ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-21T10:36:53+00:00"
-    },
-    {
-      "id": "9d349a6e395496ea5b4b054c250d1a2b13fbec3bf44c1e153be029dde1f4c7c1",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness i",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-21T10:32:40+00:00"
-    },
-    {
-      "id": "bf7cf33fc0ebbbd55593355ad4728cc3aabe6c4108273c05f2275e9d6a811218",
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to ",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-21T10:30:27+00:00"
-    },
-    {
-      "id": "021a484c6b81051d12e1a5f341965c560dba272cb40b0ef89109d6cd538e36f3",
-      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When Told It&#8217;s for US Contractor appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-21T10:03:24+00:00"
     }
   ]
 }
