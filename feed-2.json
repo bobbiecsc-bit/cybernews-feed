@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-27T17:24:34.193467+00:00",
+  "updated": "2026-10-27T21:47:01.104252+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "399172439712b08d5e85ae1e75783c6c3387be4fdb196acb84a4e22c103b9a1f",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between Ju",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-26T08:35:51+00:00"
+    },
+    {
+      "id": "a26d3a2a0bb03d720cf8ca011ef8de41f36f8aba5b8e835271f050902c50cab1",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-26T07:49:46+00:00"
+    },
     {
       "id": "63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65",
       "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-10-22T13:38:22+00:00"
-    },
-    {
-      "id": "5305fc6eb1c792abc9215db202052e97e2445b3d42df1eac3efb2c989a2a7f1b",
-      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
-      "url": "https://therecord.media/africa-cybercrime-interpol-arrests",
-      "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-22T13:30:00+00:00"
-    },
-    {
-      "id": "8432ce44e6fee1e83709d62f26d66474bf022a38a597863297253de5557a0ad2",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-22T13:09:12+00:00"
     }
   ]
 }
