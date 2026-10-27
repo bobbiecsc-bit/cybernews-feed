@@ -1,10 +1,82 @@
 {
-  "updated": "2026-10-27T03:35:11.524945+00:00",
+  "updated": "2026-10-27T11:33:05.483314+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7606bf87d3f022de55339f548f3a0f947092e499242be73eaa7abd36e1b5f1e3",
+      "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+      "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+      "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-23T13:26:00+00:00"
+    },
+    {
+      "id": "e7ce2fff5cb4b49e3eb1b8bdc55aac5199b89604e2e7b64d38c7b44a72993369",
+      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+      "url": "https://therecord.media/quest-diagnostics-network-intrusion",
+      "summary": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-23T12:52:00+00:00"
+    },
+    {
+      "id": "8915eca9b3fe35b08f6f8b721db2b65e1f70e61031ab6434e819308ca3b0cb49",
+      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+      "summary": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-23T12:45:52+00:00"
+    },
+    {
+      "id": "d3e6fb1a3911b1e6b90b1f063808a68fb4504ce04882fd635da42147c19051ce",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T11:25:43+00:00"
+    },
+    {
+      "id": "76da60089176983713f45816e41f527b55fd384f7508dfc491f47b7b2284b45e",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-23T11:11:23+00:00"
+    },
+    {
+      "id": "d74fd709b1762e4669e9dd3953e2cceedc43284dd3d5e3ebcfd73ac03d753c01",
+      "title": "Compromised TLS Certificates",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key ",
+      "source": "Schneier on Security",
+      "category": "breach",
+      "date": "2026-10-23T11:04:22+00:00"
+    },
+    {
+      "id": "28839fb95b7747e437f9dadc11f671e970d5a9813028618b5a9d2cd6767e65f5",
+      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+      "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-23T10:31:16+00:00"
+    },
+    {
+      "id": "5912abcc55abe8dc3297b6d5a87f72d1f25efcde4fc610e223cb6e54e5be8efb",
+      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
+      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+      "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-23T09:58:34+00:00"
+    },
     {
       "id": "e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373",
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-10-21T20:31:48+00:00"
-    },
-    {
-      "id": "6815f2a0b4a0d8cf043fde44d9443d90822dee334dd86f143e7cce8ec37d7ae5",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-21T18:57:34+00:00"
-    },
-    {
-      "id": "a299ef36c76884d023c2347e68d6ac85fad8675158607b09c20dc18d7459e8e6",
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-21T18:34:42+00:00"
-    },
-    {
-      "id": "3344776404d362283ff3a35184e4743ba3005ab58f8395f8782ea182f6547831",
-      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-      "url": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-      "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-21T18:28:00+00:00"
-    },
-    {
-      "id": "d9304dd4f7f5ae5de2a3fda8e8a29fb19a4029fa769d0a779f3751101f28c01d",
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docke",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-21T18:01:57+00:00"
-    },
-    {
-      "id": "0d287ce488f31cd37a4d6a90f71e9b603318fe6e5b77b43589c7852366d341ad",
-      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-      "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-      "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post information earlier than planned.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-21T17:30:00+00:00"
-    },
-    {
-      "id": "bb32123271e17ba4647d556c1f31093814f7c8f4fc5f4b59dc718d61b721470d",
-      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-      "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-21T17:00:00+00:00"
-    },
-    {
-      "id": "d40bfdc1a40233472bef314821cb4aba9239e2cbca9a9e99024f653b92e2d646",
-      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-21T16:50:40+00:00"
-    },
-    {
-      "id": "5d15c045388ec8ecec614a8fe0538adb4f1cd221a7b16939c2ceb732ace11b94",
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaw",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-10-21T15:26:07+00:00"
     }
   ]
 }

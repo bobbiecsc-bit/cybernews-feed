@@ -1,10 +1,82 @@
 {
-  "updated": "2026-10-27T03:35:11.524945+00:00",
+  "updated": "2026-10-27T11:33:05.483314+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6815f2a0b4a0d8cf043fde44d9443d90822dee334dd86f143e7cce8ec37d7ae5",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-21T18:57:34+00:00"
+    },
+    {
+      "id": "a299ef36c76884d023c2347e68d6ac85fad8675158607b09c20dc18d7459e8e6",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-21T18:34:42+00:00"
+    },
+    {
+      "id": "3344776404d362283ff3a35184e4743ba3005ab58f8395f8782ea182f6547831",
+      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
+      "url": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
+      "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-21T18:28:00+00:00"
+    },
+    {
+      "id": "d9304dd4f7f5ae5de2a3fda8e8a29fb19a4029fa769d0a779f3751101f28c01d",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docke",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-21T18:01:57+00:00"
+    },
+    {
+      "id": "0d287ce488f31cd37a4d6a90f71e9b603318fe6e5b77b43589c7852366d341ad",
+      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
+      "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
+      "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post information earlier than planned.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-21T17:30:00+00:00"
+    },
+    {
+      "id": "bb32123271e17ba4647d556c1f31093814f7c8f4fc5f4b59dc718d61b721470d",
+      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+      "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-21T17:00:00+00:00"
+    },
+    {
+      "id": "d40bfdc1a40233472bef314821cb4aba9239e2cbca9a9e99024f653b92e2d646",
+      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+      "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-21T16:50:40+00:00"
+    },
+    {
+      "id": "5d15c045388ec8ecec614a8fe0538adb4f1cd221a7b16939c2ceb732ace11b94",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaw",
+      "source": "Krebs on Security",
+      "category": "vulnerability",
+      "date": "2026-10-21T15:26:07+00:00"
+    },
     {
       "id": "5626be1e5d539315344d9fdae015bef8b74de17108c02b8beddac7d00afbf02a",
       "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-10-20T11:31:22+00:00"
-    },
-    {
-      "id": "8c6edd431152682ea5ca2f3436c4bcc4fe902045d5d5e2ed01c46083ab884177",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-20T11:18:35+00:00"
-    },
-    {
-      "id": "a960a69e2016cfacc55792cbacc379bd408451a0640729337e8e4283eebedcee",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-20T11:06:25+00:00"
-    },
-    {
-      "id": "53ec40b165d66ab2c727bf3bef7a2911db2525efd508ab7712dc4fe330b4d7e8",
-      "title": "Hackers Steal 1.8 Million Records From Nikkei",
-      "url": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
-      "summary": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records From Nikkei appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-20T10:35:18+00:00"
-    },
-    {
-      "id": "f28edfa18fe840eb61c15067188b9531eaa5396b1086db43d1db9d9b8b7e2bed",
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-20T10:00:00+00:00"
-    },
-    {
-      "id": "a9c0ef93c18d1c8770dfc2ce75f41d1ced2142cdc328372b54e3967c438f4337",
-      "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach",
-      "url": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
-      "summary": "Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals. The post 970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-20T09:33:49+00:00"
-    },
-    {
-      "id": "7db63f9cd155b93bc2938d8b8fff76c3eeefbd752b5a670794e24e9f8bf30e5c",
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, th",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-20T08:21:29+00:00"
-    },
-    {
-      "id": "8aec3f414ba4d7d53ed495a2c530cf612b0449be043654da2e59a5f0d8e1a75c",
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the a",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-20T07:11:45+00:00"
-    },
-    {
-      "id": "41ada449c348308462af326376ed7aeb364d09e9e0e0568610e4e3417f81d794",
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-20T04:05:58+00:00"
     }
   ]
 }
