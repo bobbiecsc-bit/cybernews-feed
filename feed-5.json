@@ -1,10 +1,163 @@
 {
-  "updated": "2026-10-27T11:33:05.483314+00:00",
+  "updated": "2026-10-27T17:24:34.193467+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "de332aa1deffb5103d698831e7f8b7b37a89bb5dc78b42774b5b5af6c7f5828b",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-18T14:23:16+00:00"
+    },
+    {
+      "id": "1a74dd4c9004a29993dc050f85457de1b53f76396882a7ca967835ba0ecc59c1",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-18T08:23:02+00:00"
+    },
+    {
+      "id": "622bd951152759335bff398f676970b5a04f59754ebbdf6734e5c8d432308120",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-17T15:18:51+00:00"
+    },
+    {
+      "id": "978985bee2a5f3ab64de6a951419fd8a7aa139c0452d05109b87f5bc7438e166",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-17T14:32:48+00:00"
+    },
+    {
+      "id": "219fd9eab491daf6e2fa95ed6dd86eea75a0ccb1886230efb6b82e44ee49d6c6",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-17T11:11:56+00:00"
+    },
+    {
+      "id": "dc7947b6d8241b518f700fb5c2fb378945f387724b1b694dafb8e2cbab5802ab",
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-17T11:00:00+00:00"
+    },
+    {
+      "id": "614eb364146c341c337919f1813cb668f6526229396ad4613cfe2a2f88155e03",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-17T06:16:46+00:00"
+    },
+    {
+      "id": "eef67d66b352919d991d03da0405e44a65a2cc59027ee19d8ebb5acdd5afddcb",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-16T20:00:59+00:00"
+    },
+    {
+      "id": "ebaf37949a88c936e530e83bfd13a0855d99a808c925f902d5ff17e1242b28eb",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-16T17:48:45+00:00"
+    },
+    {
+      "id": "f10c7fe5846196e7c87d03951b1e0034b2dd766b381acf31f24574de46f36956",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-16T17:20:03+00:00"
+    },
+    {
+      "id": "ffdcabb15288bf144b88d0dbd9598a1f314716e88738655af300cf637050828e",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-16T16:43:39+00:00"
+    },
+    {
+      "id": "23e4826e2b125739a8b095fb52756c3fda2fc1f6eaf919f78459099bef8e2583",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-16T16:16:44+00:00"
+    },
+    {
+      "id": "5464399489453ea56c42eb06d44e351c25b787b72378da592d6d30277db7bf33",
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-16T14:09:51+00:00"
+    },
+    {
+      "id": "4c29a91c725e37cfd1e6b2231c132ce2bfe5be74faae30259729b6a6686ed34f",
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
+      "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-16T13:30:00+00:00"
+    },
+    {
+      "id": "4d143f5225fb0813d4cb76c4f16a9c7c5ce0b3a8efa8909b5474a4ecc0102a90",
+      "title": "Baltimore suburb confirms August data breach after ransomware claims",
+      "url": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+      "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-16T13:05:00+00:00"
+    },
+    {
+      "id": "700cff3a3f4e9554e93a5669d821bba2d51a594404a9e72b264aa432a85de6c5",
+      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+      "url": "https://therecord.media/beyond-trust-cyberattack-china",
+      "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-16T13:00:00+00:00"
+    },
+    {
+      "id": "27c670c5958b65f1ddb41a0b2bd0b8909cd0d72f7f2104e48dd6b3ee066ae685",
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-16T12:01:29+00:00"
+    },
     {
       "id": "e2040d1c4be8205a8abd6c77afa4509b3637052f9a40b80b51156d9c7fa90c09",
       "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
@@ -301,159 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-15T06:59:54+00:00"
-    },
-    {
-      "id": "ab68bb7b689bedcb6b9a35cf6370f5a712f41f64aeebda47e4799a4825d9a690",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-15T06:43:08+00:00"
-    },
-    {
-      "id": "c52508bc08a7b30585641497b1a7075fa845049dca8e083c6e2faa193cb8e7ca",
-      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
-      "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-      "summary": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-15T06:34:15+00:00"
-    },
-    {
-      "id": "10dada637c3ef8019c7e50ea7c2227ec51526bae9491087bc5f60581574bbad9",
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-14T22:56:47+00:00"
-    },
-    {
-      "id": "f5298475776fafd33d0c81705c58db36e236f882fd8d725d0155079226319741",
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-14T19:41:43+00:00"
-    },
-    {
-      "id": "402aaeff71af9a0903716f2ab9c965044fe95b98a71ddd82b1e9397fc681f0ef",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, co",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-14T18:38:56+00:00"
-    },
-    {
-      "id": "0077d1f981ae153d0f8e049bd5b67d7ebff9b72401f362d4156e7291da90429f",
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-14T17:46:50+00:00"
-    },
-    {
-      "id": "2720649a8fdd7cf6e4c8edecfb9604ba9a21cc78ab2d0373fb31c086339f95cf",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-14T17:38:31+00:00"
-    },
-    {
-      "id": "9960150300a621c54080e4a9cf9c527c0488136a2f4c8283014e670b75e992f6",
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-14T17:29:14+00:00"
-    },
-    {
-      "id": "fbe33babcbabc6a0c3e7d55eb9e04074b2407a56aae3371c06f5eb77975f779d",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man Syst",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-14T17:09:15+00:00"
-    },
-    {
-      "id": "6d011349c01c46dc04b8a0b81b3e1e8d62991f835d569a3a879e32821fe12c46",
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-14T16:34:31+00:00"
-    },
-    {
-      "id": "3e16f8a63b6117bbf72fa270149a121a0fd2b47a307ab6d1537fcbac70ba53fb",
-      "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
-      "summary": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-14T15:15:15+00:00"
-    },
-    {
-      "id": "679425e2c5ab85db838a94c30e74c7ef2dbd2fec14425120584cab212b166333",
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-10-14T14:22:49+00:00"
-    },
-    {
-      "id": "f29db2aa1cfbd6ff554544784a94770d6edba970add8ddd35002719e62248252",
-      "title": "Cyberattack on Connected Fridges in France",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "summary": "Another IoT cyberattack, this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. [&#8230;] Normally, supermarket freezers go through a short perio",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-10-14T14:10:22+00:00"
-    },
-    {
-      "id": "1651735e0da58aedeb54063b867d8d3e2d80f9ff4f84fd5952bccf64add0b49a",
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-14T14:00:10+00:00"
-    },
-    {
-      "id": "b09c3419e62c04debb2b48c56087d213f28056d706ed2b8989b4cb18ac65be00",
-      "title": "Russian travel booking platform suspends reservations after cyberattack",
-      "url": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
-      "summary": "Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-14T13:05:00+00:00"
-    },
-    {
-      "id": "e05ffdb17dfb1573de638939b479bf17500a0ff1e81576ab7c136e6b0036e44e",
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-14T12:58:07+00:00"
-    },
-    {
-      "id": "c044be30ef826ca51935f4b65e7faae26952a4885a8524c6ec0c14918cc7b536",
-      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
-      "url": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
-      "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-10-14T12:35:00+00:00"
     }
   ]
 }

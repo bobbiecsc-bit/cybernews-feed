@@ -1,10 +1,163 @@
 {
-  "updated": "2026-10-27T11:33:05.483314+00:00",
+  "updated": "2026-10-27T17:24:34.193467+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7c53fd735d31077de67ebe807d0c04c8a6da8c8a61ba9315e8f963c6238b6c14",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-27T16:15:39+00:00"
+    },
+    {
+      "id": "78087a2ffd241bba3adc9598e7e62f146b05bcae6ac5bbd5c510660ece74fc30",
+      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-27T15:26:12+00:00"
+    },
+    {
+      "id": "ada5d7d47ff421d37dbdac74ded8a4b150db075698f316e80eb4424d7bc6f3db",
+      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+      "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+      "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-27T15:07:00+00:00"
+    },
+    {
+      "id": "aa1b703eefa0d201e0183f0e4129a9a1f6552b8ffaca88755495954c046d6930",
+      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+      "url": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+      "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-27T14:57:00+00:00"
+    },
+    {
+      "id": "3fbb6d8c32783e47dd5a6c940b929a32964a33237e70217e982fdab33fd61c2a",
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-27T14:09:46+00:00"
+    },
+    {
+      "id": "11f0e618d0252f2c50cb0ca5780fa1dbc5d22f1387330ffea3187d4df74d8ce4",
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-27T14:01:11+00:00"
+    },
+    {
+      "id": "dc1f78b83e65b690208f66dbcc5b727fac2d190ddfb1b343ecf12bf9c7950df2",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-27T13:59:48+00:00"
+    },
+    {
+      "id": "6e33a6040a7d5deb5895de4af1b567745929b9730763e4a5298f46b2f03fac99",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when proc",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-27T13:59:09+00:00"
+    },
+    {
+      "id": "5296a6247f59e9fba72ea492c0cd3808d251cf02a8fa85da2828d4f8b9e6f3a2",
+      "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
+      "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+      "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-10-27T13:36:00+00:00"
+    },
+    {
+      "id": "7dcff40876e544916bb79613b7fc77a576fafe12af540049f63aa0bab08d4186",
+      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+      "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+      "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-27T13:30:28+00:00"
+    },
+    {
+      "id": "0227fa902bee91847c7d80280d736129eb508334e8c096c1dbcb4b1aecdd3b15",
+      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
+      "url": "https://therecord.media/php-vulnerabilities-cisa-kev",
+      "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.",
+      "source": "The Record",
+      "category": "vulnerability",
+      "date": "2026-10-27T13:16:00+00:00"
+    },
+    {
+      "id": "cf9205dbc242abd669b0cc89fbad64f90655143a8ae587798170bec28209c786",
+      "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+      "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+      "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-27T13:13:58+00:00"
+    },
+    {
+      "id": "b7d7e51c85e3c557c1699527a018e84ea617c68385c5bef58ae41c7332d4f7e6",
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as&nbsp;CVE-2026-80097&nbsp;and fixed it in Authenticator for",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-27T12:09:50+00:00"
+    },
+    {
+      "id": "799d8e6e8cdc9dbf4487bc3ba4cb19a0a4b241c84480116b421736d6138415ba",
+      "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+      "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+      "summary": "Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-27T11:49:57+00:00"
+    },
+    {
+      "id": "c4255691bc04847be987b7b90854e2224cfdb435bac8dee5766c974ea6026b43",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A b",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-27T11:46:00+00:00"
+    },
+    {
+      "id": "ee7d5cd794be00773ca8cb1c52fde21af8dbd3dc113b9260466c930a95c32ca7",
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations.&nbsp; Some fake login pages go beyond stealing passwo",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-27T11:32:46+00:00"
+    },
+    {
+      "id": "b434e7ad4a7b0ac31514c152caffbadf1e157bc6df6b139bef7e740426b338db",
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity comp",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-27T11:32:31+00:00"
+    },
     {
       "id": "a40721cff07a0d8ded284c44fb2fc26a5c11fea5b7b432c0a68625104358a7e6",
       "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
@@ -301,159 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-10-26T07:49:46+00:00"
-    },
-    {
-      "id": "63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the attempt on a real customer's machine and stopped the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-26T06:03:48+00:00"
-    },
-    {
-      "id": "33f7736e74631c3e92659afbe1965f21d4a96e0439d99808ed2b43bebc9bc19e",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-25T17:44:09+00:00"
-    },
-    {
-      "id": "da19872bd8ebd641fd6397768aac402f3e921a7c58cec2a2b755c0ffbf10b243",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-25T17:19:46+00:00"
-    },
-    {
-      "id": "ed9fe79f62b579cc63434a8cb2b25991cc3db96c7e366e60f081f06e2d5216ce",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-24T14:17:32+00:00"
-    },
-    {
-      "id": "a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-24T11:09:29+00:00"
-    },
-    {
-      "id": "c2f353f11fcac6078e3a8d417a06273b21c39d4ca93451ff32b6c5c6b61d7410",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-24T11:03:33+00:00"
-    },
-    {
-      "id": "ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-24T06:25:57+00:00"
-    },
-    {
-      "id": "a5d4387518b81efb54bc9972f0c99220e56df8b48eae7401de419c02452afa61",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-23T20:55:05+00:00"
-    },
-    {
-      "id": "9abacdc57711ec248fcedc72e573efbb67d2520d50076552b0d824de2b997475",
-      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-23T20:04:47+00:00"
-    },
-    {
-      "id": "68f2c8a7a2b64fb92945ca756d6bbda3d540d334d327f72cc6598fc8fba846db",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T18:50:13+00:00"
-    },
-    {
-      "id": "14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T17:54:08+00:00"
-    },
-    {
-      "id": "6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-23T17:50:47+00:00"
-    },
-    {
-      "id": "5d9f1f66a499403a0f0cb3e1e45881906dd47a1642d227a3c39e3165fd778837",
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-23T16:40:07+00:00"
-    },
-    {
-      "id": "d32d82b9d6777801ca8f0750a35661160291557eea428b747a829379f4fe3698",
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-23T15:38:05+00:00"
-    },
-    {
-      "id": "70ce3aa7f5fd797125ab772a8f4e24c834d8d857010cdb238393d199f4244909",
-      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-23T14:23:37+00:00"
-    },
-    {
-      "id": "64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-23T13:50:56+00:00"
-    },
-    {
-      "id": "cadd6afddac3d48e5837b9bb92e2e3037f119e463f7463b0803c68aad760bd7f",
-      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33450",
-      "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-23T13:43:20+00:00"
     }
   ]
 }
