@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-26T22:15:01.201333+00:00",
+  "updated": "2026-10-27T03:35:11.524945+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d9d5e5887ab889b2ebf20c14d8bb2ee503ea5df3b899586d86ffdbbed193fef",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-26T22:20:36+00:00"
+    },
     {
       "id": "cb6e7d403caae273d17924b57af63bab05d79913bda2bfc5701203b323b977ba",
       "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-23T09:58:34+00:00"
-    },
-    {
-      "id": "e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373",
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a se",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T09:36:00+00:00"
     }
   ]
 }

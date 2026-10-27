@@ -1,10 +1,19 @@
 {
-  "updated": "2026-10-26T22:15:01.201333+00:00",
+  "updated": "2026-10-27T03:35:11.524945+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373",
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a se",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T09:36:00+00:00"
+    },
     {
       "id": "5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3",
       "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
@@ -445,15 +454,6 @@
       "source": "Krebs on Security",
       "category": "vulnerability",
       "date": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "id": "5626be1e5d539315344d9fdae015bef8b74de17108c02b8beddac7d00afbf02a",
-      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-      "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-      "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-21T15:00:00+00:00"
     }
   ]
 }
