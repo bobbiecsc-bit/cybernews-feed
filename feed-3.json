@@ -1,10 +1,208 @@
 {
-  "updated": "2026-10-29T12:14:15.124135+00:00",
+  "updated": "2026-10-29T22:23:34.273838+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3a71b82298d82cf30c62222c79cccb537e5101917979353a06237e336aeacb8c",
+      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+      "url": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+      "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-26T14:21:00+00:00"
+    },
+    {
+      "id": "e0df996ac6f273db772adcd0c6a29aced11263ca5501f7bfb8c120e25427a665",
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-26T14:06:13+00:00"
+    },
+    {
+      "id": "70e22aa6ff7342720bf4f4e9c97ca11cfd7429f6fdc5814002af429e96c9d423",
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-26T13:30:10+00:00"
+    },
+    {
+      "id": "a2ffa5c60b8ef88ac66057e6d91284533e931f8e182c4f72f7c44db12721ce33",
+      "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+      "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+      "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-26T12:46:44+00:00"
+    },
+    {
+      "id": "bab6fc37dca25fe2ec8d6c9d53d9be06ac6159092e96eaa2cc38270dca33d04b",
+      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+      "url": "https://therecord.media/litellm-hackers-ai-malware",
+      "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-26T12:00:00+00:00"
+    },
+    {
+      "id": "f67f5ee9f8e39aaf86854c69c2d092d7a4539704fd377367dcc0964a91d4d1b5",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "summary": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-26T11:52:41+00:00"
+    },
+    {
+      "id": "78ecc72d708194450fb1a7eb6f90cc3f0aca8c076b4f4d7b486b2e74d466fdd7",
+      "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+      "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+      "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-26T11:47:52+00:00"
+    },
+    {
+      "id": "ce0386ac22975ba196691f182b884946d00fd15c9ab51b62bb72c9c1827bab52",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all even",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-26T11:23:56+00:00"
+    },
+    {
+      "id": "44335b0af83f3becf1a44aaa684e18c633321698a7b8e6d293c6d75b69844902",
+      "title": "Bias in Qwen3-Coder Model",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "summary": "Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that rem",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-10-26T11:03:31+00:00"
+    },
+    {
+      "id": "15faad20100130033abdd3a4de096a0860a085deb1392715d22a674d80979a8d",
+      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+      "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+      "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-26T10:21:57+00:00"
+    },
+    {
+      "id": "20494af63ce3fb8e1268344e5a5e46a89fb8745f8a818ef14ed0d1f00c0af8a9",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-26T09:54:02+00:00"
+    },
+    {
+      "id": "7c54e769948b6fc771ccdcc1deb0ab86df57a2140dfd1bafbff34a65ad653f61",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-26T09:19:57+00:00"
+    },
+    {
+      "id": "e84a8003dbea7666967a88512c1be654ac63fd204c2ae4cca58485452b5b0166",
+      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+      "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+      "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-26T09:10:03+00:00"
+    },
+    {
+      "id": "399172439712b08d5e85ae1e75783c6c3387be4fdb196acb84a4e22c103b9a1f",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between Ju",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-26T08:35:51+00:00"
+    },
+    {
+      "id": "a26d3a2a0bb03d720cf8ca011ef8de41f36f8aba5b8e835271f050902c50cab1",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-26T07:49:46+00:00"
+    },
+    {
+      "id": "63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the attempt on a real customer's machine and stopped the",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-10-26T06:03:48+00:00"
+    },
+    {
+      "id": "33f7736e74631c3e92659afbe1965f21d4a96e0439d99808ed2b43bebc9bc19e",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-25T17:44:09+00:00"
+    },
+    {
+      "id": "da19872bd8ebd641fd6397768aac402f3e921a7c58cec2a2b755c0ffbf10b243",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the c",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-25T17:19:46+00:00"
+    },
+    {
+      "id": "ed9fe79f62b579cc63434a8cb2b25991cc3db96c7e366e60f081f06e2d5216ce",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-24T14:17:32+00:00"
+    },
+    {
+      "id": "a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allo",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-24T11:09:29+00:00"
+    },
+    {
+      "id": "c2f353f11fcac6078e3a8d417a06273b21c39d4ca93451ff32b6c5c6b61d7410",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-24T11:03:33+00:00"
+    },
+    {
+      "id": "ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-24T06:25:57+00:00"
+    },
     {
       "id": "a5d4387518b81efb54bc9972f0c99220e56df8b48eae7401de419c02452afa61",
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
@@ -256,204 +454,6 @@
       "source": "The Record",
       "category": "vulnerability",
       "date": "2026-10-23T04:00:00+00:00"
-    },
-    {
-      "id": "ea40ccd76acf9cc833cdc4d439e6a6d53c3e34945668fdd8fdd8469abb1cd29b",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-22T21:25:31+00:00"
-    },
-    {
-      "id": "e06f204d71b442257df7b30e4d23bff18cd671344733cdcd27e40717c4db54cb",
-      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-      "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-      "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-22T20:52:00+00:00"
-    },
-    {
-      "id": "1e6095c6e828de757f9a2eee0fde0a09e2745eb65a8b1b615551bd5489ba3fe5",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-22T20:22:45+00:00"
-    },
-    {
-      "id": "37f56369e2ff40e06833d0b80ebd72a0eb4753f5b2fc8c2ef6eed887bd73402b",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-22T19:12:51+00:00"
-    },
-    {
-      "id": "63d6bc3687b50b5c1b6fba6b0e629d8a38f0ae7f68650d5e0a29456373f1fba0",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little over",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-22T19:05:35+00:00"
-    },
-    {
-      "id": "5a34460990741de0ec2f306d71086450fe8cea9333bee9066437eb487e523af2",
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-o",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-22T19:05:17+00:00"
-    },
-    {
-      "id": "d99ba89c8964f8cde6f533ec1b99a8d8c9747d92184cb870c77945106ab5b4b2",
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't ev",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-22T17:45:44+00:00"
-    },
-    {
-      "id": "1ed4b6e940bacb9a350a44c1f96ee5ca24390efdfb4c40104c923761306994da",
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-22T17:18:22+00:00"
-    },
-    {
-      "id": "7c53f743c08237d2727ca65e473b4707a4d9bd06671d8e75282cc77ec6ec93c4",
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication.",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-22T17:01:53+00:00"
-    },
-    {
-      "id": "f6faed97cc0cc2eebaf4fff8cc48aa4e99494d1f05f82d5e589c5089d7a52869",
-      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-      "url": "https://therecord.media/china-cyber-connectwise-ai",
-      "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-22T16:30:00+00:00"
-    },
-    {
-      "id": "a64e27c28974b011f5af143d5b915c4cbad2ce8e33b195fe551262407bf6f7ca",
-      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-      "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
-      "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-22T14:31:34+00:00"
-    },
-    {
-      "id": "32ea969a27fc0c323b056161c878523f00bf94289045e2799c00c74a075a178c",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-22T14:02:12+00:00"
-    },
-    {
-      "id": "60f4824a9b3246055d90ea6dc2ed2ab96077914445771ac5b3a828d035d6e4e8",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the c",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-22T13:38:22+00:00"
-    },
-    {
-      "id": "5305fc6eb1c792abc9215db202052e97e2445b3d42df1eac3efb2c989a2a7f1b",
-      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
-      "url": "https://therecord.media/africa-cybercrime-interpol-arrests",
-      "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-10-22T13:30:00+00:00"
-    },
-    {
-      "id": "8432ce44e6fee1e83709d62f26d66474bf022a38a597863297253de5557a0ad2",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-22T13:09:12+00:00"
-    },
-    {
-      "id": "6f350098eb0aaaa20b942a872e003890a933aaf2b632aa744ac95b94d6b77ce1",
-      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-      "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-      "summary": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-22T12:34:31+00:00"
-    },
-    {
-      "id": "172683399fc5a34fbe8b32ad0452109ba01575047c81c8ef8f16baa99b3b3dd9",
-      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
-      "url": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
-      "summary": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-22T12:14:00+00:00"
-    },
-    {
-      "id": "bbaceb69b77dcf201948e408d49126ef869c9d9473b53afe025c628ff31cf675",
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-22T11:41:48+00:00"
-    },
-    {
-      "id": "729d445756d1e8d4fe95c3cbc5db1e864ed8bd08ff99affeb7473f130c15dc57",
-      "title": "Splunk, SolarWinds Release Fresh Security Updates",
-      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-      "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-22T10:45:24+00:00"
-    },
-    {
-      "id": "3c95c0f04e66e1214444d1c5eb7bda778e5061991c7b6f9f99cc8a52904bc7ea",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access.",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-22T10:44:05+00:00"
-    },
-    {
-      "id": "9a2e63caba1553c77bd1c27c273b7f96f0528d29648ecaa9feba86e10c0e5852",
-      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-      "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-22T10:05:21+00:00"
-    },
-    {
-      "id": "514a0395e5179c0e42f991e7a9986c6bc77ca0bd261ec81bc568f7026a5e910a",
-      "title": "PHP2Shell Exploitation Started Days Before Patches",
-      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-      "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-22T09:48:58+00:00"
     }
   ]
 }

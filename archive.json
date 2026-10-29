@@ -1,7 +1,205 @@
 {
-  "updated": "2026-10-29T12:14:15.124135+00:00",
+  "updated": "2026-10-29T22:23:34.273838+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "2602dfd8795f57de2e0a0a43380efdc631df401be31951d240f353086fca0a43",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-29T22:09:24+00:00"
+    },
+    {
+      "id": "96442c511701b8db92139938a5e351db650bdcd5ea0fefdb68401d4db82aa16f",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-29T22:08:04+00:00"
+    },
+    {
+      "id": "c57f0aaab059961568a59ed8701c94cbd8078c78e4c648ab801dcefcfc59fba8",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-29T21:47:25+00:00"
+    },
+    {
+      "id": "2d2812dfaf157544d73be320c3512dc66dcfeb31ff630ed06b033f0716705a33",
+      "title": "Limited reports of PHP bug exploitation emerge",
+      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+      "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-10-29T20:01:25+00:00"
+    },
+    {
+      "id": "7f056f665bfe428e129ca46d0ad2f3372b43502d041f393e9bd2d3b0dd8f6dfc",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familia",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-29T19:11:58+00:00"
+    },
+    {
+      "id": "45dcc2eb64d36fed0a3fa200a6be89b6e52e325ce7a5f500618f98dbd7a982c7",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-29T18:38:26+00:00"
+    },
+    {
+      "id": "9fc904cef4080f424a66f440090961085b4731932222b396f51cd81574fa6562",
+      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
+      "url": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+      "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-29T16:13:00+00:00"
+    },
+    {
+      "id": "e1215293558dcf351d0462fdc504e85b7a9f92c9ef3969e3d708e8ac5d706bfe",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-29T16:10:31+00:00"
+    },
+    {
+      "id": "1be6a1df25ca72b4139ae0bbc1cbca5b2d85d4e6a6ea5b695bedf9a91f8eda37",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T15:57:05+00:00"
+    },
+    {
+      "id": "d9e7c9ddc0eb7fb8a152a482b9f1de6f3b5a1598bbb6e21338ded62dba8f7868",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applic",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-29T15:20:29+00:00"
+    },
+    {
+      "id": "1ef1575d27b0637af955964f24528cb7f88a229b5febffa1b4e4e8cb750b0060",
+      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+      "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+      "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-29T15:00:00+00:00"
+    },
+    {
+      "id": "cb73782606f707a49b45dc0aeff179223920d74ab476a394fcaf4933af50e6ea",
+      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+      "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+      "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-10-29T14:18:03+00:00"
+    },
+    {
+      "id": "3e13be198925097590a3601b8ab8ab424601c1b1739fb80a66ebdfe508fc8ab2",
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-29T13:59:48+00:00"
+    },
+    {
+      "id": "a1ae70d96eb78ee4cb9d00ae8caf31d89d2ac06c009e3701375dee4cd827e409",
+      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-29T13:42:52+00:00"
+    },
+    {
+      "id": "17b1ed18b9db9df1dd4b4d47338a47c3092da53302d72c1b3e5c984c73d6af97",
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T13:42:40+00:00"
+    },
+    {
+      "id": "a50ecc8b0dddafe434c1702d96485447e7534d930657e11e15466ce59869e474",
+      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
+      "url": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
+      "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's main online platform for managing tax and financial affairs.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-29T13:31:00+00:00"
+    },
+    {
+      "id": "ffe22298e45f190208cd5bc1d2f5c5346a5f2ab75ca4194953d429fabe04d265",
+      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+      "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+      "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-29T13:26:49+00:00"
+    },
+    {
+      "id": "74951bf57ed83ee8d2976b570ab900ac32a21c1a338cabb5e01d0244fb0e9140",
+      "title": "Over 41,000 DHS Employee Records Leaked Online",
+      "url": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+      "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-29T12:54:14+00:00"
+    },
+    {
+      "id": "89ba8a41a1ee0be07879dd6b06ecae43cee5c3370fad66c88f0b09cc1e218801",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T11:39:41+00:00"
+    },
+    {
+      "id": "b35772fb4a04069806c0762a4611bed0de7f7bf248de2b5d42cf67d351d1402b",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T11:39:18+00:00"
+    },
+    {
+      "id": "ff04f1caf15467beeb1ba2299f5399ebf70dafef34b41136af0ea3f6099c166f",
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mat",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-29T11:33:41+00:00"
+    },
+    {
+      "id": "026f7c77fb5eab48a643baaa2c5eff848b006e3f60f2b7e0082971131f7c48ee",
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories an",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-29T11:33:15+00:00"
+    },
     {
       "id": "4665f17a8f062865003b59a120dbc818a2841d6b16ef3ec11717c4ccf891c1a5",
       "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
@@ -2053,204 +2251,6 @@
       "source": "The Hacker News",
       "category": "malware",
       "date": "2026-10-19T16:28:47+00:00"
-    },
-    {
-      "id": "f6f5c9b3e6e369d5bd33ab85b9285699ad6c3021f037cbb38ae1ccff620004bc",
-      "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-      "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-      "summary": "Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules. The post Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-19T15:47:50+00:00"
-    },
-    {
-      "id": "4a3ed0d57d9118214265fae4e44996820a211a3864dd691a29781188ff7cbb32",
-      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
-      "url": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
-      "summary": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16. The post Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-19T15:20:53+00:00"
-    },
-    {
-      "id": "e6f76086848f718ff70f9bf84b6692c24974371aba24bfb2ef743b5309f12d42",
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a pr",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-19T14:14:07+00:00"
-    },
-    {
-      "id": "6300767178137d1519aaa9a54893c2934657d90a0d3374c4e940ab702f464f61",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-19T13:49:24+00:00"
-    },
-    {
-      "id": "3e43e08eb436698d5b82061e1131043cc5b926d4cf09728c8d40c81e8ab80270",
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources c",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "id": "6fe1a56abf01fa7ca7969880c57a3a381ac96c9c823656faaaa57c647bac22b6",
-      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-      "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-      "summary": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-19T13:16:20+00:00"
-    },
-    {
-      "id": "bdcf728a9e2a0cc66314adb0c36bd9399663ac73aa3057c3d1a4a521cb6c9bbf",
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware,",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-19T13:05:45+00:00"
-    },
-    {
-      "id": "82bda94fe48fb703a5ad2a08011f678e6d9e6b82f73754031a8f87abe8e2042a",
-      "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-      "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-      "summary": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-19T12:44:39+00:00"
-    },
-    {
-      "id": "cf85f7d1b455bf0ec6edecef0c8d2acdb5f712a537ffac4b3ae6dcbc3950ff2d",
-      "title": "One Compromised Login Exposed Millions of California Students’ Records",
-      "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-      "summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students&#8217; Records appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-19T11:55:50+00:00"
-    },
-    {
-      "id": "7ba377f81abbe604e6dc137d61c735de276562818e6c01af5009e5707fcc753e",
-      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-      "url": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-19T11:45:00+00:00"
-    },
-    {
-      "id": "68889579c06442c552747e4709b2b1ef3888f4496259915aa2e446e63c399aec",
-      "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-      "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-      "summary": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-19T11:13:23+00:00"
-    },
-    {
-      "id": "62badca6addc0ac9c83b2642b4361e5f1f19734989a09d5df8cacfc24a91e8e6",
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-19T10:06:40+00:00"
-    },
-    {
-      "id": "445532885d7fda6625653069d2e093dc5c60ecebed2d9a5b9de2b30ae6d4ea4e",
-      "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-      "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-      "summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-19T09:37:04+00:00"
-    },
-    {
-      "id": "13914d4891785130b3de313bd3acc2d8c33e6f6ac047155a05621c7350992d6a",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclosed&nbsp;on October 16. He showed the attack working against home gateways supplie",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-19T06:29:44+00:00"
-    },
-    {
-      "id": "6dda7c5d535ad3e23867f6c55ad15b5d360442a6ba6cb8256e74f6c28d6cba31",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-19T06:07:08+00:00"
-    },
-    {
-      "id": "de332aa1deffb5103d698831e7f8b7b37a89bb5dc78b42774b5b5af6c7f5828b",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-18T14:23:16+00:00"
-    },
-    {
-      "id": "1a74dd4c9004a29993dc050f85457de1b53f76396882a7ca967835ba0ecc59c1",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-18T08:23:02+00:00"
-    },
-    {
-      "id": "622bd951152759335bff398f676970b5a04f59754ebbdf6734e5c8d432308120",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-17T15:18:51+00:00"
-    },
-    {
-      "id": "978985bee2a5f3ab64de6a951419fd8a7aa139c0452d05109b87f5bc7438e166",
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-17T14:32:48+00:00"
-    },
-    {
-      "id": "219fd9eab491daf6e2fa95ed6dd86eea75a0ccb1886230efb6b82e44ee49d6c6",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-17T11:11:56+00:00"
-    },
-    {
-      "id": "dc7947b6d8241b518f700fb5c2fb378945f387724b1b694dafb8e2cbab5802ab",
-      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-17T11:00:00+00:00"
-    },
-    {
-      "id": "614eb364146c341c337919f1813cb668f6526229396ad4613cfe2a2f88155e03",
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cl",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-17T06:16:46+00:00"
     }
   ]
 }
