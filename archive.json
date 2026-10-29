@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-29T04:14:15.889871+00:00",
+  "updated": "2026-10-29T12:14:15.124135+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4665f17a8f062865003b59a120dbc818a2841d6b16ef3ec11717c4ccf891c1a5",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-29T11:10:13+00:00"
+    },
+    {
+      "id": "68cc7bf957fbb593d576d3b50887279d7547b6f5333a4d9a0d7f75b53ef4db92",
+      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+      "url": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+      "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony&#8217;s Japanese ISP So-net appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-29T11:00:00+00:00"
+    },
+    {
+      "id": "7d482c1bcf9fa313acb9e633e6f24c3333f3e150c7ee16dd31aae22a564e553b",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scor",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T10:44:46+00:00"
+    },
+    {
+      "id": "12d9b8223a9161ef5095c7236d34ee4ea736c6856498d1f29a2774596fd92868",
+      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+      "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon&#8217;s &#8216;Silent Train&#8217; Network appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-29T10:29:25+00:00"
+    },
+    {
+      "id": "a8c93a077438eadc99160830ffa128e367e575cc9b87a9809fd2ddd5b6364eff",
+      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+      "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+      "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-29T09:47:10+00:00"
+    },
+    {
+      "id": "b36cbddd30558feada5c369fe36c7d7a45f3497ff9d237dfac8aefa4e39e39e3",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&nbsp;released a fix, Alpine Linux&nbsp;said&nbsp;on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a craf",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T09:05:39+00:00"
+    },
+    {
+      "id": "62e358f0783bbcc3869e8a2528e36addeceb590e4167ece827434fd444960703",
+      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+      "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+      "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-29T08:27:16+00:00"
+    },
+    {
+      "id": "96402b0bba36a5534299f8cf76a48208eb7d49296eee770808d2622dce34c589",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use,&nbsp;Cisco",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T08:24:22+00:00"
+    },
+    {
+      "id": "6fa958c054e03af64d72c3b0fc1cd5b628a2862090cc7389112a6394fcb0fa5f",
+      "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+      "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+      "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-29T08:01:05+00:00"
+    },
+    {
+      "id": "48f467fc9990539a6e8ad8a2bbce0f0d1d0c63500e496a2e9335a95820f828df",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-29T06:22:33+00:00"
+    },
+    {
+      "id": "7cd598614444dd0aca24515d58a3fa8914a5651c7f9aec4344fdc5fcdaf57b9d",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the networ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-29T05:50:17+00:00"
+    },
     {
       "id": "50a7ff565ded92ebaf03c9781f099a37788e9562d732694c759abb54954eefe3",
       "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
@@ -2152,105 +2251,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-10-17T06:16:46+00:00"
-    },
-    {
-      "id": "eef67d66b352919d991d03da0405e44a65a2cc59027ee19d8ebb5acdd5afddcb",
-      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-16T20:00:59+00:00"
-    },
-    {
-      "id": "ebaf37949a88c936e530e83bfd13a0855d99a808c925f902d5ff17e1242b28eb",
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reporte",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-16T17:48:45+00:00"
-    },
-    {
-      "id": "f10c7fe5846196e7c87d03951b1e0034b2dd766b381acf31f24574de46f36956",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-16T17:20:03+00:00"
-    },
-    {
-      "id": "ffdcabb15288bf144b88d0dbd9598a1f314716e88738655af300cf637050828e",
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-16T16:43:39+00:00"
-    },
-    {
-      "id": "23e4826e2b125739a8b095fb52756c3fda2fc1f6eaf919f78459099bef8e2583",
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-16T16:16:44+00:00"
-    },
-    {
-      "id": "5464399489453ea56c42eb06d44e351c25b787b72378da592d6d30277db7bf33",
-      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-16T14:09:51+00:00"
-    },
-    {
-      "id": "4c29a91c725e37cfd1e6b2231c132ce2bfe5be74faae30259729b6a6686ed34f",
-      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-      "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
-      "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-16T13:30:00+00:00"
-    },
-    {
-      "id": "4d143f5225fb0813d4cb76c4f16a9c7c5ce0b3a8efa8909b5474a4ecc0102a90",
-      "title": "Baltimore suburb confirms August data breach after ransomware claims",
-      "url": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-      "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-16T13:05:00+00:00"
-    },
-    {
-      "id": "700cff3a3f4e9554e93a5669d821bba2d51a594404a9e72b264aa432a85de6c5",
-      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
-      "url": "https://therecord.media/beyond-trust-cyberattack-china",
-      "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-16T13:00:00+00:00"
-    },
-    {
-      "id": "27c670c5958b65f1ddb41a0b2bd0b8909cd0d72f7f2104e48dd6b3ee066ae685",
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-16T12:01:29+00:00"
-    },
-    {
-      "id": "e2040d1c4be8205a8abd6c77afa4509b3637052f9a40b80b51156d9c7fa90c09",
-      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-      "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-      "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-16T10:53:22+00:00"
     }
   ]
 }

@@ -1,10 +1,109 @@
 {
-  "updated": "2026-10-29T04:14:15.889871+00:00",
+  "updated": "2026-10-29T12:14:15.124135+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a5d4387518b81efb54bc9972f0c99220e56df8b48eae7401de419c02452afa61",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-23T20:55:05+00:00"
+    },
+    {
+      "id": "9abacdc57711ec248fcedc72e573efbb67d2520d50076552b0d824de2b997475",
+      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-23T20:04:47+00:00"
+    },
+    {
+      "id": "68f2c8a7a2b64fb92945ca756d6bbda3d540d334d327f72cc6598fc8fba846db",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T18:50:13+00:00"
+    },
+    {
+      "id": "14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-23T17:54:08+00:00"
+    },
+    {
+      "id": "6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-23T17:50:47+00:00"
+    },
+    {
+      "id": "5d9f1f66a499403a0f0cb3e1e45881906dd47a1642d227a3c39e3165fd778837",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-23T16:40:07+00:00"
+    },
+    {
+      "id": "d32d82b9d6777801ca8f0750a35661160291557eea428b747a829379f4fe3698",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-23T15:38:05+00:00"
+    },
+    {
+      "id": "70ce3aa7f5fd797125ab772a8f4e24c834d8d857010cdb238393d199f4244909",
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-10-23T14:23:37+00:00"
+    },
+    {
+      "id": "64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-23T13:50:56+00:00"
+    },
+    {
+      "id": "cadd6afddac3d48e5837b9bb92e2e3037f119e463f7463b0803c68aad760bd7f",
+      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33450",
+      "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".&#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-23T13:43:20+00:00"
+    },
+    {
+      "id": "7606bf87d3f022de55339f548f3a0f947092e499242be73eaa7abd36e1b5f1e3",
+      "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+      "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+      "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-10-23T13:26:00+00:00"
+    },
     {
       "id": "e7ce2fff5cb4b49e3eb1b8bdc55aac5199b89604e2e7b64d38c7b44a72993369",
       "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
@@ -355,105 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-10-22T09:48:58+00:00"
-    },
-    {
-      "id": "89c43e5d413adbb4e67f8d9a6f2228eef89b5a35ee1e3a41958a55f49034ea53",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub r",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-22T08:28:48+00:00"
-    },
-    {
-      "id": "e476028eb9f1368a202b77ef3565e3037db64d8573cb258982de027eec9d36cd",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-22T08:27:11+00:00"
-    },
-    {
-      "id": "4681e139a804e148c37ceed09c27eddf38b451dcdba462f0386d235726589a1b",
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could ru",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-22T07:47:22+00:00"
-    },
-    {
-      "id": "059d0a92d893199070624a4572f2ab45e3282475f109c759e70c3d210b9d09f5",
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-22T06:38:31+00:00"
-    },
-    {
-      "id": "5dc62af2c3e97dbba9c36436287f4d45f27d00f9fe43bec4fdcfc903fb9f4a1b",
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-22T06:34:10+00:00"
-    },
-    {
-      "id": "6f676746f765de6e990188fa5053c37f1ab9ae1b510645fb827f6dfa57919a06",
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-10-22T04:21:26+00:00"
-    },
-    {
-      "id": "74d714d3ba5e87cf8e4c58f34607234c78886dfad7795cf368aaafaf26fe4634",
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-21T22:16:26+00:00"
-    },
-    {
-      "id": "db964fc55da085202adad391762131153485ae7e276f04ecce8ea0fcc5fad736",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-21T21:43:27+00:00"
-    },
-    {
-      "id": "8c93f156e67857743bdefc213911962e7857c7b550c26c2396290f87272629a3",
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. &#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-21T21:02:43+00:00"
-    },
-    {
-      "id": "2484f295e9c43c283a69c25a5c8ab8949facf2bbb18089a6036dd3ce3fb8f1bd",
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-21T20:31:48+00:00"
-    },
-    {
-      "id": "6815f2a0b4a0d8cf043fde44d9443d90822dee334dd86f143e7cce8ec37d7ae5",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-21T18:57:34+00:00"
     }
   ]
 }

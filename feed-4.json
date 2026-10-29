@@ -1,10 +1,109 @@
 {
-  "updated": "2026-10-29T04:14:15.889871+00:00",
+  "updated": "2026-10-29T12:14:15.124135+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "89c43e5d413adbb4e67f8d9a6f2228eef89b5a35ee1e3a41958a55f49034ea53",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub r",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-22T08:28:48+00:00"
+    },
+    {
+      "id": "e476028eb9f1368a202b77ef3565e3037db64d8573cb258982de027eec9d36cd",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-22T08:27:11+00:00"
+    },
+    {
+      "id": "4681e139a804e148c37ceed09c27eddf38b451dcdba462f0386d235726589a1b",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could ru",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T07:47:22+00:00"
+    },
+    {
+      "id": "059d0a92d893199070624a4572f2ab45e3282475f109c759e70c3d210b9d09f5",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T06:38:31+00:00"
+    },
+    {
+      "id": "5dc62af2c3e97dbba9c36436287f4d45f27d00f9fe43bec4fdcfc903fb9f4a1b",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-22T06:34:10+00:00"
+    },
+    {
+      "id": "6f676746f765de6e990188fa5053c37f1ab9ae1b510645fb827f6dfa57919a06",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source i",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-22T04:21:26+00:00"
+    },
+    {
+      "id": "74d714d3ba5e87cf8e4c58f34607234c78886dfad7795cf368aaafaf26fe4634",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-10-21T22:16:26+00:00"
+    },
+    {
+      "id": "db964fc55da085202adad391762131153485ae7e276f04ecce8ea0fcc5fad736",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-21T21:43:27+00:00"
+    },
+    {
+      "id": "8c93f156e67857743bdefc213911962e7857c7b550c26c2396290f87272629a3",
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33440",
+      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. &#xd;",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-10-21T21:02:43+00:00"
+    },
+    {
+      "id": "2484f295e9c43c283a69c25a5c8ab8949facf2bbb18089a6036dd3ce3fb8f1bd",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-10-21T20:31:48+00:00"
+    },
+    {
+      "id": "6815f2a0b4a0d8cf043fde44d9443d90822dee334dd86f143e7cce8ec37d7ae5",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update co",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-21T18:57:34+00:00"
+    },
     {
       "id": "a299ef36c76884d023c2347e68d6ac85fad8675158607b09c20dc18d7459e8e6",
       "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
@@ -355,105 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-10-20T15:32:27+00:00"
-    },
-    {
-      "id": "4e8f400967080a988f9c312bae6e542a5cd7b3fd60aa6ca547d23374d65b26c2",
-      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
-      "url": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
-      "summary": "The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-20T14:55:00+00:00"
-    },
-    {
-      "id": "cda0d23e53f1986691719affe70d65647270cab1a13415d6bd9772b38ebac27f",
-      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
-      "url": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
-      "summary": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malware for minutes at a time.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-20T14:11:00+00:00"
-    },
-    {
-      "id": "7e5477cd18438e7acd9c01022d77b49a4bee93a8d72665e5068d3b862d3c646e",
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belong",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-20T14:07:17+00:00"
-    },
-    {
-      "id": "9f7d9fb653ff8c821c70a8d728b57f561461a3f28b5aac284f26f75208a778df",
-      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-      "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "summary": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-20T13:51:01+00:00"
-    },
-    {
-      "id": "6ed092a445d190dd880d8b518444ca66aa27ac5b12f6ddfca4f29d4050fd67cd",
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-20T13:18:36+00:00"
-    },
-    {
-      "id": "310b0c8cd382f60165ff77b4473261795ade81b51256af25018faa32adb368ef",
-      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-      "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "summary": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-20T13:02:18+00:00"
-    },
-    {
-      "id": "f000a8c0fede9d2d8cdb142840a7b493b5f08f31eff23495499a3ee94df92672",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on October 19. The finding came six days before Serbia's October 25 snap parliamentar",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-20T12:59:44+00:00"
-    },
-    {
-      "id": "c4d8f27755ed5802ae798f5473cff762dd3c132d7c8531f4efe1145327af2fc4",
-      "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-      "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-      "summary": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-20T12:47:22+00:00"
-    },
-    {
-      "id": "3801423188a3cbcf57f37a293565fbb80a4fa4e492de4ea9e225421440c40c94",
-      "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-      "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-      "summary": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-20T12:33:12+00:00"
-    },
-    {
-      "id": "a6071b39af0b080aa3b40eac42fdb15fd36704016bccfc63ab5c00c7a84a6883",
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-20T11:31:22+00:00"
-    },
-    {
-      "id": "8c6edd431152682ea5ca2f3436c4bcc4fe902045d5d5e2ed01c46083ab884177",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-20T11:18:35+00:00"
     }
   ]
 }
