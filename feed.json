@@ -1,10 +1,46 @@
 {
-  "updated": "2026-10-31T11:38:29.472103+00:00",
+  "updated": "2026-10-31T16:46:11.278249+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "72aec30d186370a722b7ad5482bc99f2c81f47022cc9c053bc8c546e70904a68",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-31T15:35:11+00:00"
+    },
+    {
+      "id": "a7455b293ef3e34bd089cfcf788e4da96ebd8e36098311c40ceed8f4635e0b78",
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-10-31T13:10:19+00:00"
+    },
+    {
+      "id": "41cdd41993708079e5a5be12bb4b9ea1cade8174ff6d5211efceecc6f80980d8",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-31T12:50:09+00:00"
+    },
+    {
+      "id": "b84dfe472134279a715b0b44d9dc7ae993ccbe7b1f1f135c68856e8c46b7251b",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials,",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-31T12:01:56+00:00"
+    },
     {
       "id": "9e07f828cbbb7522dbae735e0c793aa03669f795042ce668a28089138671e676",
       "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "threat",
       "date": "2026-10-29T13:59:48+00:00"
-    },
-    {
-      "id": "a1ae70d96eb78ee4cb9d00ae8caf31d89d2ac06c009e3701375dee4cd827e409",
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-29T13:42:52+00:00"
-    },
-    {
-      "id": "17b1ed18b9db9df1dd4b4d47338a47c3092da53302d72c1b3e5c984c73d6af97",
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-29T13:42:40+00:00"
-    },
-    {
-      "id": "a50ecc8b0dddafe434c1702d96485447e7534d930657e11e15466ce59869e474",
-      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-      "url": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-      "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's main online platform for managing tax and financial affairs.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-29T13:31:00+00:00"
-    },
-    {
-      "id": "ffe22298e45f190208cd5bc1d2f5c5346a5f2ab75ca4194953d429fabe04d265",
-      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
-      "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
-      "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-29T13:26:49+00:00"
     }
   ]
 }

@@ -1,10 +1,46 @@
 {
-  "updated": "2026-10-31T11:38:29.472103+00:00",
+  "updated": "2026-10-31T16:46:11.278249+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3d679b3eeda439ce7b7cba4466ff874785c42e6c50c8689a1ac0418922bd9735",
+      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+      "url": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+      "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-10-27T20:40:00+00:00"
+    },
+    {
+      "id": "3f1af19eb7d09511a7e39525299058e4dd2bc40b4cd24ac59d6a7b55949b33ad",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-27T18:26:46+00:00"
+    },
+    {
+      "id": "7c53fd735d31077de67ebe807d0c04c8a6da8c8a61ba9315e8f963c6238b6c14",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-27T16:15:39+00:00"
+    },
+    {
+      "id": "78087a2ffd241bba3adc9598e7e62f146b05bcae6ac5bbd5c510660ece74fc30",
+      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-10-27T15:26:12+00:00"
+    },
     {
       "id": "ada5d7d47ff421d37dbdac74ded8a4b150db075698f316e80eb4424d7bc6f3db",
       "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
@@ -418,42 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-10-26T09:10:03+00:00"
-    },
-    {
-      "id": "399172439712b08d5e85ae1e75783c6c3387be4fdb196acb84a4e22c103b9a1f",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between Ju",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-26T08:35:51+00:00"
-    },
-    {
-      "id": "a26d3a2a0bb03d720cf8ca011ef8de41f36f8aba5b8e835271f050902c50cab1",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-26T07:49:46+00:00"
-    },
-    {
-      "id": "63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the attempt on a real customer's machine and stopped the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-26T06:03:48+00:00"
-    },
-    {
-      "id": "33f7736e74631c3e92659afbe1965f21d4a96e0439d99808ed2b43bebc9bc19e",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-25T17:44:09+00:00"
     }
   ]
 }
