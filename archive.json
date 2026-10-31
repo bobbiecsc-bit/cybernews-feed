@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-31T03:55:56.415216+00:00",
+  "updated": "2026-10-31T11:38:29.472103+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "9e07f828cbbb7522dbae735e0c793aa03669f795042ce668a28089138671e676",
+      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+      "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "id": "c305d693e177d5ef64daf367acfc1e634711244980670e6d6392ac16514ee3d1",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS scor",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-31T08:27:43+00:00"
+    },
+    {
+      "id": "09f142bd2640f27254d9a6b271336ed0701f8abb81fc1d3f81cb660b2bf78370",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-31T05:33:41+00:00"
+    },
+    {
+      "id": "293569318dde9da7ae44a07f3330bce40883d4ced65e6525e8d42d75ef80d154",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in t",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-31T04:56:12+00:00"
+    },
     {
       "id": "de02ba8ec3835cf3eb6e0c7590e6d131335232d87cbc6d9830f69a06a1a7c43f",
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -2215,42 +2251,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-10-20T19:20:00+00:00"
-    },
-    {
-      "id": "bd1247048194d49cb5a3378db52c7122aed51d8bbd3bd51afefe7ce6a2709f9b",
-      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
-      "url": "https://therecord.media/23andme-california-data-breach-settlement",
-      "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-20T18:32:00+00:00"
-    },
-    {
-      "id": "13870bb518e7a0f90efa15d662076011c9c636106cc3b40b7482e8661b8a69d2",
-      "title": "Nigerian national given 8-year sentence for tax business hacks",
-      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
-      "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-20T17:14:00+00:00"
-    },
-    {
-      "id": "1e26274c4cd9491712143e4ae714dfefb589c69eb42ff55f03efa741c51fcb58",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issu",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-20T17:09:53+00:00"
-    },
-    {
-      "id": "584d35c71235748c5853ae0ee8facd11c2557a1afe12b5bae233b2cc206ecade",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-20T15:38:52+00:00"
     }
   ]
 }
