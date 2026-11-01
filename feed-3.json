@@ -1,10 +1,37 @@
 {
-  "updated": "2026-11-01T04:11:34.905199+00:00",
+  "updated": "2026-11-01T12:37:40.188026+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1417a62a4b3735eae2997d18a49b136bc409c0d235377d148964130c91b06953",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier,&nbsp;CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-10-28T06:04:58+00:00"
+    },
+    {
+      "id": "5977b4ad9b070e952ba55c0859e32ff5f554273f9eb2be9499ea41c0abe73979",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-10-28T05:42:26+00:00"
+    },
+    {
+      "id": "ebe6130a3b49d0f809dafaeff49d5c0dc17771ac9f9236bb74a7ff2b1ab136f1",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-10-27T23:35:51+00:00"
+    },
     {
       "id": "7858f058b71eba12f481765770ec29ff274363e03024b0794c5f0a8f11b539ea",
       "title": "UNM Health ransomware attack disrupts patient care, surgeries",
@@ -427,33 +454,6 @@
       "source": "Schneier on Security",
       "category": "vulnerability",
       "date": "2026-10-26T11:03:31+00:00"
-    },
-    {
-      "id": "15faad20100130033abdd3a4de096a0860a085deb1392715d22a674d80979a8d",
-      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-      "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-      "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-26T10:21:57+00:00"
-    },
-    {
-      "id": "20494af63ce3fb8e1268344e5a5e46a89fb8745f8a818ef14ed0d1f00c0af8a9",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-26T09:54:02+00:00"
-    },
-    {
-      "id": "7c54e769948b6fc771ccdcc1deb0ab86df57a2140dfd1bafbff34a65ad653f61",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-26T09:19:57+00:00"
     }
   ]
 }
