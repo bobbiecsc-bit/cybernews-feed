@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-01T12:37:40.188026+00:00",
+  "updated": "2026-11-01T21:39:06.571349+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "ce0386ac22975ba196691f182b884946d00fd15c9ab51b62bb72c9c1827bab52",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all even",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-10-26T11:23:56+00:00"
+    },
+    {
+      "id": "44335b0af83f3becf1a44aaa684e18c633321698a7b8e6d293c6d75b69844902",
+      "title": "Bias in Qwen3-Coder Model",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "summary": "Interesting research: TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that rem",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-10-26T11:03:31+00:00"
+    },
     {
       "id": "15faad20100130033abdd3a4de096a0860a085deb1392715d22a674d80979a8d",
       "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-10-22T17:45:44+00:00"
-    },
-    {
-      "id": "1ed4b6e940bacb9a350a44c1f96ee5ca24390efdfb4c40104c923761306994da",
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-22T17:18:22+00:00"
-    },
-    {
-      "id": "7c53f743c08237d2727ca65e473b4707a4d9bd06671d8e75282cc77ec6ec93c4",
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication.",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-22T17:01:53+00:00"
     }
   ]
 }

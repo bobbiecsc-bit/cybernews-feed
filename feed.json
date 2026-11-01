@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-01T12:37:40.188026+00:00",
+  "updated": "2026-11-01T21:39:06.571349+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5d7adb06ae584dbcb4a1616d2b68ba659ba2acdf56ce410f2eb3840ca0949715",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-01T19:57:53+00:00"
+    },
+    {
+      "id": "d6448e6ee754fd41b678b17df70665355aa8afe20f0c6b947e0fab067a5b36e2",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-01T15:11:21+00:00"
+    },
     {
       "id": "47c9e2c2f127bea1bcf0c5f44636d9c44b68172ada4adef1e638898910c582f5",
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-10-29T16:13:00+00:00"
-    },
-    {
-      "id": "e1215293558dcf351d0462fdc504e85b7a9f92c9ef3969e3d708e8ac5d706bfe",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-10-29T16:10:31+00:00"
-    },
-    {
-      "id": "1be6a1df25ca72b4139ae0bbc1cbca5b2d85d4e6a6ea5b695bedf9a91f8eda37",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses th",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-29T15:57:05+00:00"
     }
   ]
 }
