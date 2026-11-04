@@ -1,7 +1,151 @@
 {
-  "updated": "2026-11-04T04:43:11.456905+00:00",
+  "updated": "2026-11-04T13:43:48.281732+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "a560b2ea40ec8740968294993d775ff884f7e057938fd3b1bcb0de578e7ac65c",
+      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33488",
+      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabil",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-04T13:24:13+00:00"
+    },
+    {
+      "id": "345b215bc3cfa4391938b37f45ef5f48e8267eaf2fee4788c7b790920813ed39",
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T12:43:20+00:00"
+    },
+    {
+      "id": "165425189d28940be94e248f1be18c74edb18b22768650fe3a86fbaa4c85f147",
+      "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+      "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+      "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T12:27:58+00:00"
+    },
+    {
+      "id": "c401bb54ceffe967aab57c8897091dbfd04d02b7fd0fa08f406abbf857f8dbde",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T12:11:05+00:00"
+    },
+    {
+      "id": "eeeb8b0c17d40904542056018dd25d547186eacdabf3d70973c067d56f264505",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T12:07:04+00:00"
+    },
+    {
+      "id": "a60c29c498ad06a8e5ba45bd928d3edee22489e728f52dd05496a46e8d98fb8f",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T11:46:27+00:00"
+    },
+    {
+      "id": "73251ea6fbbb96512bbb93a493ffec4b1d9076cc5b55d265b1e05d6abb1cc81d",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). Th",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-04T11:24:31+00:00"
+    },
+    {
+      "id": "43ae5a82ae14f01234dc3a7b43c5b1792f47aa7aae0a8ae5a1a91a6d4022e9a3",
+      "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
+      "url": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
+      "summary": "Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T10:54:48+00:00"
+    },
+    {
+      "id": "ec6f4fb7e7bbd8520e1ff25b05ce7d866c1db14936e1d08350469d1f4be2168a",
+      "title": "Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical",
+      "url": "https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+      "summary": "The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-04T10:38:46+00:00"
+    },
+    {
+      "id": "9243e4545523c773ec07b429e6b7790e44f20f41fa79f56c926dafbc4bf98c94",
+      "title": "Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist",
+      "url": "https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
+      "summary": "Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T10:36:32+00:00"
+    },
+    {
+      "id": "e3fd45fd3e304e2ff7ebdfe65f1646176a2243d66f6d6a6550887381e9b30507",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T09:39:54+00:00"
+    },
+    {
+      "id": "efd38cf3cc7c1205e2b1b85be5fa38a08edf7440db4dbb5892816c6a65f7fe8c",
+      "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+      "url": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+      "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T09:23:22+00:00"
+    },
+    {
+      "id": "107c9912663560dbc17179d34a7372beda9af7bb640e777afd99dc9d85c517a0",
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-04T08:27:05+00:00"
+    },
+    {
+      "id": "595e0a9dfde72e646cd28a67932b651952978a198cb241994e5194f1631b34a4",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Rus",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-04T08:17:11+00:00"
+    },
+    {
+      "id": "226d22a423412bf1bab548b2b4ebfb0ad8bb211d62155b44d8cd851df1268eb0",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T07:46:15+00:00"
+    },
+    {
+      "id": "0f2962e63e0897034eaf95c548d7f1e0bcb136f48b0d5faa6613f18c6951d8a4",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T05:43:11+00:00"
+    },
     {
       "id": "e3626c78b944f4864c1d8ff6dcc669422e8607d9f48219995cdf409468eb24de",
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
@@ -2107,150 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-23T15:38:05+00:00"
-    },
-    {
-      "id": "70ce3aa7f5fd797125ab772a8f4e24c834d8d857010cdb238393d199f4244909",
-      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "malware",
-      "date": "2026-10-23T14:23:37+00:00"
-    },
-    {
-      "id": "64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access t",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-23T13:50:56+00:00"
-    },
-    {
-      "id": "cadd6afddac3d48e5837b9bb92e2e3037f119e463f7463b0803c68aad760bd7f",
-      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33450",
-      "summary": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as usual\".&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-23T13:43:20+00:00"
-    },
-    {
-      "id": "7606bf87d3f022de55339f548f3a0f947092e499242be73eaa7abd36e1b5f1e3",
-      "title": "UK proposes 14-year prison terms for undersea cable sabotage",
-      "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
-      "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-10-23T13:26:00+00:00"
-    },
-    {
-      "id": "e7ce2fff5cb4b49e3eb1b8bdc55aac5199b89604e2e7b64d38c7b44a72993369",
-      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
-      "url": "https://therecord.media/quest-diagnostics-network-intrusion",
-      "summary": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-10-23T12:52:00+00:00"
-    },
-    {
-      "id": "8915eca9b3fe35b08f6f8b721db2b65e1f70e61031ab6434e819308ca3b0cb49",
-      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-      "summary": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-23T12:45:52+00:00"
-    },
-    {
-      "id": "d3e6fb1a3911b1e6b90b1f063808a68fb4504ce04882fd635da42147c19051ce",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T11:25:43+00:00"
-    },
-    {
-      "id": "76da60089176983713f45816e41f527b55fd384f7508dfc491f47b7b2284b45e",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 20",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-23T11:11:23+00:00"
-    },
-    {
-      "id": "d74fd709b1762e4669e9dd3953e2cceedc43284dd3d5e3ebcfd73ac03d753c01",
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "summary": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys: The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key ",
-      "source": "Schneier on Security",
-      "category": "breach",
-      "date": "2026-10-23T11:04:22+00:00"
-    },
-    {
-      "id": "28839fb95b7747e437f9dadc11f671e970d5a9813028618b5a9d2cd6767e65f5",
-      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-      "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-23T10:31:16+00:00"
-    },
-    {
-      "id": "5912abcc55abe8dc3297b6d5a87f72d1f25efcde4fc610e223cb6e54e5be8efb",
-      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-      "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-10-23T09:58:34+00:00"
-    },
-    {
-      "id": "e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373",
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw,&nbsp;CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a se",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T09:36:00+00:00"
-    },
-    {
-      "id": "5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3",
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by f",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T08:40:43+00:00"
-    },
-    {
-      "id": "43513002b0c380e9582f3a3c90908e230226b0b42421828d2ef45ec24bac83df",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 1",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T08:35:45+00:00"
-    },
-    {
-      "id": "a84146c79913cb148089647f393178af1b03572b82c8ec8386f702c76712bf49",
-      "title": "11 Million Impacted by Capcom Data Breach",
-      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-      "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-23T08:34:14+00:00"
-    },
-    {
-      "id": "4a6ee4bb600aa56592dcb1793509866c3c98ac3e2739802c47bad21b7a4ddb32",
-      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-      "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217; appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-10-23T08:25:06+00:00"
     }
   ]
 }
