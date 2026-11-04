@@ -1,7 +1,160 @@
 {
-  "updated": "2026-11-04T13:43:48.281732+00:00",
+  "updated": "2026-11-04T23:09:37.389280+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "05d712189c6125345f94caeca3141774217a5cd773a527a4fa52389d14e248e8",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-04T21:31:18+00:00"
+    },
+    {
+      "id": "5045883ec41b7061f7923d0e4146ba7700f96cb99e7efbd5643c18dbcc9906ee",
+      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platfo",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-04T21:30:00+00:00"
+    },
+    {
+      "id": "b8bdafeefd7281914ede63a497f3ce3ca77e177012958c98a939845f2bb09caf",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T20:58:19+00:00"
+    },
+    {
+      "id": "63e35562df3b7bff8469d169c1b313ac4113ee8d6f2b6e5c5912fe789bfe23b5",
+      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+      "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+      "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-04T19:17:00+00:00"
+    },
+    {
+      "id": "622646b53531b9768bb7d08eb7c88398a9265119ce5ae455e8c130b5e82a8ea6",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-04T19:05:19+00:00"
+    },
+    {
+      "id": "cd1d23b48c3f127db667a521de096fa031efe1f49bbf9972f4d94acfd1f7c156",
+      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+      "url": "https://therecord.media/french-bank-confirms-cyber-heist",
+      "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-04T18:58:00+00:00"
+    },
+    {
+      "id": "324db880e2c47ea37c6fdd5ee24eb5f672cb93621ed14d7a50b5c798ca944254",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-04T18:02:56+00:00"
+    },
+    {
+      "id": "f72f567cab23b3cbd0eca3dc95c3b83530969869c99b07b72e968b0c88758eef",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T17:00:46+00:00"
+    },
+    {
+      "id": "28cc7a562c85ad38a67f6487f871048cf5375f76437b5e0e668667d887e03163",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file rea",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T17:00:38+00:00"
+    },
+    {
+      "id": "94833255da64ec919226ced6782ec75dd61c3850fbfd8ce2a94e076eac987eb4",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-04T16:58:46+00:00"
+    },
+    {
+      "id": "2aa562b9b67846cbbe19420715d21a43085c8fdf26eea512c44fe2fc6cefd7a8",
+      "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
+      "url": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
+      "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-04T16:15:00+00:00"
+    },
+    {
+      "id": "096e4f5225026f138bc47f88189a5b98e19397f682bb1935fe5b0be0bab231c1",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-04T16:00:18+00:00"
+    },
+    {
+      "id": "646c23c08481b93b79dfa198f3abe24828662b7f92e29bcb0c3e632a7ab61e08",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used b",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-04T15:00:10+00:00"
+    },
+    {
+      "id": "803d0b274cc642505e68afa50dcca1e43f9d7c2432b02eee9417217197f183cb",
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T14:42:25+00:00"
+    },
+    {
+      "id": "f4b7ff866caa5870696391c3e909a8ced18118ed8f39c23d3ca0496f20627acd",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScrip",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-04T14:27:52+00:00"
+    },
+    {
+      "id": "2765c964a020d980c566960f98ea95be3bd8d60efd44e60d16d5f274a4b0d684",
+      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-04T14:24:54+00:00"
+    },
+    {
+      "id": "b785d96740ad3e221172c3ac8d5d4589bc1bb0dedb39013f00128259cb77efa3",
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "url": "https://therecord.media/russia-cyberattack-beget-cloud",
+      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-04T14:00:00+00:00"
+    },
     {
       "id": "a560b2ea40ec8740968294993d775ff884f7e057938fd3b1bcb0de578e7ac65c",
       "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
@@ -2098,159 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-26T09:19:57+00:00"
-    },
-    {
-      "id": "e84a8003dbea7666967a88512c1be654ac63fd204c2ae4cca58485452b5b0166",
-      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-      "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-      "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-10-26T09:10:03+00:00"
-    },
-    {
-      "id": "399172439712b08d5e85ae1e75783c6c3387be4fdb196acb84a4e22c103b9a1f",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between Ju",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-26T08:35:51+00:00"
-    },
-    {
-      "id": "a26d3a2a0bb03d720cf8ca011ef8de41f36f8aba5b8e835271f050902c50cab1",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to&nbsp;",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-26T07:49:46+00:00"
-    },
-    {
-      "id": "63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week. The company caught the attempt on a real customer's machine and stopped the",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-10-26T06:03:48+00:00"
-    },
-    {
-      "id": "33f7736e74631c3e92659afbe1965f21d4a96e0439d99808ed2b43bebc9bc19e",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls on",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-25T17:44:09+00:00"
-    },
-    {
-      "id": "da19872bd8ebd641fd6397768aac402f3e921a7c58cec2a2b755c0ffbf10b243",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the c",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-25T17:19:46+00:00"
-    },
-    {
-      "id": "ed9fe79f62b579cc63434a8cb2b25991cc3db96c7e366e60f081f06e2d5216ce",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-24T14:17:32+00:00"
-    },
-    {
-      "id": "a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli. Tracked as&nbsp;CVE-2026-111497, the flaw allo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-24T11:09:29+00:00"
-    },
-    {
-      "id": "c2f353f11fcac6078e3a8d417a06273b21c39d4ca93451ff32b6c5c6b61d7410",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-24T11:03:33+00:00"
-    },
-    {
-      "id": "ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-24T06:25:57+00:00"
-    },
-    {
-      "id": "a5d4387518b81efb54bc9972f0c99220e56df8b48eae7401de419c02452afa61",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-23T20:55:05+00:00"
-    },
-    {
-      "id": "9abacdc57711ec248fcedc72e573efbb67d2520d50076552b0d824de2b997475",
-      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.&#xd;",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-10-23T20:04:47+00:00"
-    },
-    {
-      "id": "68f2c8a7a2b64fb92945ca756d6bbda3d540d334d327f72cc6598fc8fba846db",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a C",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T18:50:13+00:00"
-    },
-    {
-      "id": "14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-10-23T17:54:08+00:00"
-    },
-    {
-      "id": "6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-23T17:50:47+00:00"
-    },
-    {
-      "id": "5d9f1f66a499403a0f0cb3e1e45881906dd47a1642d227a3c39e3165fd778837",
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-10-23T16:40:07+00:00"
-    },
-    {
-      "id": "d32d82b9d6777801ca8f0750a35661160291557eea428b747a829379f4fe3698",
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-10-23T15:38:05+00:00"
     }
   ]
 }
