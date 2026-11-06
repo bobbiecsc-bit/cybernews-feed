@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-05T23:14:08.134057+00:00",
+  "updated": "2026-11-06T04:57:48.917158+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a60c29c498ad06a8e5ba45bd928d3edee22489e728f52dd05496a46e8d98fb8f",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T11:46:27+00:00"
+    },
     {
       "id": "73251ea6fbbb96512bbb93a493ffec4b1d9076cc5b55d265b1e05d6abb1cc81d",
       "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
@@ -445,15 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "id": "7a8b5fe3b630ce05e6975a3a5dda0a650b6ec1c25855d4aef5701096a73dec8c",
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says&nbsp;it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-02T15:50:26+00:00"
     }
   ]
 }
