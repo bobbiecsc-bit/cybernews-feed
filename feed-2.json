@@ -1,10 +1,100 @@
 {
-  "updated": "2026-11-06T04:57:48.917158+00:00",
+  "updated": "2026-11-06T13:41:34.345248+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "646c23c08481b93b79dfa198f3abe24828662b7f92e29bcb0c3e632a7ab61e08",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used b",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-04T15:00:10+00:00"
+    },
+    {
+      "id": "803d0b274cc642505e68afa50dcca1e43f9d7c2432b02eee9417217197f183cb",
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T14:42:25+00:00"
+    },
+    {
+      "id": "f4b7ff866caa5870696391c3e909a8ced18118ed8f39c23d3ca0496f20627acd",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaS",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-04T14:27:52+00:00"
+    },
+    {
+      "id": "2765c964a020d980c566960f98ea95be3bd8d60efd44e60d16d5f274a4b0d684",
+      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-04T14:24:54+00:00"
+    },
+    {
+      "id": "b785d96740ad3e221172c3ac8d5d4589bc1bb0dedb39013f00128259cb77efa3",
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "url": "https://therecord.media/russia-cyberattack-beget-cloud",
+      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-04T14:00:00+00:00"
+    },
+    {
+      "id": "a560b2ea40ec8740968294993d775ff884f7e057938fd3b1bcb0de578e7ac65c",
+      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33488",
+      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabil",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-04T13:24:13+00:00"
+    },
+    {
+      "id": "345b215bc3cfa4391938b37f45ef5f48e8267eaf2fee4788c7b790920813ed39",
+      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T12:43:20+00:00"
+    },
+    {
+      "id": "165425189d28940be94e248f1be18c74edb18b22768650fe3a86fbaa4c85f147",
+      "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+      "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+      "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-04T12:27:58+00:00"
+    },
+    {
+      "id": "c401bb54ceffe967aab57c8897091dbfd04d02b7fd0fa08f406abbf857f8dbde",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-04T12:11:05+00:00"
+    },
+    {
+      "id": "eeeb8b0c17d40904542056018dd25d547186eacdabf3d70973c067d56f264505",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-04T12:07:04+00:00"
+    },
     {
       "id": "a60c29c498ad06a8e5ba45bd928d3edee22489e728f52dd05496a46e8d98fb8f",
       "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-03T05:34:41+00:00"
-    },
-    {
-      "id": "d80473442c7abc7649d7fdd411a24af31988719b3a078e9a3a6d0e43a06a655b",
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the fl",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-03T05:34:37+00:00"
-    },
-    {
-      "id": "ee5bbf6202dad163586b662d414184c2f849385e54c3c475d17b0391df0bba33",
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown s",
-      "source": "Krebs on Security",
-      "category": "threat",
-      "date": "2026-11-03T02:24:31+00:00"
-    },
-    {
-      "id": "384a558dfb89f692a7588135245c6f5abb791439690d5bbab8434cdb18fe5f1d",
-      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
-      "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-      "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-03T00:01:00+00:00"
-    },
-    {
-      "id": "2cf3e4d20fb3f24fba30a743a5c1059b696df185d50e4637b06fcd283cdb8c79",
-      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-      "url": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-      "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-02T21:42:00+00:00"
-    },
-    {
-      "id": "6c6aea21f91dfc2c962a72840b802bda2c948eb3a6745a60af1bf1fb19a5b9da",
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-02T21:40:14+00:00"
-    },
-    {
-      "id": "39f18e50f5740c0aec388786e6bb9df4cd0345764367c2b37973f8b795cff8ef",
-      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-      "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
-      "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-11-02T19:54:00+00:00"
-    },
-    {
-      "id": "b728804dc951fc98b3590dbc5441d6eaa62373a6e93d72c76d7bbc173ef06d08",
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-02T19:00:45+00:00"
-    },
-    {
-      "id": "540fcda8052543e00f62abeb150bbc46c8a4fc6c6683e80a681eb03c0f95ad9c",
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-02T18:16:34+00:00"
-    },
-    {
-      "id": "a3562df3fff969c304c828c1c4f1a3f36ce8570fa4befb07a56a56fcc14fb350",
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-02T16:57:56+00:00"
-    },
-    {
-      "id": "5a654e3ad3da731e5395b95e5dffb9f560af6f50ef956868614ff812a84fe435",
-      "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
-      "url": "https://therecord.media/hackers-ukraine-belarus-russia",
-      "summary": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-02T16:30:00+00:00"
     }
   ]
 }
