@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-07T04:30:13.462314+00:00",
+  "updated": "2026-11-07T12:23:38.948195+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "829cfb61faa6ebb337c8584b59695baa1cd7ae7d1840ccd3a34045178db9a2fb",
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-07T10:16:23+00:00"
+    },
     {
       "id": "3851f16593ec3bf0e1178c1ae853225c6d5d96fc301272200b6cc4434dea6d65",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-11-05T10:02:00+00:00"
-    },
-    {
-      "id": "acb97fdd6b827dc758c157afc40f346fb8f42eaca7454c51282c25f6ef8569eb",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-05T09:18:29+00:00"
     }
   ]
 }
