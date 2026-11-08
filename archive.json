@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-08T12:42:06.810479+00:00",
+  "updated": "2026-11-08T21:38:35.257934+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "4b7df559b706314dfcf9185f5c3de2859820f7f7051bb2fb885e6d978a89eded",
+      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33498",
+      "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of SSH passwords. Longer ",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-08T15:44:33+00:00"
+    },
+    {
+      "id": "f3cdbd0ed89247a33dbf8eb26cb3d5c20cde575db47f738cc046f13fc3d19b0f",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-08T15:43:08+00:00"
+    },
     {
       "id": "50b863715297ad555f5a0f6cfe54978b1639829b5b57a054f1c3b5b22a106857",
       "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
@@ -2233,24 +2251,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-10-28T10:46:23+00:00"
-    },
-    {
-      "id": "2e5063d5ddc42334fda588afc4959fedfbeeaf71de4a8d2b40e15282376d2f6f",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RU",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-10-28T10:30:00+00:00"
-    },
-    {
-      "id": "62af280b86d2c33ac75d3be63bb99fda21f52e96362ea93d030f3b5465750ad7",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-10-28T09:43:15+00:00"
     }
   ]
 }
