@@ -1,10 +1,136 @@
 {
-  "updated": "2026-11-11T13:29:51.267407+00:00",
+  "updated": "2026-11-11T23:59:42.811679+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "f4b34728a6f8e3261976027d9b0a45cb80f746e0a3b89799b8acb1aae83c4bc7",
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Com",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "id": "fdab5e09d527af8f412eecd73b58f8ee6056526508c458bf333de8be520209ce",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-10T10:16:51+00:00"
+    },
+    {
+      "id": "40f3a464061387e77509c01c3ec0adec10cb2229d611d38c7aef0d2c336190f2",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-10T10:10:20+00:00"
+    },
+    {
+      "id": "f91af9aa9454d040d24b0d91837eaaa40a0d5b6723018acc4f07679b0c40c95a",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-10T10:07:29+00:00"
+    },
+    {
+      "id": "a2b42747a7210ba7a3b606214ad749a92e4dfabd6d110888af0439c036f59075",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-11-10T10:04:32+00:00"
+    },
+    {
+      "id": "c110ef77ed0278863603bba8ea1c06d49f2fa6c755aaf353522fcf6141cf98b8",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-10T10:02:40+00:00"
+    },
+    {
+      "id": "f0e30211268172c70a2a3d5991ff3950af53286d2e0e4b601e29d03974d7e9b3",
+      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+      "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+      "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-10T09:56:28+00:00"
+    },
+    {
+      "id": "e9fdf255e3d7738f85516d0ffb32162bbe0ac08635d9a2c5b6c7afbb9d347f0f",
+      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+      "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-10T09:42:27+00:00"
+    },
+    {
+      "id": "db918bafa08cb13b8fcbdd07086afe23eb069535185f09c9e70b054338bc0be8",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost set",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-10T09:08:20+00:00"
+    },
+    {
+      "id": "cf90f68ee6bef3655e86febece14196ba5b323f48fde492487edb173c1ecd9a4",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-10T08:51:25+00:00"
+    },
+    {
+      "id": "324a5559d0e2e6e632dd934ba20b09d59c355c44004987be1f37d819d441535c",
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three worki",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-10T08:16:14+00:00"
+    },
+    {
+      "id": "4e06135bcc131ff842578c24c5dcaabc402f6e62ce4a5274918599b745a8e7e7",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-10T07:49:58+00:00"
+    },
+    {
+      "id": "4dd335a72f865ea59239bc2c1169c98dbc0be9d7d96766f4feacf6d1b2d70aea",
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+      "summary": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-11-10T07:35:05+00:00"
+    },
+    {
+      "id": "749cd79bf9b6b051f921dd2a0964c78940dcc9dddee5e4ca849f6e61ef2c0c97",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has&nbsp;been described as a use-after-free bug in the XML comp",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-10T06:52:54+00:00"
+    },
     {
       "id": "f0d40b6eb5cac62ee86cf717f406d05317d47708def4f82c98769f895c4ecee0",
       "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
@@ -328,132 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-09T06:05:24+00:00"
-    },
-    {
-      "id": "4b7df559b706314dfcf9185f5c3de2859820f7f7051bb2fb885e6d978a89eded",
-      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-      "url": "https://isc.sans.edu/diary/rss/33498",
-      "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of SSH passwords. Longer ",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-08T15:44:33+00:00"
-    },
-    {
-      "id": "f3cdbd0ed89247a33dbf8eb26cb3d5c20cde575db47f738cc046f13fc3d19b0f",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-08T15:43:08+00:00"
-    },
-    {
-      "id": "50b863715297ad555f5a0f6cfe54978b1639829b5b57a054f1c3b5b22a106857",
-      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-      "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-      "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-08T12:14:00+00:00"
-    },
-    {
-      "id": "afb29613d255441e0b9301d319d91083476c08366f15bbbfa83d490540adf484",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-07T15:25:35+00:00"
-    },
-    {
-      "id": "5a763049bef06bb3ec3f079819e86858c09106115da91fc79be40261d25fcf29",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-07T14:10:19+00:00"
-    },
-    {
-      "id": "829cfb61faa6ebb337c8584b59695baa1cd7ae7d1840ccd3a34045178db9a2fb",
-      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-      "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-07T10:16:23+00:00"
-    },
-    {
-      "id": "3851f16593ec3bf0e1178c1ae853225c6d5d96fc301272200b6cc4434dea6d65",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-07T00:00:55+00:00"
-    },
-    {
-      "id": "246617fa609df09e3218b5149e488d6799e25966dabb2274a6334d8302f25a35",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-06T22:27:25+00:00"
-    },
-    {
-      "id": "3df1af76d776543dfa95f7d1ad19c139c9626c3c4aa8a74b5330437efd15c781",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-06T20:24:19+00:00"
-    },
-    {
-      "id": "acb2cfbf4b1c70c1a12802b5be802b44183d881197649a4378bae69489d0ad5e",
-      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
-      "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
-      "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-06T19:06:00+00:00"
-    },
-    {
-      "id": "849b59f87213c1c70902665bbf4d5ecad15d9efe308b0afb55228680db2ec7d5",
-      "title": "Certificate authority DigiCert reports data breach involving business customer info",
-      "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-      "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-06T18:56:00+00:00"
-    },
-    {
-      "id": "b432728a569b5bf473fdea5ad9d4bc00c96b47ea0852312044e46f414bf08a63",
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-06T18:46:52+00:00"
-    },
-    {
-      "id": "ddce59dfd905083075c0fc6bfa22502866fe758f7e32658be12f14728d1331da",
-      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-      "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityW",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-06T18:28:41+00:00"
-    },
-    {
-      "id": "25aea6b559a69eae3e788df7d79f7860254d6d42cdd806e27994125d07512c18",
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-06T17:04:23+00:00"
     }
   ]
 }
