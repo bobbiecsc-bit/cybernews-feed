@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-11T23:59:42.811679+00:00",
+  "updated": "2026-11-12T06:57:57.681784+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6ff3cb63e3dfcc33c5ad6f23498df7ec397c886102311ee9ac68f578688e716e",
+      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-10T12:17:13+00:00"
+    },
+    {
+      "id": "9e61e0b276e17f48bee89cdecaeb49790fcf4ff9a23ca3575c2935c94415f3ca",
+      "title": "New OpenSSH Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+      "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering a",
+      "source": "Schneier on Security",
+      "category": "vulnerability",
+      "date": "2026-11-10T12:02:38+00:00"
+    },
     {
       "id": "f4b34728a6f8e3261976027d9b0a45cb80f746e0a3b89799b8acb1aae83c4bc7",
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-11-09T08:35:50+00:00"
-    },
-    {
-      "id": "58a49828244205471a6ee53805903c4e9f1b636dfc941e8c8813d1305859810b",
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or inte",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-09T06:15:10+00:00"
-    },
-    {
-      "id": "4d02c260bfd3474beac1944c16a7542aac1df8b69d858035441029358f1c0e69",
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-09T06:05:24+00:00"
     }
   ]
 }

@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-11T23:59:42.811679+00:00",
+  "updated": "2026-11-12T06:57:57.681784+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "b92486adb822eb8ab12a834c13b3872136451a5e86ffd7f65879015f0a51c0ad",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T05:12:26+00:00"
+    },
+    {
+      "id": "0a7fd303a43b8569f851a7ca8513d58fa9e560a0afea633fe33a6ac5de83c5fb",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-12T04:39:48+00:00"
+    },
     {
       "id": "2fa347656b166d5774882a4bf1b7cc0b4fda5a1e6c38f70bb545fc37e2c4693a",
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -2233,24 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-02T11:50:00+00:00"
-    },
-    {
-      "id": "48035fae1822c712d213d122ea4c388f0c13d2637f6a695a5f846433a2b5be58",
-      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
-      "url": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
-      "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-02T11:29:39+00:00"
-    },
-    {
-      "id": "0f81648bf5c6b7071f3199db0711f7f0c2cdbebb5a95be439d76f0adcbc8c95b",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-02T11:28:42+00:00"
     }
   ]
 }

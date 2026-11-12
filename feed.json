@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-11T23:59:42.811679+00:00",
+  "updated": "2026-11-12T06:57:57.681784+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "b92486adb822eb8ab12a834c13b3872136451a5e86ffd7f65879015f0a51c0ad",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T05:12:26+00:00"
+    },
+    {
+      "id": "0a7fd303a43b8569f851a7ca8513d58fa9e560a0afea633fe33a6ac5de83c5fb",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-12T04:39:48+00:00"
+    },
     {
       "id": "2fa347656b166d5774882a4bf1b7cc0b4fda5a1e6c38f70bb545fc37e2c4693a",
       "title": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-10T13:00:00+00:00"
-    },
-    {
-      "id": "6ff3cb63e3dfcc33c5ad6f23498df7ec397c886102311ee9ac68f578688e716e",
-      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-      "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T12:17:13+00:00"
-    },
-    {
-      "id": "9e61e0b276e17f48bee89cdecaeb49790fcf4ff9a23ca3575c2935c94415f3ca",
-      "title": "New OpenSSH Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering a",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-11-10T12:02:38+00:00"
     }
   ]
 }
