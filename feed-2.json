@@ -1,10 +1,127 @@
 {
-  "updated": "2026-11-13T04:55:41.870249+00:00",
+  "updated": "2026-11-13T13:52:26.909937+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "5af37a8a0588718db6bdb1e5e9542f8ee06160b0165bffd87ec263b02d0975e7",
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-12T09:38:00+00:00"
+    },
+    {
+      "id": "c776eb51cbacc6fa91c682a94ebf94f3c698ffe17fc58f5b60378d25ee9bdd80",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the da",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T09:25:00+00:00"
+    },
+    {
+      "id": "a84ff71208fbfdbb9a9ebaa1278c752b2bfeaf65e3decb4c2f455e0df122ebff",
+      "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+      "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+      "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-12T09:23:21+00:00"
+    },
+    {
+      "id": "c94635a9e4e1201dddfbd6be4bb6ab88b55eca2928c59115b2a42715e0c79fd1",
+      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+      "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "malware",
+      "date": "2026-11-12T08:38:47+00:00"
+    },
+    {
+      "id": "6ee015b627a80bcd5eb6daa2d405ab25fa3526d6497ed7a1931c7e98c8c6d621",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed ver",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T08:20:37+00:00"
+    },
+    {
+      "id": "b1fc427f51ef7a02649c1c794d08b9b215281aa61217249cda566c99413a49f7",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI wo",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-12T06:42:47+00:00"
+    },
+    {
+      "id": "b92486adb822eb8ab12a834c13b3872136451a5e86ffd7f65879015f0a51c0ad",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T05:12:26+00:00"
+    },
+    {
+      "id": "0a7fd303a43b8569f851a7ca8513d58fa9e560a0afea633fe33a6ac5de83c5fb",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-12T04:39:48+00:00"
+    },
+    {
+      "id": "2fa347656b166d5774882a4bf1b7cc0b4fda5a1e6c38f70bb545fc37e2c4693a",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T23:01:31+00:00"
+    },
+    {
+      "id": "8ecf3ded8f74d009a9f220f69dedc54094505f876fd356b877d8a8c07cb82ad5",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T22:56:21+00:00"
+    },
+    {
+      "id": "3c445f1213014085411eae5032630d832f1bedb1ddb83ebbfeea95c6566ccf74",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T20:54:20+00:00"
+    },
+    {
+      "id": "5aca5acf75fbc18aea1f7f03835bf43aa3a40d4529f830567d2f31628239e1d7",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over ",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-11-11T18:06:01+00:00"
+    },
+    {
+      "id": "68bf61820c9ab32d6c2dc152edb25e70dcb73ef1ac4c1ab5e3382100e6228940",
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-11T16:57:00+00:00"
+    },
     {
       "id": "9d0e65808ab58d16043979de7751ebb49b6076b0122249cbb4492ff6176808ae",
       "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
@@ -337,123 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-10T16:00:55+00:00"
-    },
-    {
-      "id": "9d3024bd726af4612ddabaa5e57cac0f51416ab1b80d4bd274e349f05d8aae0b",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T15:59:19+00:00"
-    },
-    {
-      "id": "af8c1df07c8f17c510cd86f3034af629aad8a8fff2048324de445ee4d3eff468",
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spani",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-10T15:58:44+00:00"
-    },
-    {
-      "id": "78de25647db1bd8e2ffcca79b20b2acede2c4140ceff5c8d6a5787ec415f6a0f",
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice publ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-10T15:33:59+00:00"
-    },
-    {
-      "id": "451800d549b3393d701c84958e733146b8c5c521ff69dcb18cab1e784615abeb",
-      "title": "Ransomware recovery is now a client retention metric",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, ",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-10T15:01:11+00:00"
-    },
-    {
-      "id": "40742b5d92962519607469e8e5a9ab5d104f728fe9dbb9a38602ca076ad094c8",
-      "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-      "summary": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-10T13:27:44+00:00"
-    },
-    {
-      "id": "34a20521ce91330c590b77d2b4988795e129742f91767496445250ed375df540",
-      "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
-      "url": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
-      "summary": "Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO and European Union officials, researchers said.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-10T13:00:00+00:00"
-    },
-    {
-      "id": "6ff3cb63e3dfcc33c5ad6f23498df7ec397c886102311ee9ac68f578688e716e",
-      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
-      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-      "summary": "Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T12:17:13+00:00"
-    },
-    {
-      "id": "9e61e0b276e17f48bee89cdecaeb49790fcf4ff9a23ca3575c2935c94415f3ca",
-      "title": "New OpenSSH Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering a",
-      "source": "Schneier on Security",
-      "category": "vulnerability",
-      "date": "2026-11-10T12:02:38+00:00"
-    },
-    {
-      "id": "f4b34728a6f8e3261976027d9b0a45cb80f746e0a3b89799b8acb1aae83c4bc7",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability&nbsp; CVE-2026-111560 Barracuda Networks Multiple Products OS Com",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "id": "fdab5e09d527af8f412eecd73b58f8ee6056526508c458bf333de8be520209ce",
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T10:16:51+00:00"
-    },
-    {
-      "id": "40f3a464061387e77509c01c3ec0adec10cb2229d611d38c7aef0d2c336190f2",
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T10:10:20+00:00"
-    },
-    {
-      "id": "f91af9aa9454d040d24b0d91837eaaa40a0d5b6723018acc4f07679b0c40c95a",
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-10T10:07:29+00:00"
-    },
-    {
-      "id": "a2b42747a7210ba7a3b606214ad749a92e4dfabd6d110888af0439c036f59075",
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-10T10:04:32+00:00"
     }
   ]
 }
