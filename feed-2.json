@@ -1,10 +1,127 @@
 {
-  "updated": "2026-11-13T13:52:26.909937+00:00",
+  "updated": "2026-11-13T23:11:50.876582+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "34b40f857b9f9cf5347564c8197523410135d4f8918dd07a18acddc17568f951",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker wit",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:09:14+00:00"
+    },
+    {
+      "id": "f45d3069b40c902e69976860f6106c3af0be7051b0b610035da08b87fef7887b",
+      "title": "Siemens Desigo, Gridscale",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "id": "057c02b04cc39ce1e69c3a00879f451eee0181ae2b3b390623ec8ab032752f4a",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "id": "652c8f30b0994d6c4046679ed88f18ea7c7f13d7f23455065d91633c8662e585",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+      "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "id": "89146ff5418730c287f61dcc9918308169e69412213613c4eebdc46d1fc401c2",
+      "title": "Siemens Building Automation and Energy Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of imp",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "id": "ff020ded0d3324318b1ef088f6ec171e951d70cf1096ea20dddeaff2ddd78bb5",
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM softwar",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-12T12:00:00+00:00"
+    },
+    {
+      "id": "f929241d501729b0f60f54c22e23ec1ceffe6272e33d1a852fd029f89ac0f7f8",
+      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+      "url": "https://isc.sans.edu/diary/rss/33514",
+      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end of June. This vulner",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-12T11:56:24+00:00"
+    },
+    {
+      "id": "e8aac6829dfb0bdd4a80da6d5d2790d17efaeaef049684f0f9d27646f1b4c56b",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T11:51:43+00:00"
+    },
+    {
+      "id": "cd877208a9d9554b1851047dbb574ccdce35d864ccec4eb966b4ff8221c7677c",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and ha",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-12T11:51:31+00:00"
+    },
+    {
+      "id": "2d6f349525d67746f7ded0d2b5d275fffc5a8d655fbad84be36b60878779f11f",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T11:33:15+00:00"
+    },
+    {
+      "id": "a39fcf2de8cd546e50f3f3210c3a97750c49fc30c1b9e5ab820eb7679e3bc798",
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "summary": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-12T11:08:52+00:00"
+    },
+    {
+      "id": "e9d69bcb98ba5bf5217ac3989587cb6736319945863005b02c2ef697a0eb5ecb",
+      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+      "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+      "summary": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-12T10:39:34+00:00"
+    },
+    {
+      "id": "a25f79678053d5aec4481b79c6efe5e7d9cf3ce0b25053aabdf8c0499aa59442",
+      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+      "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+      "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-12T09:39:55+00:00"
+    },
     {
       "id": "5af37a8a0588718db6bdb1e5e9542f8ee06160b0165bffd87ec263b02d0975e7",
       "title": "Hackers plant GSocket on Linux servers for persistent access",
@@ -337,123 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-11-10T22:20:19+00:00"
-    },
-    {
-      "id": "6e299ce357456abc383119129df7158ae19c813046942f3bb148e0b97f08d132",
-      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
-      "source": "Krebs on Security",
-      "category": "vulnerability",
-      "date": "2026-11-10T21:55:03+00:00"
-    },
-    {
-      "id": "0aa6bce714ba7c354938d1b02352adf76cc84cda45bce66ff21893297b21e50a",
-      "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-      "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-      "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-      "source": "The Record",
-      "category": "vulnerability",
-      "date": "2026-11-10T20:55:00+00:00"
-    },
-    {
-      "id": "e01c8b6f2f4a1f1a87f9f039492e0a5f4846bc2da8b38fefe83927e4f8ef3add",
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-10T20:54:55+00:00"
-    },
-    {
-      "id": "ddf41e717f52acfd0184a60529a66db3e4f1f393bf490800b6cd4e76ab10ba73",
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-10T19:31:11+00:00"
-    },
-    {
-      "id": "98e4d72a559c644ff867299dbd91b2f8aba5f396a272b1b71dc7a495c11a3f70",
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T19:23:10+00:00"
-    },
-    {
-      "id": "3ead3cc2f38b103fca9f625d2c795487ad082da6f8dd930cd0bd98decfb23caa",
-      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
-      "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-      "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T19:19:46+00:00"
-    },
-    {
-      "id": "12e10543ab563fddc87647c91d53777ed5f01237be25af71d41b8a4b76c08084",
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-10T19:19:39+00:00"
-    },
-    {
-      "id": "70a133457da5c93bae157e4ed5e5b24867c8b380f93ba9e54d6267119e5c5787",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T19:07:36+00:00"
-    },
-    {
-      "id": "452012a5ab466238f0d93e380465ce8ba39abe29e0f1d91091c0682f096d8efd",
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. \"REST cookie parsing turns authenticationToke",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T18:12:21+00:00"
-    },
-    {
-      "id": "f020d812e8ed826cbd47b6e76147ba98891330b4782c81adb55415a8d6c76eef",
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-10T17:43:23+00:00"
-    },
-    {
-      "id": "f71a910c08b11a93964a3845abe67376a8022b08d61dcc377a3ae2661f1270b8",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T16:17:16+00:00"
-    },
-    {
-      "id": "266c1950223fcd4ea06840c73f66431259b4954518ba192b8f0327ab5cf0a5b4",
-      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-      "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-10T16:08:00+00:00"
-    },
-    {
-      "id": "db01d072adb842da9f5aad746996ccc62cdcf6a34da7fd4ece962950c6b90920",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T16:00:55+00:00"
     }
   ]
 }
