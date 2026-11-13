@@ -1,10 +1,46 @@
 {
-  "updated": "2026-11-12T19:29:54.855188+00:00",
+  "updated": "2026-11-13T04:55:41.870249+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "9d0e65808ab58d16043979de7751ebb49b6076b0122249cbb4492ff6176808ae",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T16:24:18+00:00"
+    },
+    {
+      "id": "95bc7c63c87673bf5406f856eb6b28ac769056cdcac8a1052753303b53dd16b3",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-11T16:12:46+00:00"
+    },
+    {
+      "id": "1850dcd8e0028e19cb40971dd20ff90da602246a3c5538e9394adf2ed11e7fe5",
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+      "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T15:42:47+00:00"
+    },
+    {
+      "id": "99d239565756098b9428b9bb55b7aa2b058c0301866e20628a75478fe5d08b08",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cl",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-11T15:34:27+00:00"
+    },
     {
       "id": "f7bee101ee0275bf0de8b472f53497aae6397b54f310ec036d6d34581d191715",
       "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
@@ -418,42 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-11-10T10:04:32+00:00"
-    },
-    {
-      "id": "c110ef77ed0278863603bba8ea1c06d49f2fa6c755aaf353522fcf6141cf98b8",
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T10:02:40+00:00"
-    },
-    {
-      "id": "f0e30211268172c70a2a3d5991ff3950af53286d2e0e4b601e29d03974d7e9b3",
-      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-      "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-      "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T09:56:28+00:00"
-    },
-    {
-      "id": "e9fdf255e3d7738f85516d0ffb32162bbe0ac08635d9a2c5b6c7afbb9d347f0f",
-      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-      "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T09:42:27+00:00"
-    },
-    {
-      "id": "db918bafa08cb13b8fcbdd07086afe23eb069535185f09c9e70b054338bc0be8",
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost set",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-10T09:08:20+00:00"
     }
   ]
 }

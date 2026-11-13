@@ -1,10 +1,46 @@
 {
-  "updated": "2026-11-12T19:29:54.855188+00:00",
+  "updated": "2026-11-13T04:55:41.870249+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "829cfb61faa6ebb337c8584b59695baa1cd7ae7d1840ccd3a34045178db9a2fb",
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-07T10:16:23+00:00"
+    },
+    {
+      "id": "3851f16593ec3bf0e1178c1ae853225c6d5d96fc301272200b6cc4434dea6d65",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-07T00:00:55+00:00"
+    },
+    {
+      "id": "246617fa609df09e3218b5149e488d6799e25966dabb2274a6334d8302f25a35",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-06T22:27:25+00:00"
+    },
+    {
+      "id": "3df1af76d776543dfa95f7d1ad19c139c9626c3c4aa8a74b5330437efd15c781",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-06T20:24:19+00:00"
+    },
     {
       "id": "acb2cfbf4b1c70c1a12802b5be802b44183d881197649a4378bae69489d0ad5e",
       "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
@@ -418,42 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-05T10:06:19+00:00"
-    },
-    {
-      "id": "dcae8cc2d20b21130982d7ed0c20961c2cb5013e9ba4f5973b75c483160d3b29",
-      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-      "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-05T10:02:00+00:00"
-    },
-    {
-      "id": "acb97fdd6b827dc758c157afc40f346fb8f42eaca7454c51282c25f6ef8569eb",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-05T09:18:29+00:00"
-    },
-    {
-      "id": "9fb3d806b5214e2e6b9d7b6386be32010e75f4f0af5ac76eda6f7f5366db62fe",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and on",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-05T08:42:03+00:00"
-    },
-    {
-      "id": "d2b8633e1a6f94d63a714a7c774e62f3ce67b640ffe8efe14658a60ce189320f",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has r",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-05T07:06:33+00:00"
     }
   ]
 }
