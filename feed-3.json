@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T12:55:37.529891+00:00",
+  "updated": "2026-11-14T21:56:24.964597+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "aa7a33eee693a50c9d663a37bfa2685b8c17a5a2ef0c6dcd3ef98ee795cbdfcf",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permi",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-11T07:21:05+00:00"
+    },
+    {
+      "id": "84d5f3ee10f1fbad277625cd34ca104e9cd9d9ca0f283927eeed08634fc3aafc",
+      "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+      "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+      "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T07:00:17+00:00"
+    },
     {
       "id": "85ce9be08e6465936d9503168f9e196f3243428a5582eb0899de23c30aeb08c9",
       "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
@@ -436,24 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-11-09T18:30:00+00:00"
-    },
-    {
-      "id": "dcde3d2c46f168c18caa12e84b081f682fe716f7e102cdf83301f10d15f10318",
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33502",
-      "summary": "Just saw a new (to me) URL in our honeypot data today:&#xd;",
-      "source": "SANS ISC",
-      "category": "threat",
-      "date": "2026-11-09T18:18:15+00:00"
-    },
-    {
-      "id": "ee5e2ceda03abe1e3e50107e66b55dd1b6946aaa557a689bc746ce443472aac7",
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attack",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-09T17:51:21+00:00"
     }
   ]
 }

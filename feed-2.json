@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T12:55:37.529891+00:00",
+  "updated": "2026-11-14T21:56:24.964597+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "92e20603fc669f39fab8d6e872c5052a8f8e02745677776a0459182e0aa9a908",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-12T14:36:47+00:00"
+    },
+    {
+      "id": "16dd8d34e480eb666ea02b8f330765f9de928827ca9d9a555ac87722deef069e",
+      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+      "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-12T13:42:09+00:00"
+    },
     {
       "id": "92fa12803ef3e7a7b0edaffdf1f6edf6969af18ac07e10fa8bc34d6be205d803",
       "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-11-11T07:49:04+00:00"
-    },
-    {
-      "id": "aa7a33eee693a50c9d663a37bfa2685b8c17a5a2ef0c6dcd3ef98ee795cbdfcf",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permi",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-11T07:21:05+00:00"
-    },
-    {
-      "id": "84d5f3ee10f1fbad277625cd34ca104e9cd9d9ca0f283927eeed08634fc3aafc",
-      "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
-      "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
-      "summary": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-11T07:00:17+00:00"
     }
   ]
 }

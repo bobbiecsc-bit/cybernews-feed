@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T12:55:37.529891+00:00",
+  "updated": "2026-11-14T21:56:24.964597+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "dcde3d2c46f168c18caa12e84b081f682fe716f7e102cdf83301f10d15f10318",
+      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33502",
+      "summary": "Just saw a new (to me) URL in our honeypot data today:&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-11-09T18:18:15+00:00"
+    },
+    {
+      "id": "ee5e2ceda03abe1e3e50107e66b55dd1b6946aaa557a689bc746ce443472aac7",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attack",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-09T17:51:21+00:00"
+    },
     {
       "id": "3b379946ae9fdb574b45b37037cde4c5ac15ca22da1c80e95956de116f406512",
       "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-11-06T12:47:55+00:00"
-    },
-    {
-      "id": "25cfeb7476a406d7de4fe411582a538e3033088319ef9b783e99303a012f5802",
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-06T12:37:22+00:00"
-    },
-    {
-      "id": "0b7161df55d908beddbef13b912c4c5a6f3e4d8c03960080df90fdf7265535dc",
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The fla",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-06T12:06:43+00:00"
     }
   ]
 }
