@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-14T04:49:04.408508+00:00",
+  "updated": "2026-11-14T12:55:37.529891+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "bf3ff9f08f48ce8744ddb262d0bf3fa0d22b0f2daf6a96dc72bda535383627e1",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-06T12:06:35+00:00"
+    },
+    {
+      "id": "2e68c4969154600586c3fd7507f867fce7255826804843c8928e9532b47e7d05",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyb",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-06T12:00:00+00:00"
+    },
     {
       "id": "59e451227cc3593aa94fc933bd41d4fcd94edae97c265ef4783b1236d3af9f08",
       "title": "MetaMask says recent attack didn't affect wallet infrastructure",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-11-04T14:24:54+00:00"
-    },
-    {
-      "id": "b785d96740ad3e221172c3ac8d5d4589bc1bb0dedb39013f00128259cb77efa3",
-      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
-      "url": "https://therecord.media/russia-cyberattack-beget-cloud",
-      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-      "id": "a560b2ea40ec8740968294993d775ff884f7e057938fd3b1bcb0de578e7ac65c",
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "url": "https://isc.sans.edu/diary/rss/33488",
-      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 &#x5b;CVE&#x5d;. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabil",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-04T13:24:13+00:00"
     }
   ]
 }
