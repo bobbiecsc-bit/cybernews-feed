@@ -1,7 +1,169 @@
 {
-  "updated": "2026-11-16T04:37:24.248022+00:00",
+  "updated": "2026-11-16T14:39:58.351474+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "305cded6fb43821970522307b07f422473dd3dc3ca96e535e62b57efebbfb82c",
+      "title": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
+      "url": "https://therecord.media/british-government-complacent-foreign-cyber-threats",
+      "summary": "The National Resilience Committee’s report, published eight days before a major vote on Britain’s landmark Cyber Security and Resilience Bill, warns that the legislation falls short of introducing the necessary security standards needed to protect the country.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-16T14:21:00+00:00"
+    },
+    {
+      "id": "a9566b0c8ca92a5a6ab9a926880d7fc5142e220496552e9920dc9e87c8115480",
+      "title": "EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor",
+      "url": "https://therecord.media/russia-europe-sanctions-doppelganger",
+      "summary": "The European Union sanctioned a pro-Russian hacktivist group and two dozen employees of the Moscow firm behind the Doppelgänger disinformation campaign.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-16T14:15:00+00:00"
+    },
+    {
+      "id": "2324970e054fe8e07194474c0ba22c5d4761618bc3aa4104e8f057a60961ea48",
+      "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
+      "url": "https://therecord.media/lithuania-customs-agency-cyberattack",
+      "summary": "A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem over the weekend.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-16T14:06:00+00:00"
+    },
+    {
+      "id": "9b1f22329875fb27660e03d8651918d2afa23f7fd3d0ef602c95a8bf27352d85",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "id": "1742a693aba8e2002103c36211e8a1b8197332d5e77c65bc5d6fdb15ab25b0cc",
+      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33522",
+      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without ",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-16T13:11:04+00:00"
+    },
+    {
+      "id": "934dd532c9883956ec5e420c4f5bcf9a057053bd572a96f320c3fef435274381",
+      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-16T12:48:03+00:00"
+    },
+    {
+      "id": "a989c64e51ebb71dbd1d9ff22e39b9fd0ee730efd9a714120880524317739baa",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-16T12:34:21+00:00"
+    },
+    {
+      "id": "c4086de05142b1d96dc6abdf45a86ccca6c3ecb2902b35f2ced2d37e4be178b2",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kasper",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-16T12:33:18+00:00"
+    },
+    {
+      "id": "a66209dc2cc42578ed6ada0813341c5febacd3bdf807cfbde69f92e475f229fe",
+      "title": "Usable Security at Luxury Hotels",
+      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+      "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#82",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-11-16T12:04:42+00:00"
+    },
+    {
+      "id": "40d5792137694b019f1a0a5d0e2c657f39b33b594d2dbaadaebf008e1abd266a",
+      "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+      "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-16T11:15:48+00:00"
+    },
+    {
+      "id": "22cc9d61f7d681e99da298603ebc5446d08f9b0ac91bfd2e269e98ce5e8087cf",
+      "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+      "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+      "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-16T11:05:42+00:00"
+    },
+    {
+      "id": "c2a82aaca9d9479f0d69104efe258e00427a84bb5c426d1f941874090c91ae6a",
+      "title": "Uber Data Breach Impacts 150,000 People",
+      "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+      "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-16T11:02:48+00:00"
+    },
+    {
+      "id": "5ceeaae8e26f5eb828b8ffe14f197db9867c114455bbaede4a59eaa4dd7a4a85",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives com",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-16T09:32:57+00:00"
+    },
+    {
+      "id": "f5ef776679d8464c39fd20cfc32e006ae4a7247220a63865430a04d751923e29",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-16T09:30:04+00:00"
+    },
+    {
+      "id": "72fb2bc96d750fdd25a794c4b33d510b68987aa409a59945b9ea02f64371a50b",
+      "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+      "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+      "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-11-16T08:55:32+00:00"
+    },
+    {
+      "id": "1f852839e1cc2ae66810d14048945be5d69d210ac02e6f3ea51ae601f09aceac",
+      "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+      "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+      "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-11-16T08:15:12+00:00"
+    },
+    {
+      "id": "d6a0c3df6c7fff40e930551d8ba0fc12d9365fc03422dd9ebb5ed951b2e5d812",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen ke",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-16T07:34:21+00:00"
+    },
+    {
+      "id": "1abe8912cb223ae43799b6e47fe374ee7e72d6c8d8a454e8df0406d2a84b9853",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-16T06:53:34+00:00"
+    },
     {
       "id": "ddd80cd3bed8cfd4e5218553120b22bdf21922f0ec67cc202ff8ea3765855b62",
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
@@ -2089,168 +2251,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-11-05T10:37:13+00:00"
-    },
-    {
-      "id": "e5838da8e52e7046a05b357e5da4f04dd287a1dd02a3cff4de8c7a1daa5f7108",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk o",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-05T10:06:19+00:00"
-    },
-    {
-      "id": "dcae8cc2d20b21130982d7ed0c20961c2cb5013e9ba4f5973b75c483160d3b29",
-      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-      "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-05T10:02:00+00:00"
-    },
-    {
-      "id": "acb97fdd6b827dc758c157afc40f346fb8f42eaca7454c51282c25f6ef8569eb",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-05T09:18:29+00:00"
-    },
-    {
-      "id": "9fb3d806b5214e2e6b9d7b6386be32010e75f4f0af5ac76eda6f7f5366db62fe",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and on",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-05T08:42:03+00:00"
-    },
-    {
-      "id": "d2b8633e1a6f94d63a714a7c774e62f3ce67b640ffe8efe14658a60ce189320f",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has r",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-05T07:06:33+00:00"
-    },
-    {
-      "id": "16bf85bfb533fefee48b85fb3436fc4224373d29f54088a639e6c46ed49226e2",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-278",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-05T05:17:04+00:00"
-    },
-    {
-      "id": "e9eb89f36def1073c4ddc46a42bb255519368b9f504f3600fb6984e3c1d3eb48",
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-      "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "05d712189c6125345f94caeca3141774217a5cd773a527a4fa52389d14e248e8",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-04T21:31:18+00:00"
-    },
-    {
-      "id": "5045883ec41b7061f7923d0e4146ba7700f96cb99e7efbd5643c18dbcc9906ee",
-      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platfo",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-04T21:30:00+00:00"
-    },
-    {
-      "id": "b8bdafeefd7281914ede63a497f3ce3ca77e177012958c98a939845f2bb09caf",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-04T20:58:19+00:00"
-    },
-    {
-      "id": "63e35562df3b7bff8469d169c1b313ac4113ee8d6f2b6e5c5912fe789bfe23b5",
-      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-      "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-      "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-04T19:17:00+00:00"
-    },
-    {
-      "id": "622646b53531b9768bb7d08eb7c88398a9265119ce5ae455e8c130b5e82a8ea6",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-04T19:05:19+00:00"
-    },
-    {
-      "id": "cd1d23b48c3f127db667a521de096fa031efe1f49bbf9972f4d94acfd1f7c156",
-      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-      "url": "https://therecord.media/french-bank-confirms-cyber-heist",
-      "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-04T18:58:00+00:00"
-    },
-    {
-      "id": "324db880e2c47ea37c6fdd5ee24eb5f672cb93621ed14d7a50b5c798ca944254",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-04T18:02:56+00:00"
-    },
-    {
-      "id": "f72f567cab23b3cbd0eca3dc95c3b83530969869c99b07b72e968b0c88758eef",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that&nbsp;Debian,&nbsp;Ubuntu, and&nbsp;APT's developers&nbsp;published on November 4.",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-04T17:00:46+00:00"
-    },
-    {
-      "id": "28cc7a562c85ad38a67f6487f871048cf5375f76437b5e0e668667d887e03163",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file rea",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-04T17:00:38+00:00"
-    },
-    {
-      "id": "94833255da64ec919226ced6782ec75dd61c3850fbfd8ce2a94e076eac987eb4",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-04T16:58:46+00:00"
-    },
-    {
-      "id": "2aa562b9b67846cbbe19420715d21a43085c8fdf26eea512c44fe2fc6cefd7a8",
-      "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
-      "url": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
-      "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-04T16:15:00+00:00"
     }
   ]
 }
