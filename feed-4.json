@@ -1,10 +1,208 @@
 {
-  "updated": "2026-11-17T15:27:20.839849+00:00",
+  "updated": "2026-11-18T00:28:02.491324+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "3c445f1213014085411eae5032630d832f1bedb1ddb83ebbfeea95c6566ccf74",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T20:54:20+00:00"
+    },
+    {
+      "id": "5aca5acf75fbc18aea1f7f03835bf43aa3a40d4529f830567d2f31628239e1d7",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over ",
+      "source": "Krebs on Security",
+      "category": "malware",
+      "date": "2026-11-11T18:06:01+00:00"
+    },
+    {
+      "id": "68bf61820c9ab32d6c2dc152edb25e70dcb73ef1ac4c1ab5e3382100e6228940",
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-11T16:57:00+00:00"
+    },
+    {
+      "id": "9d0e65808ab58d16043979de7751ebb49b6076b0122249cbb4492ff6176808ae",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-11T16:24:18+00:00"
+    },
+    {
+      "id": "95bc7c63c87673bf5406f856eb6b28ac769056cdcac8a1052753303b53dd16b3",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulne",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-11T16:12:46+00:00"
+    },
+    {
+      "id": "1850dcd8e0028e19cb40971dd20ff90da602246a3c5538e9394adf2ed11e7fe5",
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+      "summary": "A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T15:42:47+00:00"
+    },
+    {
+      "id": "99d239565756098b9428b9bb55b7aa2b058c0301866e20628a75478fe5d08b08",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cl",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-11T15:34:27+00:00"
+    },
+    {
+      "id": "f7bee101ee0275bf0de8b472f53497aae6397b54f310ec036d6d34581d191715",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-11T15:12:59+00:00"
+    },
+    {
+      "id": "acc7a2d0e9799faadcff03cb0e79c31822e12873a9157f75495a6fd68723f348",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-11T15:01:11+00:00"
+    },
+    {
+      "id": "d8637e378806af0b6063819219a872d1d727c9e72c0ee5aa0ce63049cd389965",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-11T14:01:00+00:00"
+    },
+    {
+      "id": "9f6bff35230855835cfd3b73043ffd13af290b2d50505b37563cfadbf2167d62",
+      "title": "Asus, Zoom Release Security Patches",
+      "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+      "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T13:58:38+00:00"
+    },
+    {
+      "id": "84cdfac250c3be22ebab2e4c66767ed8e788e083837804c8b7df058b2e3b8ace",
+      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+      "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T13:37:19+00:00"
+    },
+    {
+      "id": "e36cd47710d53fc937416e1c28a8a72bd17dc482178aa4d32470a3ec78c22d67",
+      "title": "Poland shuts down government services platform ePUAP following cyberattack",
+      "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+      "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-11T13:18:00+00:00"
+    },
+    {
+      "id": "b3eb72165c9ac8e8e6de82ff4495a1f2250341fee8156e169e213e5f2ccdbe35",
+      "title": "Britain, France set out first guidelines for commercial hacking firms",
+      "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+      "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-11T13:11:00+00:00"
+    },
+    {
+      "id": "8eeaa5e81881cd502a1f2cda52ae03186568d110f7f4145cac890f6e6e7e2640",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps wer",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-11T12:19:40+00:00"
+    },
+    {
+      "id": "6b50a859ffba88a178e7fe4d37f64deba286eb73a1adfb581894ebad38b4b076",
+      "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+      "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+      "summary": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-11-11T11:16:40+00:00"
+    },
+    {
+      "id": "4c8dd54b2078f15bb73979ade164dbfc8f1e53e23c8a2c1875b2de7819d870a2",
+      "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+      "summary": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T10:35:15+00:00"
+    },
+    {
+      "id": "22463fa6921d14b34a5e1b50ad20a1db077797542d209f8ed1358e4355864ce2",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-11T10:12:08+00:00"
+    },
+    {
+      "id": "8b14998fef80eb25e7969a218c0011b472cb548e2fd786c659c94bf636c2c9bd",
+      "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+      "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+      "summary": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T09:01:07+00:00"
+    },
+    {
+      "id": "9e94452f712eac5b458e2c90802cf6a441de1b1ae541e76d82dce17749bb5c8d",
+      "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+      "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+      "summary": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T08:42:44+00:00"
+    },
+    {
+      "id": "b4b549aacbc41c785d5486f1807cf831d896bb3793bb397da240e5ee7bd1c0d6",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-11T08:17:53+00:00"
+    },
+    {
+      "id": "79d31854ee5911581bb65f6de3973e4658ab71a51017fd4682b5d7c53706db88",
+      "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+      "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+      "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-11T07:53:51+00:00"
+    },
     {
       "id": "74289a15fb94903acdd0d7a7b4a6f2f53958e3b36efc4097c7f31960c6611dcf",
       "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
@@ -256,204 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-10T10:16:51+00:00"
-    },
-    {
-      "id": "40f3a464061387e77509c01c3ec0adec10cb2229d611d38c7aef0d2c336190f2",
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T10:10:20+00:00"
-    },
-    {
-      "id": "f91af9aa9454d040d24b0d91837eaaa40a0d5b6723018acc4f07679b0c40c95a",
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with ",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-10T10:07:29+00:00"
-    },
-    {
-      "id": "a2b42747a7210ba7a3b606214ad749a92e4dfabd6d110888af0439c036f59075",
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-10T10:04:32+00:00"
-    },
-    {
-      "id": "c110ef77ed0278863603bba8ea1c06d49f2fa6c755aaf353522fcf6141cf98b8",
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T10:02:40+00:00"
-    },
-    {
-      "id": "f0e30211268172c70a2a3d5991ff3950af53286d2e0e4b601e29d03974d7e9b3",
-      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
-      "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-      "summary": "Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T09:56:28+00:00"
-    },
-    {
-      "id": "e9fdf255e3d7738f85516d0ffb32162bbe0ac08635d9a2c5b6c7afbb9d347f0f",
-      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-      "summary": "CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T09:42:27+00:00"
-    },
-    {
-      "id": "db918bafa08cb13b8fcbdd07086afe23eb069535185f09c9e70b054338bc0be8",
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost set",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-10T09:08:20+00:00"
-    },
-    {
-      "id": "cf90f68ee6bef3655e86febece14196ba5b323f48fde492487edb173c1ecd9a4",
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-10T08:51:25+00:00"
-    },
-    {
-      "id": "324a5559d0e2e6e632dd934ba20b09d59c355c44004987be1f37d819d441535c",
-      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three worki",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-10T08:16:14+00:00"
-    },
-    {
-      "id": "4e06135bcc131ff842578c24c5dcaabc402f6e62ce4a5274918599b745a8e7e7",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-10T07:49:58+00:00"
-    },
-    {
-      "id": "4dd335a72f865ea59239bc2c1169c98dbc0be9d7d96766f4feacf6d1b2d70aea",
-      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
-      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
-      "summary": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-10T07:35:05+00:00"
-    },
-    {
-      "id": "749cd79bf9b6b051f921dd2a0964c78940dcc9dddee5e4ca849f6e61ef2c0c97",
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has&nbsp;been described as a use-after-free bug in the XML comp",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T06:52:54+00:00"
-    },
-    {
-      "id": "f0d40b6eb5cac62ee86cf717f406d05317d47708def4f82c98769f895c4ecee0",
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T06:44:36+00:00"
-    },
-    {
-      "id": "4703b2a7b4d7d2a2a912c1f3b529a5dedc5e64790d69ffd02c7609f716ee7f5d",
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-10T06:31:42+00:00"
-    },
-    {
-      "id": "eb5d33b1605820600730f3f5cc63fb9475df89390a2dd4068371b95511b93c92",
-      "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
-      "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
-      "summary": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-10T06:12:24+00:00"
-    },
-    {
-      "id": "0540b1b026c2ad6b7cb0a25f82836c1453934c8303a57fafddee30f0f831caf8",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-09T23:52:12+00:00"
-    },
-    {
-      "id": "d6705ab398b4f94405c7eb1894a802c4b3aa793675c599fbc3f7fe58e9725d98",
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-09T22:09:33+00:00"
-    },
-    {
-      "id": "e87452b09e8afa8404c610f714ba979451e1fb85c5ded3772314daa024d4c6f0",
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-09T21:26:25+00:00"
-    },
-    {
-      "id": "79849d176e5cfca227c84d233aa36cf8f669925a2c437a0adcd31e756444e9f9",
-      "title": "York University breach exposed personal information dating to 2007",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-09T21:22:31+00:00"
-    },
-    {
-      "id": "e409f643c4f2cc8a9977f68a5546b3837059c15eda3266f821e177f0fda97949",
-      "title": "Data breach at hearing aid giant Amplifon impacts thousands",
-      "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
-      "summary": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-09T20:44:00+00:00"
-    },
-    {
-      "id": "b1e51687d924daa17ab0598e8dda1fed98ae574a25f60b7ee9a6dc28b98553c9",
-      "title": "France blames Iran for fridge cyberattacks, says some caused fires",
-      "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
-      "summary": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water utilities.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-09T18:45:00+00:00"
-    },
-    {
-      "id": "33708f427c03aa2fa8a43260cd527710722db1852b31cac036cd9d1ed24dcab5",
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-09T18:32:42+00:00"
     }
   ]
 }

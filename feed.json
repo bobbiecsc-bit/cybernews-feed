@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:27:20.839849+00:00",
+  "updated": "2026-11-18T00:28:02.491324+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
@@ -13,6 +13,114 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-18T01:20:00+00:00"
+    },
+    {
+      "id": "fca3dc2fb77689c74c126f3134f3c8bb6edce29d1c049c2bb1353a2e03b9b0d2",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-17T23:04:21+00:00"
+    },
+    {
+      "id": "2cac7202a964b936fe17a115c7422d93a838bc2c77b38bd0f7a41cc387feb148",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T21:27:17+00:00"
+    },
+    {
+      "id": "9b6a252f7fb387d05db9ef5fdd08f552d16293848ba9611be04abe4d3f668cf3",
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-17T21:20:00+00:00"
+    },
+    {
+      "id": "b578b4efad12031a1ea352704e6d63fadd415765182ce29dbfa91997ca81befa",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T20:51:21+00:00"
+    },
+    {
+      "id": "6bab39afba048d48cb977b3c7ea49658ba95d039105dff5cdeec3fff2f1cde5f",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-17T19:34:20+00:00"
+    },
+    {
+      "id": "194ca0de9405670c953b790bf524acef04d4b454f5a4375401f683a6314961ef",
+      "title": "Kazakh ransomware hacking suspect extradited from Italy",
+      "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+      "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-17T19:09:00+00:00"
+    },
+    {
+      "id": "31fa1641a8c31572ff89419e19f6ca3464c1bb40899b3f1338c3373b3c1bc41e",
+      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+      "summary": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensive frameworks like Artex, CAIRN, CyberStrikeAI and PentAGI to execute multi-stage",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-17T18:50:00+00:00"
+    },
+    {
+      "id": "9ce3c1f5a36b747a4d96e8d26f6f969600742f9c14cf356231defa2295f274df",
+      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-17T18:16:17+00:00"
+    },
+    {
+      "id": "6ab6f9140451038c2a4e76d9a6c6936509eb64ff1246688eac8b17627f8ba526",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-17T18:04:15+00:00"
+    },
+    {
+      "id": "c05daafd452340b7c56a282b0921f02728c956b1cc6ccf05aa9b9c63c39dc5f7",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "source": "Bleeping Computer",
+      "category": "threat",
+      "date": "2026-11-17T16:00:00+00:00"
+    },
+    {
+      "id": "e5492f9867506c1763a92226a47c0040d7bbb2c6a01e7ebc7f704d255be77f82",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilitie",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-17T15:17:36+00:00"
+    },
+    {
+      "id": "4f9516b8f5d72d7aacdd2019c89a70ba5b7d120f880fe9df41ffddb86f861d17",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers i",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-17T15:17:28+00:00"
     },
     {
       "id": "2ef2748d54ab99916011576f3843de3214063d88750cf1eb555bfa40db95784c",
@@ -84,6 +192,96 @@
       "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek.",
       "source": "Security Week",
       "category": "breach",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "4a756643b0596f8c2c402e3792e13e51f956d5a597c07f8f0aff60f5aa47d760",
+      "title": "Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "2b90ef71fb0880376bf8f6bef3e389f0d53fd0872f90c1e6dd66591d6ff53a72",
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Jav",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "91475641f52fb30dbb22b55b8955f327f153bd1c93c3af3754ae0bb85bd878e2",
+      "title": "Siemens Industrial Software Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "3989b95c68b62c6d091e712fae29826049bd85a34bbcc4a09a4d66143551b9fc",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "5b5cf4f017dbab0ebb964d25e0d6045f0a47031c91b05e47cb93145b3a544e38",
+      "title": "Siemens SIMATIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigati",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "3b573666de1648f8a362ee58fc1d2050d85d7dd191028fa5163cb16df9fc783f",
+      "title": "Siemens Industrial Automation Software Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "b408794a3196e1df425e4830b0cbcbd31c81fd7f48351b7c09fe43724317686a",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support t",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "1e3a8a0a7e3cd062f91cea28592c0ba4d88748e4ccdeccddef22aab05549e1af",
+      "title": "Siemens SIMATIC WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "37902359fb183e1569911a8240e5353d2a64c17be588f7c98f50239272c42b77",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its&nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cy",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "fae4ec42780a6b53cc836a620ebc452c3e0165013d6bc725d4abca8c07efe7b8",
+      "title": "Siemens meta-iot2050",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
       "date": "2026-11-17T12:00:00+00:00"
     },
     {
@@ -256,204 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-11-16T15:07:32+00:00"
-    },
-    {
-      "id": "305cded6fb43821970522307b07f422473dd3dc3ca96e535e62b57efebbfb82c",
-      "title": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
-      "url": "https://therecord.media/british-government-complacent-foreign-cyber-threats",
-      "summary": "The National Resilience Committee’s report, published eight days before a major vote on Britain’s landmark Cyber Security and Resilience Bill, warns that the legislation falls short of introducing the necessary security standards needed to protect the country.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-16T14:21:00+00:00"
-    },
-    {
-      "id": "a9566b0c8ca92a5a6ab9a926880d7fc5142e220496552e9920dc9e87c8115480",
-      "title": "EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor",
-      "url": "https://therecord.media/russia-europe-sanctions-doppelganger",
-      "summary": "The European Union sanctioned a pro-Russian hacktivist group and two dozen employees of the Moscow firm behind the Doppelgänger disinformation campaign.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-16T14:15:00+00:00"
-    },
-    {
-      "id": "2324970e054fe8e07194474c0ba22c5d4761618bc3aa4104e8f057a60961ea48",
-      "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
-      "url": "https://therecord.media/lithuania-customs-agency-cyberattack",
-      "summary": "A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem over the weekend.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-16T14:06:00+00:00"
-    },
-    {
-      "id": "9b1f22329875fb27660e03d8651918d2afa23f7fd3d0ef602c95a8bf27352d85",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "id": "a863217f46213f9487e009921451d33ad0304af967cea2283f07b0f2628f99b6",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "id": "e021b9febf9ed0b72381678ae1e4f38416a2854947429d039f6506c3c5ee0c2c",
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T13:27:20+00:00"
-    },
-    {
-      "id": "1742a693aba8e2002103c36211e8a1b8197332d5e77c65bc5d6fdb15ab25b0cc",
-      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33522",
-      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without ",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-16T13:11:04+00:00"
-    },
-    {
-      "id": "934dd532c9883956ec5e420c4f5bcf9a057053bd572a96f320c3fef435274381",
-      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-16T12:48:03+00:00"
-    },
-    {
-      "id": "a989c64e51ebb71dbd1d9ff22e39b9fd0ee730efd9a714120880524317739baa",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T12:34:21+00:00"
-    },
-    {
-      "id": "c4086de05142b1d96dc6abdf45a86ccca6c3ecb2902b35f2ced2d37e4be178b2",
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kasper",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-16T12:33:18+00:00"
-    },
-    {
-      "id": "a66209dc2cc42578ed6ada0813341c5febacd3bdf807cfbde69f92e475f229fe",
-      "title": "Usable Security at Luxury Hotels",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#82",
-      "source": "Schneier on Security",
-      "category": "threat",
-      "date": "2026-11-16T12:04:42+00:00"
-    },
-    {
-      "id": "40d5792137694b019f1a0a5d0e2c657f39b33b594d2dbaadaebf008e1abd266a",
-      "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
-      "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-16T11:15:48+00:00"
-    },
-    {
-      "id": "22cc9d61f7d681e99da298603ebc5446d08f9b0ac91bfd2e269e98ce5e8087cf",
-      "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-      "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
-      "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-16T11:05:42+00:00"
-    },
-    {
-      "id": "c2a82aaca9d9479f0d69104efe258e00427a84bb5c426d1f941874090c91ae6a",
-      "title": "Uber Data Breach Impacts 150,000 People",
-      "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
-      "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-16T11:02:48+00:00"
-    },
-    {
-      "id": "5ceeaae8e26f5eb828b8ffe14f197db9867c114455bbaede4a59eaa4dd7a4a85",
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives com",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-16T09:32:57+00:00"
-    },
-    {
-      "id": "f5ef776679d8464c39fd20cfc32e006ae4a7247220a63865430a04d751923e29",
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-16T09:30:04+00:00"
-    },
-    {
-      "id": "72fb2bc96d750fdd25a794c4b33d510b68987aa409a59945b9ea02f64371a50b",
-      "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
-      "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
-      "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-16T08:55:32+00:00"
-    },
-    {
-      "id": "1f852839e1cc2ae66810d14048945be5d69d210ac02e6f3ea51ae601f09aceac",
-      "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-      "url": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
-      "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-16T08:15:12+00:00"
-    },
-    {
-      "id": "d6a0c3df6c7fff40e930551d8ba0fc12d9365fc03422dd9ebb5ed951b2e5d812",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen ke",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-16T07:34:21+00:00"
-    },
-    {
-      "id": "1abe8912cb223ae43799b6e47fe374ee7e72d6c8d8a454e8df0406d2a84b9853",
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T06:53:34+00:00"
-    },
-    {
-      "id": "ddd80cd3bed8cfd4e5218553120b22bdf21922f0ec67cc202ff8ea3765855b62",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-15T18:29:53+00:00"
-    },
-    {
-      "id": "288ae0a72da3a810158ba4b8083b94e64bb367db2db275f0191ce00acfb6a4b2",
-      "title": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-15T15:23:48+00:00"
     }
   ]
 }
