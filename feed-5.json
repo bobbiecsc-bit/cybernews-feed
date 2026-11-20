@@ -1,10 +1,100 @@
 {
-  "updated": "2026-11-20T14:50:41.178047+00:00",
+  "updated": "2026-11-20T23:38:57.080538+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7378b831add564157a8d64e3b485dcacbcc9e50e772eb160466a69f6a2577cda",
+      "title": "United to block customers from using AI agents, citing cyber threats",
+      "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+      "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-12T19:20:00+00:00"
+    },
+    {
+      "id": "e1501a330e51ba1273400bac83cba2751949be9745dafc18163d79c64136abb7",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-12T19:12:55+00:00"
+    },
+    {
+      "id": "82b94ad053478ca683c642666af12ceb99434f386c5621739bf24bf9dffca52c",
+      "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
+      "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
+      "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-11-12T18:28:00+00:00"
+    },
+    {
+      "id": "384252220164cfa94b043d1af33d10685d11e88ad0df03d1579cc3cd8e099c4a",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-12T18:07:15+00:00"
+    },
+    {
+      "id": "897c1c6b0f49846c4620bcc969ece882c8f640ada7112d9e5b8d6579c4a272f5",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and tr",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-12T18:02:51+00:00"
+    },
+    {
+      "id": "c892fb218fc51be125533f1ee39519b44a02eea9b10caa148aa87e447cac5eb3",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion fi",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T17:50:27+00:00"
+    },
+    {
+      "id": "83f9d15e0e3302c8a9c39ec9e9b0d7fd95efb259eac14606c96ce42a0ab43d5c",
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can stil",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-12T16:27:01+00:00"
+    },
+    {
+      "id": "8d3ba0b6f91d3196bf3bf86abc66b3eb9f460dfc37be9fe656a1e3d3a5320ded",
+      "title": "European authorities take down SteaIC malware servers for second time this year",
+      "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
+      "summary": "German authorities on Thursday said investigators traced the rebuilt network to the Virtualine bulletproof hosting provider, seized by the FBI in October, with the assistance of police in Frankfurt and the Dutch National High Tech Crime Unit.",
+      "source": "The Record",
+      "category": "malware",
+      "date": "2026-11-12T16:21:00+00:00"
+    },
+    {
+      "id": "9b8ad63f99cd067fe350963f7db43bfbbc007bd03c0c54a931bc7af8c5e9a7bf",
+      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
+      "url": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
+      "summary": "Abuse of an independent third-party tool led to breaches at ScreenConnect customers, confirmed the software's maker, ConnectWise. Cybersecurity researchers had spotted intrusions at nearly 50.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-12T16:16:00+00:00"
+    },
+    {
+      "id": "1dc09f8d2480496ec9d6f8862132b7e243dcb6e9bdab8c805ea966f7e1067fed",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-12T16:04:00+00:00"
+    },
     {
       "id": "96d21dc534c051cb0f29d1744dd1c2f5728e232665b89f4e5c3e9609688e4436",
       "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
@@ -364,96 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-11-11T15:34:27+00:00"
-    },
-    {
-      "id": "f7bee101ee0275bf0de8b472f53497aae6397b54f310ec036d6d34581d191715",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-11T15:12:59+00:00"
-    },
-    {
-      "id": "acc7a2d0e9799faadcff03cb0e79c31822e12873a9157f75495a6fd68723f348",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-11T15:01:11+00:00"
-    },
-    {
-      "id": "d8637e378806af0b6063819219a872d1d727c9e72c0ee5aa0ce63049cd389965",
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-11T14:01:00+00:00"
-    },
-    {
-      "id": "9f6bff35230855835cfd3b73043ffd13af290b2d50505b37563cfadbf2167d62",
-      "title": "Asus, Zoom Release Security Patches",
-      "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-      "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-11T13:58:38+00:00"
-    },
-    {
-      "id": "84cdfac250c3be22ebab2e4c66767ed8e788e083837804c8b7df058b2e3b8ace",
-      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-      "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-11T13:37:19+00:00"
-    },
-    {
-      "id": "e36cd47710d53fc937416e1c28a8a72bd17dc482178aa4d32470a3ec78c22d67",
-      "title": "Poland shuts down government services platform ePUAP following cyberattack",
-      "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
-      "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-11T13:18:00+00:00"
-    },
-    {
-      "id": "b3eb72165c9ac8e8e6de82ff4495a1f2250341fee8156e169e213e5f2ccdbe35",
-      "title": "Britain, France set out first guidelines for commercial hacking firms",
-      "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
-      "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-11T13:11:00+00:00"
-    },
-    {
-      "id": "8eeaa5e81881cd502a1f2cda52ae03186568d110f7f4145cac890f6e6e7e2640",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps wer",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-11T12:19:40+00:00"
-    },
-    {
-      "id": "6b50a859ffba88a178e7fe4d37f64deba286eb73a1adfb581894ebad38b4b076",
-      "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
-      "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
-      "summary": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-11T11:16:40+00:00"
-    },
-    {
-      "id": "4c8dd54b2078f15bb73979ade164dbfc8f1e53e23c8a2c1875b2de7819d870a2",
-      "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
-      "summary": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-11T10:35:15+00:00"
     }
   ]
 }

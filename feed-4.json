@@ -1,10 +1,100 @@
 {
-  "updated": "2026-11-20T14:50:41.178047+00:00",
+  "updated": "2026-11-20T23:38:57.080538+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "934dd532c9883956ec5e420c4f5bcf9a057053bd572a96f320c3fef435274381",
+      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-16T12:48:03+00:00"
+    },
+    {
+      "id": "a989c64e51ebb71dbd1d9ff22e39b9fd0ee730efd9a714120880524317739baa",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-16T12:34:21+00:00"
+    },
+    {
+      "id": "c4086de05142b1d96dc6abdf45a86ccca6c3ecb2902b35f2ced2d37e4be178b2",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kasper",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-16T12:33:18+00:00"
+    },
+    {
+      "id": "a66209dc2cc42578ed6ada0813341c5febacd3bdf807cfbde69f92e475f229fe",
+      "title": "Usable Security at Luxury Hotels",
+      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+      "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#82",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-11-16T12:04:42+00:00"
+    },
+    {
+      "id": "40d5792137694b019f1a0a5d0e2c657f39b33b594d2dbaadaebf008e1abd266a",
+      "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+      "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-16T11:15:48+00:00"
+    },
+    {
+      "id": "22cc9d61f7d681e99da298603ebc5446d08f9b0ac91bfd2e269e98ce5e8087cf",
+      "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+      "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+      "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-16T11:05:42+00:00"
+    },
+    {
+      "id": "c2a82aaca9d9479f0d69104efe258e00427a84bb5c426d1f941874090c91ae6a",
+      "title": "Uber Data Breach Impacts 150,000 People",
+      "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+      "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-16T11:02:48+00:00"
+    },
+    {
+      "id": "5ceeaae8e26f5eb828b8ffe14f197db9867c114455bbaede4a59eaa4dd7a4a85",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives com",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-16T09:32:57+00:00"
+    },
+    {
+      "id": "f5ef776679d8464c39fd20cfc32e006ae4a7247220a63865430a04d751923e29",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-16T09:30:04+00:00"
+    },
+    {
+      "id": "72fb2bc96d750fdd25a794c4b33d510b68987aa409a59945b9ea02f64371a50b",
+      "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+      "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+      "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "threat",
+      "date": "2026-11-16T08:55:32+00:00"
+    },
     {
       "id": "1f852839e1cc2ae66810d14048945be5d69d210ac02e6f3ea51ae601f09aceac",
       "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
@@ -364,96 +454,6 @@
       "source": "Bleeping Computer",
       "category": "vulnerability",
       "date": "2026-11-12T19:51:16+00:00"
-    },
-    {
-      "id": "7378b831add564157a8d64e3b485dcacbcc9e50e772eb160466a69f6a2577cda",
-      "title": "United to block customers from using AI agents, citing cyber threats",
-      "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-      "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-12T19:20:00+00:00"
-    },
-    {
-      "id": "e1501a330e51ba1273400bac83cba2751949be9745dafc18163d79c64136abb7",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-12T19:12:55+00:00"
-    },
-    {
-      "id": "82b94ad053478ca683c642666af12ceb99434f386c5621739bf24bf9dffca52c",
-      "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-      "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-      "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-11-12T18:28:00+00:00"
-    },
-    {
-      "id": "384252220164cfa94b043d1af33d10685d11e88ad0df03d1579cc3cd8e099c4a",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-12T18:07:15+00:00"
-    },
-    {
-      "id": "897c1c6b0f49846c4620bcc969ece882c8f640ada7112d9e5b8d6579c4a272f5",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and tr",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-12T18:02:51+00:00"
-    },
-    {
-      "id": "c892fb218fc51be125533f1ee39519b44a02eea9b10caa148aa87e447cac5eb3",
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion fi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-12T17:50:27+00:00"
-    },
-    {
-      "id": "83f9d15e0e3302c8a9c39ec9e9b0d7fd95efb259eac14606c96ce42a0ab43d5c",
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can stil",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-12T16:27:01+00:00"
-    },
-    {
-      "id": "8d3ba0b6f91d3196bf3bf86abc66b3eb9f460dfc37be9fe656a1e3d3a5320ded",
-      "title": "European authorities take down SteaIC malware servers for second time this year",
-      "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-      "summary": "German authorities on Thursday said investigators traced the rebuilt network to the Virtualine bulletproof hosting provider, seized by the FBI in October, with the assistance of police in Frankfurt and the Dutch National High Tech Crime Unit.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-11-12T16:21:00+00:00"
-    },
-    {
-      "id": "9b8ad63f99cd067fe350963f7db43bfbbc007bd03c0c54a931bc7af8c5e9a7bf",
-      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
-      "url": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
-      "summary": "Abuse of an independent third-party tool led to breaches at ScreenConnect customers, confirmed the software's maker, ConnectWise. Cybersecurity researchers had spotted intrusions at nearly 50.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-12T16:16:00+00:00"
-    },
-    {
-      "id": "1dc09f8d2480496ec9d6f8862132b7e243dcb6e9bdab8c805ea966f7e1067fed",
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-12T16:04:00+00:00"
     }
   ]
 }
