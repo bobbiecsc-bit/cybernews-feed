@@ -1,10 +1,55 @@
 {
-  "updated": "2026-11-21T05:30:20.665657+00:00",
+  "updated": "2026-11-21T14:09:03.336983+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "a9566b0c8ca92a5a6ab9a926880d7fc5142e220496552e9920dc9e87c8115480",
+      "title": "EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor",
+      "url": "https://therecord.media/russia-europe-sanctions-doppelganger",
+      "summary": "The European Union sanctioned a pro-Russian hacktivist group and two dozen employees of the Moscow firm behind the Doppelgänger disinformation campaign.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-16T14:15:00+00:00"
+    },
+    {
+      "id": "2324970e054fe8e07194474c0ba22c5d4761618bc3aa4104e8f057a60961ea48",
+      "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
+      "url": "https://therecord.media/lithuania-customs-agency-cyberattack",
+      "summary": "A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem over the weekend.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-16T14:06:00+00:00"
+    },
+    {
+      "id": "9b1f22329875fb27660e03d8651918d2afa23f7fd3d0ef602c95a8bf27352d85",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "id": "a863217f46213f9487e009921451d33ad0304af967cea2283f07b0f2628f99b6",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "id": "e021b9febf9ed0b72381678ae1e4f38416a2854947429d039f6506c3c5ee0c2c",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-16T13:27:20+00:00"
+    },
     {
       "id": "1742a693aba8e2002103c36211e8a1b8197332d5e77c65bc5d6fdb15ab25b0cc",
       "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
@@ -409,51 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-11-13T07:39:04+00:00"
-    },
-    {
-      "id": "0a366d3631879fe7ed0047826f9add93f00e24d0a1f3e04fcc4972f07dbaaa25",
-      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-      "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-13T07:20:50+00:00"
-    },
-    {
-      "id": "5f110aa5732b2dc45743bffb4ec8f01edfbc6771aac0ad2c4c0722b2c5e49093",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some funct",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-13T05:43:28+00:00"
-    },
-    {
-      "id": "afe79ee14497cedd484f32970a07fb09e3d9cfc073cca58ae8f80bd228f3726c",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-12T22:53:10+00:00"
-    },
-    {
-      "id": "ec46d2ca2fd1c7f3543b518de0be1627690a7b7e7eb37dd512865b69401cc5ed",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-12T22:25:30+00:00"
-    },
-    {
-      "id": "30dcc08ab243aecf142a4bee0068247c39a0da0512b60489376a0aff45997065",
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-      "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-      "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-12T20:55:30+00:00"
     }
   ]
 }
