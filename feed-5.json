@@ -1,10 +1,37 @@
 {
-  "updated": "2026-11-21T14:09:03.336983+00:00",
+  "updated": "2026-11-21T22:44:12.655880+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d89589bec211ea262a7179c5151947c3f192866314dad2472f9f321ef19f5483",
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217; appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-13T08:50:36+00:00"
+    },
+    {
+      "id": "69d1a63879fd152b3ec7ee2e666f0ba12fe3b0a54d2ab668c2bdd0f0547ed489",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check P",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-13T08:05:49+00:00"
+    },
+    {
+      "id": "7182a3a53c63a0d3ffbc8b23c991925a236856e1d3b34efb970a06cfbc03ddd6",
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+      "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-13T07:39:04+00:00"
+    },
     {
       "id": "0a366d3631879fe7ed0047826f9add93f00e24d0a1f3e04fcc4972f07dbaaa25",
       "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
@@ -427,33 +454,6 @@
       "source": "The Hacker News",
       "category": "threat",
       "date": "2026-11-12T04:39:48+00:00"
-    },
-    {
-      "id": "2fa347656b166d5774882a4bf1b7cc0b4fda5a1e6c38f70bb545fc37e2c4693a",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-11T23:01:31+00:00"
-    },
-    {
-      "id": "8ecf3ded8f74d009a9f220f69dedc54094505f876fd356b877d8a8c07cb82ad5",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-11T22:56:21+00:00"
-    },
-    {
-      "id": "3c445f1213014085411eae5032630d832f1bedb1ddb83ebbfeea95c6566ccf74",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-11T20:54:20+00:00"
     }
   ]
 }
