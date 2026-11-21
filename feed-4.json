@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-20T23:38:57.080538+00:00",
+  "updated": "2026-11-21T05:30:20.665657+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "1742a693aba8e2002103c36211e8a1b8197332d5e77c65bc5d6fdb15ab25b0cc",
+      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33522",
+      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without ",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-16T13:11:04+00:00"
+    },
     {
       "id": "934dd532c9883956ec5e420c4f5bcf9a057053bd572a96f320c3fef435274381",
       "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
@@ -445,15 +454,6 @@
       "source": "Security Week",
       "category": "threat",
       "date": "2026-11-12T20:55:30+00:00"
-    },
-    {
-      "id": "7f23aad252df2a55742bf4c110ea7fe0fc1eb746d3d88f639fec5e86d212c05f",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-12T19:51:16+00:00"
     }
   ]
 }
