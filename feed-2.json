@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-21T22:44:12.655880+00:00",
+  "updated": "2026-11-22T04:55:51.074289+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "88c544823e0d1532883cb2e9c0f75def8cfc5dadfd8ea711fe71a12ab2c316fa",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-19T14:33:06+00:00"
+    },
+    {
+      "id": "99484983430e63d2a03ce22cd8a4b31c3003da3934a7b27fc8d1f5722f5a270a",
+      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+      "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+      "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-19T14:17:32+00:00"
+    },
     {
       "id": "7229ac60661b35614be5309bda85053f62137232e653297fb49492e6db55f4d1",
       "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-11-18T07:43:34+00:00"
-    },
-    {
-      "id": "533b590042a015080bb5ceb318949a4db906b41c1a62e336003cbb72fb077463",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-18T06:45:26+00:00"
-    },
-    {
-      "id": "4816a5c313d508c2d8b0724398a9adac9161458ad29490ae2b7e06fdbe6904fc",
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-18T05:58:04+00:00"
     }
   ]
 }

@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-21T22:44:12.655880+00:00",
+  "updated": "2026-11-22T04:55:51.074289+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "02c1dcd61c66dc6cf7fe9599f4934e561546c6385c289b723cb1616cdfc18c92",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-13T10:44:22+00:00"
+    },
+    {
+      "id": "7fc84ef561ad2bda98bdc950d77d0d5c9f2886ae559715e5d147d0ea89df7096",
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-13T09:36:56+00:00"
+    },
     {
       "id": "d89589bec211ea262a7179c5151947c3f192866314dad2472f9f321ef19f5483",
       "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "breach",
       "date": "2026-11-12T06:42:47+00:00"
-    },
-    {
-      "id": "b92486adb822eb8ab12a834c13b3872136451a5e86ffd7f65879015f0a51c0ad",
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Re",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-12T05:12:26+00:00"
-    },
-    {
-      "id": "0a7fd303a43b8569f851a7ca8513d58fa9e560a0afea633fe33a6ac5de83c5fb",
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerab",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-12T04:39:48+00:00"
     }
   ]
 }
