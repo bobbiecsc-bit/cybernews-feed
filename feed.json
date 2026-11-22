@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-22T04:55:51.074289+00:00",
+  "updated": "2026-11-22T13:59:13.649798+00:00",
   "page": 1,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "6d087c898942cc0c2503082abebf929ab7e0d4a3ca4293f9919606c8fd9cc88c",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-22T05:06:55+00:00"
+    },
+    {
+      "id": "a3c63e958cb92eef3df0aa513c9e2bcc89f1a4d836647a4f3bac9eefc4d8cd48",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-22T05:03:41+00:00"
+    },
     {
       "id": "eb89847b683b3c00f3611f707884872ae23d596563253ea27b7288fd881da669",
       "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
@@ -436,24 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-19T15:11:06+00:00"
-    },
-    {
-      "id": "eb38241a0eaffa222fca6e705c871d41fcd430c8c121bff935e39b82e2b821e2",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-19T15:00:10+00:00"
-    },
-    {
-      "id": "03c656aa7f6268581691b1b59c240ddb9910cbe11a4249d75b125d40ed49d083",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-19T14:57:24+00:00"
     }
   ]
 }

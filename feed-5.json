@@ -1,10 +1,28 @@
 {
-  "updated": "2026-11-22T04:55:51.074289+00:00",
+  "updated": "2026-11-22T13:59:13.649798+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "7f22b6cf300a8942da8fe9a0870fb66247b6fc42f4b0085fe3387cbc76540282",
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-13T11:10:40+00:00"
+    },
+    {
+      "id": "d25f99854f909af54099cfc40f5de8da9f0d19bbfb833557978ef6ead30cca94",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 ",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-13T10:55:03+00:00"
+    },
     {
       "id": "02c1dcd61c66dc6cf7fe9599f4934e561546c6385c289b723cb1616cdfc18c92",
       "title": "Check Point warns of zero-day flaw exploited for root access",
@@ -436,24 +454,6 @@
       "source": "Security Week",
       "category": "malware",
       "date": "2026-11-12T08:38:47+00:00"
-    },
-    {
-      "id": "6ee015b627a80bcd5eb6daa2d405ab25fa3526d6497ed7a1931c7e98c8c6d621",
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed ver",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-12T08:20:37+00:00"
-    },
-    {
-      "id": "b1fc427f51ef7a02649c1c794d08b9b215281aa61217249cda566c99413a49f7",
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI wo",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-12T06:42:47+00:00"
     }
   ]
 }
