@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-23T17:17:34.093585+00:00",
+  "updated": "2026-11-24T03:45:32.268977+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "42330c2f515c00c1190bfd06b5c7bc834f44176e152990efbab94ebe46488dc1",
+      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33550",
+      "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing as of this writing.&#xd;",
+      "source": "SANS ISC",
+      "category": "threat",
+      "date": "2026-11-24T02:32:00+00:00"
+    },
     {
       "id": "196580c2fd020c430590606f5fcd86f3c831f52179544d6d497e08ddb2f1d38a",
       "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
@@ -10,6 +19,51 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "957088ac58c071d1f39795bc282ea04ef9204e0cc3d1c1ec86fdc7d8ea1e8ad4",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-23T20:54:51+00:00"
+    },
+    {
+      "id": "351ef75337d427e12b86d7229281bcc14a3a8a69944a1391cb539c596c1f97ce",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-23T19:42:20+00:00"
+    },
+    {
+      "id": "6a4ef98e17a46e46919c19b7c15c996560b875891adb87b8320b744b7589ea52",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-23T18:38:40+00:00"
+    },
+    {
+      "id": "22d8b751361cfd4dc03bc4ad48fc953dc1167d11a42cacca8cc0dfb5aae4a81c",
+      "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+      "url": "https://therecord.media/fbi-cyberattack-data-breach",
+      "summary": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-23T18:30:00+00:00"
+    },
+    {
+      "id": "5495a06dee26529fd91c294dd847c1ac8a7e2598d92424d1ec0956e2c216e645",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised netw",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-23T17:45:15+00:00"
     },
     {
       "id": "355e3ccfadfc5a328deb066deed23593c80552072d8ba500bafc016eb0f2f4ec",
@@ -109,6 +163,15 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-11-23T12:16:20+00:00"
+    },
+    {
+      "id": "75ea09ea3e752e0248bf368205585cd976f21e742ace62e4ba6615bdea088550",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vuln",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-23T12:00:00+00:00"
     },
     {
       "id": "164d913e056bba5300f0fdf9062674e2143df5d15b454c8a2fcf056cb0ac2a69",
@@ -2188,69 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-12T15:38:49+00:00"
-    },
-    {
-      "id": "9e7665f0b20cb4e5d1fbe59e8dff827b261a8401b2e18a159c28ea2d127400f8",
-      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-      "summary": "The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-12T15:38:31+00:00"
-    },
-    {
-      "id": "9d96703e2366c2eb4531499f325e4f59efc5c7942626baa8b0e20b1d74cf9408",
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island.",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-12T15:15:40+00:00"
-    },
-    {
-      "id": "438aee711143d40b19caba305f376d6813e02d0ae5468cb2d2b920938d81fb22",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-12T15:07:20+00:00"
-    },
-    {
-      "id": "61d140645f0be08e6bb5fd19fbf0fbe2e0d30dc5b5a40b14b2b8294e6c131c92",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operatio",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-12T15:00:10+00:00"
-    },
-    {
-      "id": "e1490e6be89f15a9f1d5399874139b371dddb8ecd5c44075fc94dabef2ef25b2",
-      "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
-      "url": "https://therecord.media/europe-hoax-email-threats",
-      "summary": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and newsrooms using messages sent from legitimate institutions.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-12T14:45:00+00:00"
-    },
-    {
-      "id": "92e20603fc669f39fab8d6e872c5052a8f8e02745677776a0459182e0aa9a908",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-12T14:36:47+00:00"
-    },
-    {
-      "id": "16dd8d34e480eb666ea02b8f330765f9de928827ca9d9a555ac87722deef069e",
-      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-      "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-12T13:42:09+00:00"
     }
   ]
 }

@@ -1,10 +1,73 @@
 {
-  "updated": "2026-11-23T17:17:34.093585+00:00",
+  "updated": "2026-11-24T03:45:32.268977+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c7b209f2aed89407eb0e30e59fe706dfcf15164ad089b4177ac11b5e2ba6ddd0",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-20T12:20:00+00:00"
+    },
+    {
+      "id": "b22eec5809ce5c9c44d601fce758d1417e7edfb601127ec625d0d36915b3fc64",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded ",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "id": "e49868cae32f5171f0b21994af2e9985ee85cc15baee5c6c80aa86949392d235",
+      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+      "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-20T11:36:51+00:00"
+    },
+    {
+      "id": "6008bba5a1273aa9ecbcd613288c0c8e85d877829bde30d3256f1808aeb91995",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-20T10:57:43+00:00"
+    },
+    {
+      "id": "db2cfea084044430419946d928057a244c8035a8fcf8760fd770ff41a6666ea9",
+      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+      "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-20T10:51:42+00:00"
+    },
+    {
+      "id": "823ccfebdf7ab435a089b021ac132d119d229a228734cd2854f6bbf65dbf5945",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices fas",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-20T10:38:22+00:00"
+    },
+    {
+      "id": "d274b5196e0b0c431b03beb1ccb3f3541bec5ee1059a8cb7562a7aa1f836f3df",
+      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-20T10:34:10+00:00"
+    },
     {
       "id": "c99f552cbbef77a02904205c80d2b25fb655679f47a756e545a2bb4d820d35fe",
       "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
@@ -391,69 +454,6 @@
       "source": "Bleeping Computer",
       "category": "malware",
       "date": "2026-11-18T23:08:33+00:00"
-    },
-    {
-      "id": "fb98039a3f6f8d214bf4d643bbfa932c6babbfe34d72a4576c9175425fbe3830",
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an In",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-18T19:54:50+00:00"
-    },
-    {
-      "id": "c3f1d9d987e86306defcb0a65fde3e36907f743e6de8d575958be46f68d9f704",
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-18T19:39:33+00:00"
-    },
-    {
-      "id": "c60f36dda0d9577c9199d3d5f64cc8b736ce670d76f830bfd41e525dba6fcbe6",
-      "title": "Lawmakers call on White House to develop defensive AI cyber systems",
-      "url": "https://therecord.media/ai-cyber-white-house",
-      "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-18T19:00:00+00:00"
-    },
-    {
-      "id": "04e49dcbdb74573337afa5ecc35cbbbeba68aa7e36a9fce9c51b4d9485c13293",
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-18T18:31:17+00:00"
-    },
-    {
-      "id": "4ab4f5e03685767a0a27b7d9fc27b733513f92ea8211c6d54bcdbb0ff2caeee9",
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes t",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-18T18:15:39+00:00"
-    },
-    {
-      "id": "6ec0dce548ff06fef1684d29c17304a8f76b7440dcceb43742a6c4c0623b83b9",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-18T17:10:45+00:00"
-    },
-    {
-      "id": "b7d3842da950c3101e779b841b86779159f1dabc0fd84455ae1b61e3697a064d",
-      "title": "Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says",
-      "url": "https://therecord.media/russia-cyber-espionage-google",
-      "summary": "Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and launch new espionage attacks against people in their victims' professional networks, according to new research.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-18T15:15:00+00:00"
     }
   ]
 }

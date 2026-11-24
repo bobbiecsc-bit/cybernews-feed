@@ -1,10 +1,73 @@
 {
-  "updated": "2026-11-23T17:17:34.093585+00:00",
+  "updated": "2026-11-24T03:45:32.268977+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fb98039a3f6f8d214bf4d643bbfa932c6babbfe34d72a4576c9175425fbe3830",
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33532",
+      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an In",
+      "source": "SANS ISC",
+      "category": "vulnerability",
+      "date": "2026-11-18T19:54:50+00:00"
+    },
+    {
+      "id": "c3f1d9d987e86306defcb0a65fde3e36907f743e6de8d575958be46f68d9f704",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-18T19:39:33+00:00"
+    },
+    {
+      "id": "c60f36dda0d9577c9199d3d5f64cc8b736ce670d76f830bfd41e525dba6fcbe6",
+      "title": "Lawmakers call on White House to develop defensive AI cyber systems",
+      "url": "https://therecord.media/ai-cyber-white-house",
+      "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-18T19:00:00+00:00"
+    },
+    {
+      "id": "04e49dcbdb74573337afa5ecc35cbbbeba68aa7e36a9fce9c51b4d9485c13293",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-18T18:31:17+00:00"
+    },
+    {
+      "id": "4ab4f5e03685767a0a27b7d9fc27b733513f92ea8211c6d54bcdbb0ff2caeee9",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes t",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-18T18:15:39+00:00"
+    },
+    {
+      "id": "6ec0dce548ff06fef1684d29c17304a8f76b7440dcceb43742a6c4c0623b83b9",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-18T17:10:45+00:00"
+    },
+    {
+      "id": "b7d3842da950c3101e779b841b86779159f1dabc0fd84455ae1b61e3697a064d",
+      "title": "Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says",
+      "url": "https://therecord.media/russia-cyber-espionage-google",
+      "summary": "Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and launch new espionage attacks against people in their victims' professional networks, according to new research.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-18T15:15:00+00:00"
+    },
     {
       "id": "993f9d718221ef41a1106209344b131e8836245fc27f6704b54079b23d266e1e",
       "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
@@ -391,69 +454,6 @@
       "source": "Security Week",
       "category": "vulnerability",
       "date": "2026-11-17T12:28:45+00:00"
-    },
-    {
-      "id": "88d6d55f0b06ce11ebd6ca5cbacdb3f63a8bbb35535198355b69323ae482a09e",
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicio",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-17T12:25:06+00:00"
-    },
-    {
-      "id": "1d648e0700680ba42d5ea61ffc70fa29f3fa53baf06ebd6e630064411988055c",
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-17T12:14:36+00:00"
-    },
-    {
-      "id": "33242731040be306bce653d637f1e09fbf6170bda27706602c8739022f27891c",
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "summary": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "4a756643b0596f8c2c402e3792e13e51f956d5a597c07f8f0aff60f5aa47d760",
-      "title": "Siemens ROS#",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to updat",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "2b90ef71fb0880376bf8f6bef3e389f0d53fd0872f90c1e6dd66591d6ff53a72",
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Jav",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "91475641f52fb30dbb22b55b8955f327f153bd1c93c3af3754ae0bb85bd878e2",
-      "title": "Siemens Industrial Software Products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remot",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "id": "3989b95c68b62c6d091e712fae29826049bd85a34bbcc4a09a4d66143551b9fc",
-      "title": "Siemens Simcenter Femap",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and rec",
-      "source": "CISA Alerts",
-      "category": "vulnerability",
-      "date": "2026-11-17T12:00:00+00:00"
     }
   ]
 }
