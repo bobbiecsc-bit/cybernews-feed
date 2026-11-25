@@ -1,10 +1,91 @@
 {
-  "updated": "2026-11-24T16:55:32.552729+00:00",
+  "updated": "2026-11-25T01:52:43.159790+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fae4ec42780a6b53cc836a620ebc452c3e0165013d6bc725d4abca8c07efe7b8",
+      "title": "Siemens meta-iot2050",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fi",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "id": "1f9af5fe35a30d1284da3fb258133904b0886a4ceea87a58c052a375d0e609ae",
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-17T11:20:18+00:00"
+    },
+    {
+      "id": "405d067acd3fc3c8b532e90cee036cf91cc36baeb10bee567b4145084bf61b18",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T11:19:51+00:00"
+    },
+    {
+      "id": "f5d81f86de25ee6af4841352b644a1c378f5b72449ad23c14e4c7562645b2f14",
+      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+      "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+      "summary": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-17T10:22:20+00:00"
+    },
+    {
+      "id": "e6b22b6e2d3bbb64d29d787abcdd91da6866ee89e24d595f94641cd8cab6af14",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-17T09:44:22+00:00"
+    },
+    {
+      "id": "6279c3ce26f4a58698b1389f63fd6234e7969c15b5268507095af27cc0a89ed8",
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T08:35:42+00:00"
+    },
+    {
+      "id": "94ee1f09f8572dee6943fbe5324fa83d7058c0b07253dffa6c00beb82973953e",
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-11-17T07:25:44+00:00"
+    },
+    {
+      "id": "64d59e5e3ac8caa011479b109b3f63b6273bd0f6e77f7a66cd16658dddf3bf07",
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-17T07:12:13+00:00"
+    },
+    {
+      "id": "dd31e5151870eabc50362f7a3e58260b1e0081dc3804e5825b81e82b83b2288f",
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-17T06:29:27+00:00"
+    },
     {
       "id": "7d8a94de5f64d8dd628d4dd4be859a1254f8fc4848345d3fe581be40559e31d1",
       "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
@@ -373,87 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-13T19:43:00+00:00"
-    },
-    {
-      "id": "d2962957f52f8763d871f29eb5dd1b06bd622cfd7dee81d03cf7080ce6af1f1c",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-13T19:38:36+00:00"
-    },
-    {
-      "id": "6ce23a8d3c69416c13e2c2d6849b5aac0c9b534e976b38347d804c4dd9438d6b",
-      "title": "German military drone operations disrupted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-13T17:31:56+00:00"
-    },
-    {
-      "id": "ff3fa2cedfe4da382332509aa27c4e3257f5c10df83c9d65c0294d7cc4a6e2f0",
-      "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
-      "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-      "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-13T17:26:00+00:00"
-    },
-    {
-      "id": "d8cc2172e29e81d09fbb89cde9eaa285ffcbda93c8f5827b528880d87378bbfe",
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-13T16:53:08+00:00"
-    },
-    {
-      "id": "064bcd96c4088f4ae6aab77404067b77ded116db3b323303a7bebc0bdebe973b",
-      "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-      "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-      "summary": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-13T16:32:00+00:00"
-    },
-    {
-      "id": "97c01e9fc4639398b11b4c5cc508baadd64f75e51f2b77780faba67a4758430a",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-13T16:21:43+00:00"
-    },
-    {
-      "id": "d93f5e12f3c1794f971ebd958029970a7276a42933872b7b94b85ec9a884e8e0",
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need contr",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-13T15:27:05+00:00"
-    },
-    {
-      "id": "0963885b5efedda3b1cfaa2baedfd50625ee10a4f56907b3a6e6ae4ead8a11ed",
-      "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-      "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWee",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-13T15:20:00+00:00"
-    },
-    {
-      "id": "d32b5f97fc676bf8272f9f6b95d6e0c8472686ed16071e93e6db39669ab36383",
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As",
-      "source": "The Hacker News",
-      "category": "breach",
-      "date": "2026-11-13T14:28:58+00:00"
     }
   ]
 }

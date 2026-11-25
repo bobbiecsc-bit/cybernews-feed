@@ -1,10 +1,91 @@
 {
-  "updated": "2026-11-24T16:55:32.552729+00:00",
+  "updated": "2026-11-25T01:52:43.159790+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "d7008ca0e04c7d2b0322e04930a87259d9c160ef6c4b39e6ed5aacd84fc9f121",
+      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
+      "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+      "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-23T15:06:49+00:00"
+    },
+    {
+      "id": "63f758028b049e795f5629dff1187225e0cbb216a15989c31fc6144c811d3950",
+      "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
+      "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+      "summary": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell&#8217;s Attack Path appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-23T13:58:07+00:00"
+    },
+    {
+      "id": "cfdf5bb87e1b479391344be852b9a46c5609977f70f2d88016dc5eab251b26e3",
+      "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+      "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+      "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-23T13:26:22+00:00"
+    },
+    {
+      "id": "fa4289a3f22edc8ceac6282bc5040252b0b639e07c897297a2f251ad0fbc3b15",
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-23T13:22:20+00:00"
+    },
+    {
+      "id": "2da724996ccb9ddbf7a504e372055974323de6fbf7e52f1e12aa893c5f1fc6ff",
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-23T12:41:04+00:00"
+    },
+    {
+      "id": "89ef724f9ef49976c42f721d78889fb009112baad1bd6bfe62f5942e5fb72218",
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user w",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-23T12:28:09+00:00"
+    },
+    {
+      "id": "f3e2b2dafb4cb03a4233f021c22d1cb130b9c6870ef4c7d4d30aa61a285ab202",
+      "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
+      "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+      "summary": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-23T12:16:20+00:00"
+    },
+    {
+      "id": "75ea09ea3e752e0248bf368205585cd976f21e742ace62e4ba6615bdea088550",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability &nbsp;CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vuln",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-23T12:00:00+00:00"
+    },
+    {
+      "id": "164d913e056bba5300f0fdf9062674e2143df5d15b454c8a2fcf056cb0ac2a69",
+      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
+      "summary": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-23T11:35:15+00:00"
+    },
     {
       "id": "659149ed49d822a8540466c86b9e42a53b026453b8a54ccb16233b9de9a35870",
       "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
@@ -373,87 +454,6 @@
       "source": "Security Week",
       "category": "breach",
       "date": "2026-11-20T07:35:46+00:00"
-    },
-    {
-      "id": "e40617893cabf092a419255ae36022015317a5fc469ec227aec29b8e1902d5dd",
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through sepa",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-20T07:11:39+00:00"
-    },
-    {
-      "id": "4b0033536e5760bb8ffda6cde2cc4d786994e6e616c2e75633df9544b95e6a89",
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher wh",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-20T05:30:01+00:00"
-    },
-    {
-      "id": "15f220796a18084d9a07baad05991a6df81ecbe2f6831adea792ae1d40d80c41",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-20T00:26:25+00:00"
-    },
-    {
-      "id": "8ea9e80818a4bc392e09ee059818d17b1e752fbfafc2d660b5b816bef36fb27f",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-19T21:15:59+00:00"
-    },
-    {
-      "id": "34247d07e11d53d210e42d0bd6591228e257f9d8f2a753680ac0043b5de163bb",
-      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-      "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-      "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-19T19:21:06+00:00"
-    },
-    {
-      "id": "cc7a5715391457a2474f1dad0012251c9585ac7b4704d92ad465acd473d4704f",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T18:47:58+00:00"
-    },
-    {
-      "id": "37781c126ada26176a3e879513c251fda4bacbaafcf7dd34414ea9576bfc8de5",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-19T18:20:01+00:00"
-    },
-    {
-      "id": "398b929e6e83ba519c2274c709220e0332d6dca60306e5570d8baafab43850fa",
-      "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
-      "url": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-      "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-19T17:25:00+00:00"
-    },
-    {
-      "id": "c66ecf2060a622cf01e528de97ed172af6425aac68278f25e7597f0ce8d66260",
-      "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
-      "url": "https://therecord.media/cisa-losapio-nomination-trump",
-      "summary": "President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January 6, 2021.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-19T17:00:00+00:00"
     }
   ]
 }
