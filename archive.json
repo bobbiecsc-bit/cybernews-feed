@@ -1,7 +1,124 @@
 {
-  "updated": "2026-11-26T01:29:59.765507+00:00",
+  "updated": "2026-11-26T16:19:22.798179+00:00",
   "total": 250,
   "articles": [
+    {
+      "id": "57d73d788295d6a09683ff8b73ce39061d976f929414a54eab82058f3edbb722",
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-26T15:23:28+00:00"
+    },
+    {
+      "id": "0574110d7d17666e48071c3c326a9c786cb5bc6888a2dad7c05d3cc974fd57ee",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published ",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-26T15:13:41+00:00"
+    },
+    {
+      "id": "e5ae44210f7d499350fbf829f9775f593216bd0fcbcc61089380a95c55693ca4",
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+      "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-26T13:04:06+00:00"
+    },
+    {
+      "id": "34599e7b6c56f4b30a76be93b3a805fae68749d58fb9b09c345986abd0b8ff1f",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-11-26T11:50:17+00:00"
+    },
+    {
+      "id": "cc622f5f1349b4145e7fb236f9ee16622aaede78310ff85d2b23741669c6d950",
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-26T11:35:25+00:00"
+    },
+    {
+      "id": "54cc21ceab246c659a8305c807da624dccfec8330c600f42514dc79b97378f18",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-26T10:57:55+00:00"
+    },
+    {
+      "id": "5e5b0d3bb248d414374e3a8d55b76caf5cad21992bd3766660657468a247d1a6",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps t",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-26T10:57:25+00:00"
+    },
+    {
+      "id": "3f4e53c9791cfad64956e7880804774d189addbab7e4ea38248422b1541359c2",
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-26T09:12:26+00:00"
+    },
+    {
+      "id": "022e83af403003b93c046431746932ef841fba7454d29f33a002f2482f4e9cf1",
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-26T08:32:10+00:00"
+    },
+    {
+      "id": "61e3be14c2b6cad929efba6971c484f2e537bb80af53ffb0734d76c9dc31c320",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-26T07:02:34+00:00"
+    },
+    {
+      "id": "451f3a785e324bf13d51d4b964273dd3e6a14ccdf2a0fe98efcbcc358a416902",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-26T06:44:46+00:00"
+    },
+    {
+      "id": "8720d53f4644220497d09ae0e4fefc30a3d6e059bb517f88c5c8c24437c11a11",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K",
+      "source": "The Hacker News",
+      "category": "malware",
+      "date": "2026-11-26T03:48:52+00:00"
+    },
+    {
+      "id": "5c2f2e8796a5e65948544576542f469fab911fea30f1cbb778d3d6e95f54f245",
+      "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+      "url": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+      "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-26T00:00:00+00:00"
+    },
     {
       "id": "85d71203b57ce129093e26eef12c5838087963fa80b6710b3da5958951dba1ae",
       "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -2134,123 +2251,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-17T06:29:27+00:00"
-    },
-    {
-      "id": "7d8a94de5f64d8dd628d4dd4be859a1254f8fc4848345d3fe581be40559e31d1",
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-17T05:00:34+00:00"
-    },
-    {
-      "id": "b6e25351df538f83532cc285816845b31c3a55350789c9cd9102616836b9b5a5",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-17T02:12:17+00:00"
-    },
-    {
-      "id": "94c4d7b387b59e70a52cf0c1edfcc9334c0468a6a12b96438c0c861cc814100e",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-16T22:54:00+00:00"
-    },
-    {
-      "id": "90f34400313cb14331db1801cf6e8f2dca3ef8e1dec136bb0dd43fe767c615b0",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-16T21:31:44+00:00"
-    },
-    {
-      "id": "fecd5cf0f1ca7f3547372a73d23a8c39f1a58e03ed4e05f870987bfc713897ce",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-16T20:59:44+00:00"
-    },
-    {
-      "id": "ac17c0218f3e057f3e3955c5cb0a479a100bb22abdb1d4d37bf9f2523e38afe7",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-16T19:57:13+00:00"
-    },
-    {
-      "id": "4eff209774dc96a500d3b70fb84587bbafa25a35486806d18009a8c149f29b5d",
-      "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit",
-      "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
-      "summary": "A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-16T17:22:00+00:00"
-    },
-    {
-      "id": "7380375f241d1326210cf2502ae823d483bea7c30a357bd52b95fbd09279221a",
-      "title": "Cursor Supply Chain Attack Started at Fireworks AI",
-      "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-      "summary": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "threat",
-      "date": "2026-11-16T15:45:43+00:00"
-    },
-    {
-      "id": "0d946a07bc289f65380503702063af41fd928ac8a06709c0ff68c9f938b17222",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-16T15:44:21+00:00"
-    },
-    {
-      "id": "e3697267fc69aacd7cb017b675d04aab73c637761ec3b1435ae39a662c4ca9a7",
-      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-      "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
-      "summary": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-16T15:31:25+00:00"
-    },
-    {
-      "id": "aad54cccc6440ed643ab8ff2345fa08535636970e027882fa25bdecb2aeb863b",
-      "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-      "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-      "summary": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-16T15:07:32+00:00"
-    },
-    {
-      "id": "305cded6fb43821970522307b07f422473dd3dc3ca96e535e62b57efebbfb82c",
-      "title": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
-      "url": "https://therecord.media/british-government-complacent-foreign-cyber-threats",
-      "summary": "The National Resilience Committee’s report, published eight days before a major vote on Britain’s landmark Cyber Security and Resilience Bill, warns that the legislation falls short of introducing the necessary security standards needed to protect the country.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-16T14:21:00+00:00"
-    },
-    {
-      "id": "a9566b0c8ca92a5a6ab9a926880d7fc5142e220496552e9920dc9e87c8115480",
-      "title": "EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor",
-      "url": "https://therecord.media/russia-europe-sanctions-doppelganger",
-      "summary": "The European Union sanctioned a pro-Russian hacktivist group and two dozen employees of the Moscow firm behind the Doppelgänger disinformation campaign.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-16T14:15:00+00:00"
     }
   ]
 }

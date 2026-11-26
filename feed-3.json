@@ -1,10 +1,127 @@
 {
-  "updated": "2026-11-26T01:29:59.765507+00:00",
+  "updated": "2026-11-26T16:19:22.798179+00:00",
   "page": 3,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "659149ed49d822a8540466c86b9e42a53b026453b8a54ccb16233b9de9a35870",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS scor",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-23T09:11:56+00:00"
+    },
+    {
+      "id": "8dee64bf666c5ac0461a9c2fcb80c884a90fb42fe19649bb6da43b4876ea517b",
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and ",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-23T09:04:08+00:00"
+    },
+    {
+      "id": "3077523564b045f2db31b09e404b8cd4e7a178695782b3864efe5af14cc10b14",
+      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial t",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-23T08:24:15+00:00"
+    },
+    {
+      "id": "a3400f3457d4e983be384a6b86e51d0a220e40239a0dd337a3a0c20471bfe130",
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-23T07:44:19+00:00"
+    },
+    {
+      "id": "f7511684402b8adf536b468965bde3e191bcbea7f129f8e7a17594980c5f4546",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-22T18:45:37+00:00"
+    },
+    {
+      "id": "c75a4d0a4b580d8c62083be492821b5fbfb6759c8984a220ba699007312f6604",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-22T15:43:04+00:00"
+    },
+    {
+      "id": "6d087c898942cc0c2503082abebf929ab7e0d4a3ca4293f9919606c8fd9cc88c",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt",
+      "source": "The Hacker News",
+      "category": "breach",
+      "date": "2026-11-22T05:06:55+00:00"
+    },
+    {
+      "id": "a3c63e958cb92eef3df0aa513c9e2bcc89f1a4d836647a4f3bac9eefc4d8cd48",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the a",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-22T05:03:41+00:00"
+    },
+    {
+      "id": "eb89847b683b3c00f3611f707884872ae23d596563253ea27b7288fd881da669",
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-22T00:53:02+00:00"
+    },
+    {
+      "id": "1fa3870c33e20a339984d0d1b6a03d521147eaf5e299fc67f8c45536e2d0872c",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-21T22:59:58+00:00"
+    },
+    {
+      "id": "cd00c38abb0c60dda61dae2986c6ca6f07137a0c374203ab06fbf07f697dcd14",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-21T18:01:58+00:00"
+    },
+    {
+      "id": "9c3f2473640f00b5e047f57f4171d9e6e875e178ba7ae69bf506c835aadb8c04",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "source": "Bleeping Computer",
+      "category": "malware",
+      "date": "2026-11-21T15:17:27+00:00"
+    },
+    {
+      "id": "6eaabec128466878a46e05aec2130e954e5b081d9426930cc2aab18de7851c14",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-21T14:26:04+00:00"
+    },
     {
       "id": "abda2463cf2255c67299f8df414a29d3085e3e99d7aa268d640d8dbffe65797e",
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
@@ -337,123 +454,6 @@
       "source": "The Record",
       "category": "threat",
       "date": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "id": "ea8cebf5d32bea67ec9b45b3a9488b797cb92985bc8d0d0052450b1cd7b841d3",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T16:59:56+00:00"
-    },
-    {
-      "id": "8e443c2964ac625708f2e93b14283c0905a867afb3a7b4a5912759b6b02e59d3",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-19T16:28:23+00:00"
-    },
-    {
-      "id": "e60ac72e5cb03181a5fdf86e817c5795e53cbda9511019eb572ef7f894767617",
-      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-      "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-      "summary": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-19T15:54:20+00:00"
-    },
-    {
-      "id": "dcfa8134ceac9ad36d391ec751f393f616b6754a914d8ab0001a06e1984a476f",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T15:18:07+00:00"
-    },
-    {
-      "id": "aa1a53ab0b9722f7ec256e46a7bf18df728d4f4ebdf47ce163f6575f6ef83a35",
-      "title": "European Commission confirms cyberattack, says hackers used AI tool",
-      "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
-      "summary": "POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-19T15:15:00+00:00"
-    },
-    {
-      "id": "63edce0941e0edb0a008ee05ffa1dfd8557531a968d9f5798bd55c0b3ce04d88",
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T15:11:06+00:00"
-    },
-    {
-      "id": "eb38241a0eaffa222fca6e705c871d41fcd430c8c121bff935e39b82e2b821e2",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-19T15:00:10+00:00"
-    },
-    {
-      "id": "03c656aa7f6268581691b1b59c240ddb9910cbe11a4249d75b125d40ed49d083",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-      "source": "Bleeping Computer",
-      "category": "threat",
-      "date": "2026-11-19T14:57:24+00:00"
-    },
-    {
-      "id": "88c544823e0d1532883cb2e9c0f75def8cfc5dadfd8ea711fe71a12ab2c316fa",
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T14:33:06+00:00"
-    },
-    {
-      "id": "99484983430e63d2a03ce22cd8a4b31c3003da3934a7b27fc8d1f5722f5a270a",
-      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-      "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-      "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-19T14:17:32+00:00"
-    },
-    {
-      "id": "7229ac60661b35614be5309bda85053f62137232e653297fb49492e6db55f4d1",
-      "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
-      "url": "https://therecord.media/ukraine-ransomware-arrests-cyber",
-      "summary": "Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.",
-      "source": "The Record",
-      "category": "malware",
-      "date": "2026-11-19T13:30:00+00:00"
-    },
-    {
-      "id": "4775b8e7b43cd6478da1d97a3a307f27f845bc6e5e131059872281411e91318f",
-      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-      "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-      "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-19T13:12:20+00:00"
-    },
-    {
-      "id": "9ca9ce7f9de58cb64d6a02093143b03672575191ca107498b1ede7dc2e5c1470",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-19T13:08:08+00:00"
     }
   ]
 }
