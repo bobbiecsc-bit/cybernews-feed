@@ -1,10 +1,82 @@
 {
-  "updated": "2026-11-25T16:44:21.749932+00:00",
+  "updated": "2026-11-26T01:29:59.765507+00:00",
   "page": 5,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "fca3dc2fb77689c74c126f3134f3c8bb6edce29d1c049c2bb1353a2e03b9b0d2",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "source": "Bleeping Computer",
+      "category": "vulnerability",
+      "date": "2026-11-17T23:04:21+00:00"
+    },
+    {
+      "id": "2cac7202a964b936fe17a115c7422d93a838bc2c77b38bd0f7a41cc387feb148",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T21:27:17+00:00"
+    },
+    {
+      "id": "9b6a252f7fb387d05db9ef5fdd08f552d16293848ba9611be04abe4d3f668cf3",
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-17T21:20:00+00:00"
+    },
+    {
+      "id": "b578b4efad12031a1ea352704e6d63fadd415765182ce29dbfa91997ca81befa",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-17T20:51:21+00:00"
+    },
+    {
+      "id": "6bab39afba048d48cb977b3c7ea49658ba95d039105dff5cdeec3fff2f1cde5f",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-17T19:34:20+00:00"
+    },
+    {
+      "id": "194ca0de9405670c953b790bf524acef04d4b454f5a4375401f683a6314961ef",
+      "title": "Kazakh ransomware hacking suspect extradited from Italy",
+      "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+      "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-17T19:09:00+00:00"
+    },
+    {
+      "id": "31fa1641a8c31572ff89419e19f6ca3464c1bb40899b3f1338c3373b3c1bc41e",
+      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+      "summary": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensive frameworks like Artex, CAIRN, CyberStrikeAI and PentAGI to execute multi-stage",
+      "source": "The Record",
+      "category": "threat",
+      "date": "2026-11-17T18:50:00+00:00"
+    },
+    {
+      "id": "9ce3c1f5a36b747a4d96e8d26f6f969600742f9c14cf356231defa2295f274df",
+      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-17T18:16:17+00:00"
+    },
     {
       "id": "6ab6f9140451038c2a4e76d9a6c6936509eb64ff1246688eac8b17627f8ba526",
       "title": "Tor releases emergency update amid ongoing DDoS attack",
@@ -382,78 +454,6 @@
       "source": "The Record",
       "category": "breach",
       "date": "2026-11-16T14:15:00+00:00"
-    },
-    {
-      "id": "2324970e054fe8e07194474c0ba22c5d4761618bc3aa4104e8f057a60961ea48",
-      "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
-      "url": "https://therecord.media/lithuania-customs-agency-cyberattack",
-      "summary": "A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem over the weekend.",
-      "source": "The Record",
-      "category": "breach",
-      "date": "2026-11-16T14:06:00+00:00"
-    },
-    {
-      "id": "9b1f22329875fb27660e03d8651918d2afa23f7fd3d0ef602c95a8bf27352d85",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "source": "Bleeping Computer",
-      "category": "vulnerability",
-      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "id": "a863217f46213f9487e009921451d33ad0304af967cea2283f07b0f2628f99b6",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. I",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T14:00:00+00:00"
-    },
-    {
-      "id": "e021b9febf9ed0b72381678ae1e4f38416a2854947429d039f6506c3c5ee0c2c",
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still p",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T13:27:20+00:00"
-    },
-    {
-      "id": "1742a693aba8e2002103c36211e8a1b8197332d5e77c65bc5d6fdb15ab25b0cc",
-      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33522",
-      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without ",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-16T13:11:04+00:00"
-    },
-    {
-      "id": "934dd532c9883956ec5e420c4f5bcf9a057053bd572a96f320c3fef435274381",
-      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-      "summary": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-16T12:48:03+00:00"
-    },
-    {
-      "id": "a989c64e51ebb71dbd1d9ff22e39b9fd0ee730efd9a714120880524317739baa",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. ",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-16T12:34:21+00:00"
-    },
-    {
-      "id": "c4086de05142b1d96dc6abdf45a86ccca6c3ecb2902b35f2ced2d37e4be178b2",
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kasper",
-      "source": "The Hacker News",
-      "category": "malware",
-      "date": "2026-11-16T12:33:18+00:00"
     }
   ]
 }

@@ -1,10 +1,82 @@
 {
-  "updated": "2026-11-25T16:44:21.749932+00:00",
+  "updated": "2026-11-26T01:29:59.765507+00:00",
   "page": 2,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "87e7fcddba3d52d586faf570fd0da5ced6b9e42907c953db53cdcebef2af0079",
+      "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
+      "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
+      "summary": "McDonald’s Japan disclosed a cybersecurity breach that exposed customers’ purchase histories and mobile device location data.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-24T13:00:00+00:00"
+    },
+    {
+      "id": "88d6d55f0b06ce11ebd6ca5cbacdb3f63a8bbb35535198355b69323ae482a09e",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicio",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-24T12:42:09+00:00"
+    },
+    {
+      "id": "539a1e0fd9e43f1a0940014ebc3adf59dc5eca8015519de194f017bfefa0e0da",
+      "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+      "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+      "summary": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek.",
+      "source": "Security Week",
+      "category": "vulnerability",
+      "date": "2026-11-24T12:20:41+00:00"
+    },
+    {
+      "id": "683351efe72c876857d44feb7723b1f996e319e160fd19833429c3a45106e1f8",
+      "title": "We Get the Infrastructure We Pay For",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "summary": "This essay originally appeared as part of a round table in The Free Press entitled &#8220;Is America’s Infrastructure Under Attack?&#8221; Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace. But, amazing as it might seem, these are not related. ",
+      "source": "Schneier on Security",
+      "category": "threat",
+      "date": "2026-11-24T12:06:50+00:00"
+    },
+    {
+      "id": "372382395c6e6dd9c78dc46ff9de666b4be0fe7f29892254ccb64ffaf997e9e8",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's pro",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-24T12:02:00+00:00"
+    },
+    {
+      "id": "446e0a68acf810671a62145cdf6f86803cf22dfcc00435aa1da5eede33be201e",
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual ",
+      "source": "The Hacker News",
+      "category": "threat",
+      "date": "2026-11-24T12:01:54+00:00"
+    },
+    {
+      "id": "7b6115f8e21f6eecb0f9b31f4c78552ef5403e150d1360c317cc6f603a4fe20e",
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection item",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-24T12:00:00+00:00"
+    },
+    {
+      "id": "3a8ad132bbb8c2a03e0e6a7af9143590c289fa5fb4d20f5ef3b55a66f9c5ea37",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulne",
+      "source": "CISA Alerts",
+      "category": "vulnerability",
+      "date": "2026-11-24T12:00:00+00:00"
+    },
     {
       "id": "3ed1970e74313c87defd62ab34be2d54a605b79fce8f5ba00395b92419fa40ae",
       "title": "AutomationDirect C-More EA9 Programming Software",
@@ -382,78 +454,6 @@
       "source": "Bleeping Computer",
       "category": "breach",
       "date": "2026-11-21T14:26:04+00:00"
-    },
-    {
-      "id": "abda2463cf2255c67299f8df414a29d3085e3e99d7aa268d640d8dbffe65797e",
-      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers&#8217; AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "breach",
-      "date": "2026-11-21T12:08:50+00:00"
-    },
-    {
-      "id": "059e30cfca7341a0e49dcdcb5397bfc10af4e87b6788314fd1b62c6d1344d4d7",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a l",
-      "source": "The Hacker News",
-      "category": "threat",
-      "date": "2026-11-21T11:53:07+00:00"
-    },
-    {
-      "id": "3b426a1ae4872b68d25bbba331a65da5910e737396686526cdd4f211ec3c5161",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The b",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-21T11:05:53+00:00"
-    },
-    {
-      "id": "31de93106fde76af067132c2074f35816b81b1994667613fd946e222261ea799",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-21T11:03:17+00:00"
-    },
-    {
-      "id": "552b60cb29a0722aae4ac33a120683a38e43ab0877860e0b1d05f566e283f830",
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-21T08:49:13+00:00"
-    },
-    {
-      "id": "5896797fd3159e6ec9f78c44b68499b3777c3e2721cb4c67c2f3f817d8145c56",
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers ",
-      "source": "Krebs on Security",
-      "category": "malware",
-      "date": "2026-11-21T00:36:39+00:00"
-    },
-    {
-      "id": "c328feeee111985a00f219ac1b885bab76cc18286cfa1c48c236f67430c55d45",
-      "title": "Container Store restores systems after cyberattack",
-      "url": "https://therecord.media/container-store-restores-systems-cyberattack",
-      "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-20T19:32:00+00:00"
-    },
-    {
-      "id": "a1277bddeebe52e04d12e6a8f046995e1b409f8a97e3ac46581d8761e5d17b72",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-      "source": "Bleeping Computer",
-      "category": "breach",
-      "date": "2026-11-20T18:51:43+00:00"
     }
   ]
 }
