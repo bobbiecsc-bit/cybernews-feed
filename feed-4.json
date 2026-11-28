@@ -1,10 +1,55 @@
 {
-  "updated": "2026-11-27T16:04:26.576890+00:00",
+  "updated": "2026-11-28T01:01:28.031455+00:00",
   "page": 4,
   "total_pages": 5,
   "total_articles": 250,
   "page_size": 50,
   "articles": [
+    {
+      "id": "c3a9fb72b6dce4b4d92c93bc734efc1c58c13b55800a254807791e11e827b994",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-20T15:58:06+00:00"
+    },
+    {
+      "id": "48c95c8f0331419e4b6c55e91df5cc686f2cd5e248eb5f399f541835dd3023e7",
+      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit a",
+      "source": "Security Week",
+      "category": "breach",
+      "date": "2026-11-20T14:56:23+00:00"
+    },
+    {
+      "id": "f97364a67202f6348dde230e69e7cd10f58382fc1ac51f0501b24010ba39b373",
+      "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
+      "url": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
+      "summary": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.",
+      "source": "The Record",
+      "category": "breach",
+      "date": "2026-11-20T14:24:00+00:00"
+    },
+    {
+      "id": "63176744cc4b38aa2228749003f8879715bafc181b40c23bcbb2a55577ff1553",
+      "title": "N-able says recent security breach led to major service outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "source": "Bleeping Computer",
+      "category": "breach",
+      "date": "2026-11-20T13:18:36+00:00"
+    },
+    {
+      "id": "c7b209f2aed89407eb0e30e59fe706dfcf15164ad089b4177ac11b5e2ba6ddd0",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affe",
+      "source": "The Hacker News",
+      "category": "vulnerability",
+      "date": "2026-11-20T12:20:00+00:00"
+    },
     {
       "id": "b22eec5809ce5c9c44d601fce758d1417e7edfb601127ec625d0d36915b3fc64",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -409,51 +454,6 @@
       "source": "The Hacker News",
       "category": "vulnerability",
       "date": "2026-11-19T08:00:00+00:00"
-    },
-    {
-      "id": "1999227482dc4822f8c9b65f7cace751e9aa47db99f2ad54aba980d8de1ef3c0",
-      "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-      "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-      "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek.",
-      "source": "Security Week",
-      "category": "vulnerability",
-      "date": "2026-11-19T07:45:17+00:00"
-    },
-    {
-      "id": "75b5f95941280ec24fc1cc156dcc25c290b29bbe238a86037e0e0b33dbb9fb27",
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and wi",
-      "source": "The Hacker News",
-      "category": "vulnerability",
-      "date": "2026-11-19T04:33:46+00:00"
-    },
-    {
-      "id": "206b28d80b986d44e026cdafb1e29702d83d85045fd8c7cbba068a3643c708ff",
-      "title": "Russian charged with spying on Palantir employees for Moscow",
-      "url": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
-      "summary": "Igor Andreevich D’iu, A Russian national recruited through Telegram, has been charged in the United States with acting as a Moscow agent in a surveillance campaign targeting employees of a defense technology company, understood to be Palantir Technologies.",
-      "source": "The Record",
-      "category": "threat",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "98624c3d23ee283ff3bce8bec3aff2dc8f7577fdd376b089052eb9da7a1bda6c",
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-      "source": "Bleeping Computer",
-      "category": "malware",
-      "date": "2026-11-18T23:08:33+00:00"
-    },
-    {
-      "id": "fb98039a3f6f8d214bf4d643bbfa932c6babbfe34d72a4576c9175425fbe3830",
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an In",
-      "source": "SANS ISC",
-      "category": "vulnerability",
-      "date": "2026-11-18T19:54:50+00:00"
     }
   ]
 }
